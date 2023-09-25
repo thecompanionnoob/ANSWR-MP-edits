@@ -1,0 +1,107 @@
+political_decisions = {
+        Suiza_occ  = {
+        picture = british_propaganda
+        potential = {
+            OR = {                
+                tag = SWI
+                
+                                
+            }
+            NOT = {has_global_flag = Suiza}	
+            NOT = {has_global_flag = Suiza_ita}				
+        }
+
+        allow = {         
+            war = no           
+	    CAT = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+	    OCC = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        ROU = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+	    AUV = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           BSQ = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }    
+        }
+		
+        
+
+        effect = {                
+            prestige = 25         
+            CAT = {
+				all_core = { add_core = SWI }
+			}
+            BSQ = {
+				all_core = { add_core = SWI }
+			}
+            OCC = {
+				all_core = { add_core = SWI }
+			}
+			ROU = {
+				all_core = { add_core = SWI }
+			}
+			AUV = {
+				all_core = { add_core = SWI }
+			}
+            inherit = CAT
+            inherit = BSQ   
+            inherit = OCC
+            inherit = ROU
+            inherit = AUV			
+            add_accepted_culture = basque
+            add_accepted_culture = catalan
+			add_accepted_culture = occitan
+            set_global_flag= Suiza_ita
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

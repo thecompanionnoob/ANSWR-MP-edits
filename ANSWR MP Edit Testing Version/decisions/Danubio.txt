@@ -1,0 +1,79 @@
+political_decisions = {
+        Danubioo  = {
+        picture = propose_danube_federation
+        potential = {
+            OR = {                
+                tag = HUN              
+            }            
+            has_global_flag = Hungria	
+        }
+
+        allow = {         
+            war = no           
+            HUN = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            AUS = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           SER = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           
+        }
+		
+        
+
+        effect = {                
+            prestige = 10
+            change_tag = DNB
+           
+            HUN = {
+				all_core = { add_core = DNB }
+			}
+            AUS = {
+				all_core = { add_core = DNB }
+			}
+           SER = {
+				all_core = { add_core = DNB }
+			}
+            
+            inherit = HUN
+            inherit = AUS
+            inherit = SER    
+            add_accepted_culture = serb
+            add_accepted_culture = austro_german
+            add_accepted_culture = slovene
+            add_accepted_culture = romanian
+            add_accepted_culture = czech
+            add_accepted_culture = slovak
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

@@ -1,0 +1,117 @@
+political_decisions = {
+        China  = {
+        picture = form_china
+        potential = {
+            OR = {                
+                tag = HUI
+                tag = HNN
+                tag = HEI 
+                tag = GXI
+                tag = SXI 
+                tag = HUI 
+                tag = RYU   
+                tag = GMJ   
+                tag = XIR 
+                tag = JUC 
+                tag = SZC 
+                tag = WYS
+                tag = GNG 
+                tag = CHA 
+                tag = YNN 
+            }
+            NOT = { exists = CHI }
+			
+        }
+
+        allow = {         
+            war = no   
+           CHI = {
+		all_core = {
+			OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}               
+           
+        }
+		
+        
+
+        effect = {                
+            prestige = 10
+            change_tag = CHI           
+            HNN = {
+				all_core = { add_core = CHI }
+			}
+            GMJ = {
+				all_core = { add_core = CHI }
+			}
+            HEI = {
+				all_core = { add_core = CHI }
+			}
+            GXI = {
+				all_core = { add_core = CHI }
+			}
+            SXI = {
+				all_core = { add_core = CHI }
+			}
+            RYU = {
+				all_core = { add_core = CHI }
+			}
+            HUI = {
+				all_core = { add_core = CHI }
+			}
+            HNN = {
+				all_core = { add_core = CHI }
+			}
+            GMJ = {
+				all_core = { add_core = CHI }
+			}
+            XIR = {
+				all_core = { add_core = CHI }
+			}
+            JUC = {
+				all_core = { add_core = CHI }
+			}
+            SZC = {
+				all_core = { add_core = CHI }
+			}
+            WYS = {
+				all_core = { add_core = CHI }
+			}
+            GNG = {
+				all_core = { add_core = CHI }
+			}
+            CHA = {
+				all_core = { add_core = CHI }
+			}
+            YNN = {
+				all_core = { add_core = CHI }
+			}
+            inherit = MGL
+            inherit = HNN          
+            inherit = HEI 
+            inherit = GXI
+            inherit = HUI
+            inherit = SXI
+            inherit = RYU
+            inherit = GMJ
+            inherit = XIR 
+            inherit = JUC 
+            inherit = SZC 
+            inherit = WYS
+            inherit = GNG 
+            inherit = CHA 
+            inherit = YNN 
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

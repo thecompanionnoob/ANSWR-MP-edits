@@ -1,0 +1,58 @@
+political_decisions = {
+        Plata  = {
+        picture = unite_la_plata
+        potential = {
+            OR = {                
+                tag = RLP
+                
+                                
+            }
+            NOT = {has_global_flag = Plata}
+			
+        }
+
+        allow = {         
+            war = no           
+            SJR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+             RLP = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            prestige = 15          
+            change_tag = LPL
+            inherit = SJR
+            SJR = {
+				all_core = { add_core = LPL }
+			}
+            RLP = {
+				all_core = { add_core = LPL }
+			}
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

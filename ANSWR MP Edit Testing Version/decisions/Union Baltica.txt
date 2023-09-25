@@ -1,0 +1,78 @@
+political_decisions = {
+        form_baltic_states  = {
+        picture = form_baltic_states
+        potential = {
+            OR = {                
+                tag = IZH
+                tag = EST
+                                
+            }
+            NOT = { exists = UBD }
+			
+        }
+
+        allow = {         
+            war = no           
+            LIT = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            IZH = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            EST = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            prestige = 10
+            change_tag = UBD
+
+            LIT = {
+				all_core = { add_core = UBD }
+			}
+            IZH = {
+				all_core = { add_core = UBD }
+			}
+            EST = {
+				all_core = { add_core = UBD }
+			}
+            inherit = LIT
+            inherit = IZH    
+            inherit = EST      
+            add_accepted_culture = paltijan
+            add_accepted_culture = tesredinikh
+            add_accepted_culture = osti
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

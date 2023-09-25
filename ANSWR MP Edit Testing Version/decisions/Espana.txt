@@ -1,0 +1,134 @@
+political_decisions = {
+        spanish_restoration  = {
+        picture = spanish_restoration
+        potential = {
+            OR = {                
+                tag = LIR
+                
+                                
+            }
+            NOT = { exists = SPA }
+			
+        }
+
+        allow = {         
+            war = no           
+            DAL = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           LIR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }            
+           CLV = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+           DMN = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }   
+           CAT = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }   
+           BSQ = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }  
+        }
+		
+        
+
+        effect = {                
+            prestige = 30
+            change_tag = SPA
+            
+            DAL = {
+				all_core = { add_core = SPA }
+			}
+            CLV = {
+				all_core = { add_core = SPA }
+			}
+            DMN = {
+				all_core = { add_core = SPA }
+			}
+            
+            LIR = {
+				all_core = { add_core = SPA }
+			}
+            CAT = {
+				all_core = { add_core = SPA }
+			}
+            BSQ = {
+				all_core = { add_core = SPA }
+			}
+            inherit = DAL
+            inherit = CLV 
+            inherit = DMN
+            inherit = ARN
+            inherit = LIR  
+            inherit = CAT
+            inherit = BSQ        
+            518 = {
+				remove_core = SPA
+			}
+            519 = {
+				remove_core = SPA
+			}
+            520 = {
+				remove_core = SPA
+			}
+            add_accepted_culture = basque
+            add_accepted_culture = spanish
+            add_accepted_culture = catalan
+            capital = 487
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

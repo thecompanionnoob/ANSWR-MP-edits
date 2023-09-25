@@ -1,0 +1,71 @@
+political_decisions = {
+        Qing  = {
+        picture = form_china
+        potential = {
+            OR = {                
+                tag = MCK
+                
+                                
+            }
+            NOT = { exists = QHI }
+			
+        }
+
+        allow = {         
+            war = no           
+            QHI = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+						
+					}
+				}
+			}
+           
+               
+        }
+		
+        
+
+        effect = {                
+            prestige = 10
+            change_tag = QHI           
+            MGL = {
+				all_core = { add_core = QHI }
+			}
+            HNN = {
+				all_core = { add_core = QHI }
+			}
+            HEI = {
+				all_core = { add_core = QHI }
+			}
+            GXI = {
+				all_core = { add_core = QHI }
+			}
+            SXI = {
+				all_core = { add_core = QHI }
+			}
+            RYU = {
+				all_core = { add_core = QHI }
+			}
+            HUI = {
+				all_core = { add_core = QHI }
+			}
+            inherit = MGL
+            inherit = HNN          
+            inherit = HEI 
+            inherit = GXI
+            inherit = HUI
+            inherit = SXI
+            inherit = RYU
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

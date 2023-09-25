@@ -1,0 +1,128 @@
+political_decisions = {
+        Dio_King  = {
+        picture = kingdom_of_god
+        potential = {
+            OR = {                
+                tag = PAP
+                
+                                
+            }
+            NOT = { exists = DIO }
+            		
+        }
+
+        allow = {         
+            war = no                       
+	    PAP = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            APU = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+             TUS = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            PAR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = DIO       
+            SIC = {
+				all_core = { add_core = DIO }
+			}
+            APU = {
+				all_core = { add_core = DIO }
+			}
+            TUS = {
+				all_core = { add_core = DIO }
+			}
+            PAR = {
+				all_core = { add_core = DIO }
+			}
+            inherit = SIC
+            inherit = APU
+            inherit = TUS
+            inherit = PAR
+            add_accepted_culture = north_italian
+            add_accepted_culture = south_italian
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Dio_King_2  = {
+        picture = kingdom_of_god
+		
+        potential = {
+            OR = {                
+                tag = DIO
+                
+                                
+            }
+            NOT={has_global_flag = Dio_1}
+            		
+        }
+		
+        
+		
+        allow = {         
+            war = no        
+                        
+        }
+		
+        
+
+        effect = {  
+            set_global_flag = Dio_1		
+            badboy = 15
+            any_country = {
+    limit = {
+         has_country_flag = catholic_country
+     }
+     country_event = { id = 851089 days = 2 }
+}
+            
+     
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

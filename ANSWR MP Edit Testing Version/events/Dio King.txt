@@ -1,0 +1,29 @@
+country_event = {
+    id = 851089
+    title = "EVTNAME851089"
+    desc = "EVTDESC851089"
+    picture = asian_administration
+    fire_only_once = yes
+
+    trigger = {
+        tag = XXX
+    }
+  
+    
+
+    option = {
+        name = "EVTOPTA851089"
+        prestige = 15
+        THIS = {
+				all_core = { add_core = DIO }
+			}
+        
+        
+        
+    }
+       		      
+}
+
+  
+              
+       

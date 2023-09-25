@@ -1,0 +1,5 @@
+owner = SZC
+controller = SZC
+add_core = SZC
+trade_goods = cattle
+life_rating = 32

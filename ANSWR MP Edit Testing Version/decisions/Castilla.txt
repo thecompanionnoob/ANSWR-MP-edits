@@ -1,0 +1,117 @@
+political_decisions = {
+        Castilla  = {
+        picture = Castilla
+        potential = {
+            OR = {                
+                tag = DAL
+                tag = DMN
+                tag = CLV
+                                
+            }
+            NOT = { exists = CST }
+			
+        }
+
+        allow = {         
+            war = no           
+            DAL = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           LIR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }  
+           POR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }  
+           CLV = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+           DMN = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }   
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = CST
+            
+            DAL = {
+				all_core = { add_core = CST }
+			}
+            CLV = {
+				all_core = { add_core = CST }
+			}
+            DMN = {
+				all_core = { add_core = CST }
+			}
+            POR = {
+				all_core = { add_core = CST }
+			}
+            LIR = {
+				all_core = { add_core = CST }
+			}
+            inherit = DAL
+            inherit = CLV 
+            inherit = DMN
+            inherit = POR
+            inherit = LIR          
+            497 = {
+				remove_core = CST
+			}
+            503 = {
+				remove_core = CST
+			}
+            504 = {
+				remove_core = CST
+			}
+            505 = {
+				remove_core = CST
+			} 
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

@@ -1,0 +1,62 @@
+political_decisions = {
+        Qingg  = {
+        picture = form_china
+        potential = {
+            OR = {                
+                tag = MCK
+                tag = BUL
+                tag = SYC 
+                tag = DAL
+                tag = DMN
+                tag = CLV 
+                tag = HNN
+                tag = HEI 
+                tag = GXI
+                tag = SXI 
+                tag = HUI 
+                tag = RYU   
+                tag = GMJ                     
+            }
+            NOT = {has_global_flag = qing}
+			
+        }
+
+        allow = {         
+            war = no           
+            
+           
+               
+        }
+		
+        
+
+        effect = { 
+            set_global_flag= qing                                     
+            MGL = {
+				all_core = { add_core = QHI }
+			}
+            HNN = {
+				all_core = { add_core = QHI }
+			}
+            HEI = {
+				all_core = { add_core = QHI }
+			}
+            GXI = {
+				all_core = { add_core = QHI }
+			}
+            SXI = {
+				all_core = { add_core = QHI }
+			}
+            RYU = {
+				all_core = { add_core = QHI }
+			}
+            HUI = {
+				all_core = { add_core = QHI }
+			}
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

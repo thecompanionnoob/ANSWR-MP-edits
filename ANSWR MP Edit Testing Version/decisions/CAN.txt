@@ -1,0 +1,80 @@
+political_decisions = {
+        Canadaa	  = {
+        picture = sign_the_geneva_convention
+        potential = {
+            OR = {                
+                tag = QUE
+                tag = ONT
+                tag = WNN          
+            }
+            NOT = { exists = CAN }
+			
+        }
+
+        allow = {         
+            war = no          
+            QUE = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           ONT = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           WNN = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           
+           
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = CAN  
+            QUE = {
+				all_core = { add_core = CAN }
+			}
+            ONT = {
+				all_core = { add_core = CAN }
+			}
+            WNN = {
+				all_core = { add_core = CAN }
+			}
+            
+            inherit = QUE
+            inherit = ONT
+            inherit = WNN      
+            add_accepted_culture = anglo_canadian
+	    add_accepted_culture = french_canadian
+            add_accepted_culture = canuck
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

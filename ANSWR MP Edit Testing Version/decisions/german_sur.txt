@@ -1,0 +1,75 @@
+political_decisions = {
+        ger_sur  = {
+        picture = austrian_form_south_german_confederation
+        potential = {
+            OR = {                
+                tag = BAV
+                tag = ULM
+                tag = BAD
+                                
+            }
+            NOT = { exists = SGF }
+			
+        }
+
+        allow = {         
+            war = no           
+            BAV = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           ULM = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+            BAD = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }      
+        }
+		
+        
+
+        effect = {                
+            prestige = 10
+            change_tag = SGF
+            
+            ULM = {
+				all_core = { add_core = SGF }
+			}
+            BAD = {
+				all_core = { add_core = SGF }
+			}
+            
+            inherit = ULM
+            inherit = BAD          
+            add_accepted_culture = rhine_german
+            
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

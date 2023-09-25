@@ -1,0 +1,95 @@
+political_decisions = {
+        Hispania  = {
+        picture = spanish_restoration
+        potential = {
+            OR = {                
+                
+                tag = CST
+                                
+            }
+            NOT = { exists = HIS }
+			
+        }
+
+        allow = {         
+            war = no           
+            CST = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }   
+           CAT = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }   
+           BSQ = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }  
+        }
+		
+        
+
+        effect = {                
+            prestige = 30
+            change_tag = HIS
+            
+            DAL = {
+				all_core = { add_core = HIS }
+			}
+            CLV = {
+				all_core = { add_core = HIS }
+			}
+            DMN = {
+				all_core = { add_core = HIS }
+			}
+            POR = {
+				all_core = { add_core = HIS }
+			}
+            LIR = {
+				all_core = { add_core = HIS }
+			}
+            CAT = {
+				all_core = { add_core = HIS }
+			}
+            BSQ = {
+				all_core = { add_core = HIS }
+			}
+            inherit = DAL
+            inherit = CLV 
+            inherit = DMN
+            inherit = POR
+            inherit = LIR  
+            inherit = ARN
+            inherit = CAT
+            inherit = BSQ        
+            add_accepted_culture = basque
+            add_accepted_culture = spanish
+            add_accepted_culture = catalan
+            add_accepted_culture = portuguese
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

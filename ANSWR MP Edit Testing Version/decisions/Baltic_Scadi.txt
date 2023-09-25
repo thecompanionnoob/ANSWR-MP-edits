@@ -1,0 +1,99 @@
+political_decisions = {
+        Baltic_Sca = {
+        picture = form_scandinavia
+        potential = {
+            OR = {                
+                tag = SCA                            
+            }
+            NOT = { exists = BLT }
+			
+        }
+
+        allow = {         
+            war = no          
+            LIT = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            IZH = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            EST = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = BLT
+            LIT = {
+				all_core = { add_core = BLT }
+			}
+            IZH = {
+				all_core = { add_core = BLT }
+			}
+            EST = {
+				all_core = { add_core = BLT }
+			}                       
+            inherit = LIT
+            inherit = IZH    
+            inherit = EST      
+            add_accepted_culture = paltijan
+            add_accepted_culture = tesredinikh
+            add_accepted_culture = osti
+            697 = { add_core = BLT }
+            695 = { add_core = BLT }
+            694 = { add_core = BLT }
+            691 = { add_core = BLT }
+            690 = { add_core = BLT }
+            680 = { add_core = BLT }
+            679 = { add_core = BLT }
+            546 = { add_core = BLT }
+            550 = { add_core = BLT }
+            545 = { add_core = BLT }
+            547 = { add_core = BLT }
+            548 = { add_core = BLT }
+            546 = { add_core = BLT }
+            529 = { add_core = BLT }
+            544 = { add_core = BLT }
+            530 = { add_core = BLT }
+            528 = { add_core = BLT }
+            369 = { add_core = BLT }
+            370 = { add_core = BLT }
+            371 = { add_core = BLT }
+            366 = { add_core = BLT }
+            2557 = { add_core = BLT }
+            367 = { add_core = BLT }
+            348 = { add_core = BLT }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

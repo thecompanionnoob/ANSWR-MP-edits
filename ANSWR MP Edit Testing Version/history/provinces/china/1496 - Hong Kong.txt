@@ -1,0 +1,6 @@
+owner = ALN
+controller = ALN
+add_core = ALN
+trade_goods = tea
+life_rating = 35
+terrain = urban

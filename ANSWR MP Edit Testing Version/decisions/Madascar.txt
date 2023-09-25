@@ -1,0 +1,47 @@
+political_decisions = {
+        Madascar  = {
+        picture = Czechoslovakia
+        potential = {
+            OR = {                
+                tag = NAL
+                tag = XHO
+                tag = SHO                
+            }
+            NOT = { exists = MAD }
+			
+        }
+
+        allow = {         
+            war = no           
+            MAD = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }        
+        }
+		
+        
+
+        effect = {                
+            add_accepted_culture = malagasy
+            add_accepted_culture = filayen
+            prestige = 15
+            change_tag = MAD
+            inherit = NAL
+            inherit = XHO
+            inherit = SHO
+            
+            
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

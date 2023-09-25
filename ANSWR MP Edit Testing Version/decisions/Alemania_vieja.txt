@@ -1,0 +1,201 @@
+political_decisions = {
+        Alemania  = {
+        picture = appoint_von_bismarck
+        potential = {
+            OR = {                
+                tag = BRI    
+                tag = SGF 
+                tag = PRU   
+                tag = NGF				
+            }
+            NOT = { exists = GER }
+			
+        }
+
+        allow = {         
+            war = no  
+            BRI = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           SAX = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            WEI = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           BAV = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           RHI = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+          BAD = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+          ULM = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+          VLA = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }	
+           MEC = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           WES = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }  
+        }
+		
+        
+
+        effect = {                
+            prestige = 30
+            change_tag = GER
+            SAX = {
+				all_core = { add_core = GER }
+			}
+            WEI = {
+				all_core = { add_core = GER }
+			}
+            BAV = {
+				all_core = { add_core = GER }
+			}
+            RHI = {
+				all_core = { add_core = GER }
+			}
+            BAD = {
+				all_core = { add_core = GER }
+			}
+            ULM = {
+				all_core = { add_core = GER }
+			}
+            VLA = {
+				all_core = { add_core = GER }
+			}
+            WES = {
+				all_core = { add_core = GER }
+			}
+            MEC = {
+				all_core = { add_core = GER }
+			}
+            371 = {
+				remove_core = GER
+			}
+            2557 = {
+				remove_core = GER
+			}
+            367 = {
+				remove_core = GER
+			}
+            366 = {
+				remove_core = GER
+			}
+            348 = {
+				remove_core = GER
+			}
+            inherit = SAX
+            inherit = WEI
+            inherit = BAV
+            inherit = RHI
+            inherit = BAD
+            inherit = ULM
+            inherit = VLA
+            inherit = WES
+            inherit = MEC
+            add_accepted_culture = north_german
+            add_accepted_culture = south_german
+            add_accepted_culture = flanish  
+            add_accepted_culture = rhine_german
+			any_country = {
+                THIS = {
+				all_core = { remove_core = OUD }
+			}
+			remove_country_modifier = oudrijk_prince
+			remove_country_modifier = oudrijk_oppostion
+            }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

@@ -1,0 +1,5 @@
+owner = WNN
+controller = WNN
+add_core = WNN
+trade_goods = grain
+life_rating = 31

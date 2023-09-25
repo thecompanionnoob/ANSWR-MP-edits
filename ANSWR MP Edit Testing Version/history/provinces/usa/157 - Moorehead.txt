@@ -1,0 +1,5 @@
+owner = WNN
+controller = WNN
+add_core = WNN
+trade_goods = timber
+life_rating = 33

@@ -1,0 +1,149 @@
+political_decisions = {
+        bulgaria  = {
+        picture = Bulgaria
+        potential = {
+            OR = {                
+                tag = BUL
+                tag = SYC               
+            }
+            NOT = { exists = BUE }
+			
+        }
+
+        allow = {         
+            war = no          
+            JAM = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           SYC = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           MON = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+
+           ALB = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           NSR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+           IST = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+	         }
+           BUL = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           TUR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = BUE
+            JAM = {
+				all_core = { add_core = BUE }
+			}
+            NSR = {
+				all_core = { add_core = BUE }
+			}
+            
+            BUL = {
+				all_core = { add_core = BUE }
+			}
+            
+            SYC = {
+				all_core = { add_core = BUE }
+			}
+            ALB = {
+				all_core = { add_core = BUE }
+			}
+            MON = {
+				all_core = { add_core = BUE }
+			}
+            IST = {
+				all_core = { add_core = BUE }
+			}
+
+            inherit = MON
+            inherit = ALB
+            inherit = IST
+            inherit = SYC 
+            inherit = BUL      
+            inherit = JAM
+            inherit = NSR 
+            add_accepted_culture = bulgarian
+            add_accepted_culture = westturkish
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

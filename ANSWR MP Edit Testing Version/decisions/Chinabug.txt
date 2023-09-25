@@ -1,0 +1,93 @@
+political_decisions = {
+        Chinaa  = {
+        picture = form_china
+        potential = {
+            OR = {                
+                tag = HUI
+                tag = HNN
+                tag = HEI 
+                tag = GXI
+                tag = SXI 
+                tag = HUI 
+                tag = RYU   
+                tag = GMJ   
+                tag = XIR 
+                tag = JUC 
+                tag = SZC 
+                tag = WYS
+                tag = GNG 
+                tag = CHA 
+                tag = YNN 
+            }
+            NOT = {has_global_flag = china}
+			
+        }
+
+        allow = {         
+            war = no   
+                         
+           
+        }
+		
+        
+
+        effect = {                
+            set_global_flag= china 
+            HUI = {
+				all_core = { add_core = CHI }
+			}      
+            HNN = {
+				all_core = { add_core = CHI }
+			}
+            GMJ = {
+				all_core = { add_core = CHI }
+			}
+            HEI = {
+				all_core = { add_core = CHI }
+			}
+            GXI = {
+				all_core = { add_core = CHI }
+			}
+            SXI = {
+				all_core = { add_core = CHI }
+			}
+            RYU = {
+				all_core = { add_core = CHI }
+			}
+            HUI = {
+				all_core = { add_core = CHI }
+			}
+            HNN = {
+				all_core = { add_core = CHI }
+			}
+            GMJ = {
+				all_core = { add_core = CHI }
+			}
+            XIR = {
+				all_core = { add_core = CHI }
+			}
+            JUC = {
+				all_core = { add_core = CHI }
+			}
+            SZC = {
+				all_core = { add_core = CHI }
+			}
+            WYS = {
+				all_core = { add_core = CHI }
+			}
+            GNG = {
+				all_core = { add_core = CHI }
+			}
+            CHA = {
+				all_core = { add_core = CHI }
+			}
+            YNN = {
+				all_core = { add_core = CHI }
+			}
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

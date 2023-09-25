@@ -1,0 +1,61 @@
+political_decisions = {
+        Boliviaa  = {
+        picture = government_decisions
+        potential = {
+            OR = {                
+                tag = BWK
+                
+                                
+            }
+            NOT = {has_global_flag = BOL}	
+        }
+
+        allow = {         
+            war = no           
+            CSK = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+             BWK = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }     
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            set_global_flag = BOL
+            government = absolute_monarchy
+            change_tag = INC
+            CSK = {
+				all_core = { add_core = BWK }
+			}
+
+            
+            inherit = CSK
+            inherit = BWK           
+            add_accepted_culture = pacinian
+            add_accepted_culture = aimara
+            add_accepted_culture = quechua
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

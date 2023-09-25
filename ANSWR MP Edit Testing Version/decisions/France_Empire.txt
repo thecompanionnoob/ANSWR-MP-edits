@@ -1,0 +1,72 @@
+political_decisions = {
+        Fra_Emp  = {
+        picture = war_propaganda_france
+        potential = {
+            OR = {                
+                tag = FRE
+                
+                                
+            }
+            NOT = { exists = FRA }
+			
+        }
+
+        allow = {         
+            war = no           
+            FRE = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+			NET = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           CAT = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }     
+        }
+		
+        
+
+        effect = {                
+            prestige = 10
+            change_tag = FRA         
+            CAT = {
+				all_core = { add_core = FRA }
+			}
+            NET = {
+				all_core = { add_core = FRA }
+			}    
+            inherit = CAT 
+            inherit = FRA			
+            add_accepted_culture = catalan
+            add_accepted_culture = dutch
+            add_accepted_culture = flemish
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

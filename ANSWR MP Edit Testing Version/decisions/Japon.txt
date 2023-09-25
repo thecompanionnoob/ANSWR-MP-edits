@@ -1,0 +1,77 @@
+political_decisions = {
+        Japon  = {
+        picture = japan
+        potential = {
+            OR = {                
+                tag = NIH
+                tag = JIY
+                tag = EZO
+                                
+            }
+            NOT = { exists = JAP }
+			
+        }
+
+        allow = {         
+            war = no           
+            NIH = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           JIY = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            EZO = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }     
+        }
+		
+        
+
+        effect = {                
+            prestige = 30
+            change_tag = JAP
+            NIH = {
+				all_core = { add_core = JAP }
+			}
+            JIY = {
+				all_core = { add_core = JAP }
+			}
+            EZO = {
+				all_core = { add_core = JAP }
+			}
+            inherit = NIH
+            inherit = JIY
+            inherit = EZO          
+            add_accepted_culture = japanese 
+            add_accepted_culture = ainu
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

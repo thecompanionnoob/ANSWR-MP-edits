@@ -1,0 +1,101 @@
+political_decisions = {
+        Ruthenia  = {
+        picture = ruthenia
+        potential = {
+            OR = {     
+                tag = ZKY           
+                tag = UKR                
+            }
+            NOT = { exists = RUT }
+			
+        }
+
+        allow = {         
+            war = no            
+            POL = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                            owner = {
+                            in_sphere = THIS
+                        }
+                    }
+                }
+            }
+           UKR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                            owner = {
+                            in_sphere = THIS
+                        }
+                    }
+                }
+            }
+            
+        BYE = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                            owner = {
+                            in_sphere = THIS
+                        }
+                    }
+                }
+            }
+          CRI = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                            owner = {
+                            in_sphere = THIS
+                        }
+                    }
+                }
+            }	 
+          ZKY = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                            owner = {
+                            in_sphere = THIS
+                        }
+                    }
+                }
+            }	 	  
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = RUT
+            POL = {
+				all_core = { add_core = RUT }
+			}
+            
+            BYE = {
+				all_core = { add_core = RUT }
+			}
+            UKR = {
+				all_core = { add_core = RUT }
+			}
+            CRI = {
+				all_core = { add_core = RUT }
+			}
+            ZKY = {
+				all_core = { add_core = RUT }
+			}
+            inherit = POL
+            inherit = BYE
+            inherit = UKR
+            inherit = CRI
+            inherit = ZKY
+            add_accepted_culture = krymskiy
+            add_accepted_culture = polish
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

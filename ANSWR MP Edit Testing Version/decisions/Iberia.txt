@@ -1,0 +1,139 @@
+political_decisions = {
+        create_iberia  = {
+        picture = create_iberia
+        potential = {
+            OR = {                
+                tag = POR
+                tag = SPA
+                                
+            }
+            NOT = { exists = IBR }
+			
+        }
+
+        allow = {         
+            war = no           
+            DAL = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           LIR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }  
+           POR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }  
+           CLV = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+           DMN = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }   
+           CAT = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }   
+           BSQ = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }  
+        }
+		
+        
+
+        effect = {                
+            prestige = 30
+            change_tag = IBR
+            
+            DAL = {
+				all_core = { add_core = IBR }
+			}
+            CLV = {
+				all_core = { add_core = IBR }
+			}
+            DMN = {
+				all_core = { add_core = IBR }
+			}
+            POR = {
+				all_core = { add_core = IBR }
+			}
+            LIR = {
+				all_core = { add_core = IBR }
+			}
+            CAT = {
+				all_core = { add_core = IBR }
+			}
+            BSQ = {
+				all_core = { add_core = IBR }
+			}
+            inherit = DAL
+            inherit = CLV 
+            inherit = DMN
+            inherit = POR
+            inherit = LIR  
+            inherit = ARN
+            inherit = CAT
+            inherit = BSQ        
+            add_accepted_culture = basque
+            add_accepted_culture = spanish
+            add_accepted_culture = catalan
+            add_accepted_culture = portuguese
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

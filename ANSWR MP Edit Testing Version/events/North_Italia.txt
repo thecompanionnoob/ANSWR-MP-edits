@@ -1,0 +1,40 @@
+country_event = {
+    id = 851081
+    title = "EVTNAME851081"
+    desc = "EVTDESC851081"
+    picture = asian_administration
+    fire_only_once = yes
+
+    trigger = {
+        tag = XXX
+    }
+  
+    
+
+    option = {
+        name = "EVTOPTA851081"
+        prestige = 15
+        
+        
+        
+        
+    }
+    
+
+
+    option = {
+        name = "EVTOPTB851081"            
+        724 = { secede_province = ITN }
+			725 = { secede_province = ITN }
+			723 = { secede_province = ITN }
+			720 = { secede_province = ITN }
+			724 = { remove_core = SWI }
+			725 = { remove_core = SWI }
+			723 = { remove_core = SWI }
+			720 = { remove_core = SWI }
+        add_accepted_culture = provencal
+}
+
+  
+              
+       

@@ -1,0 +1,43 @@
+political_decisions = {
+        Acceptar_croasia  = {
+        picture = central_oudrijk
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+            NOT={has_global_flag = Croasia}
+			
+        }
+
+        allow = {         
+            war = no           
+            AUS = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            state_n_government = 1 
+        }
+		
+        
+
+        effect = {                
+            prestige = 15    
+            set_global_flag = Croasia		
+            CRO = {
+				all_core = { add_core = OUD }
+			}         
+            add_accepted_culture = croat
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

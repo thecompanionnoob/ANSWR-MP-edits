@@ -1,0 +1,132 @@
+political_decisions = {
+        albania	  = {
+        picture = albania
+        potential = {
+            OR = {                
+                tag = ALB
+                                
+            }
+            NOT = { exists = ALE }
+			
+        }
+
+        allow = {         
+            war = no          
+            JAM = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           SYC = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           MON = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+
+           ALB = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           NSR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           BUL = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           TUR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = ALE    
+            JAM = {
+				all_core = { add_core = ALE }
+			}
+            NSR = {
+				all_core = { add_core = ALE }
+			}
+            
+            BUL = {
+				all_core = { add_core = ALE }
+			}
+            
+            SYC = {
+				all_core = { add_core = ALE }
+			}
+            ALB = {
+				all_core = { add_core = ALE }
+			}
+            MON = {
+				all_core = { add_core = ALE }
+			}
+
+            inherit = MON
+            inherit = SYC 
+            inherit = BUL      
+            inherit = JAM
+            inherit = NSR 
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

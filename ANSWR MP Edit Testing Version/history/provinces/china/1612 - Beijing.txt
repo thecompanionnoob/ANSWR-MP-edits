@@ -1,0 +1,7 @@
+owner = HNN
+controller = HNN
+add_core = HNN
+trade_goods = tea
+terrain = ruined_city
+life_rating = 32
+fort = 1

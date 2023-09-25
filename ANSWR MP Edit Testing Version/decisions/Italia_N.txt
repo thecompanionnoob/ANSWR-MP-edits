@@ -1,0 +1,62 @@
+political_decisions = {
+        Italia_N  = {
+        picture = form_ita_nit
+        potential = {
+            OR = {                
+                tag = TUS
+				tag = PAR
+                
+                                
+            }
+            NOT = { exists = ITN }
+			
+        }
+
+        allow = {         
+            war = no           
+            TUS = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           PAR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }     
+        }
+		
+        
+
+        effect = {                
+            prestige = 10
+            change_tag = ITN      
+            TUS = {
+				all_core = { add_core = ITN }
+			}
+            PAR = {
+				all_core = { add_core = ITN }
+			}
+            
+            inherit = TUS
+            inherit = PAR           
+            set_global_flag = italia_5
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

@@ -1,0 +1,41 @@
+country_event = {
+    id = 77777
+    title = "EVTNAME77777"
+    desc = "EVTDESC77777"
+    picture = Cris_Reb
+    fire_only_once = yes
+
+    trigger = {
+    year = 2841
+    OR = {
+           tag = SIC
+          
+        }  
+        
+}
+  
+    
+
+    option = {
+        name = "EVTOPTA77777"
+        prestige = 15
+        set_global_flag = Roma_event
+        
+        
+        
+    }
+    
+
+
+    option = {
+        name = "EVTOPTB77777"            
+        change_tag = PAP
+        SIC = {
+				all_core = { add_core = PAP }
+			}  
+        capital = 749
+		set_global_flag = Papal_event
+        
+}
+
+       

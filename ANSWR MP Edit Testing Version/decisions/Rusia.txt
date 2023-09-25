@@ -1,0 +1,158 @@
+political_decisions = {
+        Rusia  = {
+        picture = russian_vladivostok
+        potential = {
+            OR = {                
+                tag = MOW
+                
+                                
+            }
+            NOT = { exists = RUS }
+			
+        }
+
+        allow = {         
+            war = no
+            civilized = yes           
+            MOW = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           PRZ = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           STR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }     
+           NBA = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }     
+           ZKY = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }     
+           ZVY = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }    
+            owns = 1025
+            owns = 1037
+            owns = 1001
+            owns = 998
+            owns = 991
+            owns = 992
+            owns = 1000
+            owns = 1014
+            owns = 1015
+            owns = 1016
+            owns = 943
+            owns = 1017
+            owns = 1019
+            owns = 1039
+            owns = 1040
+            owns = 1022
+            owns = 1027
+            owns = 1020
+            owns = 1033
+            owns = 987
+            owns = 990
+            owns = 1028
+            owns = 1030
+            owns = 1034
+            owns = 1035
+            owns = 1043
+            owns = 2689
+            owns = 2700
+            owns = 1026
+            owns = 1029
+            owns = 1031
+            owns = 1183
+            owns = 2610
+            owns = 1043
+            owns = 1042
+            owns = 1034
+            owns = 1044      
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = RUS
+            MOW = {
+				all_core = { add_core = RUS }
+			}
+            PRZ = {
+				all_core = { add_core = RUS }
+			}
+            STR = {
+				all_core = { add_core = RUS }
+			}
+            NBA = {
+				all_core = { add_core = RUS }
+			}
+            ZKY = {
+				all_core = { add_core = RUS }
+			}
+            ZVY = {
+				all_core = { add_core = RUS }
+			}
+            inherit = PRZ
+            inherit = STR 
+            inherit = NBA
+            inherit = ZKY
+            inherit = ZVY         
+            add_accepted_culture = kazak
+            
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

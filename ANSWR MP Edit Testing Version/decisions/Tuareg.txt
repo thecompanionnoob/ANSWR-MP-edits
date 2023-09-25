@@ -1,0 +1,103 @@
+political_decisions = {
+        Tuareg  = {
+        picture = Czechoslovakia
+        potential = {
+            OR = {                
+                tag = TRG
+           
+            }
+            NOT = {has_global_flag = Tur}	
+        }
+
+        allow = {         
+            war = no           
+            TRG = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           MOR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }  
+            ALD = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           TUN = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }            
+           DAM = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }  
+               
+        }
+		
+        
+
+        effect = {              
+            add_accepted_culture = maghrebi
+            add_accepted_culture = berber
+            add_accepted_culture = tuareg
+            prestige = 15
+            set_global_flag= Tur
+            MOR = {
+				all_core = { add_core = TRG }
+			}
+            ALD = {
+				all_core = { add_core = TRG }
+			}
+            TUN = {
+				all_core = { add_core = TRG }
+			}
+            DAM = {
+				all_core = { add_core = TRG }
+			}
+            
+            inherit = MAS
+            inherit = TOO
+            inherit = JAL
+            inherit = KNG
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

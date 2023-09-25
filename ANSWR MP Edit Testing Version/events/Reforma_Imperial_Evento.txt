@@ -1,0 +1,30 @@
+country_event = {
+    id = 77776
+    title = "EVTNAME77776"
+    desc = "EVTDESC77776"
+    picture = constantinople_conference
+    fire_only_once = yes
+
+    trigger = {
+        tag = XXX
+    }
+  
+    
+
+    option = {
+        name = "EVTOPTA77776"      
+        OUD = {
+            inherit = THIS          
+        }
+        
+        
+    }
+	option = {
+        name = "EVTOPTB77776"      
+        prestige = 25
+        remove_country_modifier = oudrijk_prince
+    }
+    
+}
+
+       

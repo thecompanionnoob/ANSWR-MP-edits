@@ -1,0 +1,60 @@
+political_decisions = {
+        Rusia_Siberia  = {
+        picture = form_the_ikhwan
+        potential = {
+            OR = {                
+                tag = RUS
+                
+                                
+            }
+            NOT = {has_global_flag = Siberia}
+			
+        }
+
+        allow = {         
+            war = no           
+             
+        }
+		
+        
+
+        effect = {                
+            badboy = 15          
+            set_global_flag= Siberia
+            URA = {
+				all_core = { add_core = RUS }
+			}
+            OMS = {
+				all_core = { add_core = RUS }
+			}
+            SIB = {
+				all_core = { add_core = RUS }
+			}
+            TAR = {
+				all_core = { add_core = RUS }
+			}
+            BRY = {
+				all_core = { add_core = RUS }
+			}
+            KRL = {
+				all_core = { add_core = RUS }
+			}
+            YAK = {
+				all_core = { add_core = RUS }
+			}
+            KAM = {
+				all_core = { add_core = RUS }
+			}
+            CPL = {
+				all_core = { add_core = RUS }
+			}
+
+            1076 = { add_core = RUS }
+            1075 = { add_core = RUS }
+            1469 = { add_core = RUS }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

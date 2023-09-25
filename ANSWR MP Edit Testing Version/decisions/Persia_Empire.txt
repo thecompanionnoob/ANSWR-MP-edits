@@ -1,0 +1,120 @@
+political_decisions = {
+        Per  = {
+        picture = persian_empire
+        potential = {
+            OR = {                
+                tag = PER
+                                
+            }
+            NOT = { exists = PSB }
+			
+        }
+
+        allow = {         
+            war = no 
+            PER = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            JOR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+             MYS = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {              
+            prestige = 25    
+            change_tag = PSB  
+            JAM = {
+				all_core = { add_core = PSB }
+			}
+            JOR = {
+				all_core = { add_core = PSB }
+			}
+            MYS = {
+				all_core = { add_core = PSB }
+			}
+            NSR = {
+				all_core = { add_core = PSB }
+			}
+            ALB = {
+				all_core = { add_core = PSB }
+			}
+            MON = {
+				all_core = { add_core = PSB }
+			}
+            IST = {
+				all_core = { add_core = PSB }
+			}
+            TUR = {
+				all_core = { add_core = PSB }
+			}
+            OTA = {
+				all_core = { add_core = PSB }
+			}
+            LBN = {
+				all_core = { add_core = PSB }
+			}
+            ASY = {
+				all_core = { add_core = PSB }
+			}
+            SYR = {
+				all_core = { add_core = PSB }
+			}
+            KWT = {
+				all_core = { add_core = PSB }
+			}
+            KDS = {
+				all_core = { add_core = PSB }
+			}   
+            WGO = {
+				all_core = { add_core = PSB }
+			} 
+            AZB = {
+				all_core = { add_core = PSB }
+			} 
+            JOR = {
+				all_core = { add_core = PSB }
+			} 
+            PER = {
+				all_core = { add_core = PSB }
+			} 
+            TCA = {
+				all_core = { add_core = PSB }
+			}
+            inherit = JOR
+            inherit = MYS      
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

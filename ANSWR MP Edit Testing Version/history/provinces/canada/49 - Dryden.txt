@@ -1,0 +1,7 @@
+owner = WNN
+controller = WNN
+add_core = WNN
+add_core = ONT
+trade_goods = cattle
+life_rating = 31
+

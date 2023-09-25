@@ -1,0 +1,61 @@
+political_decisions = {
+        Czechoslovakia  = {
+        picture = Czechoslovakia
+        potential = {
+            OR = {                
+                tag = NIT
+                tag = BOH
+                                
+            }
+            NOT = { exists = CHZ }
+			
+        }
+
+        allow = {         
+            war = no  
+            NIT = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                            owner = {
+                            in_sphere = THIS
+                        }
+                    }
+                }
+            }
+           BOH = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                            owner = {
+                            in_sphere = THIS
+                        }
+                    }
+                }
+            }
+              
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = CZH
+            NIT = {
+				all_core = { add_core = CZH }
+			}
+            BOH = {
+				all_core = { add_core = CZH }
+			}
+            
+            inherit = NIT
+            inherit = BOH           
+            add_accepted_culture = czech
+            add_accepted_culture = slovak
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

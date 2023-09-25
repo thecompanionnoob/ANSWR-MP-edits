@@ -1,0 +1,78 @@
+political_decisions = {
+        Bulgariarom  = {
+        picture = Bulgariarom
+        potential = {
+            OR = {                
+                tag = ROM
+                tag = BUL
+                tag = SYC
+                                
+            }
+            NOT = { exists = BRO }
+			
+        }
+
+        allow = {         
+            war = no           
+            ROM = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           BUL = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+           SYC = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }      
+        }
+		
+        
+
+        effect = {                
+            prestige = 10
+            change_tag = BRO
+            ROM = {
+				all_core = { add_core = ARN }
+			}
+            BUL = {
+				all_core = { add_core = BRO }
+			}
+            SYC = {
+				all_core = { add_core = BRO }
+			}
+            
+            inherit = ROM
+            inherit = BUL 
+            inherit = SYC       
+            add_accepted_culture = romanian
+            add_accepted_culture = bulgarian
+            add_accepted_culture = westturkish
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

@@ -1,0 +1,269 @@
+political_decisions = {
+        mexico_1  = {
+        picture = restore_mexican_empire
+        potential = {
+            OR = {                
+                tag = MEX
+                
+                                
+            }
+            NOT = {has_global_flag = empire}
+			
+        }
+
+        allow = {         
+            war = no           
+            MEX = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           ELO = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }     
+        }
+		
+        
+
+        effect = {                
+            badboy = 5
+            set_global_flag= empire
+            ELO = {
+				all_core = { add_core = MEX }
+			}
+            2177 = {
+				remove_core = ELO
+			}
+            2179 = {
+				remove_core = ELO
+			}
+            2180 = {
+				remove_core = ELO
+			}
+            2180 = {
+				remove_core = ELO
+			}
+            2178 = {
+				remove_core = ELO
+			}
+            2164 = {
+				remove_core = ELO
+			}
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    mexico_2  = {
+        picture = restore_mexican_empire
+        potential = {
+            OR = {                
+                tag = MEX
+                
+                                
+            }
+            NOT = {has_global_flag = empire2}
+	    has_global_flag= empire		
+        }
+
+        allow = {         
+            war = no           
+            MEX = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+                
+        }
+		
+        
+
+        effect = {                
+            badboy = 10
+            set_global_flag= empire2
+            HDR = {
+				all_core = { add_core = MEX }
+			}
+            RDM = {
+				all_core = { add_core = MEX }
+			}
+            CHP  = {
+				all_core = { add_core = MEX }
+			}
+            
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    mexico_3  = {
+        picture = restore_mexican_empire
+        potential = {
+            OR = {                
+                tag = MEX
+                
+                                
+            }
+            NOT = {has_global_flag = empire3}
+	    has_global_flag= empire2		
+        }
+
+        allow = {         
+            war = no           
+            MEX = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+                
+        }
+		
+        
+
+        effect = {                
+            badboy = 10
+            set_global_flag= empire3
+            RGR = {
+				all_core = { add_core = MEX }
+			}
+            YUC = {
+				all_core = { add_core = MEX }
+			}
+            DAU  = {
+				all_core = { add_core = MEX }
+			}
+            
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    mexico_4  = {
+        picture = restore_mexican_empire
+        potential = {
+            OR = {                
+                tag = MEX
+                
+                                
+            }
+            NOT = {has_global_flag = empire4}
+	    has_global_flag= empire3		
+        }
+
+        allow = {         
+            war = no           
+            MEX = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+                
+        }
+		
+        
+
+        effect = {                
+            badboy = 10
+            set_global_flag= empire4
+            TEX = {
+				all_core = { add_core = MEX }
+			}
+            ARI = {
+				all_core = { add_core = MEX }
+			}
+            LOS  = {
+				all_core = { add_core = MEX }
+			}
+            2145 = {secede_province = THIS}
+            2142 = {secede_province = THIS}
+            2143 = {secede_province = THIS}
+            2144 = {secede_province = THIS}
+            2148 = {secede_province = THIS}
+            2662 = {secede_province = THIS}
+            105 = {secede_province = THIS}
+            101 = {secede_province = THIS} 
+            96 = {secede_province = THIS} 
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    mexico_5  = {
+        picture = restore_mexican_empire
+        potential = {
+            OR = {                
+                tag = MEX
+                
+                                
+            }
+            NOT = {has_global_flag = empire5}
+	    has_global_flag= empire4		
+        }
+
+        allow = {         
+            war = no           
+            MEX = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+                
+        }
+		
+        
+
+        effect = {                
+            badboy = 10
+            prestige = 50
+            set_global_flag= empire5
+            government = hms_government
+            GUA = {
+				all_core = { add_core = MEX }
+			}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

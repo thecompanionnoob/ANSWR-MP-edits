@@ -1,0 +1,100 @@
+political_decisions = {
+        Aragonitalia  = {
+        picture = Aragon
+        potential = {
+            OR = {                
+                tag = ARN
+                
+                                
+            }
+            NOT = { exists = AGI }
+            		
+        }
+
+        allow = {         
+            war = no              
+            ARN = {
+                OR = {                 
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+	    SIC = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            APU = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+             TUS = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            PAR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = AGI           
+            SIC = {
+				all_core = { add_core = AGI }
+			}
+            APU = {
+				all_core = { add_core = AGI }
+			}
+            TUS = {
+				all_core = { add_core = AGI }
+			}
+            PAR = {
+				all_core = { add_core = AGI }
+			}
+            inherit = SIC
+            inherit = APU
+            inherit = TUS
+            inherit = PAR
+            add_accepted_culture = north_italian
+            add_accepted_culture = south_italian
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

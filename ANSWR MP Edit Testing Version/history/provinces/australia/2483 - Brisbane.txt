@@ -1,0 +1,6 @@
+owner = TRE
+controller = TRE
+add_core = TRE
+trade_goods = cattle
+terrain = ruined_city
+life_rating = 35

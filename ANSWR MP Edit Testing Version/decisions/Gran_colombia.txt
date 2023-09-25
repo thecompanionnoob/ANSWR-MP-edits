@@ -1,0 +1,91 @@
+political_decisions = {
+        Colombia  = {
+        picture = unite_gran_colombia
+        potential = {
+            OR = {                
+                tag = PNM
+                tag = GAR
+                tag = CRR  
+                tag = ECU      
+            }
+            NOT = { exists = GCO }
+			
+        }
+
+        allow = {         
+            war = no          
+            PNM = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           GAR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           CRR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           ECU = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = GCO 
+            PNM = {
+				all_core = { add_core = GCO }
+			}
+            GAR = {
+				all_core = { add_core = GCO }
+			}
+            CRR = {
+				all_core = { add_core = GCO }
+			}
+            ECU = {
+				all_core = { add_core = GCO }
+			}
+            inherit = PNM
+            inherit = GAR
+            inherit = CRR 
+            inherit = ECU     
+            add_accepted_culture = muisca
+            add_accepted_culture = central_american
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

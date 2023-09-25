@@ -1,0 +1,38 @@
+political_decisions = {
+        Recu_czhe  = {
+        picture = commonwealth_of_australia_act
+        potential = {
+            OR = {                
+                tag = KUK          
+            }	
+            NOT = {has_global_flag = CZHE}
+        }
+
+        allow = {         
+            war = no           
+            nationalism_n_imperialism = 1       
+        }
+		
+        
+
+        effect = {                
+            prestige = 10
+            set_global_flag= CZHE
+           
+            NIT = {
+				all_core = { add_core = CZH }
+			}
+            BOH = {
+				all_core = { add_core = CZH }
+			}
+            
+                    
+            add_accepted_culture = czech
+            add_accepted_culture = slovak
+
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

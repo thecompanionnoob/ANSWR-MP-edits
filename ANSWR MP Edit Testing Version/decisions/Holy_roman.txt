@@ -1,0 +1,102 @@
+political_decisions = {
+        Holy	  = {
+        picture = holy_roman_empire
+        potential = {
+            OR = {                
+                tag = AUS             
+            }
+            NOT = { exists = HRD }
+			
+        }
+
+        allow = {         
+            war = no  
+            OUD = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            VLA = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+          
+        }
+		
+        
+
+        effect = {                
+            prestige = 50
+            change_tag = HRD
+            OUD = {
+				all_core = { add_core = HRD }
+			}
+            SWI = {
+				all_core = { add_core = HRD }
+			}
+            ALS = {
+				all_core = { add_core = HRD }
+			}
+            VLA = {
+				all_core = { add_core = HRD }
+			}
+            TUS = {
+				all_core = { add_core = HRD }
+			}
+            PAR = {
+				all_core = { add_core = HRD }
+			}
+            NET = {
+				all_core = { add_core = HRD }
+			}
+
+            371 = {
+				remove_core = HRD
+			}
+            2557 = {
+				remove_core = HRD
+			}
+            367 = {
+				remove_core = RHD
+			}
+            366 = {
+				remove_core = HRD
+			}
+            348 = {
+				remove_core = HRD
+			}
+            inherit = SAX
+            inherit = BRI
+            inherit = WEI
+            inherit = BAV
+            inherit = RHI
+            inherit = BAD
+            inherit = ULM
+            inherit = VLA
+            inherit = WES
+            inherit = MEC
+            inherit = WES
+            inherit = TUS
+            add_accepted_culture = south_german
+            add_accepted_culture = north_german
+            add_accepted_culture = austro_german
+            add_accepted_culture = rhine_german
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

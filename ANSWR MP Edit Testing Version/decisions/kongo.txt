@@ -1,0 +1,108 @@
+political_decisions = {
+        Kongo  = {
+        picture = Czechoslovakia
+        potential = {
+            OR = {                
+                tag = DAM
+                tag = KBO
+                                
+            }
+            NOT = { exists = KON }
+			
+        }
+
+        allow = {         
+            war = no           
+            SOK = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           NGR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }  
+            DAM = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           KBO = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }            
+           OYO = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }        
+        }
+		
+        
+
+        effect = {                
+            add_accepted_culture = shenkuda
+            add_accepted_culture = filayen
+            prestige = 15
+            change_tag = KON
+            SOK = {
+				all_core = { add_core = KON }
+			}
+            NGR = {
+				all_core = { add_core = KON }
+			}
+            OYO = {
+				all_core = { add_core = KON }
+			}
+            KBO = {
+				all_core = { add_core = KON }
+			}
+            DAM = {
+				all_core = { add_core = KON }
+			}
+            inherit = SOK
+            inherit = OYO
+            inherit = NGR
+            inherit = KBO
+            inherit = DAM
+            
+            
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

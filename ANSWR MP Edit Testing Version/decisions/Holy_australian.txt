@@ -1,0 +1,316 @@
+political_decisions = {
+        Holy_Austalian  = {
+        picture = empire
+        potential = {
+            OR = {                
+                tag = HAE
+                tag = FRM 
+                tag = WAG
+                tag = AUG
+                tag = PRI
+                tag = RPL
+                tag = TTB
+                tag = UIL 
+                tag = UNB
+                tag = UNM
+                tag = UOR
+                tag = FSA
+                tag = BLZ
+                tag = VEB 
+                tag = TRE
+                tag = ION  
+                tag = BRE 
+                tag = PRT
+                tag = OLD     
+            }
+            NOT = {has_global_flag = Holy_aust}
+			
+        }
+
+        allow = {         
+            war = no  
+             HAE = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           FRM = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            WAG = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        AUG = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+         RPL = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           TTB = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            UIL = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        UNB = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+         UNM = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           UOR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            FSA = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        BLZ = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+         VEN = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           TRE = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            ION = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        BRE  = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+         PRT = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            OLD = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }		  
+        }
+		
+        
+
+        effect = {                
+            prestige = 30
+            change_tag = HAE
+            set_global_flag= Holy_aust
+            HAE = {
+				all_core = { add_core = HAE }
+			}
+            FRM = {
+				all_core = { add_core = HAE }
+			}
+            WAG = {
+				all_core = { add_core = HAE }
+			}
+            AUG = {
+				all_core = { add_core = HAE }
+			}
+            PRI = {
+				all_core = { add_core = HAE }
+			}
+            RPL = {
+				all_core = { add_core = HAE }
+			}
+            TTB = {
+				all_core = { add_core = HAE }
+			}
+            UIL = {
+				all_core = { add_core = HAE }
+			}
+            UNB = {
+				all_core = { add_core = HAE }
+			}
+            UNM = {
+				all_core = { add_core = HAE }
+			}
+            UOR = {
+				all_core = { add_core = HAE }
+			}
+            FSA = {
+				all_core = { add_core = HAE }
+			}
+            BLZ = {
+				all_core = { add_core = HAE }
+			}
+            VEN = {
+				all_core = { add_core = HAE }
+			}
+            TRE = {
+				all_core = { add_core = HAE }
+			}
+            ION = {
+				all_core = { add_core = HAE }
+			}
+            inherit = HAE
+            inherit = FRM 
+            inherit = WAG
+            inherit = AUG
+            inherit = PRI
+            inherit = RPL
+            inherit = TTB
+            inherit = UIL 
+            inherit = UNB
+            inherit = UNM
+            inherit = UOR
+            inherit = FSA
+            inherit = BLZ
+            inherit = VEB 
+            inherit = TRE
+            inherit = ION  
+            inherit = LIT
+            inherit = BYE
+            inherit = UKR
+            inherit = BRE 
+            inherit = PRT
+            inherit = OLD
+            add_accepted_culture = perther
+            add_accepted_culture = eyre
+            add_accepted_culture = australian
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

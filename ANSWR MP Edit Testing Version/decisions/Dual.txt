@@ -1,0 +1,197 @@
+political_decisions = {
+        Dual  = {
+        picture = Dual
+        potential = {
+            OR = {                
+                tag = ENG    
+                tag = FRE         
+            }
+            NOT = { exists = ENF }
+			
+        }
+
+        allow = {         
+            war = no          
+            SCO = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           ULS = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           COC = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           LEC = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           UNS = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            CHS = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            TYN = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            ANI = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            ROU = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            OCC = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            DPA = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            BRT = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = ENF
+        
+            
+            SCO = {
+				all_core = { add_core = ENF }
+			}
+            IRE = {
+				all_core = { add_core = ENF }
+			}
+            ENL = {
+				all_core = { add_core = ENF }
+			}
+            FRE = {
+				all_core = { add_core = ENF }
+			}
+
+            inherit = SCO
+            inherit = ENL 
+            inherit = IRE    
+            inherit = ULS
+            inherit = COC
+            inherit = LEC
+            inherit = UNS
+            inherit = CHS
+            inherit = TYN   
+            inherit = ROU
+            inherit = OCC
+            inherit = ANI
+            inherit = DPA
+            inherit = BRT 
+            inherit = AUV
+            add_accepted_culture = scottish
+            add_accepted_culture = irish
+            add_accepted_culture = english
+            add_accepted_culture = welsh
+            add_accepted_culture = parish
+            add_accepted_culture = breton
+            add_accepted_culture = occitan
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

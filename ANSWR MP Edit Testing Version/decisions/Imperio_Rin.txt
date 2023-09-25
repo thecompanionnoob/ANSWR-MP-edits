@@ -1,0 +1,248 @@
+political_decisions = {
+        rin_emp	  = {
+        picture = rin_conf
+        potential = {
+            OR = {                
+                tag = RHD               
+            }
+            NOT = { exists = RHE }
+	   	
+        }
+
+        allow = {         
+            war = no  
+            RHD = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+             ALS = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+             BRI = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           SAX = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            WEI = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           BAV = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           RHI = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+          BAD = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+          ULM = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+          VLA = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }	
+           MEC = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           WES = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+          PZN = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           BRI = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = RHE
+            SAX = {
+				all_core = { add_core = RHE }
+			} 
+            PZN = {
+				all_core = { add_core = RHE }
+			}
+            RHD = {
+				all_core = { add_core = RHE }
+			}
+            WEI = {
+				all_core = { add_core = RHE }
+			}
+            BAV = {
+				all_core = { add_core = RHE }
+			}
+            RHI = {
+				all_core = { add_core = RHE }
+			}
+            BAD = {
+				all_core = { add_core = RHE }
+			}
+            ULM = {
+				all_core = { add_core = RHE }
+			}
+            VLA = {
+				all_core = { add_core = RHE }
+			}
+            WES = {
+				all_core = { add_core = RHE }
+			}
+            MEC = {
+				all_core = { add_core = RHE }
+			}
+            BRI = {
+				all_core = { add_core = RHE }
+			}
+
+            
+            371 = {
+				remove_core = RHE
+			}
+            2557 = {
+				remove_core = RHE
+			}
+            367 = {
+				remove_core = RHE
+			}
+            366 = {
+				remove_core = RHE
+			}
+            348 = {
+				remove_core = RHE
+			}
+            inherit = RHI
+            inherit = ALS
+            inherit = VLA
+            inherit = WES
+            inherit = SAX
+            inherit = WEI
+            inherit = BAV
+            inherit = RHI
+            inherit = BAD
+            inherit = ULM
+            inherit = VLA
+            inherit = PZN
+            inherit = MEC
+            inherit = BRI
+            add_accepted_culture = north_german
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

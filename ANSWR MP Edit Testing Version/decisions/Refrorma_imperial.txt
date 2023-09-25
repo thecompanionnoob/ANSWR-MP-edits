@@ -1,0 +1,524 @@
+political_decisions = {
+        Oudrijk_Reform_Militar_1  = {
+        picture = central_oudrijk
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+            NOT={has_global_flag = Oudjak_m1}
+			NOT = {				
+				has_country_modifier = oudrijk
+			}
+        }
+
+        allow = {         
+            war = no                     
+            has_country_modifier = oudrijk_prince	
+            		
+        }
+		
+        
+
+        effect = {                
+            prestige = 15    		
+            set_global_flag = Oudjak_m1
+			add_country_modifier = {
+                        name = oudrijk
+                        duration = 300
+                }
+			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Oudrijk_Reform_Militar_2  = {
+        picture = central_oudrijk
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			has_global_flag = Oudjak_m1
+            NOT={has_global_flag = Oudjak_m2}
+			NOT = {				
+				has_country_modifier = oudrijk
+			}
+        }
+
+        allow = {         
+            war = no                     
+            has_country_modifier = oudrijk_prince	
+            		
+        }
+		
+        
+
+        effect = {                
+            prestige = 15    		
+            set_global_flag = Oudjak_m2
+			add_country_modifier = {
+                        name = oudrijk
+                        duration = 300
+                }
+			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Oudrijk_Reform_Militar_3  = {
+        picture = central_oudrijk
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			has_global_flag = Oudjak_m2
+            NOT={has_global_flag = Oudjak_m3}
+			NOT = {				
+				has_country_modifier = oudrijk
+			}
+        }
+
+        allow = {         
+            war = no                     
+            has_country_modifier = oudrijk_prince	
+            		
+        }
+		
+        
+
+        effect = {                
+            prestige = 15    		
+            set_global_flag = Oudjak_m3
+			add_country_modifier = {
+                        name = oudrijk
+                        duration = 300
+                }
+			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Oudrijk_Reform_Militar_4  = {
+        picture = central_oudrijk
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			has_global_flag = Oudjak_m4
+            NOT={has_global_flag = Oudjak_m4}
+			NOT = {				
+				has_country_modifier = oudrijk
+			}
+        }
+
+        allow = {         
+            war = no                     
+            has_country_modifier = oudrijk_prince	
+            		
+        }
+		
+        
+
+        effect = {                
+            prestige = 15    		
+            set_global_flag = Oudjak_m4
+			add_country_modifier = {
+                        name = oudrijk
+                        duration = 300
+                }
+			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Oudrijk_Reform_Militar_5  = {
+        picture = central_oudrijk
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			has_global_flag = Oudjak_m5
+            NOT={has_global_flag = Oudjak_m5}
+			NOT = {				
+				has_country_modifier = oudrijk
+			}
+        }
+
+        allow = {         
+            war = no                     
+            has_country_modifier = oudrijk_prince	
+            		
+        }
+		
+        
+
+        effect = {                
+            prestige = 15    		
+            set_global_flag = Oudjak_m5
+			add_country_modifier = {
+                        name = oudrijk
+                        duration = 300
+                }
+			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Oudrijk_Reform_Culture_1  = {
+        picture = central_oudrijk
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+            NOT={has_global_flag = Oudjak_c1}
+			NOT = {				
+				has_country_modifier = oudrijk
+			}
+        }
+
+        allow = {         
+            war = no                     
+            has_country_modifier = oudrijk_prince	
+            		
+        }
+		
+        
+
+        effect = {                
+            prestige = 15    		
+            set_global_flag = Oudjak_c1
+			add_country_modifier = {
+                        name = oudrijk
+                        duration = 300
+                }
+			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Oudrijk_Reform_Culture_2  = {
+        picture = central_oudrijk
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			has_global_flag = Oudjak_c1
+            NOT={has_global_flag = Oudjak_c2}
+			NOT = {				
+				has_country_modifier = oudrijk
+			}
+        }
+
+        allow = {         
+            war = no                     
+            has_country_modifier = oudrijk_prince	
+            		
+        }
+		
+        
+
+        effect = {                
+            prestige = 15    		
+            set_global_flag = Oudjak_c2
+			add_country_modifier = {
+                        name = oudrijk
+                        duration = 300
+                }
+			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Oudrijk_Reform_Culture_3  = {
+        picture = central_oudrijk
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			has_global_flag = Oudjak_c2
+            NOT={has_global_flag = Oudjak_c3}
+			NOT = {				
+				has_country_modifier = oudrijk
+			}
+        }
+
+        allow = {         
+            war = no                     
+            has_country_modifier = oudrijk_prince	
+            		
+        }
+		
+        
+
+        effect = {                
+            prestige = 15    		
+            set_global_flag = Oudjak_c3
+			add_country_modifier = {
+                        name = oudrijk
+                        duration = 300
+                }
+			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Oudrijk_Reform_Culture_4  = {
+        picture = central_oudrijk
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			has_global_flag = Oudjak_c4
+            NOT={has_global_flag = Oudjak_c4}
+			NOT = {				
+				has_country_modifier = oudrijk
+			}
+        }
+
+        allow = {         
+            war = no                     
+            has_country_modifier = oudrijk_prince	
+            		
+        }
+		
+        
+
+        effect = {                
+            prestige = 15    		
+            set_global_flag = Oudjak_c4
+			add_country_modifier = {
+                        name = oudrijk
+                        duration = 300
+                }
+			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Oudrijk_Reform_Culture_5  = {
+        picture = central_oudrijk
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			has_global_flag = Oudjak_c5
+            NOT={has_global_flag = Oudjak_c5}
+			NOT = {				
+				has_country_modifier = oudrijk
+			}
+        }
+
+        allow = {         
+            war = no                     
+            has_country_modifier = oudrijk_prince	
+            		
+        }
+		
+        
+
+        effect = {                
+            prestige = 15    		
+            set_global_flag = Oudjak_c5
+			add_country_modifier = {
+                        name = oudrijk
+                        duration = 300
+                }
+			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Oudrijk_Reform_industrial_1  = {
+        picture = central_oudrijk
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+            NOT={has_global_flag = Oudjak_i1}
+			NOT = {				
+				has_country_modifier = oudrijk
+			}
+        }
+
+        allow = {         
+            war = no                     
+            has_country_modifier = oudrijk_prince	
+            		
+        }
+		
+        
+
+        effect = {                
+            prestige = 15    		
+            set_global_flag = Oudjak_i1
+			add_country_modifier = {
+                        name = oudrijk
+                        duration = 300
+                }
+			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Oudrijk_Reform_industrial_2  = {
+        picture = central_oudrijk
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			has_global_flag = Oudjak_i1
+            NOT={has_global_flag = Oudjak_i2}
+			NOT = {				
+				has_country_modifier = oudrijk
+			}
+        }
+
+        allow = {         
+            war = no                     
+            has_country_modifier = oudrijk_prince	
+            		
+        }
+		
+        
+
+        effect = {                
+            prestige = 15    		
+            set_global_flag = Oudjak_i2
+			add_country_modifier = {
+                        name = oudrijk
+                        duration = 300
+                }
+			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Oudrijk_Reform_industrial_3  = {
+        picture = central_oudrijk
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			has_global_flag = Oudjak_i2
+            NOT={has_global_flag = Oudjak_i3}
+			NOT = {				
+				has_country_modifier = oudrijk
+			}
+        }
+
+        allow = {         
+            war = no                     
+            has_country_modifier = oudrijk_prince	
+            		
+        }
+		
+        
+
+        effect = {                
+            prestige = 15    		
+            set_global_flag = Oudjak_i3
+			add_country_modifier = {
+                        name = oudrijk
+                        duration = 300
+                }
+			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Oudrijk_Reform_industrial_4  = {
+        picture = central_oudrijk
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			has_global_flag = Oudjak_i4
+            NOT={has_global_flag = Oudjak_i4}
+			NOT = {				
+				has_country_modifier = oudrijk
+			}
+        }
+
+        allow = {         
+            war = no                     
+            has_country_modifier = oudrijk_prince	
+            		
+        }
+		
+        
+
+        effect = {                
+            prestige = 15    		
+            set_global_flag = Oudjak_i4
+			add_country_modifier = {
+                        name = oudrijk
+                        duration = 300
+                }
+			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Oudrijk_Reform_industrial_5  = {
+        picture = central_oudrijk
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			has_global_flag = Oudjak_i5
+            NOT={has_global_flag = Oudjak_i5}
+			NOT = {				
+				has_country_modifier = oudrijk
+			}
+        }
+
+        allow = {         
+            war = no                     
+            has_country_modifier = oudrijk_prince	
+            		
+        }
+		
+        
+
+        effect = {                
+            prestige = 15    		
+            set_global_flag = Oudjak_i5
+			add_country_modifier = {
+                        name = oudrijk
+                        duration = 300
+                }
+			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

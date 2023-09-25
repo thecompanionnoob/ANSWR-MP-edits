@@ -1,0 +1,119 @@
+political_decisions = {
+        Conf_rin_sin	  = {
+        picture = rin_conf
+        potential = {
+            OR = {                
+                tag = RHI               
+            }
+            NOT = {has_global_flag = Rin}
+			
+        }
+
+        allow = {         
+            war = no  
+            NET = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+             ALS = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+             WES = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+             VLA = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+             RHI = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }	
+          
+          
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            set_global_flag= Rin
+            NET = {
+				all_core = { add_core = RHI }
+			}
+            ALS = {
+				all_core = { add_core = RHI }
+			}
+            WES = {
+				all_core = { add_core = RHI }
+			}
+            VLA = {
+				all_core = { add_core = RHI }
+			}
+            
+            371 = {
+				remove_core = RHI
+			}
+            2557 = {
+				remove_core = RHI
+			}
+            367 = {
+				remove_core = RHI
+			}
+            366 = {
+				remove_core = RHI
+			}
+            348 = {
+				remove_core = RHI
+			}
+            inherit = NET
+            inherit = ALS
+            inherit = VLA
+            inherit = WES
+            add_accepted_culture = south_german
+            add_accepted_culture = dutch
+            add_accepted_culture = flanish
+            add_accepted_culture = rhine_german
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

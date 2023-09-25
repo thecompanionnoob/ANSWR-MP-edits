@@ -1,0 +1,6 @@
+owner = ALN
+controller = ALN
+add_core = ALN
+trade_goods = silk
+life_rating = 32
+terrain = plains

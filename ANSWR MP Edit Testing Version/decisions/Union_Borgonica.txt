@@ -1,0 +1,92 @@
+political_decisions = {
+        U_Bor  = {
+        picture = U_Bor
+        potential = {
+            OR = {                
+                tag = IBR            
+            }
+            NOT = { exists = BES }
+			
+        }
+
+        allow = {         
+            war = no          
+            DPA = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           BRT = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           ROU = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           OCC = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           AUV = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            
+           
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = BES
+        
+                     
+            FRA = {
+				all_core = { add_core = BES }
+			}
+          
+            add_accepted_culture = parish
+            add_accepted_culture = breton
+            add_accepted_culture = occitan
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

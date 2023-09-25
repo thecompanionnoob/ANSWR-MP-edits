@@ -1,0 +1,34 @@
+political_decisions = {
+	ireland = {
+		potential = {
+            OR = {                
+                tag = ULS	
+                tag = COC
+                tag = LEC
+            }
+            NOT = { exists = IRE }
+        }
+
+        allow = {
+            war = no
+            IRE = {
+                OR = {
+                  
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+            }           
+        }
+
+        effect = {
+            prestige = 15
+            change_tag = IRE
+        }
+		ai_will_do = {
+			factor = 1
+		}
+	}	
+}

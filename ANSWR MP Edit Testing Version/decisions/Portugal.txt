@@ -1,0 +1,46 @@
+political_decisions = {
+        Portugal  = {
+        picture = Portugal
+        potential = {
+            OR = {                
+                tag = POR
+                
+                                
+            }
+            NOT = {has_global_flag = Portugal}
+			
+        }
+
+        allow = {         
+            war = no           
+            POR = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            owns = 518
+            owns = 519
+            owns = 520
+        }
+		
+        
+
+        effect = {                
+            prestige = 15          
+            518 = { add_core = POR }
+            519 = { add_core = POR }
+            520 = { add_core = POR }
+            set_global_flag= Portugal
+            
+            
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

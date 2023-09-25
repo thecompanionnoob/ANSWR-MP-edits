@@ -1,0 +1,5 @@
+owner = HUI
+controller = HUI
+add_core = HUI
+trade_goods = timber
+life_rating = 32

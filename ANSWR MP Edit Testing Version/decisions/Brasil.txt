@@ -1,0 +1,61 @@
+political_decisions = {
+        Brazil  = {
+        picture = proclaimindependence
+        potential = {
+            OR = {                
+                tag = AMZ
+                tag = NUH
+                                
+            }
+            NOT = { exists = BRZ }
+            		
+        }
+
+        allow = {         
+            war = no           
+            AMZ = {
+                OR = {                 
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+	     NUH = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = BRZ       
+            AMZ = {
+				all_core = { add_core = BRZ }
+			}
+            NUH = {
+				all_core = { add_core = BRZ }
+			}
+
+            inherit = AMZ
+            inherit = NUH
+            add_accepted_culture = brazilian
+            add_accepted_culture = afro_brazilian
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

@@ -1,0 +1,6 @@
+owner = HUA
+controller = HUA
+add_core = HUA	
+terrain = ruined_city
+trade_goods = sulphur
+life_rating = 35

@@ -1,0 +1,250 @@
+#ANSWR
+#######################
+#        EUROPE       #
+#######################
+Dutch-Germanized Danes
+vassal = {
+    first = NET
+    second = VLA
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Circassian Steppe Russians-Native Circassians
+vassal = {
+    first = DON
+    second = CIR
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Azerbaijan-Caucasian Imamate
+vassal = {
+	first = AZB
+	second = DAG
+	start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Ostanatolien-West Georgia
+vassal = {
+    first = OTA
+    second = WGO
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Cossackia-Abkhazia
+vassal = {
+    first = DON
+    second = ABK
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Cossackia-Ossetia
+vassal = {
+    first = DON
+    second = OSE
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Paltija - Ostikunina
+vassal = {
+    first = LIT
+    second = EST
+    start_date = 2792.1.1
+    end_date = 2871.1.1
+}
+
+###Dacian Confedercy 
+vassal = {
+    first = WAL
+    second = CRV
+    start_date = 2754.9.12
+    end_date = 2900.1.7
+}
+
+vassal = {
+    first = WAL
+    second = MOL
+    start_date = 2754.9.12
+    end_date = 2900.1.7
+}
+
+vassal = {
+    first = WAL
+    second = SIE
+    start_date = 2754.9.12
+    end_date = 2900.1.7
+}
+
+vassal = {
+    first = WAL
+    second = DEV
+    start_date = 2754.9.12
+    end_date = 2900.1.7
+}
+
+vassal = {
+    first = WAL
+    second = BKV
+    start_date = 2754.9.12
+    end_date = 2900.1.7
+}
+
+vassal = {
+    first = WAL
+    second = MDV
+    start_date = 2754.9.12
+    end_date = 2900.1.7
+}
+
+#######################
+#        INDIA        #
+#######################
+
+#######################
+#        AFRICA       #
+#######################
+
+# Nigeria/Filayen
+vassal = {
+    first = NGR
+    second = SOK
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+# Nigeria/Kadakusa
+vassal = {
+    first = NGR
+    second = OYO
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+# Kouderhagen/DND
+vassal = {
+    first = NET
+    second = DND
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+# Kouderhagen/JAL
+vassal = {
+    first = NET
+    second = JAL
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+# Kouderhagen/KNG
+vassal = {
+    first = NET
+    second = KNG
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+# Kouderhagen/ASH
+vassal = {
+    first = SWI
+    second = ASH
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#######################
+#        ASIA         #
+#######################
+
+# Afghan/Kunduz
+vassal = {
+    first = AFG
+    second = BDK
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+# Yangi/Kokand
+vassal = {
+    first = KHI
+    second = KOK
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Jiyunoji/Hokkaido
+vassal = {
+    first = JIY
+    second = EZO
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Dongbei/Mongolian Rump state
+vassal = {
+    first = MCK
+    second = MGL
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Dongbei/Greater Beijing Frontier Region
+vassal = {
+    first = MCK
+    second = HNN
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Xiya Red Army/Greater Xi'an Frontier Region
+vassal = {
+    first = GMJ
+    second = HUI
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+######################
+#		INDIA 		 #
+######################
+
+# Nagaland-Manipur
+vassal = {
+    first = NGL
+    second = MNP
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Rohingyadesh-Bangladesh
+vassal = {
+    first = ROH
+    second = BNG
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#######################
+#        AMERICA      #
+#######################
+
+# Los Angeles/Arizona
+vassal = {
+    first = LOS
+    second = ARI
+    start_date = 2836.1.1
+    end_date = 2850.1.1
+}
+
+#Arequipa-Peru/Sendero Luminoso Cartel
+vassal = {
+	first = PEU
+	second = PBC
+	start_date = 2836.1.1
+	end_date = 2900.1.1
+}

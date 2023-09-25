@@ -1,0 +1,9 @@
+army = {
+    name = "Tawang Monastery Guard"
+    location = 1593
+    regiment = {
+        name= "Warriors of the Dalai Lama"
+        type = irregular
+        home = 1593
+    }
+}

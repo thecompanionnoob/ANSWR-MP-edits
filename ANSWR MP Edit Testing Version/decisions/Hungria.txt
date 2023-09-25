@@ -1,0 +1,90 @@
+political_decisions = {
+        hungria  = {
+        picture = reclaim_croatia
+        potential = {
+            OR = {                
+                tag = HUN              
+            }
+            NOT = {has_global_flag = Hungria}	
+        }
+
+        allow = {         
+            war = no           
+            HUN = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            BAN = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           GLC = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           DAK = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+        }
+		
+        
+
+        effect = {                
+            prestige = 10
+            change_tag = HUN
+           
+            HUN = {
+				all_core = { add_core = HUN }
+			}
+            BAN = {
+				all_core = { add_core = HUN }
+			}
+           GLC = {
+				all_core = { add_core = HUN }
+			}
+            DAK = {
+				all_core = { add_core = HUN }
+			}
+            inherit = HUN
+            inherit = BAN 
+            inherit = GLC      
+            inherit = DAK
+            set_global_flag= Hungria
+            add_accepted_culture = hungarian
+            add_accepted_culture = staromadar
+
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

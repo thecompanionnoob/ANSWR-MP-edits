@@ -1,0 +1,43 @@
+political_decisions = {
+        rec_otomano  = {
+        picture = amir_kabir
+        potential = {
+            OR = {                
+                tag = OTM
+                
+                                
+            }
+            NOT = {has_global_flag = otomanos}
+			
+        }
+
+        allow = {         
+            war = no           
+             
+        }
+		
+        
+
+        effect = {                
+            badboy = 5          
+            set_global_flag= otomanos
+            1155 = { add_core = OTM }
+            1179 = { add_core = OTM }
+            1178 = { add_core = OTM }
+            1180 = { add_core = OTM }
+            1412 = { add_core = OTM }
+            AQS = {
+				all_core = { add_core = OTM }
+			}
+            EGY = {
+				all_core = { add_core = OTM }
+			}
+            HDJ = {
+				all_core = { add_core = OTM }
+			}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

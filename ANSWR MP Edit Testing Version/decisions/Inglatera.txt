@@ -1,0 +1,80 @@
+political_decisions = {
+        Inglatera  = {
+        picture = england_form
+        potential = {
+            OR = {                
+                tag = UNS
+                tag = CHS
+                tag = TYN
+                tag = ANI
+                                
+            }
+            NOT = { exists = ENL }
+			
+        }
+
+        allow = {         
+            war = no          
+            UNS = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            CHS = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            TYN = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            ANI = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+
+           
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = ENL                        
+            inherit = UNS
+            inherit = CHS 
+            inherit = TYN      
+            inherit = ANI
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

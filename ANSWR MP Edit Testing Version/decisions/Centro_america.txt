@@ -1,0 +1,116 @@
+political_decisions = {
+        centro	  = {
+        picture = form_USCA
+        potential = {
+            OR = {                
+                tag = GUA
+                tag = YUC
+                tag = NIC  
+                tag = CHP 
+                tag = ELS
+                tag = HON           
+            }
+            NOT = { exists = UCA }
+			
+        }
+
+        allow = {         
+            war = no          
+            GUA = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           CHP = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           YUC = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           NIC = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           HON = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = UCA   
+            NIC = {
+				all_core = { add_core = UCA }
+			}
+            CHP = {
+				all_core = { add_core = UCA }
+			}
+            ELS = {
+				all_core = { add_core = UCA }
+			}
+            HON = {
+				all_core = { add_core = UCA }
+			}
+            YUC = {
+				all_core = { add_core = UCA }
+			}
+            
+            GUA = {
+				all_core = { add_core = UCA }
+			}
+            
+            PNM = {
+				all_core = { add_core = UCA }
+			}
+            add_accepted_culture = mayan
+            inherit = NIC
+            inherit = YUC
+            inherit = GUA      
+            inherit = PNM 
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

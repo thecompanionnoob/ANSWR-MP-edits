@@ -1,0 +1,75 @@
+political_decisions = {
+        Judea  = {
+        picture = Bulgaria
+        potential = {
+            OR = {                
+                tag = ISR
+                
+                                
+            }
+            NOT = {has_global_flag = judios}
+			
+        }
+
+        allow = {         
+            war = no           
+            SYR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           LBN = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+            HDJ = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }         
+        }
+		
+        
+
+        effect = {                
+            prestige = 10
+            set_global_flag= judios
+            SYR = {
+				all_core = { add_core = ISR }
+			}
+            LBN = {
+				all_core = { add_core = ISR }
+			}
+            HDJ = {
+				all_core = { add_core = ISR }
+			}
+            inherit = SYR
+            inherit = LBN
+            inherit = HDJ
+            government = hms_government 
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

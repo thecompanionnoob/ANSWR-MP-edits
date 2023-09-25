@@ -1,0 +1,76 @@
+political_decisions = {
+        Peru  = {
+        picture = reunite_peru
+        potential = {
+            OR = {                
+                tag = ARE
+                
+                                
+            }
+            NOT = { exists = PEU }
+
+        }
+
+        allow = {         
+            war = no           
+            HUA = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+             SPU = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }  
+             ARE = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = PEU
+            HUA = {
+				all_core = { add_core = PEU }
+			}
+            SPU = {
+				all_core = { add_core = PEU }
+			}
+            ARE = {
+				all_core = { add_core = PEU }
+			}
+            inherit = HUA
+            inherit = SPU
+            inherit = ARE
+            add_accepted_culture = quechua
+            add_accepted_culture = aimara
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

@@ -1,0 +1,62 @@
+political_decisions = {
+        Inca  = {
+        picture = form_Inca_empire
+        potential = {
+            OR = {                
+                tag = CSK
+                
+                                
+            }
+            NOT = { exists = INC }
+	    	
+        }
+
+        allow = {         
+            war = no           
+            CSK = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+             BWK = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }     
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = INC
+            CSK = {
+				all_core = { add_core = INC }
+			}
+            BWK = {
+				all_core = { add_core = INC }
+			}
+            
+            inherit = CSK
+            inherit = BWK           
+            add_accepted_culture = pacinian
+            add_accepted_culture = aimara
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

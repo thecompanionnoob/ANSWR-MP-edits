@@ -1,0 +1,6 @@
+owner = WNN
+controller = WNN
+add_core = WNN
+trade_goods = timber
+terrain = new_world_boreal
+life_rating = 31

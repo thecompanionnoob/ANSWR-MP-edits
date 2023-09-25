@@ -1,0 +1,33 @@
+political_decisions = {        
+    Holy_Aus  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = HAE
+                                
+            }
+            NOT = {has_global_flag = Aus}	
+        }
+
+        allow = {         
+            war = no           
+            money = 600000 
+        }
+		
+        
+
+        effect = {                
+            money = -600000 
+            set_global_flag = Aus
+            2495 = {secede_province = THIS}
+            2503 = {secede_province = THIS}
+            2605 = {secede_province = THIS}  
+            2507 = {secede_province = THIS}   
+            2603 = {secede_province = THIS} 
+            2601 = {secede_province = THIS}          			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

@@ -1,0 +1,1819 @@
+#Pomerania Region (804000) #see Germany.txt for balance of region
+#under the rule of Prussia 1836
+#Stettin (484000/121000 POPS) #Part of Poland since 1945
+546 = {
+    aristocrats = {
+        culture = north_german
+        religion = ketronant
+        size = 3250
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = ketronant
+        size = 4500
+    }
+
+    officers = {
+        culture = north_german
+        religion = ketronant
+        size = 350
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = ketronant
+        size = 1125
+    }
+
+    artisans = {
+        culture = north_german
+        religion = ketronant
+        size = 8250
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = ketronant
+        size = 6300
+    }
+
+    farmers = {
+        culture = north_german
+        religion = ketronant
+        size = 147125
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 1100
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 1100
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 400
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 4920
+    }
+}
+#Kolberg (160000/40000 POPS) #Part of Poland since 1945
+679 = {
+    aristocrats = {
+        culture = north_german
+        religion = ketronant
+        size = 350
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = ketronant
+        size = 375
+    }
+
+    artisans = {
+        culture = north_german
+        religion = ketronant
+        size = 1900
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = ketronant
+        size = 1000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = ketronant
+        size = 34375
+    }
+
+    clergymen = {
+        culture = western_slavic
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = western_slavic
+        religion = prosperity
+        size = 100
+    }
+
+    soldiers = {
+        culture = western_slavic
+        religion = prosperity
+        size = 100
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = prosperity
+        size = 1825
+    }
+}
+#Koslin (160000/40000 POPS) #Part of Poland since 1945
+680 = {
+    aristocrats = {
+        culture = north_german
+        religion = ketronant
+        size = 250
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = ketronant
+        size = 250
+    }
+
+    artisans = {
+        culture = north_german
+        religion = ketronant
+        size = 1350
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = ketronant
+        size = 1000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = ketronant
+        size = 24150
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = ketronant
+        size = 100
+    }
+
+    artisans = {
+        culture = north_german
+        religion = ketronant
+        size = 550
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = ketronant
+        size = 100
+    }
+
+    farmers = {
+        culture = north_german
+        religion = ketronant
+        size = 10250
+    }
+
+    clergymen = {
+        culture = western_slavic
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = western_slavic
+        religion = prosperity
+        size = 100
+    }
+
+    soldiers = {
+        culture = western_slavic
+        religion = prosperity
+        size = 100
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = prosperity
+        size = 1825
+    }
+}
+#Brandenburg Region (208000) #see Poland.txt for balance of region
+#under the rule of Prussia 1836
+#Kustrin (208000/52000 POPS) #Part of Poland since 1945
+681 = {
+    aristocrats = {
+        culture = north_german
+        religion = ketronant
+        size = 525
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = ketronant
+        size = 450
+    }
+
+    artisans = {
+        culture = north_german
+        religion = ketronant
+        size = 2400
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = ketronant
+        size = 2000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = ketronant
+        size = 46425
+    }
+}
+#West Prussia Region (688000)
+#under the rule of Prussia in 1836
+#Danzig (76000/19000 POPS)
+690 = {
+    aristocrats = {
+        culture = north_german
+        religion = ketronant
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = ketronant
+        size = 375
+    }
+
+    officers = {
+        culture = north_german
+        religion = ketronant
+        size = 200
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = ketronant
+        size = 100
+    }
+
+    artisans = {
+        culture = north_german
+        religion = ketronant
+        size = 9500
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = ketronant
+        size = 125
+    }
+
+    farmers = {
+        culture = north_german
+        religion = ketronant
+        size = 1100
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = prosperity
+        size = 275
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 5000
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 1875
+    }
+}
+#Tuchel (180000/45000 POPS)
+691 = {
+    aristocrats = {
+        culture = north_german
+        religion = ketronant
+        size = 800
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = ketronant
+        size = 250
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = ketronant
+        size = 375
+    }
+
+    farmers = {
+        culture = north_german
+        religion = ketronant
+        size = 23825
+    }
+
+    clergymen = {
+        culture = western_slavic
+        religion = prosperity
+        size = 100
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = prosperity
+        size = 3200
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = ketronant
+        size = 100
+    }
+
+    artisans = {
+        culture = north_german
+        religion = ketronant
+        size = 100
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = ketronant
+        size = 100
+    }
+
+    farmers = {
+        culture = north_german
+        religion = ketronant
+        size = 925
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 2200
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 13425
+    }
+}
+#Deutsche Krone (128000/32000 POPS)
+692 = {
+    aristocrats = {
+        culture = north_german
+        religion = ketronant
+        size = 625
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = ketronant
+        size = 175
+    }
+
+    artisans = {
+        culture = north_german
+        religion = ketronant
+        size = 1250
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = ketronant
+        size = 1000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = ketronant
+        size = 25950
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 350
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 2625
+    }
+}
+#Elbing (148000/37000 POPS)
+693 = {
+
+    aristocrats = {
+        culture = north_german
+        religion = prosperity
+        size = 625
+    }
+    clergymen = {
+        culture = north_german
+        religion = prosperity
+        size = 1000
+    }
+
+    artisans = {
+        culture = north_german
+        religion = prosperity
+        size = 5450
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 3000
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 47475
+    }
+}
+#Torun (156000/44000 POPS)
+694 = {
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 2850
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 1225
+    }
+
+    artisans = {
+        culture = north_german
+        religion = prosperity
+        size = 5300
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = prosperity
+        size = 3250
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 54225
+    }
+}
+#East Prussia Region (396000) #see Russia.txt and Lithuania.txt for balance of region
+#under the rule of Prussia in 1836
+#Allenstein (396000/99000 POPS)
+696 = {
+    aristocrats = {
+        culture = north_german
+        religion = prosperity
+        size = 2000
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 8250
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 8250
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = prosperity
+        size = 3000
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 67625
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 11800
+    }
+}
+#Konigsberg (484000/121000 POPS)
+695 = {
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 2250
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = prosperity
+        size = 1300
+    }
+
+    officers = {
+        culture = polish
+        religion = prosperity
+        size = 250
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = prosperity
+        size = 1000
+    }
+
+    artisans = {
+        culture = north_german
+        religion = prosperity
+        size = 250
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 9000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = prosperity
+        size = 94625
+    }
+
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 250
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 100
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 35650
+    }
+}
+#Gumbinnen (228000/57000 POPS) #now part of Russia
+697 = {
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 1100
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 1250
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 9000
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 2500
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 48500
+    }
+
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 250
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 4500
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 250
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 31800
+    }
+}
+
+
+#Posen-Wielkopolska Region (1704000)
+#under the rule of Prussia in 1836
+#Posen (540000/135000 POPS)
+699 = {
+    aristocrats = {
+        culture = north_german
+        religion = ketronant
+        size = 2000
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = ketronant
+        size = 700
+    }
+
+    officers = {
+        culture = north_german
+        religion = ketronant
+        size = 350
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = ketronant
+        size = 325
+    }
+
+    artisans = {
+        culture = north_german
+        religion = ketronant
+        size = 2650
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = ketronant
+        size = 1000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = ketronant
+        size = 26825
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = ketronant
+        size = 175
+    }
+
+    artisans = {
+        culture = north_german
+        religion = ketronant
+        size = 1750
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = ketronant
+        size = 175
+    }
+
+    farmers = {
+        culture = north_german
+        religion = ketronant
+        size = 15190
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 500
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 700
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 4000
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 2000
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 74800
+    }
+}
+#Bromberg (212000/53000 POPS)
+700 = {
+    aristocrats = {
+        culture = north_german
+        religion = ketronant
+        size = 800
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = ketronant
+        size = 200
+    }
+
+    artisans = {
+        culture = north_german
+        religion = ketronant
+        size = 1050
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = ketronant
+        size = 1150
+    }
+
+    farmers = {
+        culture = north_german
+        religion = ketronant
+        size = 20150
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = ketronant
+        size = 100
+    }
+
+    artisans = {
+        culture = north_german
+        religion = ketronant
+        size = 350
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = ketronant
+        size = 100
+    }
+
+    farmers = {
+        culture = north_german
+        religion = ketronant
+        size = 6525
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 250
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 225
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 1200
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 200
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 22375
+    }
+}
+#Gniezno (456000/116000 POPS)
+701 = {
+    aristocrats = {
+        culture = north_german
+        religion = ketronant
+        size = 1750
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = ketronant
+        size = 125
+    }
+
+    artisans = {
+        culture = north_german
+        religion = ketronant
+        size = 750
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = ketronant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = ketronant
+        size = 52125
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 500
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 825
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 4500
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 2000
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 69625
+    }
+}
+#under the rule of Russia in 1836 (496000)
+#Lodz (244000/61000 POPS)
+712 = {
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 1500
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = prosperity
+        size = 225
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 425
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 2000
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 27850
+    }
+
+    serfs = {
+        culture = polish
+        religion = prosperity
+        size = 5000
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 225
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 23700
+    }
+}
+#Kalicz (252000/63000 POPS)
+717 = {
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 1450
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 500
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 2600
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 40000
+    }
+
+    serfs = {
+        culture = polish
+        religion = prosperity
+        size = 5000
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 200
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 33750
+    }
+}
+#Malopolska Region (3004000)
+#under the rule of Krakow in 1836
+#under the rule of Austria in 1836
+#under the rule of Russia in 1836 (1368000)
+#Radom (444000/111000 POPS)
+713 = {
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 2525
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = prosperity
+        size = 825
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 950
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 4900
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 68600
+    }
+
+    serfs = {
+        culture = polish
+        religion = prosperity
+        size = 20000
+    }
+}
+#Lublin (476000/119000 POPS)
+715 = {
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 2700
+    }
+
+    officers = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 825
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 4200
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 56275
+    }
+
+    serfs = {
+        culture = polish
+        religion = prosperity
+        size = 20000
+    }
+
+    aristocrats = {
+        culture = ukrainian
+        religion = orthodox
+        size = 100
+    }
+
+    officers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = ukrainian
+        religion = orthodox
+        size = 200
+    }
+
+    soldiers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = ukrainian
+        religion = orthodox
+        size = 1100
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 20700
+    }
+}
+#Kielce (448000/112000 POPS)
+716 = {
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 2550
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 950
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 125
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 4900
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 49600
+    }
+
+    serfs = {
+        culture = polish
+        religion = prosperity
+        size = 40000
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 125
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 400
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 585
+    }
+}
+#Galicia Region (596000) #see Ukraine.txt for balance of region
+#under the rule of Austria in 1836
+#Przemysl (596000/149000 POPS)
+705 = {
+    clergymen = {
+        culture = ukrainian
+        religion = orthodox
+        size = 175
+    }
+
+    artisans = {
+        culture = ukrainian
+        religion = orthodox
+        size = 950
+    }
+
+    soldiers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 7500
+    }
+
+    serfs = {
+        culture = ukrainian
+        religion = orthodox
+        size = 17700
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 3400
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 1175
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 5750
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 12500
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 45000
+    }
+
+    serfs = {
+        culture = polish
+        religion = prosperity
+        size = 50000
+    }
+}
+#Mazovia Region (2224000)
+#under the rule of Russia in 1836
+#Warsaw (720000/180000 POPS)
+706 = {
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 4250
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = prosperity
+        size = 500
+    }
+
+    officers = {
+        culture = polish
+        religion = prosperity
+        size = 550
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 1500
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 10000
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 11100
+    }
+
+    craftsmen = {
+        culture = polish
+        religion = prosperity
+        size = 5000
+    }
+
+    clerks = {
+        culture = polish
+        religion = prosperity
+        size = 1000
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 71950
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 6500
+    }
+
+    serfs = {
+        culture = polish
+        religion = prosperity
+        size = 80000
+    }
+
+    officers = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 1500
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 2400
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = ketronant
+        size = 1000
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = ketronant
+        size = 1000
+    }
+
+    officers = {
+        culture = north_german
+        religion = ketronant
+        size = 100
+    }
+
+    artisans = {
+        culture = north_german
+        religion = ketronant
+        size = 2500
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = ketronant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = ketronant
+        size = 23400
+    }
+}
+#Suwalki (196000/49000 POPS)
+707 = {
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 1150
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 375
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 1900
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = prosperity
+        size = 3750
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 40625
+    }
+
+    serfs = {
+        culture = polish
+        religion = prosperity
+        size = 5000
+    }
+
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 1250
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 1000
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 24625
+    }
+}
+#Plock (396000/99000 POPS)
+708 = {
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 2050
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 875
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 4400
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 3000
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 40675
+    }
+
+    serfs = {
+        culture = polish
+        religion = prosperity
+        size = 40000
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = ketronant
+        size = 100
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = ketronant
+        size = 100
+    }
+
+    artisans = {
+        culture = north_german
+        religion = ketronant
+        size = 275
+    }
+
+    farmers = {
+        culture = north_german
+        religion = ketronant
+        size = 2690
+    }
+}
+#Lomza (200000/50000 POPS)
+709 = {
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 1150
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 3000
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 425
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 2150
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 50275
+    }
+
+    serfs = {
+        culture = polish
+        religion = prosperity
+        size = 5000
+    }
+}
+#Skierniewicz (436000/109000 POPS)
+710 = {
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 2500
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 3000
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 925
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 4750
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 36825
+    }
+
+    serfs = {
+        culture = polish
+        religion = prosperity
+        size = 20000
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 1000
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 2500
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 41725
+    }
+}
+#Siedlice (472000/118000 POPS)
+711 = {
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 2700
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 3000
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 1100
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 5250
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 46050
+    }
+
+    serfs = {
+        culture = polish
+        religion = prosperity
+        size = 50000
+    }
+}
+#Podlachia Region (320000)  #see Belarus.txt for balance of region
+#under the rule of Russia in 1836
+#Bialystok (320000/80000 POPS)
+719 = {
+    clergymen = {
+        culture = byelorussian
+        religion = orthodox
+        size = 325
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = orthodox
+        size = 250
+    }
+
+    soldiers = {
+        culture = byelorussian
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = orthodox
+        size = 19275
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 1900
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 250
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 1500
+    }
+
+    serfs = {
+        culture = polish
+        religion = prosperity
+        size = 25500
+    }
+
+    clergymen = {
+        culture = byelorussian
+        religion = prosperity
+        size = 100
+    }
+
+    soldiers = {
+        culture = byelorussian
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = prosperity
+        size = 750
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = prosperity
+        size = 12350
+    }
+
+    farmers = {
+        culture = polish
+        religion = orthodox
+        size = 4525
+    }
+
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 250
+    }
+}

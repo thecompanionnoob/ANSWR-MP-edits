@@ -1,0 +1,6 @@
+owner = ARE
+controller = ARE
+add_core = ARE
+trade_goods = sulphur
+terrain = new_world_semidesert
+life_rating = 33

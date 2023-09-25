@@ -1,0 +1,98 @@
+political_decisions = {
+        skandinaviska_unionn = {
+        picture = form_scandinavia
+        potential = {
+            OR = {                
+                tag = SAP
+                tag = NOD
+                tag = FIN    
+                tag = VLA            
+            }
+            NOT = { exists = SCA }
+			
+        }
+
+        allow = {         
+            war = no          
+            SAP = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           NOD = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           FIN = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+
+           VLA = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = SCA    
+            SAP = {
+				all_core = { add_core = SCA }
+			}
+            NOD = {
+				all_core = { add_core = SCA }
+			}
+            
+            FIN = {
+				all_core = { add_core = SCA }
+			}
+            
+            VLA = {
+				all_core = { add_core = SCA }
+			}
+
+            inherit = SAP
+            inherit = NOD 
+            inherit = FIN     
+            inherit = VLA
+            add_accepted_culture = swedish
+            add_accepted_culture = norwegian
+            add_accepted_culture = finnish
+            add_accepted_culture = danish
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

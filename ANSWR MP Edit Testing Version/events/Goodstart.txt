@@ -1,0 +1,35 @@
+country_event = {
+	id = 25221
+	title = "EVTNAME25221"
+	desc = "EVTDESC25221"
+	
+	trigger = {
+	    NOT = {
+		    has_country_flag = money1_Start1
+		}
+	}
+	 
+	mean_time_to_happen = {
+		days = 1
+	}
+    immediate = {
+		set_country_flag = money1_Start1
+	    small_arms = 200
+	    canned_food = 300
+            opium = 350
+            cement = 600
+            machine_parts = 300
+		artillery = 200
+		luxury_clothes = 100
+		wine = 200
+		liquor = 200
+		ammunition = 200
+		clipper_convoy = 250
+		set_country_flag = money1_Start1
+		machine_parts = 400
+    }
+	
+	option = {
+		name = "EVTOPTA25221"
+	}
+}

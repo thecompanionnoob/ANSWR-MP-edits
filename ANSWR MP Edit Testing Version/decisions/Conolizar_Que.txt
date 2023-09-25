@@ -1,0 +1,34 @@
+political_decisions = {        
+    Que  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = QUE
+                tag = CAN
+                                
+            }
+            NOT = {has_global_flag = que}	
+        }
+
+        allow = {         
+            war = no           
+            money = 50000 
+        }
+		
+        
+
+        effect = {                
+            money = -50000
+            set_global_flag= que
+            59 = {secede_province = THIS}
+            9 = {secede_province = THIS}
+            2626 = {secede_province = THIS}
+            59 = { add_core = THIS }
+            9 = { add_core = THIS }
+            2626 = { add_core = THIS }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

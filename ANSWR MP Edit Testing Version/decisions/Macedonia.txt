@@ -1,0 +1,95 @@
+political_decisions = {
+        macedonia  = {
+        picture = empire
+        potential = {
+            OR = {                
+                tag = MON
+                                
+            }
+            NOT = { exists = MCD }
+			
+        }
+
+        allow = {         
+            war = no           
+            JAM = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           NSR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+            ALB = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           MON = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+        }
+		
+        
+
+        effect = {                
+            prestige = 10
+            change_tag = MCD          
+            JAM = {
+				all_core = { add_core = MCD }
+			}
+            NSR = {
+				all_core = { add_core = MCD }
+			}
+            ALB = {
+				all_core = { add_core = MCD }
+			}
+            MON = {
+				all_core = { add_core = MCD }
+			}
+            IST = {
+				all_core = { add_core = MCD }
+			}
+            TUR = {
+				all_core = { add_core = MCD }
+			}
+            inherit = JAM
+            inherit = NSR
+            inherit = ALB           
+            add_accepted_culture = greek
+
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

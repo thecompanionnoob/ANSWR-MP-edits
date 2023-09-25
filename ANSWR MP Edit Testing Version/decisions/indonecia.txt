@@ -1,0 +1,122 @@
+political_decisions = {
+        indonesia  = {
+        picture = indonesia
+        potential = {
+            OR = {                
+                tag = JAV
+                tag = BAL  
+                tag = EQG
+                tag = SLW   
+                tag = SWK        
+            }
+            NOT = { exists = INO }
+			
+        }
+
+        allow = {         
+            war = no  
+             JAV = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           BAL = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            EQG = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        SLW = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+         SWK = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+          owns = 1433
+          owns = 1447
+          owns = 1449
+          owns = 1450
+          owns = 1448
+          owns = 1447	  
+        }
+		
+        
+
+        effect = {                
+            prestige = 30
+            change_tag = INO
+            JAV = {
+				all_core = { add_core = INO }
+			}
+            BAL = {
+				all_core = { add_core = INO }
+			}
+            EQG = {
+				all_core = { add_core = INO }
+			}
+            SLW = {
+				all_core = { add_core = INO }
+			}
+            SWK = {
+				all_core = { add_core = INO }
+			}
+            inherit = JAV
+            inherit = BAL
+            inherit = EQG
+            inherit = SLW
+            inherit = SWK
+           1433 = { add_core = INO }
+           1447 = { add_core = INO }
+           1449 = { add_core = INO }
+           1450 = { add_core = INO }
+           1448 = { add_core = INO }
+           1447 = { add_core = INO }
+            add_accepted_culture = moluccan
+            add_accepted_culture = australian
+            add_accepted_culture = javan
+            add_accepted_culture = sumatranmalay
+            add_accepted_culture = malay
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

@@ -1,0 +1,85 @@
+political_decisions = {
+        Cusco  = {
+        picture = form_Inca_empire
+        potential = {
+            OR = {                
+                tag = HUA
+                tag = SPU
+                                
+            }
+            NOT = { exists = CSK }
+	    	
+        }
+
+        allow = {         
+            war = no           
+            HUA = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+              SPU = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }  
+              ARE = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+               ECU = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            capital = 2302
+            change_tag = CSK
+            HUA = {
+				all_core = { add_core = CSK }
+			}
+            ARE = {
+				all_core = { add_core = CSK }
+			}
+            SPU = {
+				all_core = { add_core = CSK }
+			}
+            ECU = {
+				all_core = { add_core = CSK }
+			}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}
