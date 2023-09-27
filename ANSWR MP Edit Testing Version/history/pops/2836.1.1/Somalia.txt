@@ -1,121 +1,121 @@
-#file includes modern oromoa and Djibouti
+#file includes modern tigraya and Djibouti
 #Benadir Region (392000)
 #under the loose rule of Muscat in 1836
 #Mogadishu (216000/54000 POPS)
 1868 = {
     aristocrats = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 1050
     }
 
     bureaucrats = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 100
     }
 
     officers = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 75
     }
 
     clergymen = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 550
     }
 
     artisans = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 2175
     }
 
     soldiers = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 1125
     }
 
     farmers = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 58000
     }
 
     slaves = {
-        culture = cushitic
-        religion = animist
+        culture = tigray
+        religion = protestant
         size = 6000
     }
 }
 #Kismayo (84000/21000 POPS)
 1870 = {
     aristocrats = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 275
     }
 
     clergymen = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 150
     }
 
     artisans = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 650
     }
 
     soldiers = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 13775
     }
 
     aristocrats = {
-        culture = cushitic
-        religion = animist
+        culture = tigray
+        religion = protestant
         size = 75
     }
 
     clergymen = {
-        culture = cushitic
-        religion = animist
+        culture = tigray
+        religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = cushitic
-        religion = animist
+        culture = tigray
+        religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = cushitic
-        religion = animist
+        culture = tigray
+        religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = cushitic
-        religion = animist
+        culture = tigray
+        religion = protestant
         size = 4575
     }
 
     slaves = {
-        culture = cushitic
-        religion = animist
+        culture = tigray
+        religion = protestant
         size = 1100
     }
 }
@@ -123,32 +123,32 @@
 #Baidoa (92000/23000 POPS)
 1869 = {
     aristocrats = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 450
     }
 
     clergymen = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 225
     }
 
     artisans = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 1150
     }
 
     soldiers = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 1175
     }
 
     farmers = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 20000
     }
 }
@@ -157,88 +157,88 @@
 #Hobye (76000/19000 POPS)
 1871 = {
     aristocrats = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 350
     }
 
     clergymen = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 175
     }
 
     artisans = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 775
     }
 
     soldiers = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 15500
     }
 
     slaves = {
-        culture = cushitic
-        religion = animist
+        culture = tigray
+        religion = protestant
         size = 2000
     }
 }
 #Busaso (116000/29000 POPS)
 1872 = {
     aristocrats = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 540
     }
 
     bureaucrats = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 50
     }
 
     officers = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 275
     }
 
     artisans = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 1175
     }
 
     soldiers = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 20950
     }
 
     slaves = {
-        culture = cushitic
-        religion = animist
+        culture = tigray
+        religion = protestant
         size = 5000
     }
 }
@@ -247,88 +247,88 @@
 #Berbera (188000/47000 POPS)
 1873 = {
     aristocrats = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 890
     }
 
     bureaucrats = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 10
     }
 
     officers = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 450
     }
 
     artisans = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 1850
     }
 
     soldiers = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 1750
     }
 
     farmers = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 32000
     }
 
     slaves = {
-        culture = oromo
-        religion = animist
+        culture = tigray
+        religion = protestant
         size = 7000
     }
 
     slaves = {
-        culture = cushitic
-        religion = animist
+        culture = tigray
+        religion = protestant
         size = 3000
     }
 }
 #Zayla (32000/8000 POPS)
 1874 = {
     aristocrats = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 150
     }
 
     clergymen = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 400
     }
 
     soldiers = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 75
     }
 
     farmers = {
-        culture = oromo
-        religion = sunni
+        culture = tigray
+        religion = protestant
         size = 7300
     }
 }

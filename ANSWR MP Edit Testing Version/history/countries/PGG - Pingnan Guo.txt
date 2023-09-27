@@ -1,6 +1,6 @@
 capital = 1603
 primary_culture = cantan
-religion = mahayana
+religion = protestant
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

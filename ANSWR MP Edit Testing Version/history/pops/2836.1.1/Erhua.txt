@@ -5,91 +5,91 @@
 1479 = {
     aristocrats = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     bureaucrats = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1000
     }
 
     officers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 750
     }
 
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 150
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 120
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 200
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 91600
     }
 
     aristocrats = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1025
     }
 
     officers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 135
     }
 
     clergymen = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 225
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 5600
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1325
     }
 
     farmers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 145100
     }
 
     slaves = {
         culture = mongol
-        religion = gelugpa
+        religion = protestant
         size = 31225
     }
 }
@@ -102,36 +102,36 @@
 
     clergymen = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 700
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 3500
     }
 
     farmers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 181150
     }
 
     slaves = {
         culture = mongol
-        religion = gelugpa
+        religion = protestant
         size = 72720
     }
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 72720
     }
 }
@@ -140,37 +140,37 @@
 
     clergymen = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1400
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 6000
     }
 
     slaves = {
         culture = mongol
-        religion = gelugpa
+        religion = protestant
         size = 21150
     }
 
     labourers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 145700
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 98200
     }
 }
@@ -179,35 +179,35 @@
 
     clergymen = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1850
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 700
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1200
     }
 
     labourers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 127550
     }
     labourers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 87550
     }
     slaves = {
         culture = mongol
-        religion = gelugpa
+        religion = protestant
         size = 57150
     }
 }
@@ -216,55 +216,55 @@
 1552 = {
     aristocrats = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 3750
     }
 
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = protestant
         size = 650
     }
 
     bureaucrats = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 300
     }
 
     officers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 300
     }
 
     clergymen = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1000
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     labourers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 104100
     }
 
     slaves = {
         culture = mongol
-        religion = gelugpa
+        religion = protestant
         size = 81225
     }
 
@@ -274,30 +274,30 @@
 
     clergymen = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 300
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1900
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1200
     }
 
     labourers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 133950
     }
     slaves = {
         culture = mongol
-        religion = gelugpa
+        religion = protestant
         size = 29225
     }
 }
@@ -306,31 +306,31 @@
 
     clergymen = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 225
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 750
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 40800
     }
 
     slaves = {
         culture = mongol
-        religion = gelugpa
+        religion = protestant
         size = 65000
     }
 
@@ -341,49 +341,49 @@
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = protestant
         size = 325
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = protestant
         size = 1375
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = protestant
         size = 3000
     }
 
     slaves = {
         culture = mongol
-        religion = gelugpa
+        religion = protestant
         size = 94650
     }
 
     clergymen = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 200
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1000
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1035650
     }
 }
@@ -393,55 +393,55 @@
 1082 = {
     aristocrats = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1500
     }
 
     bureaucrats = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1200
     }
 
     officers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 475
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 3900
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1200
     }
 
     farmers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 131075
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 51050
     }
 }
@@ -450,25 +450,25 @@
 
     clergymen = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 375
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1000
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1200
     }
 
     farmers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 192975
     }
 }
@@ -477,25 +477,25 @@
 
     clergymen = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 800
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1750
     }
 
     farmers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 80575
     }
 }
@@ -504,25 +504,25 @@
 
     clergymen = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 2000
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1200
     }
 
     farmers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 72375
     }
 
@@ -532,25 +532,25 @@
 
     clergymen = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 300
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1000
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 1200
     }
 
     farmers = {
         culture = beifaren
-        religion = mahayana
+        religion = protestant
         size = 100525
     }
 }

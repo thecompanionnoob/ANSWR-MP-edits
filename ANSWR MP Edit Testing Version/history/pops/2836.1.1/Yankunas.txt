@@ -2,38 +2,38 @@
 #Bilma (36000/9000 POPS)
 1817 = {
     aristocrats = {
-        culture = yankun
+        culture = tuareg
         religion = kaura
         size = 1200
     }
 
     clergymen = {
-        culture = yankun
+        culture = tuareg
         religion = kaura
         size = 500
     }
 
     artisans = {
-        culture = yankun
+        culture = tuareg
         religion = kaura
         size = 8000
     }
 
     soldiers = {
-        culture = yankun
+        culture = tuareg
         religion = kaura
         size = 2000
     }
 
     farmers = {
-        culture = yankun
+        culture = tuareg
         religion = kaura
         size = 21500
     }
 
     farmers = {
         culture = bedouin
-        religion = harami
+        religion = protestant
         size = 33625
     }
 }

@@ -1,6 +1,6 @@
 capital = 860
 primary_culture = westturkish
-religion = sunni
+religion = protestant
 government = trading_republic
 plurality = 10
 nationalvalue = nv_equality

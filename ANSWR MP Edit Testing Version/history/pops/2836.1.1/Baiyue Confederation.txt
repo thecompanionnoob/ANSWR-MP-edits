@@ -9,7 +9,7 @@
 	 } 
 	officers = {
 		culture = hui
-		religion = sunni
+		religion = protestant
 		size = 89
 	 } 
 	farmers = {
@@ -19,7 +19,7 @@
 	 } 
 	clerks = {
 		culture = hui
-		religion = sunni
+		religion = protestant
 		size = 8
 	 } 
 	clergymen = {
@@ -29,7 +29,7 @@
 	 } 
 	capitalists = {
 		culture = hui
-		religion = sunni
+		religion = protestant
 		size = 309
 	 } 
 	bureaucrats = {
@@ -44,7 +44,7 @@
 	 } 
 	officers = {
 		culture = hui
-		religion = xifang
+		religion = protestant
 		size = 22
 	 } 
 	farmers = {
@@ -54,7 +54,7 @@
 	 } 
 	clerks = {
 		culture = hui
-		religion = xifang
+		religion = protestant
 		size = 2
 	 } 
 	clergymen = {
@@ -64,7 +64,7 @@
 	 } 
 	capitalists = {
 		culture = hui
-		religion = xifang
+		religion = protestant
 		size = 77
 	 } 
 	bureaucrats = {
@@ -79,7 +79,7 @@
 	 } 
 	officers = {
 		culture = yi
-		religion = animist
+		religion = protestant
 		size = 178
 	 } 
 	farmers = {
@@ -89,7 +89,7 @@
 	 } 
 	clerks = {
 		culture = yi
-		religion = animist
+		religion = protestant
 		size = 17
 	 } 
 	clergymen = {
@@ -99,7 +99,7 @@
 	 } 
 	capitalists = {
 		culture = yi
-		religion = animist
+		religion = protestant
 		size = 614
 	 } 
 	bureaucrats = {
@@ -114,7 +114,7 @@
 	 } 
 	officers = {
 		culture = yi
-		religion = xifang
+		religion = protestant
 		size = 44
 	 } 
 	farmers = {
@@ -124,7 +124,7 @@
 	 } 
 	clerks = {
 		culture = yi
-		religion = xifang
+		religion = protestant
 		size = 4
 	 } 
 	clergymen = {
@@ -134,7 +134,7 @@
 	 } 
 	capitalists = {
 		culture = yi
-		religion = xifang
+		religion = protestant
 		size = 154
 	 } 
 	bureaucrats = {
@@ -149,7 +149,7 @@
 	 } 
 	officers = {
 		culture = nanfaren
-		religion = mahayana
+		religion = protestant
 		size = 1954
 	 } 
 	farmers = {
@@ -159,7 +159,7 @@
 	 } 
 	clerks = {
 		culture = nanfaren
-		religion = mahayana
+		religion = protestant
 		size = 186
 	 } 
 	clergymen = {
@@ -169,7 +169,7 @@
 	 } 
 	capitalists = {
 		culture = nanfaren
-		religion = mahayana
+		religion = protestant
 		size = 6757
 	 } 
 	bureaucrats = {
@@ -184,7 +184,7 @@
 	 } 
 	officers = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 488
 	 } 
 	farmers = {
@@ -194,7 +194,7 @@
 	 } 
 	clerks = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 46
 	 } 
 	clergymen = {
@@ -204,7 +204,7 @@
 	 } 
 	capitalists = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 1689
 	 } 
 	bureaucrats = {
@@ -223,7 +223,7 @@
 	 } 
 	officers = {
 		culture = nanfaren
-		religion = xifang
+		religion = protestant
 		size = 397
 	 } 
 	soldiers = {
@@ -233,7 +233,7 @@
 	 } 
 	soldiers = {
 		culture = nanfaren
-		religion = xifang
+		religion = protestant
 		size = 1594
 	 } 
 	artisans = {
@@ -243,7 +243,7 @@
 	 } 
 	artisans = {
 		culture = nanfaren
-		religion = xifang
+		religion = protestant
 		size = 5311
 	 } 
 	bureaucrats = {
@@ -253,7 +253,7 @@
 	 } 
 	bureaucrats = {
 		culture = nanfaren
-		religion = xifang
+		religion = protestant
 		size = 133
 	 } 
 	capitalists = {
@@ -263,7 +263,7 @@
 	 } 
 	capitalists = {
 		culture = nanfaren
-		religion = xifang
+		religion = protestant
 		size = 663
 	 } 
 	clergymen = {
@@ -273,7 +273,7 @@
 	 } 
 	clergymen = {
 		culture = nanfaren
-		religion = xifang
+		religion = protestant
 		size = 1328
 	 } 
 	artisans = {
@@ -283,7 +283,7 @@
 	 } 
 	artisans = {
 		culture = nanfaren
-		religion = xifang
+		religion = protestant
 		size = 642
 	 } 
 	farmers = {
@@ -293,7 +293,7 @@
 	 } 
 	farmers = {
 		culture = nanfaren
-		religion = xifang
+		religion = protestant
 		size = 29757
 	 } 
 	farmers = {
@@ -303,7 +303,7 @@
 	 } 
 	farmers = {
 		culture = zhuang
-		religion = xifang
+		religion = protestant
 		size = 98714
 	 } 
 	farmers = {
@@ -313,7 +313,7 @@
 	 } 
 	farmers = {
 		culture = miao
-		religion = xifang
+		religion = protestant
 		size = 6638
 	 } 
 	farmers = {
@@ -323,7 +323,7 @@
 	 } 
 	farmers = {
 		culture = cantan
-		religion = xifang
+		religion = protestant
 		size = 6638
 	 } 
 	farmers = {
@@ -333,7 +333,7 @@
 	 } 
 	farmers = {
 		culture = cantan
-		religion = xifang
+		religion = protestant
 		size = 2655
 	 } 
 	farmers = {
@@ -343,7 +343,7 @@
 	 } 
 	farmers = {
 		culture = cantan
-		religion = xifang
+		religion = protestant
 		size = 2655
 	 } 
 	farmers = {
@@ -353,7 +353,7 @@
 	 } 
 	farmers = {
 		culture = cantan
-		religion = xifang
+		religion = protestant
 		size = 7966
 	 } 
 }
@@ -366,7 +366,7 @@
 	 } 
 	officers = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 99
 	 } 
 	soldiers = {
@@ -376,7 +376,7 @@
 	 } 
 	soldiers = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 397
 	 } 
 	farmers = {
@@ -386,7 +386,7 @@
 	 } 
 	farmers = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 2742
 	 } 
 	bureaucrats = {
@@ -396,7 +396,7 @@
 	 } 
 	bureaucrats = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 68
 	 } 
 	capitalists = {
@@ -406,7 +406,7 @@
 	 } 
 	capitalists = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 343
 	 } 
 	clergymen = {
@@ -416,7 +416,7 @@
 	 } 
 	clergymen = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 685
 	 } 
 	farmers = {
@@ -426,7 +426,7 @@
 	 } 
 	farmers = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 334
 	 } 
 	farmers = {
@@ -436,7 +436,7 @@
 	 } 
 	farmers = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 63894
 	 } 
 	farmers = {
@@ -446,7 +446,7 @@
 	 } 
 	farmers = {
 		culture = yi
-		religion = xifang
+		religion = protestant
 		size = 10631
 	 } 
 	 soldiers = {
@@ -456,7 +456,7 @@
 	 } 
 	officers = {
 		culture = yi
-		religion = animist
+		religion = protestant
 		size = 126
 	 } 
 	farmers = {
@@ -466,7 +466,7 @@
 	 } 
 	clerks = {
 		culture = yi
-		religion = animist
+		religion = protestant
 		size = 12
 	 } 
 	clergymen = {
@@ -476,7 +476,7 @@
 	 } 
 	capitalists = {
 		culture = yi
-		religion = animist
+		religion = protestant
 		size = 434
 	 } 
 	bureaucrats = {
@@ -486,32 +486,32 @@
 	 } 
 	soldiers = {
 		culture = nanfaren
-		religion = mahayana 
+		religion = protestant 
 		size = 1993
 	 } 
 	officers = {
 		culture = nanfaren
-		religion = mahayana
+		religion = protestant
 		size = 238
 	 } 
 	farmers = {
 		culture = nanfaren
-		religion = mahayana 
+		religion = protestant 
 		size = 160678
 	 } 
 	clerks = {
 		culture = nanfaren
-		religion = mahayana
+		religion = protestant
 		size = 23
 	 } 
 	clergymen = {
 		culture = nanfaren
-		religion = mahayana
+		religion = protestant
 		size = 1650
 	 } 
 	capitalists = {
 		culture = nanfaren
-		religion = mahayana
+		religion = protestant
 		size = 825
 	 } 
 	bureaucrats = {
@@ -526,7 +526,7 @@
 	 } 
 	officers = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 60
 	 } 
 	farmers = {
@@ -536,7 +536,7 @@
 	 } 
 	clerks = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 6
 	 } 
 	clergymen = {
@@ -546,7 +546,7 @@
 	 } 
 	capitalists = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 206
 	 } 
 	bureaucrats = {
@@ -565,7 +565,7 @@
 	 } 
 	officers = {
 		culture = yi
-		religion = animist
+		religion = protestant
 		size = 215
 	 } 
 	farmers = {
@@ -575,7 +575,7 @@
 	 } 
 	clerks = {
 		culture = yi
-		religion = animist
+		religion = protestant
 		size = 20
 	 } 
 	clergymen = {
@@ -585,7 +585,7 @@
 	 } 
 	capitalists = {
 		culture = yi
-		religion = animist
+		religion = protestant
 		size = 744
 	 } 
 	bureaucrats = {
@@ -600,7 +600,7 @@
 	 } 
 	officers = {
 		culture = hani
-		religion = animist
+		religion = protestant
 		size = 58
 	 } 
 	farmers = {
@@ -610,7 +610,7 @@
 	 } 
 	clerks = {
 		culture = hani
-		religion = animist
+		religion = protestant
 		size = 6
 	 } 
 	clergymen = {
@@ -620,7 +620,7 @@
 	 } 
 	capitalists = {
 		culture = hani
-		religion = animist
+		religion = protestant
 		size = 201
 	 } 
 	bureaucrats = {
@@ -635,7 +635,7 @@
 	 } 
 	officers = {
 		culture = nanfaren
-		religion = mahayana
+		religion = protestant
 		size = 18
 	 } 
 	farmers = {
@@ -645,7 +645,7 @@
 	 } 
 	clerks = {
 		culture = nanfaren
-		religion = mahayana
+		religion = protestant
 		size = 26
 	 } 
 	clergymen = {
@@ -655,7 +655,7 @@
 	 } 
 	capitalists = {
 		culture = nanfaren
-		religion = mahayana
+		religion = protestant
 		size = 935
 	 } 
 	bureaucrats = {
@@ -670,7 +670,7 @@
 	 } 
 	officers = {
 		culture = zhuang
-		religion = animist
+		religion = protestant
 		size = 158
 	 } 
 	farmers = {
@@ -680,7 +680,7 @@
 	 } 
 	clerks = {
 		culture = zhuang
-		religion = animist
+		religion = protestant
 		size = 15
 	 } 
 	clergymen = {
@@ -690,7 +690,7 @@
 	 } 
 	capitalists = {
 		culture = zhuang
-		religion = animist
+		religion = protestant
 		size = 546
 	 } 
 	bureaucrats = {
@@ -705,7 +705,7 @@
 	 } 
 	officers = {
 		culture = yi
-		religion = animist
+		religion = protestant
 		size = 80
 	 } 
 	farmers = {
@@ -715,7 +715,7 @@
 	 } 
 	clerks = {
 		culture = yi
-		religion = animist
+		religion = protestant
 		size = 8
 	 } 
 	clergymen = {
@@ -725,7 +725,7 @@
 	 } 
 	capitalists = {
 		culture = yi
-		religion = animist
+		religion = protestant
 		size = 276
 	 } 
 	bureaucrats = {
@@ -740,7 +740,7 @@
 	 } 
 	officers = {
 		culture = miao
-		religion = animist
+		religion = protestant
 		size = 99
 	 } 
 	farmers = {
@@ -750,7 +750,7 @@
 	 } 
 	clerks = {
 		culture = miao
-		religion = animist
+		religion = protestant
 		size = 9
 	 } 
 	clergymen = {
@@ -760,7 +760,7 @@
 	 } 
 	capitalists = {
 		culture = miao
-		religion = animist
+		religion = protestant
 		size = 343
 	 } 
 	bureaucrats = {
@@ -775,7 +775,7 @@
 	 } 
 	officers = {
 		culture = nanfaren
-		religion = mahayana
+		religion = protestant
 		size = 278
 	 } 
 	farmers = {
@@ -785,7 +785,7 @@
 	 } 
 	clerks = {
 		culture = nanfaren
-		religion = mahayana
+		religion = protestant
 		size = 26
 	 } 
 	clergymen = {
@@ -795,7 +795,7 @@
 	 } 
 	capitalists = {
 		culture = nanfaren
-		religion = mahayana
+		religion = protestant
 		size = 964
 	 } 
 	bureaucrats = {
@@ -810,7 +810,7 @@
 	 } 
 	officers = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 69
 	 } 
 	farmers = {
@@ -820,7 +820,7 @@
 	 } 
 	clerks = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 7
 	 } 
 	clergymen = {
@@ -830,7 +830,7 @@
 	 } 
 	capitalists = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 241
 	 } 
 	bureaucrats = {
@@ -848,7 +848,7 @@
 	 } 
 	officers = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 1277
 	 } 
 	soldiers = {
@@ -858,7 +858,7 @@
 	 } 
 	soldiers = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 5113
 	 } 
 	artisans = {
@@ -868,7 +868,7 @@
 	 } 
 	artisans = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 57045
 	 } 
 	bureaucrats = {
@@ -878,7 +878,7 @@
 	 } 
 	bureaucrats = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 425
 	 } 
 	capitalists = {
@@ -888,7 +888,7 @@
 	 } 
 	capitalists = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 2130
 	 } 
 	clergymen = {
@@ -898,7 +898,7 @@
 	 } 
 	clergymen = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 4260
 	 } 
 	artisans = {
@@ -908,7 +908,7 @@
 	 } 
 	artisans = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 2063
 	 } 
 	farmers = {
@@ -918,47 +918,47 @@
 	 } 
 	farmers = {
 		culture = yue
-		religion = xifang
+		religion = protestant
 		size = 744676
 	 } 
 	farmers = {
 		culture = miao
-		religion = animist 
+		religion = protestant 
 		size = 33000
 	 } 
 	farmers = {
 		culture = miao
-		religion = xifang
+		religion = protestant
 		size = 4066
 	 } 
 	 farmers = {
 		culture = miao
-		religion = animist 
+		religion = protestant 
 		size = 200000
 	 } 
 	farmers = {
 		culture = miao
-		religion = xifang
+		religion = protestant
 		size = 34407
 	 } 
 	farmers = {
 		culture = hani
-		religion = animist 
+		religion = protestant 
 		size = 89485
 	 } 
 	farmers = {
 		culture = hani
-		religion = xifang
+		religion = protestant
 		size = 20000
 	 } 
 	farmers = {
 		culture = zhuang
-		religion = animist 
+		religion = protestant 
 		size = 55024
 	 } 
 	farmers = {
 		culture = zhuang
-		religion = xifang
+		religion = protestant
 		size = 10000
 	 } 
 }
@@ -966,84 +966,84 @@
 1507 = {
     aristocrats = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 9000
     }
 
     bureaucrats = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 2000
     }
 
     clergymen = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 4550
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 2750
     }
 
     soldiers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 2550
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 314150
     }
 
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2250
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1150
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 5700
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1150
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 173750
     }
     farmers = {
         culture = cantan
-        religion = mahayana
+        religion = protestant
         size = 59350
     }
 }
@@ -1053,47 +1053,47 @@
 
     aristocrats = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 11200
     }
 
     clergymen = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 4325
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 18000
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 6600
     }
 
     soldiers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 7535
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 472150
     }
     farmers = {
         culture = cantan
-        religion = mahayana
+        religion = protestant
         size = 55625
     }
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 152250
     }
 }
@@ -1102,48 +1102,48 @@
 1540 = {
     aristocrats = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 22150
     }
 
     bureaucrats = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 7400
     }
 
     clergymen = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 11075
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 60400
     }
 
     soldiers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 50075
     }
 
     farmers = {
         culture = cantan
-        religion = mahayana
+        religion = protestant
         size = 67205
     }
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 89250
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 481725
     }
 }

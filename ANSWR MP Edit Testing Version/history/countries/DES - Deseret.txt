@@ -1,6 +1,6 @@
 capital = 97
 primary_culture = mormon
-religion = mormon
+religion = protestant
 government = democracy
 plurality = 0.2
 nationalvalue = nv_liberty

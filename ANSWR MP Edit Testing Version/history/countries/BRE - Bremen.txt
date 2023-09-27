@@ -1,6 +1,6 @@
 capital = 2501
 primary_culture = perther
-religion = sydnic
+religion = protestant
 government = hms_government
 plurality = 5
 nationalvalue = nv_liberty

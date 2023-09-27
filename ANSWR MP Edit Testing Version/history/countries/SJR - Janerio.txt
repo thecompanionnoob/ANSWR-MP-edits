@@ -1,7 +1,7 @@
 capital = 2450
 primary_culture = janeiran
 culture = platinean
-religion = catholic
+religion = protestant
 government = democracy
 plurality = 5.0
 nationalvalue = nv_equality

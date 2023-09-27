@@ -1,7 +1,7 @@
 capital = 2681
 primary_culture = min
 culture = nanfaren
-religion = mahayana
+religion = protestant
 government = democracy
 plurality = 0.0
 nationalvalue = nv_tradition

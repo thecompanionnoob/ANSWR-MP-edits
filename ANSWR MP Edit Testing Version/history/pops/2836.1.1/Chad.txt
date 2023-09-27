@@ -5,121 +5,121 @@
 1818 = {
     aristocrats = {
         culture = sara
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     bureaucrats = {
         culture = sara
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     officers = {
         culture = sara
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = sara
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = sara
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = sara
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = sara
-        religion = sunni
+        religion = protestant
         size = 10000
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     bureaucrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     officers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 13458
     }
 
     aristocrats = {
-        culture = yankun
-        religion = sunni
+        culture = tuareg
+        religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = yankun
-        religion = sunni
+        culture = tuareg
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = yankun
-        religion = sunni
+        culture = tuareg
+        religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = yankun
-        religion = sunni
+        culture = tuareg
+        religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = yankun
-        religion = sunni
+        culture = tuareg
+        religion = protestant
         size = 9000
     }
 
     slaves = {
-        culture = yankun
-        religion = animist
+        culture = tuareg
+        religion = protestant
         size = 700
     }
 }
@@ -127,91 +127,91 @@
 1820 = {
     aristocrats = {
         culture = sara
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     bureaucrats = {
         culture = sara
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = sara
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     artisans = {
         culture = sara
-        religion = animist
+        religion = protestant
         size = 1000
     }
 
     soldiers = {
         culture = sara
-        religion = animist
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = sara
-        religion = animist
+        religion = protestant
         size = 30000
     }
 
     aristocrats = {
         culture = sara
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = sara
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = sara
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 1000
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = ubangian
-        religion = animist
+        religion = protestant
         size = 2000
     }
 }
@@ -221,157 +221,157 @@
 1821 = {
     aristocrats = {
         culture = fur
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     bureaucrats = {
         culture = fur
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     officers = {
         culture = fur
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = fur
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = fur
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = fur
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = fur
-        religion = sunni
+        religion = protestant
         size = 550
     }
 
     aristocrats = {
-        culture = yankun
-        religion = sunni
+        culture = tuareg
+        religion = protestant
         size = 100
     }
 
     officers = {
-        culture = yankun
-        religion = sunni
+        culture = tuareg
+        religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = yankun
-        religion = sunni
+        culture = tuareg
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = yankun
-        religion = sunni
+        culture = tuareg
+        religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = yankun
-        religion = sunni
+        culture = tuareg
+        religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = yankun
-        religion = sunni
+        culture = tuareg
+        religion = protestant
         size = 550
     }
 
     aristocrats = {
         culture = teda
-        religion = sunni
+        religion = protestant
         size = 300
     }
 
     bureaucrats = {
         culture = teda
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = teda
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = teda
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = teda
-        religion = sunni
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = teda
-        religion = sunni
+        religion = protestant
         size = 20183
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 300
     }
 
     bureaucrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 7000
     }
 
     slaves = {
-        culture = yankun
-        religion = animist
+        culture = tuareg
+        religion = protestant
         size = 300
     }
 
@@ -381,43 +381,43 @@
 
     slaves = {
         culture = ubangian
-        religion = animist
+        religion = protestant
         size = 1900
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     bureaucrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 350
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 7300
     }
 }
@@ -425,104 +425,104 @@
 1823 = {
     aristocrats = {
         culture = fur
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = fur
-        religion = sunni
+        religion = protestant
         size = 350
     }
 
     artisans = {
         culture = fur
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = fur
-        religion = sunni
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = fur
-        religion = sunni
+        religion = protestant
         size = 5000
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 7269
     }
 
 
     aristocrats = {
-        culture = yankun
-        religion = sunni
+        culture = tuareg
+        religion = protestant
         size = 300
     }
 
     clergymen = {
-        culture = yankun
-        religion = sunni
+        culture = tuareg
+        religion = protestant
         size = 100
     }
 
     bureaucrats = {
-        culture = yankun
-        religion = sunni
+        culture = tuareg
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = yankun
-        religion = sunni
+        culture = tuareg
+        religion = protestant
         size = 1500
     }
 
     soldiers = {
-        culture = yankun
-        religion = sunni
+        culture = tuareg
+        religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = yankun
-        religion = sunni
+        culture = tuareg
+        religion = protestant
         size = 7246
     }
 
     slaves = {
         culture = ubangian
-        religion = animist
+        religion = protestant
         size = 2000
     }
 }
@@ -532,31 +532,31 @@
 1825 = {
     aristocrats = {
         culture = teda
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = teda
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = teda
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = teda
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = teda
-        religion = sunni
+        religion = protestant
         size = 1380
     }
 }
@@ -565,37 +565,37 @@
 1826 = {
     aristocrats = {
         culture = teda
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = teda
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = teda
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = teda
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = teda
-        religion = sunni
+        religion = protestant
         size = 1080
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 300
     }
 

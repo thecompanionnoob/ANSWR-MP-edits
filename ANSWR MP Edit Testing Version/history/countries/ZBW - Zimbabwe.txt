@@ -1,7 +1,7 @@
 capital = 2068
 primary_culture = shona
 culture = nguni
-religion = animist
+religion = protestant
 government = presidential_dictatorship
 plurality = 0.0
 nationalvalue = nv_order

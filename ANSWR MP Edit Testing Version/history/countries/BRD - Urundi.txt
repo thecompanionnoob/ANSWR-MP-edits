@@ -1,7 +1,7 @@
 capital = 2035
 #primary_culture = rundi
 primary_culture = ruanda
-religion = animist
+religion = protestant
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

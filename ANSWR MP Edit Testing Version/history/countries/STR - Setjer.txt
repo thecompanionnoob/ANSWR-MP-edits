@@ -1,7 +1,7 @@
 capital = 1194
 primary_culture = russian
 culture = kazak
-religion = orthodox
+religion = protestant
 government = absolute_monarchy
 plurality = 1
 nationalvalue = nv_order

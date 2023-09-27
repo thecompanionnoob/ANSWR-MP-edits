@@ -1,7 +1,7 @@
 capital = 1479
 primary_culture = beifaren
 culture = ping
-religion = mahayana
+religion = protestant
 government = absolute_monarchy
 plurality = 1.0
 nationalvalue = nv_tradition

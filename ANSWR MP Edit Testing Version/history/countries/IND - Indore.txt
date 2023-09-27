@@ -1,6 +1,6 @@
 capital = 1290
 primary_culture = issaclander
-religion = issacite
+religion = protestant
 government = absolute_monarchy
 plurality = 2.0
 nationalvalue = nv_tradition

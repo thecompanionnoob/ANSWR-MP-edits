@@ -1,6 +1,6 @@
 capital = 489
 primary_culture = spanish
-religion = catholic
+religion = protestant
 government = hms_government
 plurality = 10.0
 nationalvalue = nv_order

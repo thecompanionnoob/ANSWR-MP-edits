@@ -1,7 +1,7 @@
 capital = 656
 primary_culture = romanian
 culture = hungarian
-religion = orthodox
+religion = protestant
 government = democracy
 plurality = 1.0
 nationalvalue = nv_autocracy

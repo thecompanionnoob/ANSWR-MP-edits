@@ -4,7 +4,7 @@ government = absolute_monarchy
 plurality = 2.0
 nationalvalue = nv_tradition
 literacy = 0.05
-religion = sunni
+religion = protestant
 non_state_culture_literacy = 0.01
 
 # Political reforms

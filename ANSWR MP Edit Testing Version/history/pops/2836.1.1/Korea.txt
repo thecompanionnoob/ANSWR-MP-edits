@@ -4,55 +4,55 @@
 1619 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 12750
     }
 
     bureaucrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 7300
     }
 
     officers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 2000
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 2925
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 9500
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 5500
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 232125
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 24900
     }
 }
@@ -60,49 +60,49 @@
 1620 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 6550
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 2825
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 9000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 5000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 8000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 223625
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 25000
     }
 }
@@ -112,49 +112,49 @@
 1621 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 1400
     }
 
     bureaucrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 150
     }
 
     officers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 1750
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 8500
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 6000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 143300
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 }
@@ -162,37 +162,37 @@
 1622 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 3500
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 1800
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 9000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 6100
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 152600
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 17000
     }
 }
@@ -200,37 +200,37 @@
 1623 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 1150
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 1625
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 9000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 6000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 154625
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 12000
     }
 }
@@ -240,73 +240,73 @@
 1624 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 12425
     }
 
     bureaucrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 9675
     }
 
     officers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 2000
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 2800
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 3750
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 13000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 249725
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 11625
     }
 }
@@ -314,43 +314,43 @@
 1625 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 2250
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 1275
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 6250
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 6500
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 139150
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 4000
     }
 }
@@ -358,43 +358,43 @@
 1626 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 1150
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 1625
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 6000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 144625
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 18000
     }
 }
@@ -402,55 +402,55 @@
 1627 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 6550
     }
 
     bureaucrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 5175
     }
 
     officers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 1000
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 1825
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 5100
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 147625
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 }
@@ -458,49 +458,49 @@
 1628 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 3550
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 2325
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 6500
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 8000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 179625
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 }
@@ -510,49 +510,49 @@
 1629 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 3700
     }
 
     officers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 225
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 850
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 9250
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 4100
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 106800
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 }
@@ -560,49 +560,49 @@
 1630 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 1150
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 1625
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 6000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 152625
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 }
@@ -610,43 +610,43 @@
 1631 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 1250
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 975
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 3250
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 6500
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 137175
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 9000
     }
 }
@@ -656,61 +656,61 @@
 1632 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 7400
     }
 
     bureaucrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 375
     }
 
     officers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 425
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 2800
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 8750
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 8000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 188150
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 47000
     }
 }
@@ -718,43 +718,43 @@
 1633 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 1900
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 1550
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 5000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 6100
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 101050
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 29500
     }
 }
@@ -762,37 +762,37 @@
 1634 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 2900
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 1550
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 7500
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 186050
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 50000
     }
 }
@@ -802,61 +802,61 @@
 1635 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     bureaucrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 2100
     }
 
     officers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 1350
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 2500
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 7550
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 8000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 186300
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 23200
     }
 }
@@ -864,48 +864,48 @@
 1636 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 5550
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 2325
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 8500
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 9000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 177625
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 17000
     }
 }
@@ -913,37 +913,37 @@
 1637 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 1350
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 725
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 7000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 53725
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = protestant
         size = 9800
     }
 

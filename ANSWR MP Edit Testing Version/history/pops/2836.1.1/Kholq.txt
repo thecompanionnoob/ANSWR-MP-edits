@@ -4,66 +4,66 @@
 1594 = {
     officers = {
         culture = uighur
-        religion = sunni
+        religion = protestant
         size = 162
     }
 
     clergymen = {
         culture = uighur
-        religion = sunni
+        religion = protestant
         size = 762
     }
 
     artisans = {
         culture = uighur
-        religion = sunni
+        religion = protestant
         size = 2100
     }
 	
     farmers = {
         culture = uighur
-        religion = sunni
+        religion = protestant
         size = 16587
     }
 	aristocrats = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 3100
     }
 
     bureaucrats = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 1250
     }
 
     officers = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 162
     }
 
     clergymen = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 762
     }
 
     artisans = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 2100
     }
 
     soldiers = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 2424
     }
 
     farmers = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 56587
     }
 }
@@ -71,43 +71,43 @@
 1597 = {
     artisans = {
         culture = uighur
-        religion = sunni
+        religion = protestant
         size = 1200
     }
 
     farmers = {
         culture = uighur
-        religion = sunni
+        religion = protestant
         size = 5825
     }
 	
 	aristocrats = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 950
     }
 
     clergymen = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 1200
     }
 
     soldiers = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 37825
     }
 }
@@ -115,43 +115,43 @@
 1598 = {
     artisans = {
         culture = uighur
-        religion = sunni
+        religion = protestant
         size = 550
     }
 
     farmers = {
         culture = uighur
-        religion = sunni
+        religion = protestant
         size = 3012
     }
 	
 	aristocrats = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 424
     }
 
     clergymen = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 224
     }
 
     artisans = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 550
     }
 
     soldiers = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 225
     }
 
     farmers = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 17012
     }
 }
@@ -159,43 +159,43 @@
 2607 = {
     artisans = {
         culture = uighur
-        religion = sunni
+        religion = protestant
         size = 1250
     }
 
     soldiers = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 1500
     }
 
     farmers = {
         culture = uighur
-        religion = sunni
+        religion = protestant
         size = 2288
     }
 
 	aristocrats = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 170
     }
 
     clergymen = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 1250
     }
 
     farmers = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 42288
     }
 

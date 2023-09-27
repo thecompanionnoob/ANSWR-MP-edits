@@ -10,25 +10,25 @@
 
     aristocrats = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 3050
     }
 
     clergymen = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 12350
     }
 
@@ -123,25 +123,25 @@
 87 = {
     aristocrats = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 3600
     }
 
     bureaucrats = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 500
     }
 
@@ -205,18 +205,18 @@
 89 = {
     aristocrats = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 670
     }
 
     clergymen = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 600
     }
     soldiers = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 2000
     }
 
@@ -228,7 +228,7 @@
 
     farmers = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 12300
     }
 
@@ -266,25 +266,25 @@
 90 = {
     aristocrats = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 2000
     }
 
     clergymen = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     soldiers = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 4000
     }
 
@@ -557,31 +557,31 @@
 
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 20
     }
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 2250
     }
 }
@@ -589,35 +589,35 @@
 2137 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 240
         militancy = 5
     }
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 35
         militancy = 5
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
         militancy = 5
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 550
         militancy = 5
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 125
 
         militancy = 5
@@ -625,7 +625,7 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 9925
         militancy = 5
     }
@@ -664,32 +664,32 @@
 2140 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 250
 
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 4895
     }
 
@@ -759,7 +759,7 @@
 
     farmers = {
         culture = cascadian
-        religion = catholic
+        religion = protestant
         size = 22000
     }
 
@@ -1122,7 +1122,7 @@
 
     farmers = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 3000
     }
 }
@@ -1166,19 +1166,19 @@
 
     aristocrats = {
         culture = cascadian
-        religion = catholic
+        religion = protestant
         size = 1000
     }
 
     soldiers = {
         culture = cascadian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = cascadian
-        religion = catholic
+        religion = protestant
         size = 5900
     }
 }

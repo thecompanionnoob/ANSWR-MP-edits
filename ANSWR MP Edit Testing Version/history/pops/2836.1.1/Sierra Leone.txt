@@ -40,104 +40,104 @@
     }
 
     aristocrats = {
-        culture = mande
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 675
     }
 
     officers = {
-        culture = mande
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = mande
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = mande
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 1650
     }
 
     soldiers = {
-        culture = mande
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 350
     }
 
     farmers = {
-        culture = mande
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 32125
     }
 
     aristocrats = {
-        culture = western_nigritic
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 875
     }
 
     officers = {
-        culture = western_nigritic
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = western_nigritic
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = western_nigritic
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 2300
     }
 
     soldiers = {
-        culture = western_nigritic
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 450
     }
 
     farmers = {
-        culture = western_nigritic
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 48275
     }
 
     aristocrats = {
-        culture = western_nigritic
-        religion = animist
+        culture = gur
+        religion = protestant
         size = 250
     }
 
     clergymen = {
-        culture = western_nigritic
-        religion = animist
+        culture = gur
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = western_nigritic
-        religion = animist
+        culture = gur
+        religion = protestant
         size = 700
     }
 
     soldiers = {
-        culture = western_nigritic
-        religion = animist
+        culture = gur
+        religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = western_nigritic
-        religion = animist
+        culture = gur
+        religion = protestant
         size = 6800
     }
 }
@@ -145,68 +145,68 @@
 #Bo (352000/88000 POPS)
 1886 = {
     aristocrats = {
-        culture = mande
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 900
     }
 
     clergymen = {
-        culture = mande
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = mande
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 1875
     }
 
     soldiers = {
-        culture = mande
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 475
     }
 
     farmers = {
-        culture = mande
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 36650
     }
 
     aristocrats = {
-        culture = western_nigritic
-        religion = animist
+        culture = gur
+        religion = protestant
         size = 800
     }
 
     clergymen = {
-        culture = western_nigritic
-        religion = animist
+        culture = gur
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = western_nigritic
-        religion = animist
+        culture = gur
+        religion = protestant
         size = 2000
     }
 
     soldiers = {
-        culture = western_nigritic
-        religion = animist
+        culture = gur
+        religion = protestant
         size = 425
     }
 
     farmers = {
-        culture = western_nigritic
-        religion = animist
+        culture = gur
+        religion = protestant
         size = 37675
     }
 
     slaves = {
-        culture = western_nigritic
-        religion = animist
+        culture = gur
+        religion = protestant
         size = 7000
     }
 }
@@ -215,98 +215,98 @@
 #Falaba (384000/96000 POPS) #now part of Sierra Leone
 1885 = {
     aristocrats = {
-        culture = mande
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 925
     }
 
     clergymen = {
-        culture = mande
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = mande
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 1900
     }
 
     soldiers = {
-        culture = mande
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 475
     }
 
     farmers = {
-        culture = mande
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 36600
     }
 
     aristocrats = {
-        culture = western_nigritic
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 800
     }
 
     clergymen = {
-        culture = western_nigritic
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = western_nigritic
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 1650
     }
 
     soldiers = {
-        culture = western_nigritic
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 425
     }
 
     farmers = {
-        culture = western_nigritic
-        religion = sunni
+        culture = gur
+        religion = protestant
         size = 37025
     }
 
     aristocrats = {
-        culture = western_nigritic
-        religion = animist
+        culture = gur
+        religion = protestant
         size = 125
     }
 
     clergymen = {
-        culture = western_nigritic
-        religion = animist
+        culture = gur
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = western_nigritic
-        religion = animist
+        culture = gur
+        religion = protestant
         size = 400
     }
 
     soldiers = {
-        culture = western_nigritic
-        religion = animist
+        culture = gur
+        religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = western_nigritic
-        religion = animist
+        culture = gur
+        religion = protestant
         size = 2300
     }
 
     slaves = {
-        culture = western_nigritic
-        religion = animist
+        culture = gur
+        religion = protestant
         size = 13000
     }
 

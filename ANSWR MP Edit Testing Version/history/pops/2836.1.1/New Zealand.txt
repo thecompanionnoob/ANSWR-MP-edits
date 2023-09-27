@@ -5,73 +5,73 @@
 2509 = {
     aristocrats = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 40
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 4975
     }
 
     aristocrats = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 1000
     }
 
     artisans = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 2000
     }
 
     artisans = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 2000
     }
 
     bureaucrats = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 125
     }
 
     officers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 125
     }
 
     soldiers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 124265
     }
 
@@ -81,55 +81,55 @@
 2510 = {
     aristocrats = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 2580
     }
 
     artisans = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 2000
     }
 
     clergymen = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 32900
     }
 }
@@ -137,55 +137,55 @@
 2511 = {
     aristocrats = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 5000
     }
 
     clergymen = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 400
     }
 
     farmers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 43200
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 2675
     }
 }
@@ -193,67 +193,67 @@
 2512 = {
     aristocrats = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     bureaucrats = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 2000
     }
 
     artisans = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 2500
     }
 
     clergymen = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 63760
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 2675
     }
 }
@@ -261,55 +261,55 @@
 2571 = {
     aristocrats = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 1487
     }
 
     artisans = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 75
     }
 
     soldiers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 18250
     }
 
@@ -320,49 +320,49 @@
 
     clergymen = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 1488
     }
 
     artisans = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 125
     }
 
     soldiers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 400
     }
 
     farmers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 27250
     }
 }
@@ -372,55 +372,55 @@
 2513 = {
     aristocrats = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 10
     }
 
     clergymen = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 15
     }
 
     artisans = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 25
     }
 
     soldiers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 7500
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 900
     }
 }
@@ -428,55 +428,55 @@
 2514 = {
     aristocrats = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 10
     }
 
     clergymen = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 15
     }
 
     artisans = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 11250
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 900
     }
 }
@@ -484,61 +484,61 @@
 2515 = {
     aristocrats = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     bureaucrats = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 75
     }
 
     officers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 25
     }
 
     soldiers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 62450
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 1775
     }
 }
@@ -546,61 +546,61 @@
 2516 = {
     aristocrats = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     bureaucrats = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 50
     }
 
     officers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 25
     }
 
     soldiers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 45200
     }
 
     farmers = {
         culture = maori
-        religion = animist
+        religion = protestant
         size = 2675
     }
 }
@@ -610,13 +610,13 @@
 2508 = {
     clergymen = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = zealander
-        religion = sydnic
+        religion = protestant
         size = 1235
     }
 

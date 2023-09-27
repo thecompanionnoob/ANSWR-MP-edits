@@ -1,6 +1,6 @@
 capital = 1456
 primary_culture = macoyan
-religion = catholic
+religion = protestant
 government = fascist_dictatorship
 plurality = 0.0
 nationalvalue = nv_equality

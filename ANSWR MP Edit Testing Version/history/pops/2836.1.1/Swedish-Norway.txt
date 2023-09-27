@@ -3,37 +3,37 @@
 #Trondheim (140000/35000 POPS)
 305 = {
     aristocrats = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 3300
     }
 
     bureaucrats = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 750
     }
 
     officers = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 250
     }
 
     clergymen = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 1250
     }
 
     artisans = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 6250
     }
 
     soldiers = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 6000
     }
@@ -45,7 +45,7 @@
     }
 
     farmers = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 61250
     }
@@ -58,31 +58,31 @@
 #Bodo (56000/14000 POPS)
 306 = {
     clergymen = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 500
     }
 
     aristocrats = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 1000
     }
 
     artisans = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 1750
     }
 
     soldiers = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 38100
     }
@@ -96,31 +96,31 @@
 #Alesund (72000/18000 POPS)
 308 = {
     aristocrats = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 1200
     }
 
     clergymen = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 175
     }
 
     artisans = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 4100
     }
 
     soldiers = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 47825
     }
@@ -134,31 +134,31 @@
 800 = {
 
     aristocrats = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 1200
     }
 
     clergymen = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 175
     }
 
     artisans = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 17825
     }
@@ -173,31 +173,31 @@
 #Norrland
 307 = {
     aristocrats = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 15000
     }
@@ -209,7 +209,7 @@
     }
 
     farmers = {
-        culture = finnish
+        culture = swedish
         religion = protestant
         size = 7000
     }
@@ -259,7 +259,7 @@
     }
 
     farmers = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 12725
     }
@@ -297,7 +297,7 @@
     }
 
     farmers = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 17725
     }
@@ -329,7 +329,7 @@
     }
 
     labourers = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 16100
     }
@@ -361,7 +361,7 @@
     }
 
     labourers = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 12100
     }
@@ -393,19 +393,19 @@
     }
 
     artisans = {
-        culture = finnish
+        culture = swedish
         religion = protestant
         size = 100
     }
 
     labourers = {
-        culture = norwegian
+        culture = swedish
         religion = protestant
         size = 7100
     }
 
     farmers = {
-        culture = finnish
+        culture = swedish
         religion = protestant
         size = 2100
     }

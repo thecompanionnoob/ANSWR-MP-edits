@@ -6,61 +6,61 @@
 1969 = {
     aristocrats = {
         culture = azande
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = azande
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = azande
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = azande
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = azande
-        religion = animist
+        religion = protestant
         size = 5475
     }
 
     aristocrats = {
         culture = ubangian
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = ubangian
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = ubangian
-        religion = animist
+        religion = protestant
         size = 250
     }
 
     soldiers = {
         culture = ubangian
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = ubangian
-        religion = animist
+        religion = protestant
         size = 4575
     }
 }
@@ -68,61 +68,61 @@
 1970 = {
     aristocrats = {
         culture = azande
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = azande
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = azande
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = azande
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = azande
-        religion = animist
+        religion = protestant
         size = 900
     }
 
     aristocrats = {
         culture = ubangian
-        religion = animist
+        religion = protestant
         size = 225
     }
 
     clergymen = {
         culture = ubangian
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = ubangian
-        religion = animist
+        religion = protestant
         size = 650
     }
 
     soldiers = {
         culture = ubangian
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = ubangian
-        religion = animist
+        religion = protestant
         size = 11875
     }
 }
@@ -131,61 +131,61 @@
 1971 = {
     aristocrats = {
         culture = fur
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = fur
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = fur
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = fur
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = fur
-        religion = sunni
+        religion = protestant
         size = 900
     }
 
     aristocrats = {
         culture = ubangian
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = ubangian
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = ubangian
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = ubangian
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = ubangian
-        religion = animist
+        religion = protestant
         size = 5475
     }
 

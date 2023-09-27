@@ -6,115 +6,115 @@
 640 = {
     aristocrats = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 650
     }
 
     bureaucrats = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     officers = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 80
     }
 
     clergymen = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 1250
     }
 
     soldiers = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 18670
     }
 
     aristocrats = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 500
     }
 
     bureaucrats = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 75
     }
 
     officers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 1100
     }
 
     soldiers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 38545
     }
 
     officers = {
         culture = croat
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = croat
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = croat
-        religion = catholic
+        religion = protestant
         size = 400
     }
 
     soldiers = {
         culture = croat
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = croat
-        religion = catholic
+        religion = protestant
         size = 7435
     }
 }
@@ -124,79 +124,79 @@
 641 = {
     capitalists = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 25
     }
 
     aristocrats = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 1800
     }
 
     bureaucrats = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 1500
     }
 
     officers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 2250
     }
 
     artisans = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 7500
     }
 
     artisans = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 4500
     }
 
     soldiers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 4000
     }
 
     craftsmen = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 115410
     }
 
     aristocrats = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 350
     }
 
     soldiers = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 3000
     }
 
     serfs = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size =  37250
     }
 
@@ -206,49 +206,49 @@
 642 = {
     aristocrats = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 2250
     }
 
     clergymen = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 575
     }
 
     artisans = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 2750
     }
 
     soldiers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 3000
     }
 
     craftsmen = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 55325
     }
 
     serfs = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 14525
     }
 
     farmers = {
         culture = austro_german
-        religion = catholic
+        religion = protestant
         size = 11800
     }
 }
@@ -256,43 +256,43 @@
 643 = {
     aristocrats = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 4100
     }
 
     clergymen = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 3000
     }
 
     artisans = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 2250
     }
 
     craftsmen = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size =  78277
     }
 
     serfs = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 19275
     }
 
@@ -304,7 +304,7 @@
 
     farmers = {
         culture = austro_german
-        religion = catholic
+        religion = protestant
         size = 13900
     }
 }
@@ -312,43 +312,43 @@
 644 = {
     aristocrats = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 3000
     }
 
     clergymen = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 750
     }
 
     artisans = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 3700
     }
 
     soldiers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 71750
     }
 
     serfs = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 5125
     }
 
     farmers = {
         culture = austro_german
-        religion = catholic
+        religion = protestant
         size = 2525
     }
 }
@@ -356,43 +356,43 @@
 645 = {
     aristocrats = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 400
     }
 
     clergymen = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 3200
     }
 
     soldiers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 19125
     }
 
     serfs = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 9550
     }
 
     farmers = {
         culture = austro_german
-        religion = catholic
+        religion = protestant
         size = 1800
     }
 }
@@ -402,49 +402,49 @@
 646 = {
     aristocrats = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 1750
     }
 
     clergymen = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 425
     }
 
     bureaucrats = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 700
     }
 
     artisans = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 3750
     }
 
     soldiers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 450
     }
 
     craftsmen = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 61525
     }
 
     serfs = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 42125
     }
 }
@@ -454,37 +454,37 @@
 648 = {
     aristocrats = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 675
     }
 
     clergymen = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     bureaucrats = {
         culture = austro_german
-        religion = catholic
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 3350
     }
 
     soldiers = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 28725
     }
 
@@ -520,25 +520,25 @@
 
     clergymen = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 3915
     }
 }
@@ -546,37 +546,37 @@
 649 = {
     aristocrats = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 1500
     }
 
     bureaucrats = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 600
     }
 
     clergymen = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 625
     }
 
     artisans = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 2500
     }
 
     soldiers = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 1100
     }
 
     serfs = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 54375
     }
 
@@ -612,7 +612,7 @@
 
     farmers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 5375
     }
 }
@@ -620,37 +620,37 @@
 650 = {
     aristocrats = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 1100
     }
 
     bureaucrats = {
         culture = austro_german
-        religion = catholic
+        religion = protestant
         size = 600
     }
 
     clergymen = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 300
     }
 
     artisans = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 1900
     }
 
     soldiers = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 325
     }
 
     serfs = {
         culture = hungarian
-        religion = catholic
+        religion = protestant
         size = 37375
     }
 
@@ -686,25 +686,25 @@
 
     clergymen = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     soldiers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = staromadar
-        religion = catholic
+        religion = protestant
         size = 6675
     }
 }

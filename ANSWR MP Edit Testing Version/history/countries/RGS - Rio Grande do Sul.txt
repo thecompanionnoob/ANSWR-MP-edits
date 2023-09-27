@@ -1,7 +1,7 @@
 capital = 2463
 primary_culture = janeiran
 culture = platinean
-religion = catholic
+religion = protestant
 government = democracy
 plurality = 0.0
 nationalvalue = nv_liberty

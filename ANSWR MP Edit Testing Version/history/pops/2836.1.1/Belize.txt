@@ -5,13 +5,13 @@
 
     aristocrats = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 40
     }
 
     officers = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 2
     }
 
@@ -23,7 +23,7 @@
 
     clergymen = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 15
     }
 
@@ -35,7 +35,7 @@
 
     soldiers = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 10
     }
 
@@ -47,13 +47,13 @@
 
     farmers = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 1058
     }
 
     farmers = {
         culture = mayan
-        religion = catholic
+        religion = protestant
         size = 250
     }
 

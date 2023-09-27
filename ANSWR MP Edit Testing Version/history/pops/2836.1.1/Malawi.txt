@@ -4,97 +4,97 @@
 2066 = {
     aristocrats = {
         culture = chewa
-        religion = animist
+        religion = protestant
         size = 550
     }
 
     clergymen = {
         culture = chewa
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     artisans = {
         culture = chewa
-        religion = animist
+        religion = protestant
         size = 1450
     }
 
     soldiers = {
         culture = chewa
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = chewa
-        religion = animist
+        religion = protestant
         size = 26400
     }
 
     slaves = {
         culture = chewa
-        religion = animist
+        religion = protestant
         size = 3000
     }
 
     aristocrats = {
         culture = lomwe
-        religion = animist
+        religion = protestant
         size = 275
     }
 
     clergymen = {
         culture = lomwe
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = lomwe
-        religion = animist
+        religion = protestant
         size = 750
     }
 
     soldiers = {
         culture = lomwe
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = lomwe
-        religion = animist
+        religion = protestant
         size = 13675
     }
 
     aristocrats = {
         culture = yao
-        religion = animist
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = yao
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = yao
-        religion = animist
+        religion = protestant
         size = 400
     }
 
     soldiers = {
         culture = yao
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = yao
-        religion = animist
+        religion = protestant
         size = 4275
     }
 }
@@ -102,67 +102,67 @@
 2067 = {
     aristocrats = {
         culture = chewa
-        religion = animist
+        religion = protestant
         size = 350
     }
 
     clergymen = {
         culture = chewa
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     artisans = {
         culture = chewa
-        religion = animist
+        religion = protestant
         size = 950
     }
 
     soldiers = {
         culture = chewa
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     farmers = {
         culture = chewa
-        religion = animist
+        religion = protestant
         size = 17300
     }
 
     slaves = {
         culture = chewa
-        religion = animist
+        religion = protestant
         size = 4000
     }
 
     aristocrats = {
         culture = lunda
-        religion = animist
+        religion = protestant
         size = 400
     }
 
     clergymen = {
         culture = lunda
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     artisans = {
         culture = lunda
-        religion = animist
+        religion = protestant
         size = 850
     }
 
     soldiers = {
         culture = lunda
-        religion = animist
+        religion = protestant
         size = 225
     }
 
     farmers = {
         culture = lunda
-        religion = animist
+        religion = protestant
         size = 15125
     }
 

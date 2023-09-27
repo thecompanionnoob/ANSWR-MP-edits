@@ -1,6 +1,6 @@
 capital = 1679
 primary_culture = lanzu
-religion = xifang
+religion = protestant
 government = absolute_monarchy
 plurality = 2.0
 nationalvalue = nv_tradition

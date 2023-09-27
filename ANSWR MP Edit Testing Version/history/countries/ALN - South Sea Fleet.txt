@@ -1,7 +1,7 @@
 capital = 3360
 primary_culture = lanzu
 culture = cantan
-religion = mahayana
+religion = protestant
 government = trading_republic
 plurality = 0.0
 nationalvalue = nv_equality

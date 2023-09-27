@@ -3,43 +3,43 @@
 1192 = {
     aristocrats = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 1400
     }
 
     clergymen = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 1225
     }
 
     artisans = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 8150
     }
 
     soldiers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 42525
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = protestant
         size = 17325
     }
 }
@@ -47,43 +47,43 @@
 1183 = {
     aristocrats = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 1400
     }
 
     clergymen = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 1225
     }
 
     artisans = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 8150
     }
 
     soldiers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 42525
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = protestant
         size = 17325
     }
 }
@@ -91,37 +91,37 @@
 1205 = {
     aristocrats = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 700
     }
 
     clergymen = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 1000
     }
 
     artisans = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 3150
     }
 
     soldiers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 3500
     }
 
     farmers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 39550
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = protestant
         size = 12825
     }
 }
@@ -129,37 +129,37 @@
 1196 = {
     aristocrats = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 225
     }
 
     artisans = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 6200
     }
 
     soldiers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 12250
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = protestant
         size = 9825
     }
 }
@@ -168,37 +168,37 @@
 1036 = {
     aristocrats = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 9200
     }
 
     soldiers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 3550
     }
 
     farmers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 42250
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = protestant
         size = 12825
     }
 }
@@ -206,37 +206,37 @@
 1041 = {
     aristocrats = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 425
     }
 
     artisans = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 3200
     }
 
     soldiers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 850
     }
 
     farmers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 14250
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = protestant
         size = 625
     }
 }
@@ -244,42 +244,42 @@
 1046 = {
     aristocrats = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 425
     }
 
     artisans = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 8200
     }
 
     soldiers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 3750
     }
 
     farmers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 23250
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = protestant
         size = 10625
     }
     farmers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 13625
     }
 }
@@ -288,37 +288,37 @@
 1194 = {
     aristocrats = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 2585
     }
 
     clergymen = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 1075
     }
 
     artisans = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 2350
     }
 
     soldiers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 7500
     }
 
     farmers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 147350
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = protestant
         size = 13150
     }
 }
@@ -326,31 +326,31 @@
 2702 = {
     aristocrats = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 725
     }
 
     clergymen = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 650
     }
 
     artisans = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 1050
     }
 
     soldiers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 475
     }
 
     farmers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 26425
     }
 }
@@ -358,61 +358,61 @@
 1182 = {
     bureaucrats = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = protestant
         size = 3500
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = protestant
         size = 6650
     }
 
     aristocrats = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 750
     }
 
     clergymen = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 750
     }
 
     artisans = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 2000
     }
 
     soldiers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = setjer
-        religion = veravburyu
+        religion = protestant
         size = 53625
     }
 }

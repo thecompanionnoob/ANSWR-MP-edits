@@ -4,37 +4,37 @@
 2127 = {
     aristocrats = {
         culture = kreol
-        religion = catholic
+        religion = protestant
         size = 20
     }
 
     aristocrats = {
         culture = kreol
-        religion = catholic
+        religion = protestant
         size = 30
     }
 
     soldiers = {
         culture = kreol
-        religion = catholic
+        religion = protestant
         size = 30
     }
 
     clergymen = {
         culture = kreol
-        religion = catholic
+        religion = protestant
         size = 30
     }
 
     artisans = {
         culture = kreol
-        religion = catholic
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = kreol
-        religion = catholic
+        religion = protestant
         size = 1175
     }
 }

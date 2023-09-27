@@ -5,79 +5,79 @@
 
     officers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 1350
     }
 
     bureaucrats = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 3125
     }
 
     aristocrats = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 4425
     }
 
     clergymen = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 3225
     }
 
     artisans = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 9000
     }
 
     artisans = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 9000
     }
 
     artisans = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 6250
     }
 
     farmers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 185575
     }
 
     aristocrats = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 325
     }
 
     clergymen = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 9375
     }
 
     slaves = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 15000
     }
 
@@ -87,61 +87,61 @@
 
     aristocrats = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 2025
     }
 
     clergymen = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 1080
     }
 
     artisans = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 3050
     }
 
     farmers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 100575
     }
 
     aristocrats = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 140
     }
 
     artisans = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 775
     }
 
     soldiers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 10250
     }
 
     slaves = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 80000
     }
 }
@@ -150,67 +150,67 @@
 
     aristocrats = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 1500
     }
 
     clergymen = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 750
     }
 
     artisans = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 4000
     }
 
     soldiers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 4250
     }
 
     farmers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 80575
     }
 
     aristocrats = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 750
     }
 
     clergymen = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 400
     }
 
     artisans = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 1000
     }
 
     soldiers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 12250
     }
 
     slaves = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 50000
     }
 }
@@ -219,67 +219,67 @@
     
     aristocrats = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 750
     }
 
     artisans = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 4000
     }
 
     soldiers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 1250
     }
 
     farmers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 32515
     }
 
     aristocrats = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 1250
     }
 
     clergymen = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 1550
     }
 
     soldiers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 16500
     }
 
     slaves = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 30000
     }
 }
@@ -287,67 +287,67 @@
 2624 = {
     aristocrats = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 2500
     }
 
     clergymen = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 450
     }
 
     artisans = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 6000
     }
 
     soldiers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 1250
     }
 
     farmers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 40175
     }
 
     aristocrats = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 1500
     }
 
     clergymen = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 750
     }
 
     artisans = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 1250
     }
 
     soldiers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 13500
     }
 
     slaves = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 20000
     }
 }
@@ -357,66 +357,66 @@
 1980 = {
     aristocrats = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 1450
     }
 
     artisans = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 2000
     }
 
     soldiers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 20175
     }
     aristocrats = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 425
     }
 
     clergymen = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 250
     }
 
     soldiers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 16700
     }
 
     slaves = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 19000
     }
 }
@@ -424,66 +424,66 @@
 1975 = {
     aristocrats = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 12175
     }
     aristocrats = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 1425
     }
 
     clergymen = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 750
     }
 
     soldiers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 1700
     }
 
     slaves = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 24000
     }
 }
@@ -492,66 +492,66 @@
 1976 = {
     aristocrats = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 400
     }
 
     clergymen = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 12175
     }
     aristocrats = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 925
     }
 
     clergymen = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 250
     }
 
     soldiers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 26800
     }
 
     slaves = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 59000
     }
 
@@ -560,66 +560,66 @@
 1992 = {
     aristocrats = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 1400
     }
 
     clergymen = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 650
     }
 
     artisans = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 1700
     }
 
     soldiers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 29175
     }
     aristocrats = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 80
     }
 
     clergymen = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 40
     }
 
     artisans = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 11400
     }
 
     slaves = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 41000
     }
 }
@@ -628,37 +628,37 @@
 1955 = {
     aristocrats = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 7175
     }
 
     slaves = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 3700
     }
 }
@@ -667,66 +667,66 @@
 1973 = {
     aristocrats = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 450
     }
 
     artisans = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 1000
     }
 
     soldiers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 15175
     }
     aristocrats = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 425
     }
 
     clergymen = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 250
     }
 
     soldiers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 6700
     }
 
     slaves = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 34000
     }
 }
@@ -734,66 +734,66 @@
 1972 = {
     aristocrats = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 2200
     }
 
     clergymen = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 450
     }
 
     artisans = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 1000
     }
 
     soldiers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 1500
     }
 
     farmers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 25175
     }
     aristocrats = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     farmers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 12250
     }
 
     slaves = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 74000
     }
 }
@@ -801,66 +801,66 @@
 1974 = {
     aristocrats = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 450
     }
 
     artisans = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 1200
     }
 
     farmers = {
         culture = nork
-        religion = ketronant
+        religion = protestant
         size = 35175
     }
     aristocrats = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 625
     }
 
     clergymen = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 250
     }
 
     soldiers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 26700
     }
 
     slaves = {
         culture = bakongo
-        religion = animist
+        religion = protestant
         size = 24000
     }
 }

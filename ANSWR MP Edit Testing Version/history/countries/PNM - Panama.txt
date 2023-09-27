@@ -1,6 +1,6 @@
 capital = 2206
 primary_culture = central_american
-religion = catholic
+religion = protestant
 government = democracy
 plurality = 0.1
 nationalvalue = nv_equality

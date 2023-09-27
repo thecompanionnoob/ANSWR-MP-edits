@@ -1,6 +1,6 @@
 capital = 1
 primary_culture = alaskan
-religion = orthodox
+religion = protestant
 government = democracy
 plurality = 0.5
 nationalvalue = nv_liberty

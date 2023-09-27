@@ -5,127 +5,127 @@
 1108 = {
     aristocrats = {
         culture = azerbaijani
-        religion = shiite
+        religion = protestant
         size = 2500
     }
 
     bureaucrats = {
         culture = azerbaijani
-        religion = shiite
+        religion = protestant
         size = 500
     }
 
     officers = {
         culture = azerbaijani
-        religion = shiite
+        religion = protestant
         size = 400
     }
 
     clergymen = {
         culture = azerbaijani
-        religion = shiite
+        religion = protestant
         size = 1250
     }
 
     artisans = {
         culture = azerbaijani
-        religion = shiite
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = azerbaijani
-        religion = shiite
+        religion = protestant
         size = 6000
     }
 
     soldiers = {
         culture = azerbaijani
-        religion = shiite
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = azerbaijani
-        religion = shiite
+        religion = protestant
         size = 95850
     }
 
     aristocrats = {
         culture = azerbaijani
-        religion = sunni
+        religion = protestant
         size = 1500
     }
 
     clergymen = {
         culture = azerbaijani
-        religion = sunni
+        religion = protestant
         size = 525
     }
 
     artisans = {
         culture = azerbaijani
-        religion = sunni
+        religion = protestant
         size = 8500
     }
 
     soldiers = {
         culture = azerbaijani
-        religion = sunni
+        religion = protestant
         size = 800
     }
 
     farmers = {
         culture = azerbaijani
-        religion = sunni
+        religion = protestant
         size = 65175
     }
 
     farmers = {
         culture = circassian
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 10
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 490
     }
 
     clergymen = {
         culture = armenian
-        religion = coptic
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = armenian
-        religion = coptic
+        religion = protestant
         size = 1475
     }
 
     slaves = {
         culture = circassian
-        religion = orthodox
+        religion = protestant
         size = 12000
     }
 
     slaves = {
         culture = georgian
-        religion = orthodox
+        religion = protestant
         size = 8000
     }
 
     slaves = {
         culture = armenian
-        religion = coptic
+        religion = protestant
         size = 5000
     }
 }
@@ -133,127 +133,127 @@
 1109 = {
     aristocrats = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 175
     }
 
     clergymen = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 400
     }
 
     soldiers = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 7225
     }
 
     aristocrats = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 650
     }
 
     soldiers = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 18875
     }
 
     aristocrats = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 150
     }
 
     clergymen = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 400
     }
 
     soldiers = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 7250
     }
 
     aristocrats = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 650
     }
 
     soldiers = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 11925
     }
 
     slaves = {
         culture = armenian
-        religion = coptic
+        religion = protestant
         size = 5000
     }
 }
@@ -261,121 +261,121 @@
 1110 = {
     aristocrats = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 600
     }
 
     soldiers = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 10900
     }
 
     aristocrats = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 275
     }
 
     clergymen = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 850
     }
 
     soldiers = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 15575
     }
 
     aristocrats = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 225
     }
 
     clergymen = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 600
     }
 
     soldiers = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 10950
     }
 
     aristocrats = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 350
     }
 
     soldiers = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 6425
     }
 }
@@ -383,79 +383,79 @@
 1111 = {
     aristocrats = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 650
     }
 
     aristocrats = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     clergymen = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 325
     }
 
     clergymen = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 325
     }
 
     artisans = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 1600
     }
 
     soldiers = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 28425
     }
 
     aristocrats = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 300
     }
 
     clergymen = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 900
     }
 
     soldiers = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 175
     }
 
     farmers = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 13475
     }
 
     farmers = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 3000
     }
 }
@@ -463,97 +463,97 @@
 1112 = {
     aristocrats = {
         culture = azerbaijani
-        religion = shiite
+        religion = protestant
         size = 625
     }
 
     clergymen = {
         culture = azerbaijani
-        religion = shiite
+        religion = protestant
         size = 325
     }
 
     artisans = {
         culture = azerbaijani
-        religion = shiite
+        religion = protestant
         size = 1550
     }
 
     soldiers = {
         culture = azerbaijani
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = azerbaijani
-        religion = shiite
+        religion = protestant
         size = 27500
     }
 
     aristocrats = {
         culture = azerbaijani
-        religion = sunni
+        religion = protestant
         size = 375
     }
 
     clergymen = {
         culture = azerbaijani
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     artisans = {
         culture = azerbaijani
-        religion = sunni
+        religion = protestant
         size = 1100
     }
 
     soldiers = {
         culture = azerbaijani
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     farmers = {
         culture = azerbaijani
-        religion = sunni
+        religion = protestant
         size = 20125
     }
 
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 375
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 850
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 175
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 15425
     }
 
     slaves = {
         culture = tatar
-        religion = orthodox
+        religion = protestant
         size = 5000
     }
 }
@@ -563,49 +563,49 @@
 1113 = {
     aristocrats = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 800
     }
 
     bureaucrats = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 100
     }
 
     officers = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 425
     }
 
     artisans = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     soldiers = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 40500
     }
 
     slaves = {
         culture = armenian
-        religion = coptic
+        religion = protestant
         size = 2000
     }
 }
@@ -613,31 +613,31 @@
 1114 = {
     aristocrats = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 400
     }
 
     clergymen = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 225
     }
 
     artisans = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     soldiers = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 225
     }
 
     farmers = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size =21050
     }
 }
@@ -645,31 +645,31 @@
 1115 = {
     aristocrats = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 650
     }
 
     soldiers = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 11850
     }
 }
@@ -677,61 +677,61 @@
 1116 = {
     aristocrats = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 1300
     }
 
     soldiers = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 22950
     }
 
     aristocrats = {
         culture = turkmen
-        religion = sunni
+        religion = protestant
         size = 175
     }
 
     clergymen = {
         culture = turkmen
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = turkmen
-        religion = sunni
+        religion = protestant
         size = 450
     }
 
     soldiers = {
         culture = turkmen
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = turkmen
-        religion = sunni
+        religion = protestant
         size = 8200
     }
 }
@@ -741,121 +741,121 @@
 1117 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 700
     }
 
     bureaucrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 75
     }
 
     officers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 350
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 5650
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 26850
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 5
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 245
     }
 
     aristocrats = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 225
     }
 
     clergymen = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 650
     }
 
     soldiers = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = kurdish
-        religion = shiite
+        religion = protestant
         size = 11875
     }
 
     aristocrats = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     clergymen = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 225
     }
 
     soldiers = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 8400
     }
 
     slaves = {
         culture = georgian
-        religion = orthodox
+        religion = protestant
         size = 4000
     }
 }
@@ -863,31 +863,31 @@
 1118 = {
     aristocrats = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 425
     }
 
     clergymen = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 225
     }
 
     artisans = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 1150
     }
 
     soldiers = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 20950
     }
 }
@@ -895,61 +895,61 @@
 1119 = {
     aristocrats = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 325
     }
 
     clergymen = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 850
     }
 
     soldiers = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 175
     }
 
     farmers = {
         culture = kurdish
-        religion = sunni
+        religion = protestant
         size = 15500
     }
 
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 3625
     }
 }
@@ -957,31 +957,31 @@
 1120 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 300
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 800
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 13950
     }
 }
@@ -991,133 +991,133 @@
 1121 = {
 	    aristocrats = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 1875
     }
 
     bureaucrats = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 325
     }
 
     officers = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 300
     }
 
     clergymen = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 875
     }
 
     artisans = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 2000
     }
 
     soldiers = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 56125
     }
 
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1875
     }
 
     bureaucrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 325
     }
 
     officers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 300
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 875
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 2000
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 56125
     }
 
     slaves = {
         culture = kilombero #african_minor
-        religion = animist
+        religion = protestant
         size = 6000
     }
 
     slaves = {
         culture = georgian
-        religion = orthodox
+        religion = protestant
         size = 2000
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 10
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 490
     }
 
     clergymen = {
         culture = armenian
-        religion = coptic
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = armenian
-        religion = coptic
+        religion = protestant
         size = 1475
     }
 }
@@ -1125,55 +1125,55 @@
 1122 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 625
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 325
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 6000
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 20600
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 10
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 490
     }
 
     clergymen = {
         culture = armenian
-        religion = coptic
+        religion = protestant
         size = 10
     }
 
     artisans = {
         culture = armenian
-        religion = coptic
+        religion = protestant
         size = 490
     }
 }
@@ -1181,31 +1181,31 @@
 1123 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 7575
     }
 }
@@ -1213,60 +1213,60 @@
 1124 = {
 	  aristocrats = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 700
     }
 
     clergymen = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 375
     }
 
     artisans = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 5000
     }
 
     soldiers = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = mazandarani
-        religion = shiite
+        religion = protestant
         size = 27925
     }
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 700
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 375
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 5000
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 27925
     }
 }
@@ -1274,31 +1274,31 @@
 1125 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 625
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 4000
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 43275
     }
 }
@@ -1306,31 +1306,31 @@
 1126 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 600
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 10900
     }
 }
@@ -1340,85 +1340,85 @@
 1127 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 2000
     }
 
     bureaucrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 175
     }
 
     officers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 975
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 3500
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 73650
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 10
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 490
     }
 
     clergymen = {
         culture = armenian
-        religion = coptic
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = armenian
-        religion = coptic
+        religion = protestant
         size = 2925
     }
 
     slaves = {
         culture = kilombero #african_minor
-        religion = animist
+        religion = protestant
         size = 9000
     }
 
     slaves = {
         culture = marathi
-        religion = hindu
+        religion = protestant
         size = 6000
     }
 }
@@ -1426,37 +1426,37 @@
 1128 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 750
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 150
     }
 
     labourers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 13700
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 100
     }
 }
@@ -1464,49 +1464,49 @@
 1129 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 550
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 275
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1400
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 24775
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 175
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 25
     }
 }
@@ -1514,55 +1514,55 @@
 1130 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 700
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 350
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 6250
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 25950
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 5
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 245
     }
 
     clergymen = {
         culture = armenian
-        religion = coptic
+        religion = protestant
         size = 10
     }
 
     artisans = {
         culture = armenian
-        religion = coptic
+        religion = protestant
         size = 490
     }
 }
@@ -1572,85 +1572,85 @@
 1131 = {
     aristocrats = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 425
     }
 
     soldiers = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 9925
     }
 
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 75
     }
 
     bureaucrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 25
     }
 
     officers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 2575
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 5
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 245
     }
 }
@@ -1658,31 +1658,31 @@
 1132 = {
     aristocrats = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 550
     }
 
     soldiers = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 10050
     }
 }
@@ -1690,61 +1690,61 @@
 1133 = {
     aristocrats = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 1800
     }
 
     aristocrats = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 5475
     }
 }
@@ -1752,31 +1752,31 @@
 1134 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 150
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 400
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 7275
     }
 }
@@ -1786,67 +1786,67 @@
 1135 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 775
     }
 
     bureaucrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 75
     }
 
     officers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 400
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 8750
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 28625
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 700
     }
 
     slaves = {
         culture = kilombero #african_minor
-        religion = animist
+        religion = protestant
         size = 500
     }
 
     slaves = {
         culture = panjabi
-        religion = sikh
+        religion = protestant
         size = 2000
     }
 }
@@ -1854,37 +1854,37 @@
 1136 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 450
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1250
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 22800
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 200
     }
 }
@@ -1892,31 +1892,31 @@
 1137 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 700
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 350
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1800
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 32150
     }
 }
@@ -1924,31 +1924,31 @@
 1138 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 225
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 600
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 10925
     }
 }
@@ -1956,31 +1956,31 @@
 1139 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 3675
     }
 }
@@ -1990,43 +1990,43 @@
 1140 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 350
     }
 
     bureaucrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 50
     }
 
     officers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 200
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 200
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 18125
     }
 }
@@ -2034,61 +2034,61 @@
 1141 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 300
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 800
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 13750
     }
 
     aristocrats = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 2750
     }
 }
@@ -2096,73 +2096,73 @@
 1142 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 325
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 850
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 12650
     }
 
     aristocrats = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 350
     }
 
     soldiers = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = mashriqi
-        religion = shiite
+        religion = protestant
         size = 6400
     }
 
     slaves = {
         culture = kilombero #african_minor
-        religion = animist
+        religion = protestant
         size = 2500
     }
 
     slaves = {
         culture = pashtun
-        religion = shiite
+        religion = protestant
         size = 1000
     }
 }
@@ -2170,61 +2170,61 @@
 1143 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 550
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 10025
     }
 
     aristocrats = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 175
     }
 
     clergymen = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 450
     }
 
     soldiers = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 8200
     }
 }
@@ -2234,73 +2234,73 @@
 1144 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 200
     }
 
     bureaucrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 25
     }
 
     officers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 550
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 9925
     }
 
     aristocrats = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 350
     }
 
     soldiers = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 6375
     }
 }
@@ -2308,61 +2308,61 @@
 1145 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 275
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 850
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 14700
     }
 
     aristocrats = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 6075
     }
 }
@@ -2370,73 +2370,73 @@
 1146 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 275
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 850
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 175
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 15525
     }
 
     aristocrats = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 350
     }
 
     soldiers = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = baluchi
-        religion = sunni
+        religion = protestant
         size = 6375
     }
 
     slaves = {
         culture = kilombero #african_minor
-        religion = animist
+        religion = protestant
         size = 2000
     }
 
     slaves = {
         culture = panjabi
-        religion = hindu
+        religion = protestant
         size = 4000
     }
 }
@@ -2446,103 +2446,103 @@
 1147 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1550
     }
 
     bureaucrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 150
     }
 
     officers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 175
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 825
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 2500
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 61550
     }
 
     aristocrats = {
         culture = turkmen
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = turkmen
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = turkmen
-        religion = sunni
+        religion = protestant
         size = 550
     }
 
     soldiers = {
         culture = turkmen
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = turkmen
-        religion = sunni
+        religion = protestant
         size = 10050
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 5
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 245
     }
 
     slaves = {
         culture = kilombero #african_minor
-        religion = animist
+        religion = protestant
         size = 8000
     }
 
     slaves = {
         culture = pashtun
-        religion = shiite
+        religion = protestant
         size = 4000
     }
 
@@ -2551,31 +2551,31 @@
 1148 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 450
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 225
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1150
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 20250
     }
 }
@@ -2583,31 +2583,31 @@
 1149 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 350
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 900
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 175
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 16400
     }
 }
@@ -2615,61 +2615,61 @@
 1150 = {
     aristocrats = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 250
     }
 
     soldiers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = persian
-        religion = shiite
+        religion = protestant
         size = 4550
     }
 
     aristocrats = {
         culture = turkmen
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = turkmen
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = turkmen
-        religion = sunni
+        religion = protestant
         size = 425
     }
 
     soldiers = {
         culture = turkmen
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = turkmen
-        religion = sunni
+        religion = protestant
         size = 8225
     }
 

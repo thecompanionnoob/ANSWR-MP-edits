@@ -4,151 +4,151 @@
 809 = {
     aristocrats = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 1450
     }
 
     bureaucrats = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 400
     }
 
     officers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 300
     }
 
     clergymen = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 2500
     }
 
     soldiers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 7383
     }
 
     aristocrats = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 100
     }
 
     officers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 600
     }
 
     artisans = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 5442
     }
 
     aristocrats = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 150
     }
 
     officers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 110
     }
 
     clergymen = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 375
     }
 
     artisans = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 2400
     }
 
     soldiers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 48425
     }
 
     aristocrats = {
         culture = greek
-        religion = the_broken
+        religion = protestant
         size = 110
     }
 
     officers = {
         culture = greek
-        religion = the_broken
+        religion = protestant
         size = 110
     }
 
     soldiers = {
         culture = greek
-        religion = the_broken
+        religion = protestant
         size = 150
     }
 
     clergymen = {
         culture = greek
-        religion = the_broken
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = greek
-        religion = the_broken
+        religion = protestant
         size = 200
     }
 
     farmers = {
         culture = greek
-        religion = the_broken
+        religion = protestant
         size = 500
     }
 }
@@ -156,128 +156,128 @@
 810 = {
     aristocrats = {
         culture = westturkish
-        religion = the_broken
+        religion = protestant
         size = 650
     }
 
     clergymen = {
         culture = westturkish
-        religion = the_broken
+        religion = protestant
         size = 110
     }
 
     artisans = {
         culture = westturkish
-        religion = the_broken
+        religion = protestant
         size = 800
     }
 
     soldiers = {
         culture = westturkish
-        religion = the_broken
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = westturkish
-        religion = the_broken
+        religion = protestant
         size = 1125
     }
 
     clergymen = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 800
     }
 
     soldiers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 10125
     }
 
     soldiers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 150
     }
 
     clergymen = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 36150
     }
 
     soldiers = {
         culture = romanian
-        religion = the_broken
+        religion = protestant
         size = 110
     }
 
     clergymen = {
         culture = romanian
-        religion = the_broken
+        religion = protestant
         size = 110
     }
 
     artisans = {
         culture = romanian
-        religion = the_broken
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = romanian
-        religion = the_broken
+        religion = protestant
         size = 1280
     }
 
     ######Jews
     soldiers = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 100
     }
     ########
@@ -286,79 +286,79 @@
 812 = {
     aristocrats = {
         culture = westturkish
-        religion = the_broken
+        religion = protestant
         size = 875
     }
 
     clergymen = {
         culture = westturkish
-        religion = the_broken
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = westturkish
-        religion = the_broken
+        religion = protestant
         size = 1350
     }
 
     soldiers = {
         culture = westturkish
-        religion = the_broken
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = westturkish
-        religion = the_broken
+        religion = protestant
         size = 3939
     }
 
     clergymen = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 200
     }
 
     artisans = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = westturkish
-        religion = the_broken
+        religion = protestant
         size = 1736
     }
 
     clergymen = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 47650
     }
 }
@@ -368,85 +368,85 @@
 816 = {
     aristocrats = {
         culture = westturkish
-        religion = the_broken
+        religion = protestant
         size = 325
     }
 
     clergymen = {
         culture = westturkish
-        religion = the_broken
+        religion = protestant
         size = 110
     }
 
     artisans = {
         culture = westturkish
-        religion = the_broken
+        religion = protestant
         size = 550
     }
 
     soldiers = {
         culture = westturkish
-        religion = the_broken
+        religion = protestant
         size = 175
     }
 
     farmers = {
         culture = westturkish
-        religion = the_broken
+        religion = protestant
         size = 4900
     }
 
     soldiers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 450
     }
 
     soldiers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 225
     }
 
     farmers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 31475
     }
 
     clergymen = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 300
     }
 
     artisans = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 4850
     }
 }
@@ -454,121 +454,121 @@
 817 = {
     aristocrats = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 1100
     }
 
     clergymen = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 900
     }
 
     soldiers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 450
     }
 
     farmers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 8425
     }
 
     aristocrats = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 110
     }
 
     officers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 110
     }
 
     clergymen = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 550
     }
 
     soldiers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 550
     }
 
     farmers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 25275
     }
 
     artisans = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = iskhor
-        religion = the_broken
+        religion = protestant
         size = 5675
     }
 
     farmers = {
         culture = circassian
-        religion = the_broken
+        religion = protestant
         size = 150
     }
 
     clergymen = {
         culture = greek
-        religion = the_broken
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = greek
-        religion = the_broken
+        religion = protestant
         size = 300
     }
 
     artisans = {
         culture = greek
-        religion = the_broken
+        religion = protestant
         size = 900
     }
 
     farmers = {
         culture = greek
-        religion = the_broken
+        religion = protestant
         size = 4950
     }
 

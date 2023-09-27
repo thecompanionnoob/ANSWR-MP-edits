@@ -4,7 +4,7 @@
 2193 = {
     aristocrats = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 950
         militancy = 9
         rebel_type = nationalist_rebels
@@ -12,13 +12,13 @@
 
     bureaucrats = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 125
     }
 
     officers = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 100
         militancy = 9
         rebel_type = nationalist_rebels
@@ -26,7 +26,7 @@
 
     clergymen = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 450
         militancy = 9
         rebel_type = nationalist_rebels
@@ -34,13 +34,13 @@
 
     artisans = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 2250
     }
 
     soldiers = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 1450
 
         militancy = 9
@@ -49,7 +49,7 @@
 
     farmers = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 40675
         militancy = 5
     }
@@ -58,7 +58,7 @@
 2194 = {
     aristocrats = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 550
         militancy = 9
         rebel_type = nationalist_rebels
@@ -66,7 +66,7 @@
 
     clergymen = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 225
         militancy = 9
         rebel_type = nationalist_rebels
@@ -74,13 +74,13 @@
 
     artisans = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 1150
     }
 
     soldiers = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 225
 
         militancy = 9
@@ -89,7 +89,7 @@
 
     farmers = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 20850
         militancy = 9
         rebel_type = nationalist_rebels
@@ -99,7 +99,7 @@
 2195 = {
     aristocrats = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 425
         militancy = 9
         rebel_type = nationalist_rebels
@@ -107,7 +107,7 @@
 
     clergymen = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 175
         militancy = 9
         rebel_type = nationalist_rebels
@@ -115,13 +115,13 @@
 
     artisans = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 850
     }
 
     soldiers = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 175
 
         militancy = 9
@@ -130,7 +130,7 @@
 
     farmers = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 15375
         militancy = 9
         rebel_type = nationalist_rebels
@@ -140,7 +140,7 @@
 2196 = {
     aristocrats = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 75
         militancy = 9
         rebel_type = nationalist_rebels
@@ -148,7 +148,7 @@
 
     clergymen = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 50
         militancy = 9
         rebel_type = nationalist_rebels
@@ -156,13 +156,13 @@
 
     artisans = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 25
 
         militancy = 9
@@ -171,7 +171,7 @@
 
     farmers = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 2700
         militancy = 5
     }

@@ -1,6 +1,6 @@
 capital = 1064
 primary_culture = novosibiryaki
-religion = orthodox
+religion = protestant
 government = democracy
 plurality = 10.0
 nationalvalue = nv_liberty

@@ -5,43 +5,43 @@
 
     bureaucrats = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 1350
     }
 
     officers = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     aristocrats = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 4350
     }
 
     clergymen = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 1200
     }
 
     artisans = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 8100
     }
 
     soldiers = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 6500
     }
 
     farmers = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 152250
     }
 }
@@ -49,31 +49,31 @@
 2606 = {
     aristocrats = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 1250
     }
 
     clergymen = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 1175
     }
 
     artisans = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 1950
     }
 
     soldiers = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 1200
     }
 
     farmers = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 67325
     }
 }
@@ -83,31 +83,31 @@
 1187 = {
     aristocrats = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 950
     }
 
     clergymen = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 1200
     }
 
     artisans = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 3100
     }
 
     soldiers = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 1200
     }
 
     farmers = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 74150
     }
 }
@@ -115,31 +115,31 @@
 1188 = {
     aristocrats = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 1300
     }
 
     clergymen = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 750
     }
 
     artisans = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 3800
     }
 
     soldiers = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 1750
     }
 
     farmers = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 49575
     }
 }
@@ -149,31 +149,31 @@
 
     aristocrats = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 4300
     }
 
     clergymen = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 2150
     }
 
     artisans = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 3800
     }
 
     soldiers = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 1750
     }
 
     farmers = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 47575
     }
 }
@@ -184,37 +184,37 @@
 
     farmers = {
         culture = uzbek
-        religion = sunni
+        religion = protestant
         size = 12775
     }
 
     aristocrats = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 950
     }
 
     clergymen = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 700
     }
 
     artisans = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 1600
     }
 
     soldiers = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 975
     }
 
     farmers = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 35300
     }
 }
@@ -225,61 +225,61 @@
 1197 = {
     aristocrats = {
         culture = uzbek
-        religion = sunni
+        religion = protestant
         size = 1250
     }
 
     clergymen = {
         culture = uzbek
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = uzbek
-        religion = sunni
+        religion = protestant
         size = 750
     }
 
     soldiers = {
         culture = uzbek
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = uzbek
-        religion = sunni
+        religion = protestant
         size = 46325
     }
 
     aristocrats = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 550
     }
 
     clergymen = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 2500
     }
 
     soldiers = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 1250
     }
 
     farmers = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 32450
     }
 
@@ -289,37 +289,37 @@
 
     aristocrats = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 2100
     }
 
     clergymen = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 3250
     }
 
     artisans = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 7300
     }
 
     soldiers = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 2450
     }
 
     farmers = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 47175
     }
 	
 	farmers = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 40000
     }
 	
@@ -329,31 +329,31 @@
 
     aristocrats = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 450
     }
 
     clergymen = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 750
     }
 
     artisans = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 4200
     }
 
     soldiers = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 1200
     }
 
     farmers = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 56250
     }
 }
@@ -362,36 +362,36 @@
 
     aristocrats = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 1125
     }
 
     clergymen = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 2075
     }
 
     artisans = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 13150
     }
 
     soldiers = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 1075
     }
 
     farmers = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 52375
     }
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = protestant
         size = 22375
     }
 }

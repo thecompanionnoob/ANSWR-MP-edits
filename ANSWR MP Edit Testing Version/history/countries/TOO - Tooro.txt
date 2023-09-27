@@ -1,6 +1,6 @@
 capital = 1784
 primary_culture = fulbe
-religion = sunni
+religion = protestant
 government = theocracy
 plurality = 0.0
 nationalvalue = nv_tradition

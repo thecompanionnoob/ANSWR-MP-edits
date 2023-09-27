@@ -4,163 +4,163 @@
 1852 = {
     aristocrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 2100
     }
 
     bureaucrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 455
     }
 
     officers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 420
     }
 
     clergymen = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 1155
     }
 
     artisans = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 5650
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 5020
     }
 
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 90000
     }
 
     slaves = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 11200
     }
 
     aristocrats = {
         culture = tigray
-        religion = jewish
+        religion = protestant
         size = 100
     }
 
     officers = {
         culture = tigray
-        religion = jewish
+        religion = protestant
         size = 105
     }
 
     clergymen = {
         culture = tigray
-        religion = jewish
+        religion = protestant
         size = 105
     }
 
     artisans = {
         culture = tigray
-        religion = jewish
+        religion = protestant
         size = 350
     }
 
     soldiers = {
         culture = tigray
-        religion = jewish
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = tigray
-        religion = jewish
+        religion = protestant
         size = 7630
     }
 
     aristocrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 775
     }
 
     officers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 650
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 32300
     }
 
     aristocrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 775
     }
 
     officers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 650
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 2300
     }
 
     slaves = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 3800
     }
 }
@@ -168,67 +168,67 @@
 1853 = {
     aristocrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 1400
     }
 
     clergymen = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 700
     }
 
     artisans = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 2900
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 5000
     }
 
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 113500
     }
 
     slaves = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 10000
     }
 
     aristocrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 800
     }
 
     clergymen = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 440
     }
 
     artisans = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 4810
     }
 
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 7750
     }
 
     slaves = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 16700
     }
 }
@@ -236,103 +236,103 @@
 1854 = {
     aristocrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 1425
     }
 
     clergymen = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 735
     }
 
     artisans = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 2240
     }
 
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 110000
     }
 
     slaves = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 5600
     }
 
     aristocrats = {
         culture = tigray
-        religion = jewish
+        religion = protestant
         size = 145
     }
 
     clergymen = {
         culture = tigray
-        religion = jewish
+        religion = protestant
         size = 110
     }
 
     artisans = {
         culture = tigray
-        religion = jewish
+        religion = protestant
         size = 800
     }
 
     soldiers = {
         culture = tigray
-        religion = jewish
+        religion = protestant
         size = 145
     }
 
     farmers = {
         culture = tigray
-        religion = jewish
+        religion = protestant
         size = 11800
     }
 
     aristocrats = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 1470
     }
 
     clergymen = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 170
     }
 
     artisans = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 3150
     }
 
     soldiers = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 770
     }
 
     farmers = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 15840
     }
 
     slaves = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 5600
     }
 }
@@ -340,79 +340,79 @@
 1855 = {
     aristocrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 1450
     }
 
     clergymen = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 760
     }
 
     artisans = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 3050
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 1740
     }
 
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 184500
     }
 
     slaves = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 7000
     }
 
     aristocrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 1900
     }
 
     clergymen = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 8000
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 1300
     }
 
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 50000
     }
 
     slaves = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 9800
     }
 }
@@ -422,91 +422,91 @@
 1856 = {
     aristocrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 800
     }
 
     bureaucrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 75
     }
 
     officers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 70
     }
 
     clergymen = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 420
     }
 
     artisans = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 1750
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 2400
     }
 
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 62485
     }
 
     slaves = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 7000
     }
 
     aristocrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     officers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 280
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 2075
     }
 
     slaves = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 1400
     }
 }
@@ -514,67 +514,67 @@
 1857 = {
     aristocrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 700
     }
 
     clergymen = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 350
     }
 
     artisans = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 1500
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 2400
     }
 
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 24550
     }
 
     slaves = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 22000
     }
 
     aristocrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 140
     }
 
     clergymen = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 110
     }
 
     artisans = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 425
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 22750
     }
 }
@@ -582,37 +582,37 @@
 1858 = {
     aristocrats = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 315
     }
 
     clergymen = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 700
     }
 
     soldiers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 175
     }
 
     farmers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 12635
     }
 
     slaves = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 3000
     }
 }
@@ -622,187 +622,187 @@
 1859 = {
     aristocrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 11175
     }
 
     bureaucrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 665
     }
 
     officers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 660
     }
 
     clergymen = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 5700
     }
 
     artisans = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 2800
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 62400
     }
 
     slaves = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 21600
     }
 
     aristocrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 3225
     }
 
     bureaucrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 180
     }
 
     officers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 600
     }
 
     clergymen = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 1730
     }
 
     artisans = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 6900
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 2065
     }
 
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 110000
     }
 
     slaves = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 57300
     }
 
     aristocrats = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 275
     }
 
     clergymen = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 800
     }
 
     soldiers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 1250
     }
 
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 20000
     }
 
     aristocrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 275
     }
 
     clergymen = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 800
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 1250
     }
 
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 20000
     }
 
@@ -812,61 +812,61 @@
 
     aristocrats = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 1325
     }
 
     clergymen = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 675
     }
 
     artisans = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 2725
     }
 
     farmers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 53300
     }
 
     slaves = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 10000
     }
 
     aristocrats = {
         culture = tigray #From here on they were tigray and coptic
-        religion = sunni
+        religion = protestant
         size = 925
     }
 
     clergymen = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 475
     }
 
     artisans = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 1900
     }
 
     soldiers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 475
     }
 
     farmers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 43225
     }
 
@@ -876,74 +876,74 @@
 
     aristocrats = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 1250
     }
 
     clergymen = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 2650
     }
 
     soldiers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 450
     }
 
     farmers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 50500
     }
 
     slaves = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 10000
     }
 
     #From here on they were tigray and coptic
     aristocrats = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 600
     }
 
     clergymen = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 300
     }
 
     artisans = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 1250
     }
 
     soldiers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 325
     }
 
     farmers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 26525
     }
 
     slaves = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 2000
     }
 }
@@ -953,187 +953,187 @@
 1862 = {
     aristocrats = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 1000
     }
 
     officers = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 10100
     }
 
     aristocrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 840
     }
 
     officers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 7000
     }
 
     aristocrats = {
         culture = tigray #sidama
-        religion = animist
+        religion = protestant
         size = 4225
     }
 
     clergymen = {
         culture = tigray #sidama
-        religion = animist
+        religion = protestant
         size = 625
     }
 
     artisans = {
         culture = tigray #sidama
-        religion = animist
+        religion = protestant
         size = 5350
     }
 
     soldiers = {
         culture = tigray #sidama
-        religion = animist
+        religion = protestant
         size = 1500
     }
 
     farmers = {
         culture = tigray #sidama
-        religion = animist
+        religion = protestant
         size = 106500
     }
 
     slaves = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 8200
     }
 
     aristocrats = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 1300
     }
 
     clergymen = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 42500
     }
 
     aristocrats = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     officers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 47300
     }
 
     aristocrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 8000
     }
 }
@@ -1141,84 +1141,84 @@
 1863 = {
     aristocrats = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 310
     }
 
     artisans = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 1200
     }
 
     soldiers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 1100
     }
     farmers = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 20850
     }
 
     slaves = {
         culture = tigray
-        religion = coptic
+        religion = protestant
         size = 6000
     }
 
     aristocrats = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 1650
     }
 
     clergymen = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 835
     }
 
     artisans = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 3350
     }
 
     soldiers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 240
     }
 
     farmers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 57500
     }
 
     slaves = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 49425
     }
 
     clergymen = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 435
     }
 
     farmers = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 41000
     }
 }
@@ -1226,73 +1226,73 @@
 1864 = {
     aristocrats = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 875
     }
 
     clergymen = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 450
     }
 
     artisans = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 1850
     }
 
     soldiers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 450
     }
 
     farmers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 35375
     }
 
     slaves = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 27000
     }
 
     aristocrats = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 275
     }
 
     artisans = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 1075
     }
 
     soldiers = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 275
     }
 
     farmers = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 9875
     }
 
     slaves = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 7000
     }
 }
@@ -1302,109 +1302,109 @@
 1865 = {
     aristocrats = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 910
     }
 
     bureaucrats = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     officers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 285
     }
 
     artisans = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 1900
     }
 
     soldiers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 39215
     }
 
     aristocrats = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 300
     }
 
     clergymen = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 165
     }
 
     artisans = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 700
     }
 
     soldiers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 1170
     }
 
     farmers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 11665
     }
 
     slaves = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 2200
     }
 
     aristocrats = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 950
     }
 
     clergymen = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 475
     }
 
     artisans = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 2400
     }
 
     soldiers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 175
     }
 
     farmers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 32800
     }
 }
@@ -1414,37 +1414,37 @@
 
     aristocrats = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 625
     }
 
     clergymen = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 325
     }
 
     artisans = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 1600
     }
 
     soldiers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 1050
     }
 
     farmers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 38500
     }
 
     slaves = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 5000
     }
 
@@ -1454,61 +1454,61 @@
 
     clergymen = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 750
     }
 
     soldiers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 13675
     }
 
     aristocrats = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 1575
     }
 
     clergymen = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 1150
     }
 
     artisans = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 3425
     }
 
     farmers = {
         culture = tigray
-        religion = sunni
+        religion = protestant
         size = 50625
     }
 
     slaves = {
         culture = tigray
-        religion = animist
+        religion = protestant
         size = 2000
     }
 

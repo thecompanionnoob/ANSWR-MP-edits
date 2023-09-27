@@ -4,187 +4,187 @@
 1745 = {
     aristocrats = {
         culture = circassian
-        religion = sunni
+        religion = protestant
         size = 750
     }
 
     bureaucrats = {
         culture = circassian
-        religion = sunni
+        religion = protestant
         size = 1450
     }
 
     officers = {
         culture = circassian
-        religion = sunni
+        religion = protestant
         size = 450
     }
 
     artisans = {
         culture = circassian
-        religion = sunni
+        religion = protestant
         size = 1250
     }
 
     artisans = {
         culture = circassian
-        religion = sunni
+        religion = protestant
         size = 10000
     }
 
     soldiers = {
         culture = circassian
-        religion = sunni
+        religion = protestant
         size = 1250
     }
 
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 2600
     }
 
     bureaucrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     officers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 325
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 4000
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 146000
     }
 
     bureaucrats = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 8000
     }
 
     farmers = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 26800
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = protestant
         size = 2950
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 1225
     }
 
     slaves = {
         culture = nilotic
-        religion = animist
+        religion = protestant
         size = 9000
     }
 
     slaves = {
         culture = greek
-        religion = orthodox
+        religion = protestant
         size = 1025
     }
 }
@@ -192,97 +192,97 @@
 1746 = {
     aristocrats = {
         culture = circassian
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = circassian
-        religion = sunni
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = circassian
-        religion = sunni
+        religion = protestant
         size = 5575
     }
 
     soldiers = {
         culture = circassian
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 1500
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 462
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 1800
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 79238
     }
 
     clergymen = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 2825
     }
 }
@@ -291,37 +291,37 @@
 304 = {
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 4000
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 146000
     }
 }
@@ -329,55 +329,55 @@
 1747 = {
     aristocrats = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 1600
     }
 
     artisans = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 5575
     }
 
     soldiers = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 1175
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 425
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 4100
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 65625
     }
 
     clergymen = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 11875
     }
 }
@@ -385,79 +385,79 @@
 1748 = {
     aristocrats = {
         culture = circassian
-        religion = sunni
+        religion = protestant
         size = 600
     }
 
     artisans = {
         culture = circassian
-        religion = sunni
+        religion = protestant
         size = 2400
     }
 
     soldiers = {
         culture = circassian
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 700
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 300
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 3050
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 2100
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 54700
     }
 
     clergymen = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 1875
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 5
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 245
     }
 }
@@ -465,67 +465,67 @@
 1749 = {
     aristocrats = {
         culture = circassian
-        religion = sunni
+        religion = protestant
         size = 650
     }
 
     artisans = {
         culture = circassian
-        religion = sunni
+        religion = protestant
         size = 425
     }
 
     soldiers = {
         culture = circassian
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 700
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 325
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 5250
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 2100
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 49625
     }
 
     clergymen = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 1850
     }
 }
@@ -533,55 +533,55 @@
 1750 = {
     aristocrats = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 2050
     }
 
     artisans = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 550
     }
 
     soldiers = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 1200
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 400
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 4050
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 64820
     }
 
     clergymen = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 12800
     }
 }
@@ -591,121 +591,121 @@
 1751 = {
     aristocrats = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 2750
     }
 
     bureaucrats = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 1150
     }
 
     officers = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 425
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 750
     }
 
     soldiers = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 116725
     }
 
     bureaucrats = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 750
     }
 
     farmers = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 12125
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 10
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = protestant
         size = 990
     }
 
     clergymen = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 1950
     }
 
     slaves = {
         culture = nilotic
-        religion = animist
+        religion = protestant
         size = 6000
     }
 }
@@ -713,61 +713,61 @@
 1752 = {
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 225
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 600
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 10150
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 2700
     }
 }
@@ -775,31 +775,31 @@
 1753 = {
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 250
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 4575
     }
 }
@@ -807,31 +807,31 @@
 1754 = {
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 3650
     }
 }
@@ -841,43 +841,43 @@
 1755 = {
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 350
     }
 
     bureaucrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 10
     }
 
     officers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 1900
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 16340
     }
 }
@@ -885,61 +885,61 @@
 1756 = {
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 1100
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 1800
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 1800
     }
 }
@@ -947,61 +947,61 @@
 1757 = {
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 15
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 250
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 10
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 900
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 5800
     }
 }
@@ -1011,31 +1011,31 @@
 1758 = {
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 1800
     }
 }
@@ -1043,31 +1043,31 @@
 1759 = {
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 2700
     }
 }
@@ -1075,31 +1075,31 @@
 1760 = {
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 250
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 4575
     }
 }
@@ -1107,31 +1107,31 @@
 1761 = {
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 3650
     }
 }
@@ -1141,67 +1141,67 @@
 1762 = {
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 825
     }
 
     bureaucrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 110
     }
 
     officers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 175
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 450
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 8050
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 2100
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 80390
     }
 
     bureaucrats = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 15
     }
 
     clergymen = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 900
     }
 
     farmers = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 20935
     }
 }
@@ -1209,49 +1209,49 @@
 1763 = {
     aristocrats = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 275
     }
 
     clergymen = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 2800
     }
 
     soldiers = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 200
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 15575
     }
 
     clergymen = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 2800
     }
 }
@@ -1259,49 +1259,49 @@
 1764 = {
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 375
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 1550
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 18325
     }
 
     clergymen = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 4800
     }
 }
@@ -1309,49 +1309,49 @@
 1765 = {
     aristocrats = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 800
     }
 
     clergymen = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 425
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 2100
     }
 
     soldiers = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 37675
     }
 
     clergymen = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = grecocopt
-        religion = coptic
+        religion = protestant
         size = 5650
     }
 }
@@ -1359,49 +1359,49 @@
 2559 = {
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 600
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 525
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 3600
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 1250
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 50025
     }
 
     clergymen = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 1850
     }
 }
@@ -1411,67 +1411,67 @@
 1766 = {
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 175
     }
 
     bureaucrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 45
     }
 
     officers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 8980
     }
 
     bureaucrats = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 5
     }
 
     clergymen = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 1850
     }
 }
@@ -1479,49 +1479,49 @@
 1767 = {
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 1225
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 1125
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 8600
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 5175
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 115875
     }
 
     clergymen = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 4700
     }
 }
@@ -1529,49 +1529,49 @@
 1768 = {
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 300
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 850
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 15475
     }
 
     clergymen = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 1850
     }
 }
@@ -1579,49 +1579,49 @@
 1769 = {
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 300
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 1550
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 1150
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 36000
     }
 
     clergymen = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = misri
-        religion = coptic
+        religion = protestant
         size = 1850
     }
 }
@@ -1631,31 +1631,31 @@
 1770 = {
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 2700
     }
 }
@@ -1663,61 +1663,61 @@
 1771 = {
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 15
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 10
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = protestant
         size = 900
     }
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 3650
     }
 }
@@ -1725,31 +1725,31 @@
 1772 = {
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = protestant
         size = 2700
     }
 

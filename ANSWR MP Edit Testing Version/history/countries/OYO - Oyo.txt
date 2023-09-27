@@ -1,7 +1,7 @@
 capital = 1928
 primary_culture = shenkuda
 culture = tsakiya
-religion = sarki
+religion = protestant
 government = absolute_monarchy
 plurality = 2.0
 nationalvalue = nv_tradition

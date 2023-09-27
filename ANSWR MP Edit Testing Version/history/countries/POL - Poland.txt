@@ -1,6 +1,6 @@
 capital = 706
 primary_culture = polish
-religion = catholic
+religion = protestant
 government = hms_government
 plurality = 5
 nationalvalue = nv_equality

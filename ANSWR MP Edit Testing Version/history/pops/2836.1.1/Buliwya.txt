@@ -4,73 +4,73 @@
 2302 = {
     aristocrats = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 450
     }
 
     slaves = {
         culture = pacinian
-        religion = animist
+        religion = protestant
         size = 10800
     }
 
     bureaucrats = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 500
     }
 
     officers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 1100
     }
 
     soldiers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 11625
     }
 
     clergymen = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 2100
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 44275
     }
 
     slaves = {
         culture = afro_caribeno
-        religion = animist
+        religion = protestant
         size = 6000
     }
 }
@@ -78,61 +78,61 @@
 2303 = {
     aristocrats = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 575
     }
 
     clergymen = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 10025
     }
 
     slaves = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 2800
     }
 
     clergymen = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 3150
     }
 
     soldiers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 2500
     }
 
     farmers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 58500
     }
 }
@@ -143,67 +143,67 @@
 2305 = {
     aristocrats = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     bureaucrats = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 5
     }
 
     officers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 5
     }
 
     clergymen = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 4900
     }
 
     clergymen = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 17225
     }
 }
@@ -211,55 +211,55 @@
 2309 = {
     aristocrats = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 175
     }
 
     clergymen = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 2700
     }
 
     clergymen = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 6700
     }
 }
@@ -268,55 +268,55 @@
 2307 = {
     aristocrats = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 375
     }
 
     clergymen = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 325
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 8650
     }
 
     clergymen = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 175
     }
 
     farmers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 9575
     }
 }
@@ -324,55 +324,55 @@
 2308 = {
     aristocrats = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 525
     }
 
     clergymen = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 450
     }
 
     soldiers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 9740
     }
 
     clergymen = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 400
     }
 
     soldiers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 350
     }
 
     farmers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 4725
     }
 }
@@ -382,91 +382,91 @@
 2310 = {
     aristocrats = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 1100
     }
 
     bureaucrats = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     officers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 325
     }
 
     clergymen = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 650
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 5825
     }
 
     soldiers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 10000
     }
 
     soldiers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 20000
     }
 
     clergymen = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     artisans = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 7525
     }
 
     farmers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 122175
     }
 
     clergymen = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 2050
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 22775
     }
 }
@@ -474,55 +474,55 @@
 2311 = {
     aristocrats = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 1700
     }
 
     clergymen = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 550
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 1150
     }
 
     soldiers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 23600
     }
 
     clergymen = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     artisans = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 3250
     }
 
 	soldiers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 2100
     }
 
     farmers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 71500
     }
 }
@@ -530,49 +530,49 @@
 2312 = {
     aristocrats = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 225
     }
 
     clergymen = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 950
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 5525
     }
 
     clergymen = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 950
     }
 
     farmers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 25575
     }
 }
@@ -582,67 +582,67 @@
 2313 = {
     aristocrats = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     bureaucrats = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     officers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 1300
     }
 
     farmers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 11825
     }
 
     clergymen = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 1200
     }
 
     soldiers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 19325
     }
 }
@@ -650,49 +650,49 @@
 2314 = {
     aristocrats = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 325
     }
 
     clergymen = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 1025
     }
 
     farmers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 37050
     }
 
     clergymen = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 1350
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 14525
     }
 }
@@ -700,55 +700,55 @@
 2315 = {
     aristocrats = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 275
     }
 
     clergymen = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 575
     }
 
     clergymen = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 3225
     }
 }
@@ -758,67 +758,67 @@
 2316 = {
     aristocrats = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     bureaucrats = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 5
     }
 
     officers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 10
     }
 
     clergymen = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 735
     }
 
     clergymen = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 1775
     }
 }
@@ -826,85 +826,85 @@
 2317 = {
     clergymen = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     aristocrats = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 1400
     }
 
     aristocrats = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = aimara
-        religion = animist
+        religion = protestant
         size = 500
     }
 }
@@ -912,31 +912,31 @@
 2318 = {
     aristocrats = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 1300
     }
 }
@@ -946,97 +946,97 @@
 2319 = {
     aristocrats = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 275
     }
 
     bureaucrats = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     officers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 2400
     }
 
     clergymen = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 1350
     }
 
     aristocrats = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 2475
     }
 }
@@ -1044,31 +1044,31 @@
 2320 = {
     aristocrats = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 1350
     }
 }
@@ -1076,85 +1076,85 @@
 2321 = {
     aristocrats = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 375
     }
 
     clergymen = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = quechua
-        religion = animist
+        religion = protestant
         size = 1120
     }
 
     aristocrats = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = amazonian
-        religion = animist
+        religion = protestant
         size = 1700
     }
 

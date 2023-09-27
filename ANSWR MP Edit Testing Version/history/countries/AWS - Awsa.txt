@@ -1,7 +1,7 @@
 capital = 1851
 primary_culture = afar
 culture = cushitic
-religion = sunni
+religion = protestant
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order

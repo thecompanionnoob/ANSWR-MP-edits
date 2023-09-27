@@ -5,49 +5,49 @@
 2583 = {
     aristocrats = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 100
     }
 
     bureaucrats = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 100
     }
 
     officers = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 275
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 1300
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 21375
     }
 
     farmers = {
         culture = gypsy
-        religion = orthodox
+        religion = protestant
         size = 1000
     }
 }
@@ -58,67 +58,67 @@
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 520
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 3170
     }
 
     serfs = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 5175
     }
 
     aristocrats = {
         culture = serb
-        religion = the_broken
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = serb
-        religion = the_broken
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = serb
-        religion = the_broken
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = serb
-        religion = the_broken
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = serb
-        religion = the_broken
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = gypsy
-        religion = the_broken
+        religion = protestant
         size = 200
     }
 }
@@ -128,121 +128,121 @@
 2582 = {
     aristocrats = {
         culture = croat
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     officers = {
         culture = croat
-        religion = catholic
+        religion = protestant
         size = 10
     }
 
     clergymen = {
         culture = croat
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = croat
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     soldiers = {
         culture = croat
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = croat
-        religion = catholic
+        religion = protestant
         size = 4000
     }
 
     farmers = {
         culture = albanian
-        religion = catholic
+        religion = protestant
         size = 350
     }
 
     aristocrats = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 200
     }
 
     officers = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 10
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 550
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 10225
     }
 
     farmers = {
         culture = serb
-        religion = catholic
+        religion = protestant
         size = 350
     }
 
     aristocrats = {
         culture = north_italian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     officers = {
         culture = north_italian
-        religion = catholic
+        religion = protestant
         size = 10
     }
 
     clergymen = {
         culture = north_italian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = north_italian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = north_italian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 

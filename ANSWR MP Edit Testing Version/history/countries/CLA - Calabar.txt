@@ -1,7 +1,7 @@
 capital = 1934
 primary_culture = ibibio
 culture = tiv
-religion = animist
+religion = protestant
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

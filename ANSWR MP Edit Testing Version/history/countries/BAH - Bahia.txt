@@ -1,7 +1,7 @@
 capital = 2436
 primary_culture = janeiran
 culture = afro_brazilian
-religion = catholic
+religion = protestant
 government = democracy
 plurality = 0.0
 nationalvalue = nv_liberty

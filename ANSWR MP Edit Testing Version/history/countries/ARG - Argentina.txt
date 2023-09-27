@@ -1,6 +1,6 @@
 capital = 2348
 primary_culture = platinean
-religion = catholic
+religion = protestant
 government = presidential_dictatorship
 plurality = 20.0
 nationalvalue = nv_liberty
@@ -80,7 +80,7 @@ oob = "ARG_oob.txt"
 2861.1.1 = {
 capital = 2348
 primary_culture = platinean
-religion = catholic
+religion = protestant
 government = democracy
 plurality = 60
 nationalvalue = nv_order

@@ -4,43 +4,43 @@
 2034 = {
     aristocrats = {
         culture = ruanda
-        religion = animist
+        religion = protestant
         size = 2450
     }
 
     bureaucrats = {
         culture = ruanda
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     officers = {
         culture = ruanda
-        religion = animist
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = ruanda
-        religion = animist
+        religion = protestant
         size = 1750
     }
 
     artisans = {
         culture = ruanda
-        religion = animist
+        religion = protestant
         size = 6200
     }
 
     soldiers = {
         culture = ruanda
-        religion = animist
+        religion = protestant
         size = 1250
     }
 
     farmers = {
         culture = ruanda
-        religion = animist
+        religion = protestant
         size = 113200
     }
 }
@@ -49,43 +49,43 @@
 2035 = {
     aristocrats = {
         culture = ruanda
-        religion = animist
+        religion = protestant
         size = 2175
     }
 
     bureaucrats = {
         culture = ruanda
-        religion = animist
+        religion = protestant
         size = 15
     }
 
     officers = {
         culture = ruanda
-        religion = animist
+        religion = protestant
         size = 110
     }
 
     clergymen = {
         culture = ruanda
-        religion = animist
+        religion = protestant
         size = 1125
     }
 
     artisans = {
         culture = ruanda
-        religion = animist
+        religion = protestant
         size = 5600
     }
 
     soldiers = {
         culture = ruanda
-        religion = animist
+        religion = protestant
         size = 1125
     }
 
     farmers = {
         culture = ruanda
-        religion = animist
+        religion = protestant
         size = 101850
     }
 

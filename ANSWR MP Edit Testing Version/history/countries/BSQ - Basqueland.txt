@@ -1,6 +1,6 @@
 capital = 492
-primary_culture = basque
-religion = catholic
+primary_culture = spanish
+religion = protestant
 government = democracy
 plurality = 0.1
 nationalvalue = nv_order

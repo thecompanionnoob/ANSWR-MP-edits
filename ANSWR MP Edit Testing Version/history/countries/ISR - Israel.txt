@@ -1,7 +1,7 @@
 capital = 919
 primary_culture = ashkenazi
 culture = sephardic
-religion = jewish
+religion = protestant
 government = democracy
 plurality = 2.0
 nationalvalue = nv_productivity

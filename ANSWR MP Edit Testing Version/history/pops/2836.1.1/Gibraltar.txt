@@ -28,43 +28,43 @@
 
     artisans = {
         culture = spanish
-        religion = jewish
+        religion = protestant
         size = 353
     }
 
     artisans = {
         culture = spanish
-        religion = jewish
+        religion = protestant
         size = 117
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = protestant
         size = 1069
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = protestant
         size = 169
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = protestant
         size = 5
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = protestant
         size = 1302
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = protestant
         size = 35
     }
 }

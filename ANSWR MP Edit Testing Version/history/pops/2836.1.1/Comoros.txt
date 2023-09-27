@@ -4,67 +4,67 @@
 2123 = {
     aristocrats = {
         culture = kilombero
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     clergymen = {
         culture = kilombero
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = kilombero
-        religion = sunni
+        religion = protestant
         size = 325
     }
 
     soldiers = {
         culture = kilombero
-        religion = sunni
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = kilombero
-        religion = sunni
+        religion = protestant
         size = 3425
     }
 
     aristocrats = {
         culture = kilombero
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = kilombero
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = kilombero
-        religion = sunni
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = kilombero
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = kilombero
-        religion = sunni
+        religion = protestant
         size = 8219
     }
 
     slaves = {
         culture = kilombero
-        religion = animist
+        religion = protestant
         size = 281
     }
 }
@@ -72,37 +72,37 @@
 2124 = {
     aristocrats = {
         culture = kilombero
-        religion = sunni
+        religion = protestant
         size = 15
     }
 
     clergymen = {
         culture = kilombero
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = kilombero
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = kilombero
-        religion = sunni
+        religion = protestant
         size = 10
     }
 
     farmers = {
         culture = kilombero
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     slaves = {
         culture = kilombero
-        religion = animist
+        religion = protestant
         size = 250
     }
 

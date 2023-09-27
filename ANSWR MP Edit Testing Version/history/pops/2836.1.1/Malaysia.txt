@@ -5,121 +5,121 @@
 1384 = {
     soldiers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 6025
     }
 	aristocrats = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 1000
     }
 
 	bureaucrats = {
 		culture = yue
-		religion = mahayana
+		religion = protestant
 		size = 5000
 	}
 		
     clergymen = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 1250
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 14000
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 95500
     }
 
     aristocrats = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 5800
     }
 
 	aristocrats = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 275
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 1150
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 41125
     }
 
 	
 	aristocrats = {
         culture = tamil
-        religion = hindu
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = tamil
-        religion = hindu
+        religion = protestant
         size = 150
     }
 
 	artisans = {
         culture = tamil
-        religion = hindu
+        religion = protestant
         size = 1150
     }
 
     farmers = {
         culture = tamil
-        religion = hindu
+        religion = protestant
         size = 21100
     }
 
@@ -133,43 +133,43 @@
 1388 = {
     clergymen = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 3875
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 2075
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 750
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 13900
     }
 }
@@ -178,108 +178,108 @@
 1385 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 250
     }
 
     bureaucrats = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     officers = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 1250
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 22050
     }
 
     clergymen = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 1450
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 500
     }
 	 aristocrats = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 750
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 1100
     }
 
     labourers = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 12950
     }
 
     clergymen = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 950
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 1100
     }
 }
@@ -288,43 +288,43 @@
 1390 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 400
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     labourers = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 6375
     }
 
     slaves = {
         culture = asian_minor
-        religion = mahayana
+        religion = protestant
         size = 300
     }
 
     labourers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 1000
     }
 }
@@ -332,102 +332,102 @@
 2575 = {
 	 aristocrats = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 300
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 300
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 1350
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 24800
     }
 
     clergymen = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 950
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 1100
     }
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 300
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 300
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 1500
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 1100
     }
 
     labourers = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 25900
     }
 
     clergymen = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 925
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 2000
     }
 
     slaves = {
         culture = asian_minor
-        religion = mahayana
+        religion = protestant
         size = 300
     }
 }
@@ -437,55 +437,55 @@
 1391 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 400
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 425
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 2000
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 350
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 43825
     }
 
     clergymen = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 950
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 1100
     }
 
     slaves = {
         culture = malay
-        religion = sunni
+        religion = protestant
         size = 3000
     }
 
@@ -496,43 +496,43 @@
 1393 = {
     aristocrats = {
         culture = pacifica
-        religion = sunni
+        religion = protestant
         size = 1175
     }
 
     bureaucrats = {
         culture = pacifica
-        religion = sunni
+        religion = protestant
         size = 1150
     }
 
     officers = {
         culture = pacifica
-        religion = sunni
+        religion = protestant
         size = 1025
     }
 
     clergymen = {
         culture = borneanmalay
-        religion = sunni
+        religion = protestant
         size = 1050
     }
 
     artisans = {
         culture = borneanmalay
-        religion = sunni
+        religion = protestant
         size = 6300
     }
 
     soldiers = {
         culture = borneanmalay
-        religion = sunni
+        religion = protestant
         size = 5075
     }
 
     farmers = {
         culture = borneanmalay
-        religion = sunni
+        religion = protestant
         size = 85000
     }
 }
@@ -540,85 +540,85 @@
 1394 = {
     aristocrats = {
         culture = borneanmalay
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = borneanmalay
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = borneanmalay
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = borneanmalay
-        religion = sunni
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = borneanmalay
-        religion = sunni
+        religion = protestant
         size = 12300
     }
 
     aristocrats = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 525
     }
 
     soldiers = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 3125
     }
 
     slaves = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 3000
     }
 
     clergymen = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 475
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 500
     }
 }
@@ -626,43 +626,43 @@
 1396 = {
     slaves = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 12000
     }
 
 	slaves = {
         culture = borneanmalay
-        religion = sunni
+        religion = protestant
         size = 126425
     }
 	
 	aristocrats = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 1100
     }
 
     soldiers = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 6075
     }
 
     farmers = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 12575
     }
 }
@@ -671,37 +671,37 @@
 1397 = {
     aristocrats = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 1250
     }
 
     artisans = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 4500
     }
 
     soldiers = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 6000
     }
 
     slaves = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 6475
     }
 
     slaves = {
         culture = borneanmalay
-        religion = sunni
+        religion = protestant
         size = 72750
     }
 
@@ -710,31 +710,31 @@
 3362 = {
     aristocrats = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 450
     }
 
     soldiers = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     farmers = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 6475
     }
 }
@@ -742,31 +742,31 @@
 3363 = {
    aristocrats = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 10
     }
 
     clergymen = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 45
     }
 
     soldiers = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 2300
     }
 }
@@ -774,43 +774,43 @@
 3364 = { 
 	aristocrats = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 2500
     }
 
 	artisans = {
         culture = borneanmalay
-        religion = animist
+        religion = protestant
         size = 2000
     }
 
     soldiers = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = asian_minor
-        religion = animist
+        religion = protestant
         size = 32475
     }
 	
 	farmers = {
         culture = borneanmalay
-        religion = animist
+        religion = protestant
         size = 22475
     }
 }

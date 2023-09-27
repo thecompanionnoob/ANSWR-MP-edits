@@ -1,9 +1,9 @@
 capital = 1783
-primary_culture = wolof
+primary_culture = gur
 culture = fulbe
 culture = western_nigritic
 culture = bambara
-religion = sunni
+religion = protestant
 government = democracy
 plurality = 0.0
 nationalvalue = nv_tradition

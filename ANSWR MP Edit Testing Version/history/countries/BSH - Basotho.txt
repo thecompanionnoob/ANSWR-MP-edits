@@ -1,7 +1,7 @@
 capital = 2104
 primary_culture = sotho
 culture = nguni
-religion = animist
+religion = protestant
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

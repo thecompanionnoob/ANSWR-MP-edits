@@ -4,85 +4,85 @@
 1189 = {
     aristocrats = {
         culture = kirgiz
-        religion = sunni
+        religion = protestant
         size = 1800
     }
 
     clergymen = {
         culture = kirgiz
-        religion = sunni
+        religion = protestant
         size = 425
     }
 
     artisans = {
         culture = kirgiz
-        religion = sunni
+        religion = protestant
         size = 2000
     }
 
     soldiers = {
         culture = kirgiz
-        religion = sunni
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = kirgiz
-        religion = sunni
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = kirgiz
-        religion = sunni
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = kirgiz
-        religion = sunni
+        religion = protestant
         size = 46775
     }
 
     aristocrats = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = kazak
-        religion = sunni
+        religion = protestant
         size = 6450
     }
 
     aristocrats = {
         culture = uighur
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = uighur
-        religion = sunni
+        religion = protestant
         size = 13375
     }
 }
@@ -92,49 +92,49 @@
 1203 = {
     aristocrats = {
         culture = uzbek
-        religion = sunni
+        religion = protestant
         size = 175
     }
 
     farmers = {
         culture = uzbek
-        religion = sunni
+        religion = protestant
         size = 18200
     }
 
     aristocrats = {
         culture = kirgiz
-        religion = sunni
+        religion = protestant
         size = 1375
     }
 
     clergymen = {
         culture = kirgiz
-        religion = sunni
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = kirgiz
-        religion = sunni
+        religion = protestant
         size = 2900
     }
 
     soldiers = {
         culture = kirgiz
-        religion = sunni
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = kirgiz
-        religion = sunni
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = kirgiz
-        religion = sunni
+        religion = protestant
         size = 43550
     }
 

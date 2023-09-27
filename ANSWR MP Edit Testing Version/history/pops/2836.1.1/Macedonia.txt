@@ -2,49 +2,49 @@
 1780 = {
     clergymen = {
         culture = albanian
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = albanian
-        religion = sunni
+        religion = protestant
         size = 4000
     }
 
     soldiers = {
         culture = albanian
-        religion = sunni
+        religion = protestant
         size = 4100
     }
 
     farmers = {
         culture = albanian
-        religion = sunni
+        religion = protestant
         size = 52062
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 175
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 110
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = protestant
         size = 1100
     }
 

@@ -1,7 +1,7 @@
 capital = 994
 primary_culture = tesredinikh #izhorian
 culture = russian
-religion = orthodox
+religion = protestant
 government = trading_republic
 plurality = 10.0
 nationalvalue = nv_productivity

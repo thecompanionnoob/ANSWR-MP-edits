@@ -4,67 +4,67 @@
 1923 = {
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1550
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 800
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 3200
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1050
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 37400
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 36000
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 3600
     }
 }
@@ -72,67 +72,67 @@
 1924 = {
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 3650
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1850
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 7500
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 133000
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 38000
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 9100
     }
 }
@@ -140,55 +140,55 @@
 1925 = {
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 5800
     }
 
     bureaucrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     officers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 900
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2900
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1700
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 203400
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 62000
     }
 }
@@ -196,43 +196,43 @@
 1926 = {
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 4250
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2150
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 800
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2200
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 158600
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 40000
     }
 }
@@ -240,73 +240,73 @@
 1927 = {
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 950
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 525
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2500
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 39025
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 6000
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 9050
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2000
     }
 }
@@ -316,91 +316,91 @@
 1928 = {
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 4250
     }
 
     bureaucrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     officers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 700
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2150
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 8600
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 173100
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 20000
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1400
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 700
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2900
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 750
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 44250
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 22000
     }
 }
@@ -408,109 +408,109 @@
 1930 = {
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 575
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1175
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 18650
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 8000
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1100
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 550
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2250
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 575
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 35525
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 16000
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1550
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 775
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 3125
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 800
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 45750
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 26000
     }
 }
@@ -518,55 +518,55 @@
 1931 = {
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 6150
     }
 
     bureaucrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 600
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 3100
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2350
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 205300
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 78000
     }
 }
@@ -575,103 +575,103 @@
 1929 = {
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 850
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 450
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2200
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 450
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 34050
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 6000
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 600
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1150
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 9950
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 400
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 900
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 14250
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 6000
     }
 }
@@ -681,37 +681,37 @@
 1932 = {
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1100
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 550
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2250
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 50000
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 14000
     }
 }
@@ -719,49 +719,49 @@
 1933 = {
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 6300
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 3150
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2650
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 900
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 214000
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 76000
     }
 }
@@ -769,43 +769,43 @@
 1934 = {
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 4150
     }
 
     bureaucrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 450
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2100
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 8400
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2100
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 149250
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 44000
     }
 }
@@ -813,43 +813,43 @@
 1935 = {
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 4150
     }
 
     bureaucrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 450
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2100
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 8350
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2400
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 157000
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 34000
     }
 }
@@ -859,37 +859,37 @@
 1936 = {
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1850
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 925
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 3725
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 950
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 62550
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 23000
     }
 }
@@ -897,37 +897,37 @@
 1937 = {
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 875
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 450
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1775
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 450
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 56250
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 8000
     }
 }
@@ -937,67 +937,67 @@
 1938 = {
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1800
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2000
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 225
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 9025
     }
 }
@@ -1007,157 +1007,157 @@
 1939 = {
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 375
     }
 
     bureaucrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     officers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1100
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 41150
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 3650
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 3000
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 375
     }
 
     bureaucrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     officers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 400
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 775
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 10375
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 550
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 10025
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 3000
     }
 }
@@ -1165,37 +1165,37 @@
 1940 = {
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 325
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 700
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 175
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 10625
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 5000
     }
 }
@@ -1203,37 +1203,37 @@
 1941 = {
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 650
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 175
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 10725
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 4000
     }
 }
@@ -1241,133 +1241,133 @@
 1942 = {
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 450
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 8200
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 375
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 775
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 12600
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2700
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2000
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 350
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 6375
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2000
     }
 }
@@ -1375,67 +1375,67 @@
 1943 = {
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 4425
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 5475
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 2000
     }
 }
@@ -1443,67 +1443,67 @@
 1944 = {
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 175
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 400
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 41225
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 13800
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 10000
     }
 }
@@ -1513,97 +1513,97 @@
 1945 = {
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 2625
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1325
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 6600
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1325
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 180125
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 550
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 325
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1500
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 47325
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 74000
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1100
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 2050
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 525
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 102925
     }
 }
@@ -1611,97 +1611,97 @@
 1946 = {
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 800
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 400
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 2050
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 425
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 37325
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1800
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1100
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 375
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 800
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 16625
     }
 }
@@ -1709,97 +1709,97 @@
 1947 = {
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1925
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 975
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 4900
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 150100
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 525
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 275
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1400
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 45500
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 54000
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 725
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 375
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1500
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 375
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 100025
     }
 }
@@ -1807,151 +1807,151 @@
 1948 = {
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 2325
     }
 
     bureaucrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     officers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1175
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 5850
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1175
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 106025
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 575
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1500
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 27325
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 13000
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1325
     }
 
     bureaucrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 150
     }
 
     officers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 450
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 675
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 2700
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 675
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 48025
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 5475
     }
 }
@@ -1959,97 +1959,97 @@
 1949 = {
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1150
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 600
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 2950
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 600
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 83700
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 225
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 600
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 35925
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 47000
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 650
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 325
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1325
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 350
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 78350
     }
 }
@@ -2059,133 +2059,133 @@
 1950 = {
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 3650
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1800
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 1100
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 225
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 525
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 10125
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     clergymen = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 650
     }
 
     soldiers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 175
     }
 
     farmers = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 10725
     }
 
     slaves = {
         culture = tsakiya
-        religion = animist
+        religion = protestant
         size = 4000
     }
 }
@@ -2195,49 +2195,49 @@
 1951 = {
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 4600
     }
 
     bureaucrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 800
     }
 
     officers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 700
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 2500
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 9600
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 2400
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 160000
     }
 
     slaves = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 60000
     }
 }
@@ -2245,67 +2245,67 @@
 1952 = {
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 2200
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1300
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 4800
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1200
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 74500
     }
 
     slaves = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 36000
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 1300
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 700
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 3600
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 800
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 65600
     }
 }
@@ -2313,67 +2313,67 @@
 1953 = {
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 3900
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 2000
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 7900
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 144200
     }
 
     slaves = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 36000
     }
 
     aristocrats = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     artisans = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 400
     }
 
     soldiers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = tsakiya
-        religion = sunni
+        religion = protestant
         size = 7200
     }
 

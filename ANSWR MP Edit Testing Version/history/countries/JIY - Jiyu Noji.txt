@@ -1,6 +1,6 @@
 capital = 1649
 primary_culture = japanese
-religion = mahayana
+religion = protestant
 government = democracy
 plurality = 5.0
 nationalvalue = nv_tradition

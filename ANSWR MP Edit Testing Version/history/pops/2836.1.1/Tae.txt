@@ -4,43 +4,43 @@
 1470 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 15000
     }
 
     bureaucrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 7750
     }
 
     officers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4600
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6375
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 5400
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6500
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 545725
     }
 
@@ -49,43 +49,43 @@
 1471 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 18750
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 12000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3400
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1900
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 680950
     }
 }
@@ -93,49 +93,49 @@
 1474 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 12100
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4125
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 5400
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2100
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 221275
     }
 }
@@ -143,31 +143,31 @@
 1476 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2125
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1225
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 62525
     }
 }
@@ -175,37 +175,37 @@
 1477 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 12900
     }
 
     bureaucrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 8000
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6500
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 23250
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6450
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 472920
     }
 }
@@ -213,43 +213,43 @@
 1544 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 16650
     }
 
     bureaucrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4500
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1875
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 9250
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4000
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 131375
     }
 }
@@ -259,82 +259,82 @@
 
     bureaucrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 9750
     }
 
     officers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4850
     }
 
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 32750
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 7500
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 35000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 22000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 16250
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 7550
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 15000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6250
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1139725
     }
     farmers = {
         culture = yue
-        religion = xifang
+        religion = protestant
         size = 110900
     }
     farmers = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 103500
     }
     farmers = {
         culture = ping
-        religion = xifang
+        religion = protestant
         size = 94000
     }
 }
@@ -342,49 +342,49 @@
 1475 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 24500
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 12800
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 980900
     }
 }
@@ -393,31 +393,31 @@
 
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6550
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3225
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 13000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3500
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 163825
     }
 }
@@ -425,31 +425,31 @@
 1605 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4725
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2375
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 9850
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2375
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 233675
     }
 }
@@ -457,49 +457,49 @@
 2221 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11500
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 5250
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1250
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 367500
     }
 }
@@ -508,49 +508,49 @@
 1563 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 22100
     }
 
     bureaucrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 9700
     }
 
     officers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4900
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4100
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1400
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 116560
     }
 }
@@ -558,37 +558,37 @@
 1564 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 18500
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2250
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 231948
     }
 }
@@ -596,31 +596,31 @@
 1566 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2150
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 30000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1750
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 55475
     }
 }
@@ -628,49 +628,49 @@
 1568 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 12425
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4225
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6100
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2225
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 315765
     }
 }
@@ -678,31 +678,31 @@
 1567 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 5150
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2350
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3850
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 62850
     }
 }
@@ -710,43 +710,43 @@
 1571 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 23200
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 7850
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 31000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6300
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2875
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 357275
     }
 }
@@ -755,37 +755,37 @@
 1565 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 18150
     }
 
     bureaucrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 800
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2100
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 79450
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 8100
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 389820
     }
 }
@@ -793,31 +793,31 @@
 1569 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 425
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 375
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2350
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 675
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 51375
     }
 }
@@ -827,97 +827,97 @@
 1679 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 51250
     }
 
     bureaucrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6600
     }
 
     officers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6275
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 8000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 15000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4500
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 642750
     }
 
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1400
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1200
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11050
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1225
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 121225
     }
 
@@ -926,55 +926,55 @@
 1472 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 14750
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 5500
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 7000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 5000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 450
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 182500
     }
 
     aristocrats = {
         culture = ping
-        religion = xifang
+        religion = protestant
         size = 1700
     }
     
     farmers = {
         culture = ping
-        religion = xifang
+        religion = protestant
         size = 52700
     }
 
@@ -983,54 +983,54 @@
 1514 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 8600
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6375
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 9700
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 5000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1350
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 429975
     }
     farmers = {
         culture = ping
-        religion = xifang
+        religion = protestant
         size = 342135
     }
 }
@@ -1038,37 +1038,37 @@
 1538 = {
     aristocrats = {
         culture = lanzu
-        religion = mahayana
+        religion = protestant
         size = 3300
     }
 
     clergymen = {
         culture = lanzu
-        religion = mahayana
+        religion = protestant
         size = 1675
     }
 
     artisans = {
         culture = lanzu
-        religion = mahayana
+        religion = protestant
         size = 13350
     }
 
     soldiers = {
         culture = lanzu
-        religion = mahayana
+        religion = protestant
         size = 1675
     }
 
     farmers = {
         culture = lanzu
-        religion = mahayana
+        religion = protestant
         size = 149200
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 127315
     }
 }
@@ -1076,55 +1076,55 @@
 1522 = {
     aristocrats = {
         culture = lanzu
-        religion = mahayana
+        religion = protestant
         size = 26000
     }
 
     clergymen = {
         culture = lanzu
-        religion = mahayana
+        religion = protestant
         size = 12500
     }
 
     artisans = {
         culture = lanzu
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = mahayana
+        religion = protestant
         size = 1500
     }
 
     soldiers = {
         culture = lanzu
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = mahayana
+        religion = protestant
         size = 1300
     }
 
     farmers = {
         culture = lanzu
-        religion = mahayana
+        religion = protestant
         size = 222320
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 42500
     }
 }
@@ -1132,73 +1132,73 @@
 1516 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 492950
     }
 
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2400
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2200
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 21050
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1225
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 183125
     }
 }
@@ -1206,61 +1206,61 @@
 1549 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 8100
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3550
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 29800
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4575
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 172975
     }
 
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3825
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1925
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 9650
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1950
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 135650
     }
 }
@@ -1269,55 +1269,55 @@
 1518 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 12150
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 22000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 9500
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1950
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 423227
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 115475
     }
 }
@@ -1325,55 +1325,55 @@
 1537 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 42125
     }
 
     clergymen = {
         culture = lanzu
-        religion = mahayana
+        religion = protestant
         size = 21400
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 35500
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 35500
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 35500
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6850
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 31375
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 561650
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 131550
     }
 }
@@ -1383,43 +1383,43 @@
 1473 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 14000
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4775
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2800
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 382575
     }
 }
@@ -1427,43 +1427,43 @@
 1464 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 16150
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 8125
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 5500
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 422155
     }
 }
@@ -1471,67 +1471,67 @@
 1545 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     bureaucrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4325
     }
 
     officers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4900
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 5000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 5050
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2025
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 526875
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 124175
     }
 }
@@ -1539,43 +1539,43 @@
 1546 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4500
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2250
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 25000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3300
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6000
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 291275
     }
 
     farmers = {
         culture = lanzu
-        religion = mahayana
+        religion = protestant
         size = 55215
     }
 }
@@ -1583,91 +1583,91 @@
 1547 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11500
     }
 
     bureaucrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2600
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 9800
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 35000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 8900
     }
 
     officers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 21000
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 279000
     }
 
     aristocrats = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 11900
     }
 
     clergymen = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 22000
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 4750
     }
 
     soldiers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 1950
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 224100
     }
 }
@@ -1675,49 +1675,49 @@
 1551 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 8500
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3800
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 34000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 8900
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1800
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 286255
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 137425
     }
 }
@@ -1726,49 +1726,49 @@
 1482 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4700
     }
 
     bureaucrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2350
     }
 
     officers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2000
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2075
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 7000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6850
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6000
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1098175
     }
 }
@@ -1776,31 +1776,31 @@
 1483 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3800
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2950
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 19700
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3950
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 392600
     }
 }
@@ -1808,73 +1808,73 @@
 1611 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 8350
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4225
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1100
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2200
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 382225
     }
 
     aristocrats = {
         culture = miao
-        religion = animist
+        religion = protestant
         size = 400
     }
 
     clergymen = {
         culture = miao
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     artisans = {
         culture = miao
-        religion = animist
+        religion = protestant
         size = 1050
     }
 
     soldiers = {
         culture = miao
-        religion = animist
+        religion = protestant
         size = 225
     }
 
     farmers = {
         culture = miao
-        religion = animist
+        religion = protestant
         size = 19125
     }
 }
@@ -1884,49 +1884,49 @@
 1484 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6700
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3375
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 7000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1900
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1200
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 216625
     }
 
     aristocrats = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 8700
     }
     
     farmers = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 108700
     }
 }
@@ -1934,55 +1934,55 @@
 1550 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 13500
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 5750
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 8800
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2775
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 479275
     }
 }
@@ -1990,42 +1990,42 @@
 1486 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3900
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1975
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 9800
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1950
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 212375
     }
     aristocrats = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 1200
     }
     
     farmers = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 80700
     }
 }
@@ -2033,67 +2033,67 @@
 1487 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4750
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2400
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1200
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 323450
     }
 
     aristocrats = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 4050
     }
 
     clergymen = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 2050
     }
 
     artisans = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 8225
     }
 
     soldiers = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 2050
     }
 
     farmers = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 95125
     }
 }
@@ -2102,55 +2102,55 @@
 1604 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 15450
     }
 
     bureaucrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3550
     }
 
     officers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2475
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2750
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 25000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 21000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 18000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4750
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 421650
     }
 }
@@ -2158,49 +2158,49 @@
 1607 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 8375
     }
 
     bureaucrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2700
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4200
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1050
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2250
     }
 
     labourers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 183125
     }
 }
@@ -2209,31 +2209,31 @@
 
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6425
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3225
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 26100
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4225
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 372125
     }
 
@@ -2243,37 +2243,37 @@
 
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 12550
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 5325
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 26500
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 9500
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 15300
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 628025
     }
 
@@ -2282,43 +2282,43 @@
 1610 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4400
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4200
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2050
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2225
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 246125
     }
 }
@@ -2327,55 +2327,55 @@
 1494 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6400
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2325
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 19000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 750
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 192575
     }
 
     aristocrats = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 3400
     }
 
     soldiers = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 5500
     }
 
     farmers = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 128250
     }
 }
@@ -2383,49 +2383,49 @@
 1497 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3400
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6325
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 9300
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 5000
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 238175
     }
 
     aristocrats = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 400
     }
 
     soldiers = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 1500
     }
 
     farmers = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 82250
     }
 }
@@ -2433,61 +2433,61 @@
 1500 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 9400
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 5325
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 27000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2750
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 212955
     }
 
     aristocrats = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 5900
     }
 
     soldiers = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 2250
     }
 
     farmers = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 158250
     }
 
     farmers = {
         culture = yue
-        religion = xifang
+        religion = protestant
         size = 72875
     }
 }
@@ -2495,67 +2495,67 @@
 2406 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 19400
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 7325
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 15000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 15000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 9000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2750
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 431255
     }
 
     aristocrats = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 15900
     }
 
     soldiers = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = cantan
-        religion = xifang
+        religion = protestant
         size = 313250
     }
 
@@ -2567,31 +2567,31 @@
 
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1500
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1000
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 7750
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 6300
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 92125
     }
 }
@@ -2600,55 +2600,55 @@
 2681 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1750
     }
 
     bureaucrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 700
     }
 
     officers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 362
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3075
     }
 
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1500
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1700
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 10000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2200
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 105400
     }
 }
@@ -2656,43 +2656,43 @@
 1678 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1850
     }
 
     bureaucrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 145
     }
 
     officers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 175
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 750
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4200
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 29930
     }
 }
@@ -2700,96 +2700,96 @@
 3360 = {
 	aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1750
     }
 
     bureaucrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 700
     }
 
     officers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 362
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 3075
     }
 
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1500
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1700
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 10000
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 2200
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 105400
     }
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1850
     }
 
     bureaucrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 145
     }
 
     officers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 175
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 750
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4200
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 29930
     }
 }
@@ -2797,43 +2797,43 @@
 3361 = {
     aristocrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 1850
     }
 
     bureaucrats = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 145
     }
 
     officers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 175
     }
 
     clergymen = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 750
     }
 
     artisans = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 4200
     }
 
     soldiers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = lanzu
-        religion = xifang
+        religion = protestant
         size = 29930
     }
 }

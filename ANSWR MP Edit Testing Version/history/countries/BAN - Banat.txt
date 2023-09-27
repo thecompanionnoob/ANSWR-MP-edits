@@ -1,7 +1,7 @@
 capital = 652
 primary_culture = serb
 culture = austro_german
-religion = catholic
+religion = protestant
 government = democracy
 plurality = 10
 nationalvalue = nv_order

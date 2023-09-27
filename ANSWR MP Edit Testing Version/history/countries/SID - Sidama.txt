@@ -1,6 +1,6 @@
 capital = 1864
 primary_culture = cushitic
-religion = animist
+religion = protestant
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

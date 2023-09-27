@@ -2,52 +2,52 @@
 389 = {
     aristocrats = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 3750
     }
 
     clergymen = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 100
     }
 
     bureaucrats = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 6000
     }
 
     soldiers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 5250
     }
 
     farmers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 122550
     }
     serfs = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 65245
     }
     craftsmen = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 11300
     }
     clerks = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 200
     }
 
@@ -56,52 +56,52 @@
 1190 = {
     aristocrats = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 825
     }
 
     clergymen = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 100
     }
 
     bureaucrats = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 1000
     }
 
     soldiers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 1250
     }
 
     farmers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 42550
     }
     serfs = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 25245
     }
     craftsmen = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 21300
     }
     clerks = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 100
     }
 }
@@ -111,55 +111,55 @@
 
     aristocrats = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 800
     }
 
     bureaucrats = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 275
     }
 
     officers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 225
     }
 
     clergymen = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 4950
     }
 
     soldiers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 25750
     }
 
     serfs = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 35000
     }
 }
@@ -168,36 +168,36 @@
 1059 = {
     aristocrats = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 650
     }
 
     clergymen = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 550
     }
 
     artisans = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 3250
     }
 
     soldiers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 1250
     }
 
     farmers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 61400
     }
     craftsmen = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 4425
     }
 }
@@ -205,31 +205,31 @@
 1060 = {
     aristocrats = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 2450
     }
 
     clergymen = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 5250
     }
 
     soldiers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 58850
     }
 }
@@ -237,31 +237,31 @@
 993 = {
     aristocrats = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = protestant
         size = 425
     }
 
     clergymen = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = protestant
         size = 2950
     }
 
     soldiers = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = protestant
         size = 750
     }
 
     farmers = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = protestant
         size = 42350
     }
 }
@@ -269,31 +269,31 @@
 2611 = {
     aristocrats = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = protestant
         size = 1425
     }
 
     clergymen = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = protestant
         size = 650
     }
 
     artisans = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = protestant
         size = 3950
     }
 
     soldiers = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = protestant
         size = 1250
     }
 
     farmers = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = protestant
         size = 51660
     }
 }
@@ -303,19 +303,19 @@
 2682 = {
     clergymen = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = protestant
         size = 175
     }
 
     soldiers = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = protestant
         size = 31825
     }
 }
@@ -323,31 +323,31 @@
 2684 = {
     aristocrats = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 1000
     }
 
     soldiers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = protestant
         size = 15250
     }
 }

@@ -1,7 +1,7 @@
 capital = 2001
 primary_culture = bakongo
 culture = kavango
-religion = catholic
+religion = protestant
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

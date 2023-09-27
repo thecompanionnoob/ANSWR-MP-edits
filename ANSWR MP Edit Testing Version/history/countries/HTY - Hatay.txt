@@ -1,6 +1,6 @@
 capital = 900
 primary_culture = turkish
-religion = sunni
+religion = protestant
 government = absolute_monarchy
 plurality = 5.0
 nationalvalue = nv_autocracy

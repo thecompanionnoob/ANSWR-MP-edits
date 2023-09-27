@@ -1,7 +1,7 @@
 capital = 1600
 primary_culture = beifaren
 culture = uighur
-religion = mahayana
+religion = protestant
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

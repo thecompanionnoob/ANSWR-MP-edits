@@ -1,6 +1,6 @@
 capital = 839
 primary_culture = peloponesian
-religion = orthodox
+religion = protestant
 government = hms_government
 plurality = 5.0
 nationalvalue = nv_order

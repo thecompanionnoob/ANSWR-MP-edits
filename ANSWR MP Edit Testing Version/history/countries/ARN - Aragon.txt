@@ -1,7 +1,7 @@
 capital = 503
 primary_culture = catalan
 culture = south_italian
-religion = catholic
+religion = protestant
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

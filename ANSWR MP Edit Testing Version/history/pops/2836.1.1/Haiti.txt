@@ -4,37 +4,37 @@
 2213 = {
     aristocrats = {
         culture = afro_antillean
-        religion = catholic
+        religion = protestant
         size = 825
     }
 
     officers = {
         culture = afro_antillean
-        religion = catholic
+        religion = protestant
         size = 150
     }
 
     clergymen = {
         culture = afro_antillean
-        religion = catholic
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = afro_antillean
-        religion = catholic
+        religion = protestant
         size = 4050
     }
 
     soldiers = {
         culture = afro_antillean
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = afro_antillean
-        religion = catholic
+        religion = protestant
         size = 68300
     }
 }
@@ -42,31 +42,31 @@
 2215 = {
     aristocrats = {
         culture = afro_antillean
-        religion = catholic
+        religion = protestant
         size = 550
     }
 
     clergymen = {
         culture = afro_antillean
-        religion = catholic
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = afro_antillean
-        religion = catholic
+        religion = protestant
         size = 2550
     }
 
     soldiers = {
         culture = afro_antillean
-        religion = catholic
+        religion = protestant
         size = 200
     }
 
     farmers = {
         culture = afro_antillean
-        religion = catholic
+        religion = protestant
         size = 46825
     }
 

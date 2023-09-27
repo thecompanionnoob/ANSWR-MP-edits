@@ -1,6 +1,6 @@
 capital = 2000
 primary_culture = nork
-religion = ketronant
+religion = protestant
 government = democracy
 plurality = 5.0
 nationalvalue = nv_productivity

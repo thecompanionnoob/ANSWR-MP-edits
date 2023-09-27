@@ -51,7 +51,7 @@
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = protestant
         size = 226
     }
 }

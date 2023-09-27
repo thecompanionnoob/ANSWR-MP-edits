@@ -6,127 +6,127 @@
 1326 = {
     aristocrats = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 6000
     }
 
     bureaucrats = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 2175
     }
 
     officers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 3225
     }
 
     clergymen = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 7100
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 12050
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 12050
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 12050
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 12050
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 12050
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 7050
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 9000
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 9000
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 6000
     }
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 186250
     }
 
     slaves = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 351250
     }
 
     aristocrats = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 2000
     }
 
     clergymen = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 1000
     }
 
     artisans = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 8250
     }
 
     soldiers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 110125
     }
 
     slaves = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 131550
     }
 }
@@ -134,78 +134,78 @@
 1247 = {
     aristocrats = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 5000
     }
 
     clergymen = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 3500
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 5000
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 140750
     }
 
     aristocrats = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 2500
     }
 
     clergymen = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 2250
     }
 
     artisans = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 7000
     }
 
     soldiers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 1250
     }
 
     farmers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 73750
     }
     slaves = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 110000
     }
 }
@@ -213,72 +213,72 @@
 1250 = {
     aristocrats = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 4000
     }
 
     clergymen = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 3250
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 2000
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 135250
     }
 
     aristocrats = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 1900
     }
 
     clergymen = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 1625
     }
 
     artisans = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 2000
     }
 
     soldiers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 1500
     }
 
     farmers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 60375
     }
     slaves = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 40000
     }
 
@@ -288,71 +288,71 @@
 1327 = {
     aristocrats = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 3900
     }
 
     clergymen = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 1450
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 9300
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 9100
     }
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 149250
     }
 
     aristocrats = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 1700
     }
 
     clergymen = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 1375
     }
 
     artisans = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 8850
     }
 
     soldiers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 3350
     }
 
     farmers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 63725
     }
     slaves = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 70000
     }
     slaves = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 42500
     }
 }
@@ -360,95 +360,95 @@
 1242 = {
     aristocrats = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 2250
     }
 
     bureaucrats = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 1500
     }
 
     officers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 1500
     }
 
     clergymen = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 1125
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 10000
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 3500
     }
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 91125
     }
 
     aristocrats = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 1750
     }
 
     bureaucrats = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 1700
     }
 
     officers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 750
     }
 
     clergymen = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 1275
     }
 
     artisans = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 5000
     }
 
     soldiers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 51525
     }
     slaves = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 50000
     }
     slaves = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 22500
     }
 }
@@ -456,84 +456,84 @@
 1244 = {
     aristocrats = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 4000
     }
 
     clergymen = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 2000
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 8000
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 1500
     }
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 164500
     }
 
     aristocrats = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 700
     }
 
     clergymen = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 400
     }
 
     artisans = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 6100
     }
 
     soldiers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 3500
     }
 
     farmers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 121400
     }
     slaves = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 90000
     }
 }
@@ -541,73 +541,73 @@
 1246 = {
     aristocrats = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 375
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 6000
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 141625
     }
 
     aristocrats = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 2500
     }
 
     clergymen = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 6250
     }
 
     artisans = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 5000
     }
 
     soldiers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 166250
     }
 
     slaves = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 40000
     }
 }
@@ -617,55 +617,55 @@
 1328 = {
     aristocrats = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 1050
     }
 
     bureaucrats = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 520
     }
 
     officers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 450
     }
 
     clergymen = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 2000
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 9000
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 4100
     }
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 92095
     }
 
     farmers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 42250
     }
 
     slaves = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 63000
     }
 }
@@ -673,73 +673,73 @@
 1329 = {
     aristocrats = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 1575
     }
 
     bureaucrats = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 780
     }
 
     officers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 425
     }
 
     clergymen = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 11000
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 3100
     }
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 105575
     }
 
     aristocrats = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 750
     }
 
     artisans = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 2000
     }
 
     soldiers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 125
     }
 
     slaves = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 73000
     }
 }
@@ -748,37 +748,37 @@
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 90000
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 12500
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 115250
     }
 
     slaves = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 45000
     }
 
@@ -787,73 +787,73 @@
 1255 = {
     aristocrats = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 2950
     }
 
     clergymen = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 2750
     }
 
     artisans = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 7000
     }
 
     soldiers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 193750
     }
 
     aristocrats = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 1500
     }
 
     clergymen = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 2000
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 1100
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 131500
     }
 }
@@ -862,67 +862,67 @@
 
     aristocrats = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 11500
     }
 
     bureaucrats = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 1500
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 6000
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 1500
     }
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 85500
     }
 
     bureaucrats = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 12500
     }
 
     soldiers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 3500
     }
 
     farmers = {
         culture = talobum
-        religion = daharite
+        religion = protestant
         size = 145750
     }
 }

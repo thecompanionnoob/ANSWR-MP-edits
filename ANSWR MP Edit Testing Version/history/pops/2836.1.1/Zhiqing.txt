@@ -4,43 +4,43 @@
 1478 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 7250
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3875
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 7000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 4100
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 451075
     }
 }
@@ -48,43 +48,43 @@
 1508 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 18250
     }
 
     bureaucrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 5000
     }
 
     officers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 6850
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 9175
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 23650
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 5150
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 337525
     }
 }
@@ -92,55 +92,55 @@
 1509 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 15400
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 7750
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 8750
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1750
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 614350
     }
 }
@@ -150,48 +150,48 @@
 1613 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 21750
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 13000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 9550
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 824800
     }
     slaves = {
         culture = mongol
-        religion = gelugpa
+        religion = protestant
         size = 134650
     }
 }
@@ -199,79 +199,79 @@
 1616 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 19075
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11075
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 5350
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 547425
     }
 
     slaves = {
         culture = mongol
-        religion = gelugpa
+        religion = protestant
         size = 214650
     }
 }
@@ -279,37 +279,37 @@
 1617 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 19025
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 7525
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 79600
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 7525
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 920325
     }
 
     slaves = {
         culture = mongol
-        religion = gelugpa
+        religion = protestant
         size = 99150
     }
 }
@@ -320,67 +320,67 @@
 1561 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 5050
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2550
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2700
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2550
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 231150
     }
 
     aristocrats = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 325
     }
 
     clergymen = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 900
     }
 
     soldiers = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 200
     }
 
     farmers = {
         culture = ping
-        religion = sunni
+        religion = protestant
         size = 16400
     }
 }
@@ -389,54 +389,54 @@
 1489 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 13500
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 5500
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 7500
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 555500
     }
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 139200
     }
 }
@@ -445,61 +445,61 @@
 1492 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 12300
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 7650
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3300
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1675
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 462075
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 92500
     }
 }
@@ -507,48 +507,48 @@
 2062 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 6325
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3175
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 17000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 15900
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1200
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 212400
     }
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 62400
     }
 }
@@ -556,67 +556,67 @@
 1559 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 15000
     }
 
     bureaucrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1850
     }
 
     officers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2200
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 7500
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1500
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 485300
     }
 
 	farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 127225
     }
 }
@@ -625,48 +625,48 @@
 
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 18825
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 9425
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2100
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2425
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 332125
     }
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 102225
     }
 }
@@ -676,61 +676,61 @@
 1517 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 12500
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 4325
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1575
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2325
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 129275
     }
 
     serfs = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 160000
     }
 }
@@ -738,73 +738,73 @@
 1523 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 15500
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 4000
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     soldiers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 1025
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 70475
     }
 
     serfs = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 320000
     }
 
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2800
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1450
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 7250
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1450
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 131050
     }
 }
@@ -812,73 +812,73 @@
 1519 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 15000
     }
 
     bureaucrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 4800
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 7750
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 30000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 25000
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 8750
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1750
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 142750
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 82750
     }
 
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 825
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 425
     }
 }
@@ -886,55 +886,55 @@
 1520 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 21000
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 6000
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 372000
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 243000
     }
 }
@@ -942,85 +942,85 @@
 1521 = {
     aristocrats = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 15000
     }
 
     clergymen = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 7750
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 8750
     }
 
     soldiers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 1750
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 145750
     }
 
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 650
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 350
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1750
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1350
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 131900
     }
 }
@@ -1030,43 +1030,43 @@
 1510 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11500
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 6875
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 23000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 23000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 16000
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 231725
     }
 
     slaves = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 134000
     }
 }
@@ -1074,61 +1074,61 @@
 1511 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 14500
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 7775
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 33000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 33000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 33000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 33000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3825
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2775
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 210125
     }
 }
@@ -1136,37 +1136,37 @@
 1512 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 5250
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3875
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 430075
     }
 }
@@ -1174,37 +1174,37 @@
 1513 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 7000
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 4750
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 101450
     }
 
     slaves = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 230000
     }
 }
@@ -1213,67 +1213,67 @@
 1515 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 12500
     }
 
     bureaucrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 4300
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 33000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 33000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 33000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1500
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 15000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 12300
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 512900
     }
 
     serfs = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 260000
     }
 }
@@ -1282,31 +1282,31 @@
 
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 4350
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2225
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 4500
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3200
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 282225
     }
 }
@@ -1314,49 +1314,49 @@
 1612 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11050
     }
 
     bureaucrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1100
     }
 
     officers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2000
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 12050
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 8000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1250
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 51650
     }
 
     serfs = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 20000
     }
 }
@@ -1364,43 +1364,43 @@
 1614 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 24800
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 5400
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2050
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 265325
     }
 
     slaves = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 313000
     }
 }
@@ -1408,55 +1408,55 @@
 1615 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 16450
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 7250
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 6200
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3560
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 221150
     }
 }
@@ -1464,49 +1464,49 @@
 1618 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 16150
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3125
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 5500
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 191125
     }
 
@@ -1516,49 +1516,49 @@
 1572 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 14800
     }
 
     bureaucrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 5250
     }
 
     officers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 4500
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 7200
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 33150
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 9350
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 261150
     }
 
     serfs = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 50000
     }
 }
@@ -1566,55 +1566,55 @@
 1573 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11850
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 8450
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2200
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2450
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 428050
     }
 }
@@ -1622,43 +1622,43 @@
 1574 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 13550
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11300
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 21000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 6450
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2300
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 415400
     }
 }
@@ -1666,49 +1666,49 @@
 1575 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 13200
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 4400
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 22000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 11000
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2050
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1425
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 265325
     }
 }
@@ -1716,31 +1716,31 @@
 1576 = {
     aristocrats = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1500
     }
 
     clergymen = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1550
     }
 
     artisans = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 2800
     }
 
     soldiers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 1575
     }
 
     farmers = {
         culture = ping
-        religion = mahayana
+        religion = protestant
         size = 150975
     }
 }

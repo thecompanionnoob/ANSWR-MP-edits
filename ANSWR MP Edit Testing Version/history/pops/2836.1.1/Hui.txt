@@ -5,55 +5,55 @@
 1556 = {
     aristocrats = {
         culture = ping
-        religion = gelugpa
+        religion = protestant
         size = 1900
     }
 
     artisans = {
         culture = ping
-        religion = gelugpa
+        religion = protestant
         size = 14550
     }
 
     soldiers = {
         culture = ping
-        religion = gelugpa
+        religion = protestant
         size = 1925
     }
 
     farmers = {
         culture = ping
-        religion = gelugpa
+        religion = protestant
         size = 27200
     }
 
     farmers = {
         culture = ping
-        religion = gelugpa
+        religion = protestant
         size = 40000
     }
 
     bureaucrats = {
         culture = ping
-        religion = gelugpa
+        religion = protestant
         size = 1025
     }
 
     officers = {
         culture = ping
-        religion = gelugpa
+        religion = protestant
         size = 525
     }
 
     soldiers = {
         culture = ping
-        religion = gelugpa
+        religion = protestant
         size = 6000
     }
 
     farmers = {
         culture = ping
-        religion = gelugpa
+        religion = protestant
         size = 121000
     }
 
@@ -63,25 +63,25 @@
 
     aristocrats = {
         culture = ping
-        religion = gelugpa
+        religion = protestant
         size = 1500
     }
 
     clergymen = {
         culture = ping
-        religion = gelugpa
+        religion = protestant
         size = 1750
     }
 
     artisans = {
         culture = ping
-        religion = gelugpa
+        religion = protestant
         size = 13800
     }
 
     farmers = {
         culture = ping
-        religion = gelugpa
+        religion = protestant
         size = 71200
     }
 }
@@ -90,31 +90,31 @@
 
     aristocrats = {
         culture = ping
-        religion = gelugpa
+        religion = protestant
         size = 4000
     }
 
     clergymen = {
         culture = ping
-        religion = gelugpa
+        religion = protestant
         size = 4000
     }
 
     artisans = {
         culture = ping
-        religion = gelugpa
+        religion = protestant
         size = 19000
     }
 
     soldiers = {
         culture = ping
-        religion = gelugpa
+        religion = protestant
         size = 4000
     }
 
     farmers = {
         culture = ping
-        religion = gelugpa
+        religion = protestant
         size = 128600
     }
 

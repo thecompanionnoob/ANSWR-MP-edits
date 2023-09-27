@@ -1,9 +1,6 @@
 capital = 1951
-primary_culture = kanuri
-culture = tsakiya
-culture = bedouin
-culture = fulbe
-religion = sunni
+primary_culture = tuareg
+religion = protestant
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

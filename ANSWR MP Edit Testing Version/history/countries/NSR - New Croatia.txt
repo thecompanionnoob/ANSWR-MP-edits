@@ -1,6 +1,6 @@
 capital = 823
 primary_culture = skrvat
-religion = orthodox
+religion = protestant
 government = absolute_monarchy
 plurality = 10.0
 nationalvalue = nv_liberty

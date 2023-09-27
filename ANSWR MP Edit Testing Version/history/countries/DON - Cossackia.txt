@@ -1,6 +1,6 @@
 capital = 1049
 primary_culture = cherkesskiy
-religion = veravburyu
+religion = protestant
 government = absolute_monarchy
 plurality = 0.02
 nationalvalue = nv_order

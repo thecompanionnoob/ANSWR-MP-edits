@@ -1,7 +1,7 @@
 capital = 3334
 primary_culture = pacifica
 culture = pampangan
-religion = catholic
+religion = protestant
 government = trading_republic
 plurality = 0.0
 nationalvalue = nv_equality

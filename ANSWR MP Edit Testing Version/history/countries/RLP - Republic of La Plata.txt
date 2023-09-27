@@ -1,6 +1,6 @@
 capital = 2379
 primary_culture = platinean
-religion = catholic
+religion = protestant
 government = democracy
 plurality = 5
 nationalvalue = nv_liberty

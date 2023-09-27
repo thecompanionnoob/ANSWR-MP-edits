@@ -1,6 +1,6 @@
 capital = 888
-primary_culture = iskhor
-religion = orthodox
+primary_culture = turkish
+religion = protestant
 government = absolute_monarchy
 plurality = 0.08
 nationalvalue = nv_order

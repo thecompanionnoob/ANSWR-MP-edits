@@ -1,6 +1,6 @@
 capital = 619
 primary_culture = austro_german
-religion = catholic
+religion = protestant
 government = absolute_monarchy
 plurality = 5.0
 nationalvalue = nv_autocracy

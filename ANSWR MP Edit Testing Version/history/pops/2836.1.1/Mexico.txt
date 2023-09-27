@@ -4,28 +4,28 @@
 2141 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 250
         militancy = 4
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
         militancy = 5
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 500
         militancy = 4
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
 
         militancy = 7
@@ -33,7 +33,7 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 9050
         militancy = 5
     }
@@ -74,31 +74,31 @@
 2138 = {
     aristocrats = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 195
     }
 
@@ -130,31 +130,31 @@
 2139 = {
     aristocrats = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 70
     }
 
     clergymen = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 4000
     }
 
@@ -194,44 +194,44 @@
 2142 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 440
     }
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     officers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 15
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 225
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1100
         militancy = 9
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 225
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 19945
     }
 
@@ -270,31 +270,31 @@
 2143 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 700
     }
 
@@ -326,31 +326,31 @@
 2144 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 750
         militancy = 9
     }
@@ -383,31 +383,31 @@
 2145 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 20
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 10
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 895
     }
 
@@ -448,31 +448,31 @@
 2147 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 700
     }
 
@@ -504,43 +504,43 @@
 2151 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 70
     }
 
     officers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 15
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 400
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 7115
     }
 
@@ -573,25 +573,25 @@
 2152 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 275
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 600
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 125
 
         militancy = 9
@@ -599,7 +599,7 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 5875
     }
 
@@ -631,31 +631,31 @@
 2155 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 300
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 550
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 9925
     }
 }
@@ -727,31 +727,31 @@
 2149 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 275
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 550
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 3900
     }
 
@@ -783,48 +783,48 @@
 2150 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 700
     }
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 75
         militancy = 9
     }
 
     officers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 25
         militancy = 9
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 250
         militancy = 4
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1250
         militancy = 4
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 250
         militancy = 4
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 22450
         militancy = 6
     }
@@ -864,31 +864,31 @@
 2153 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 350
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 700
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 12650
     }
 
@@ -926,31 +926,31 @@
 2154 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 225
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 450
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 8250
     }
 
@@ -988,43 +988,43 @@
 2156 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 650
     }
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     officers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 275
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1450
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 26200
     }
 }
@@ -1032,55 +1032,55 @@
 2157 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 175
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 350
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 3025
     }
 
     clergymen = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 3000
     }
 }
@@ -1090,42 +1090,42 @@
 2158 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1725
         militancy = 9
     }
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 325
         militancy = 9
     }
 
     officers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 75
         militancy = 9
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 425
         militancy = 9
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 3850
         militancy = 9
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 425
 
         militancy = 9
@@ -1133,28 +1133,28 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 35175
         militancy = 9
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 200
         militancy = 9
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 2150
         militancy = 9
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 450
 
         militancy = 9
@@ -1162,7 +1162,7 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 40200
         militancy = 9
     }
@@ -1171,55 +1171,55 @@
 2160 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 850
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1525
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 400
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 14850
     }
 
     clergymen = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 19000
     }
 }
@@ -1227,31 +1227,31 @@
 2161 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 425
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 750
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 15175
     }
 
@@ -1285,57 +1285,57 @@
 2159 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1625
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 475
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 2400
         militancy = 9
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 47000
         militancy = 9
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1650
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 350
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 30525
         militancy = 9
     }
@@ -1344,37 +1344,37 @@
 2167 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 3400
     }
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 575
     }
 
     officers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 375
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 625
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 3150
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 2000
 
         militancy = 9
@@ -1382,27 +1382,27 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 56250
         militancy = 9
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 5250
         militancy = 9
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1050
 
         militancy = 9
@@ -1410,7 +1410,7 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 98300
     }
 }
@@ -1418,25 +1418,25 @@
 2173 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1850
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1200
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 2000
 
         militancy = 9
@@ -1444,27 +1444,27 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 20500
         militancy = 9
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 2800
         militancy = 9
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 575
 
         militancy = 9
@@ -1472,7 +1472,7 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 58275
         militancy = 9
     }
@@ -1483,42 +1483,42 @@
 2162 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1425
         militancy = 5
     }
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 175
         militancy = 5
     }
 
     officers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 50
         militancy = 5
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 500
         militancy = 5
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 200
         militancy = 5
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 50
 
         militancy = 5
@@ -1526,28 +1526,28 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1600
         militancy = 5
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
         militancy = 5
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1050
         militancy = 5
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 225
 
         militancy = 5
@@ -1555,28 +1555,28 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 20025
         militancy = 5
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 50
         militancy = 5
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 500
         militancy = 5
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
 
         militancy = 5
@@ -1584,7 +1584,7 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 9350
         militancy = 5
     }
@@ -1593,55 +1593,55 @@
 2163 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 425
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1300
     }
 
     clergymen = {
         culture = mexican #mexican
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = mexican #mexican
-        religion = catholic
+        religion = protestant
         size = 900
     }
 
     soldiers = {
         culture = mexican #mexican
-        religion = catholic
+        religion = protestant
         size = 200
     }
 
     farmers = {
         culture = mexican #mexican
-        religion = catholic
+        religion = protestant
         size = 16850
     }
 }
@@ -1649,55 +1649,55 @@
 2164 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 600
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 550
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 10275
     }
 }
@@ -1705,55 +1705,55 @@
 2165 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 325
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 150
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 2375
     }
 
     clergymen = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 600
     }
 
     soldiers = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 125
     }
 
     farmers = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 11225
     }
 }
@@ -1763,49 +1763,49 @@
 2166 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1550
         militancy = 5
     }
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 250
         militancy = 5
     }
 
     officers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 75
         militancy = 5
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 350
         militancy = 5
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 10000
         militancy = 5
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1950
         militancy = 5
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 650
 
         militancy = 5
@@ -1813,26 +1813,26 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 48875
         militancy = 5
     }
 
     clergymen = {
         culture = mexican #mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican #mexican
-        religion = catholic
+        religion = protestant
         size = 550
     }
 
     soldiers = {
         culture = mexican #mexican
-        religion = catholic
+        religion = protestant
         size = 125
 
         militancy = 9
@@ -1840,7 +1840,7 @@
 
     farmers = {
         culture = mexican #mexican
-        religion = catholic
+        religion = protestant
         size = 10275
     }
 }
@@ -1848,55 +1848,55 @@
 2168 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 750
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1200
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 21550
     }
 
     clergymen = {
         culture = mexican #mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican #mexican
-        religion = catholic
+        religion = protestant
         size = 650
     }
 
     soldiers = {
         culture = mexican #mexican
-        religion = catholic
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = mexican #mexican
-        religion = catholic
+        religion = protestant
         size = 12125
     }
 }
@@ -1906,55 +1906,55 @@
 2169 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 575
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1350
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 275
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 12325
     }
 
     clergymen = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 12000
     }
 }
@@ -1962,67 +1962,67 @@
 2170 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1750
     }
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 325
     }
 
     officers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 2550
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 525
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 45300
     }
 
     clergymen = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 1800
     }
 
     soldiers = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 375
     }
 
     farmers = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 33650
     }
 }
@@ -2030,55 +2030,55 @@
 2171 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 575
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 200
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1100
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 200
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 8025
     }
 
     clergymen = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 400
     }
 
     soldiers = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 17425
     }
 }
@@ -2088,85 +2088,85 @@
 2172 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1650
     }
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 450
     }
 
     officers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 775
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 7000
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 800
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 47250
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 9250
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 29000
     }
 }
@@ -2174,55 +2174,55 @@
 2174 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1050
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 200
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 950
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 9800
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1700
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 350
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 31800
     }
 }
@@ -2232,55 +2232,55 @@
 2175 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 950
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 200
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 950
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 200
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 16700
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1400
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 26175
     }
 }
@@ -2288,67 +2288,67 @@
 2176 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 2550
     }
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 400
     }
 
     officers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 900
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 8500
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 2000
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 38550
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 375
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 6500
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 750
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 65375
     }
 }
@@ -2358,67 +2358,67 @@
 2177 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1650
     }
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 175
     }
 
     officers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 475
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1750
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 15875
     }
 
     clergymen = {
         culture = mexican #zapotec
-        religion = catholic
+        religion = protestant
         size = 350
     }
 
     artisans = {
         culture = mexican #zapotec
-        religion = catholic
+        religion = protestant
         size = 4500
     }
 
     soldiers = {
         culture = mexican #zapotec
-        religion = catholic
+        religion = protestant
         size = 700
     }
 
     farmers = {
         culture = mexican #zapotec
-        religion = catholic
+        religion = protestant
         size = 65450
     }
 }
@@ -2426,55 +2426,55 @@
 2178 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 525
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 4055
     }
 
     clergymen = {
         culture = mexican #zapotec
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican #zapotec
-        religion = catholic
+        religion = protestant
         size = 1100
     }
 
     soldiers = {
         culture = mexican #zapotec
-        religion = catholic
+        religion = protestant
         size = 200
     }
 
     farmers = {
         culture = mexican #zapotec
-        religion = catholic
+        religion = protestant
         size = 18700
     }
 }
@@ -2484,67 +2484,67 @@
 2179 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 900
     }
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 125
     }
 
     officers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 325
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1150
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 23250
     }
 
     clergymen = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 1050
     }
 
     soldiers = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 225
     }
 
     farmers = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 19625
     }
 }
@@ -2552,55 +2552,55 @@
 2180 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 450
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 450
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 7850
     }
 
     clergymen = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 550
     }
 
     soldiers = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 125
     }
 
     farmers = {
         culture = mexican #tarascan
-        religion = catholic
+        religion = protestant
         size = 10275
     }
 }
@@ -2610,67 +2610,67 @@
 2181 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 450
     }
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 25
     }
 
     officers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 3100
     }
 
     clergymen = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 850
     }
 
     soldiers = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 175
     }
 
     farmers = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 15925
     }
 }
@@ -2678,71 +2678,71 @@
 2182 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 225
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 3475
     }
 
     aristocrats = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 150
         militancy = 9
     }
 
     clergymen = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 50
         militancy = 9
     }
 
     farmers = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 1375
         militancy = 5
     }
 
     artisans = {
         culture = central_american
-        religion = catholic
+        religion = protestant
         size = 300
         militancy = 9
     }
 
     clergymen = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 75
     }
 
     farmers = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 4550
         militancy = 9
     }
@@ -2753,42 +2753,42 @@
 2183 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1275
         militancy = 9
     }
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 200
         militancy = 9
     }
 
     officers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 50
         militancy = 9
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 475
         militancy = 9
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1050
         militancy = 9
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 2000
 
         militancy = 9
@@ -2796,36 +2796,36 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 12950
         militancy = 9
     }
 
     clergymen = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 125
         militancy = 9
     }
 
     artisans = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 1950
         militancy = 9
     }
 
     soldiers = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 400
 
         militancy = 9
     }
 
     farmers = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 36525
         militancy = 9
     }
@@ -2834,55 +2834,55 @@
 2184 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 550
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 400
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 6775
     }
 
     clergymen = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 900
     }
 
     soldiers = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 17800
     }
 }
@@ -2890,55 +2890,55 @@
 2185 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 475
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 10
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1175
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 1100
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = protestant
         size = 225
     }
 
     farmers = {
-        culture = mayan
-        religion = catholic
+        culture = central_american
+        religion = protestant
         size = 20625
     }
 

@@ -34,7 +34,7 @@
 
     farmers = {
         culture = nanfaren
-        religion = mahayana
+        religion = protestant
         size = 155
     }
 

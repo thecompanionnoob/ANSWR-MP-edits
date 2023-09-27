@@ -1,7 +1,7 @@
 capital = 1977
 primary_culture = bakongo
 culture = forest_bantu
-religion = catholic
+religion = protestant
 government = democracy
 plurality = 0.0
 nationalvalue = nv_tradition

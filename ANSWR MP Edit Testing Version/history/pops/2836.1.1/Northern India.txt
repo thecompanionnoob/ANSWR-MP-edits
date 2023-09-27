@@ -8,85 +8,85 @@
 1290 = {
     aristocrats = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 6350
     }
 
     bureaucrats = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 2500
     }
 
     officers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 1500
     }
 
     clergymen = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 3350
     }
 
     artisans = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 11750
     }
 
     soldiers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 6000
     }
 
     soldiers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 6000
     }
 
     farmers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 122500
     }
 
     serfs = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 352500
     }
 
     aristocrats = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 3800
     }
 
     serfs = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 54950
     }
 
     serfs = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 33125
     }    
 
@@ -96,61 +96,61 @@
 1292 = {
     aristocrats = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 3350
     }
 
     clergymen = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 2250
     }
 
     artisans = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 11750
     }
 
     artisans = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 11750
     }
 
     artisans = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 5750
     }
 
     soldiers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 6000
     }
 
     farmers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 82800
     }
 
     serfs = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 127500
     }
 
     serfs = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 31950
     }
 
     serfs = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 27125
     }  
 }
@@ -158,49 +158,49 @@
 1294 = {
     aristocrats = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 2350
     }
 
     clergymen = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 1350
     }
 
     artisans = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 6750
     }
 
     soldiers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 6000
     }
 
     farmers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 12800
     }
 
     serfs = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 127500
     }
 
     serfs = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 31950
     }
 
     serfs = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 27125
     }  
 }
@@ -208,49 +208,49 @@
 1261 = {
     aristocrats = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 350
     }
 
     clergymen = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 350
     }
 
     artisans = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 3750
     }
 
     soldiers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 12800
     }
 
     serfs = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 77500
     }
 
     serfs = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 11350
     }
 
     serfs = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 7425
     }  
 }
@@ -258,55 +258,55 @@
 1265 = {
     aristocrats = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 4350
     }
 
     clergymen = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 2350
     }
 
     artisans = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 7750
     }
 
     soldiers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 6000
     }
 
     soldiers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 112800
     }
 
     serfs = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 167500
     }
 
     serfs = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 31350
     }
 
     serfs = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 47425
     }  
 }
@@ -315,67 +315,67 @@
 1266 = {
     aristocrats = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 4350
     }
 
     clergymen = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 3350
     }
 
     artisans = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 13750
     }
 
     artisans = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 13750
     }
 
     artisans = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 13750
     }
 
     artisans = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 4150
     }
 
     soldiers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 9000
     }
 
     farmers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 72800
     }
 
     serfs = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 119500
     }
 
     serfs = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 94350
     }
 
     serfs = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 24425
     }  
 }
@@ -383,55 +383,55 @@
 1267 = {
     aristocrats = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 3750
     }
 
     clergymen = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 2350
     }
 
     artisans = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 11750
     }
 
     artisans = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 5150
     }
 
     soldiers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 5000
     }
 
     farmers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 42800
     }
 
     serfs = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 132500
     }
 
     serfs = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 118350
     }
 
     serfs = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 94425
     }  
 }
@@ -439,55 +439,55 @@
 1231 = {
     aristocrats = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 2750
     }
 
     clergymen = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 2350
     }
 
     artisans = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 9750
     }
 
     artisans = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 7150
     }
 
     soldiers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 62800
     }
 
     serfs = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 72500
     }
 
     serfs = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 44150
     }
 
     serfs = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 114425
     }
 }
@@ -499,48 +499,48 @@
 1227 = {
     aristocrats = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 12500
     }
 
     bureaucrats = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 1400
     }
 
     officers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 2000
     }
 
     artisans = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 15000
     }
 
     soldiers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 9000
     }
 
     farmers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 270600
     }
     farmers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 47000
     }
 }
@@ -548,54 +548,54 @@
 1228 = {
     aristocrats = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 15200
     }
 
     clergymen = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 8120
     }
 
     artisans = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 12000
     }
 
     artisans = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 8000
     }
 
     artisans = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 8000
     }
 
     artisans = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 8000
     }
 
     soldiers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 4500
     }
 
     farmers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 324500
     }
     farmers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 92000
     }
 }
@@ -603,31 +603,31 @@
 1229 = {
     aristocrats = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 1300
     }
 
     clergymen = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 1300
     }
 
     artisans = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 6000
     }
 
     soldiers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 115400
     }
 }
@@ -635,31 +635,31 @@
 1230 = {
     aristocrats = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 500
     }
 
     artisans = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 2500
     }
 
     soldiers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 47000
     }
 }
@@ -667,31 +667,31 @@
 1232 = {
     aristocrats = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 1100
     }
 
     soldiers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 4850
     }
 }
@@ -699,67 +699,67 @@
 1233 = {
     aristocrats = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 1100
     }
 
     clergymen = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 800
     }
 
     artisans = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 10000
     }
 
     artisans = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 64200
     }
 
     aristocrats = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     clergymen = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 2500
     }
 
     artisans = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 2000
     }
 
     soldiers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 290500
     }
 }
@@ -767,103 +767,103 @@
 1234 = {
     aristocrats = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 1500
     }
 
     soldiers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 21000
     }
 
     aristocrats = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 800
     }
 
     clergymen = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 750
     }
 
     artisans = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 5000
     }
 
     soldiers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 175450
     }
 
     farmers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 34000
     }
 
     aristocrats = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 650
     }
 
     clergymen = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 650
     }
 
     artisans = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 650
     }
 
     farmers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 47950
     }
 }
@@ -872,91 +872,91 @@
 1235 = {
     aristocrats = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 150
     }
 
     clergymen = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 2000
     }
 
     soldiers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 53775
     }
 
     aristocrats = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 600
     }
 
     clergymen = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 625
     }
 
     artisans = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 2400
     }
 
     soldiers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 750
     }
 
     farmers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 33625
     }
 
     aristocrats = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 1100
     }
 
     clergymen = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 750
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 3500
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 30750
     }
 
@@ -969,91 +969,91 @@
 1236 = {
     aristocrats = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 18100
     }
 
     bureaucrats = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 3750
     }
 
     clergymen = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 6125
     }
 
     artisans = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 16000
     }
 
     artisans = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 16000
     }
 
     artisans = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 16000
     }
 
     artisans = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 16000
     }
 
     artisans = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 7800
     }
 
     soldiers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 6100
     }
 
     soldiers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 6100
     }
 
     soldiers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 6100
     }
 
     farmers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 480125
     }
 
     farmers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 111250
     }
 
     farmers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 92250
     }
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 86250
     }
 }
@@ -1061,49 +1061,49 @@
 1237 = {
     aristocrats = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 3100
     }
 
     clergymen = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 2125
     }
 
     artisans = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 7800
     }
 
     soldiers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 6100
     }
 
     farmers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 180125
     }
 
     farmers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 44250
     }
 
     farmers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 36250
     }
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 13250
     }
 }
@@ -1111,49 +1111,49 @@
 1253 = {
     aristocrats = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 8100
     }
 
     clergymen = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 1125
     }
 
     artisans = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 4800
     }
 
     soldiers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 6100
     }
 
     farmers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 241125
     }
 
     farmers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 14250
     }
 
     farmers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 9250
     }
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 21250
     }
 }
@@ -1161,49 +1161,49 @@
 1256 = {
     aristocrats = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 6100
     }
 
     clergymen = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 2125
     }
 
     artisans = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 13800
     }
 
     soldiers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 9100
     }
 
     farmers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 251125
     }
 
     farmers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 71250
     }
 
     farmers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 61250
     }
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 21250
     }
 }
@@ -1211,55 +1211,55 @@
 1268 = {
     aristocrats = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 4100
     }
 
     clergymen = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 1925
     }
 
     artisans = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 12800
     }
 
     artisans = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 5800
     }
 
     soldiers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 3100
     }
 
     farmers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 220250
     }
 
     farmers = {
         culture = issaclander
-        religion = issacite
+        religion = protestant
         size = 74250
     }
 
     farmers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 12250
     }
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 6250
     }
 }
@@ -1268,67 +1268,67 @@
 1238 = {
     aristocrats = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 3250
     }
 
     farmers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 86250
     }
 
     aristocrats = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 1500
     }
 
     clergymen = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 1500
     }
 
     artisans = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 7000
     }
 
     soldiers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 2100
     }
 
     farmers = {
         culture = nepali
-        religion = daharite
+        religion = protestant
         size = 94000
     }
 
     farmers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 38000
     }
 }
@@ -1337,43 +1337,43 @@
 
     aristocrats = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 3500
     }
 
     clergymen = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 2000
     }
 
     artisans = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 7000
     }
 
     soldiers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 6000
     }
 
     soldiers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 3500
     }
 
     farmers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 113000
     }
 
     farmers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 87625
     }
 }
@@ -1381,31 +1381,31 @@
 1240 = {
     aristocrats = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 5500
     }
 
     artisans = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 10000
     }
 
     soldiers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = delhiite
-        religion = daharite
+        religion = protestant
         size = 155250
     }
 
     farmers = {
         culture = utara
-        religion = daharite
+        religion = protestant
         size = 20000
     }
 }

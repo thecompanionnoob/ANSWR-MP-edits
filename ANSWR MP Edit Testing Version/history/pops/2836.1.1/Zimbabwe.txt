@@ -4,61 +4,61 @@
 2068 = {
     aristocrats = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 275
     }
 
     clergymen = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 750
     }
 
     soldiers = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 13675
     }
 
     aristocrats = {
         culture = sena
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = sena
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = sena
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = sena
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = sena
-        religion = animist
+        religion = protestant
         size = 1800
     }
 }
@@ -66,31 +66,31 @@
 2069 = {
     aristocrats = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 450
     }
 
     clergymen = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 1200
     }
 
     soldiers = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 21850
     }
 }
@@ -98,61 +98,61 @@
 2070 = {
     aristocrats = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 425
     }
 
     clergymen = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 225
     }
 
     artisans = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 1100
     }
 
     soldiers = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 225
     }
 
     farmers = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 20025
     }
 
     aristocrats = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 1800
     }
 }
@@ -160,91 +160,91 @@
 2635 = {
     aristocrats = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 5525
     }
 
     aristocrats = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 1800
     }
 
     aristocrats = {
         culture = sena
-        religion = animist
+        religion = protestant
         size = 10
     }
 
     clergymen = {
         culture = sena
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = sena
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = sena
-        religion = animist
+        religion = protestant
         size = 15
     }
 
     farmers = {
         culture = sena
-        religion = animist
+        religion = protestant
         size = 900
     }
 }
@@ -254,91 +254,91 @@
 2071 = {
     aristocrats = {
         culture = nguni
-        religion = animist
+        religion = protestant
         size = 500
     }
 
     bureaucrats = {
         culture = nguni
-        religion = animist
+        religion = protestant
         size = 10
     }
 
     officers = {
         culture = nguni
-        religion = animist
+        religion = protestant
         size = 40
     }
 
     clergymen = {
         culture = nguni
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     artisans = {
         culture = nguni
-        religion = animist
+        religion = protestant
         size = 1200
     }
 
     soldiers = {
         culture = nguni
-        religion = animist
+        religion = protestant
         size = 8050
     }
 
     farmers = {
         culture = nguni
-        religion = animist
+        religion = protestant
         size = 29000
     }
 
     aristocrats = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 5400
     }
 
     artisans = {
         culture = sotho
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     soldiers = {
         culture = sotho
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = sotho
-        religion = animist
+        religion = protestant
         size = 6650
     }
 }
@@ -346,91 +346,91 @@
 2072 = {
     aristocrats = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 400
     }
 
     soldiers = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 10950
     }
 
     aristocrats = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 9150
     }
 
     aristocrats = {
         culture = nguni
-        religion = animist
+        religion = protestant
         size = 20
     }
 
     clergymen = {
         culture = nguni
-        religion = animist
+        religion = protestant
         size = 30
     }
 
     artisans = {
         culture = nguni
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = nguni
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = nguni
-        religion = animist
+        religion = protestant
         size = 2000
     }
 }
@@ -438,61 +438,61 @@
 2073 = {
     aristocrats = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     clergymen = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = shona
-        religion = animist
+        religion = protestant
         size = 1800
     }
 
     aristocrats = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 300
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 800
     }
 
     soldiers = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 175
     }
 
     farmers = {
         culture = southern_bantu
-        religion = animist
+        religion = protestant
         size = 14575
     }
 

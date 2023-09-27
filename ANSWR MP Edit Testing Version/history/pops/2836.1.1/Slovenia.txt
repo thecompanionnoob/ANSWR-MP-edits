@@ -4,74 +4,74 @@
 767 = {
     aristocrats = {
         culture = austro_german
-        religion = catholic
+        religion = protestant
         size = 750
     }
 
     bureaucrats = {
         culture = austro_german
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = austro_german
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = austro_german
-        religion = catholic
+        religion = protestant
         size = 1100
     }
 
     soldiers = {
         culture = austro_german
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = austro_german
-        religion = catholic
+        religion = protestant
         size = 14650
     }
 
     clergymen = {
         culture = slovene
-        religion = catholic
+        religion = protestant
         size = 450
     }
 
     artisans = {
         culture = slovene
-        religion = catholic
+        religion = protestant
         size = 1600
     }
 
     soldiers = {
         culture = slovene
-        religion = catholic
+        religion = protestant
         size = 450
     }
 
     farmers = {
         culture = slovene
-        religion = catholic
+        religion = protestant
         size = 35000
     }
 
     ######Jews
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = protestant
         size = 100
     }
     ########
@@ -83,61 +83,61 @@
 768 = {
     aristocrats = {
         culture = slovene
-        religion = catholic
+        religion = protestant
         size = 825
     }
 
     bureaucrats = {
         culture = slovene
-        religion = catholic
+        religion = protestant
         size = 225
     }
 
     officers = {
         culture = slovene
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = slovene
-        religion = catholic
+        religion = protestant
         size = 700
     }
 
     artisans = {
         culture = slovene
-        religion = catholic
+        religion = protestant
         size = 4000
     }
 
     soldiers = {
         culture = slovene
-        religion = catholic
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = slovene
-        religion = catholic
+        religion = protestant
         size = 36150
     }
 
     soldiers = {
         culture = austro_german
-        religion = catholic
+        religion = protestant
         size = 3000
     }
 
     artisans = {
         culture = austro_german
-        religion = catholic
+        religion = protestant
         size = 4000
     }
 
     farmers = {
         culture = austro_german
-        religion = catholic
+        religion = protestant
         size = 20000
     }
 
@@ -146,49 +146,49 @@
 769 = {
     aristocrats = {
         culture = slovene
-        religion = catholic
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = slovene
-        religion = catholic
+        religion = protestant
         size = 425
     }
 
     artisans = {
         culture = slovene
-        religion = catholic
+        religion = protestant
         size = 2100
     }
 
     soldiers = {
         culture = slovene
-        religion = catholic
+        religion = protestant
         size = 425
     }
 
     farmers = {
         culture = slovene
-        religion = catholic
+        religion = protestant
         size = 25075
     }
 
     soldiers = {
         culture = austro_german
-        religion = catholic
+        religion = protestant
         size = 2500
     }
 
     clergymen = {
         culture = austro_german
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = austro_german
-        religion = catholic
+        religion = protestant
         size = 13975
     }
 

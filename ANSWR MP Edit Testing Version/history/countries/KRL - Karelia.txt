@@ -1,6 +1,6 @@
 capital = 995
 primary_culture = kochevnik
-religion = shiset
+religion = protestant
 government = democracy
 plurality = 0.5
 nationalvalue = nv_equality

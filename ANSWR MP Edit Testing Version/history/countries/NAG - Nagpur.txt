@@ -1,6 +1,6 @@
 capital = 1236
 primary_culture = delhiite
-religion = hindu
+religion = protestant
 government = absolute_monarchy
 plurality = 4.0
 nationalvalue = nv_tradition

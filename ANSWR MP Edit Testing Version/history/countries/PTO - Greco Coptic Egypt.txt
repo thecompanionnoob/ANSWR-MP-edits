@@ -1,6 +1,6 @@
 capital = 1751
 primary_culture = grecocopt
-religion = coptic
+religion = protestant
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order

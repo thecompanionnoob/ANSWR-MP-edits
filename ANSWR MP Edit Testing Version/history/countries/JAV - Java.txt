@@ -1,6 +1,6 @@
 capital = 1416
 primary_culture = javan
-religion = sunni
+religion = protestant
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

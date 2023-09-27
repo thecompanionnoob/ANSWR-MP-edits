@@ -4,73 +4,73 @@
 1364 = {
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 2000
     }
 
     bureaucrats = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 150
     }
 
     officers = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 1125
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 5500
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 3000
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 1000
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 93025
     }
 
     slaves = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 9000
     }
 
     clergymen = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 75
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 1250
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = protestant
         size = 2675
     }
 }
@@ -78,55 +78,55 @@
 1367 = {
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 725
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 375
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 1750
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 1100
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 34150
     }
 
     clergymen = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = protestant
         size = 1475
     }
 
     slaves = {
         culture = vietnamese
-        religion = mahayana
+        religion = protestant
         size = 3000
     }
 }
@@ -134,67 +134,67 @@
 1368 = {
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 300
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 175
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 900
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 175
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 16450
     }
 
     aristocrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = protestant
         size = 125
     }
 
     soldiers = {
         culture = vietnamese
-        religion = mahayana
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = asian_minor
-        religion = mahayana
+        religion = protestant
         size = 2750
     }
 
     slaves = {
         culture = vietnamese
-        religion = mahayana
+        religion = protestant
         size = 2000
     }
 }
@@ -203,103 +203,103 @@
 1366 = {
     aristocrats = {
         culture = thai
-        religion = theravada
+        religion = protestant
         size = 25
     }
 
     bureaucrats = {
         culture = thai
-        religion = theravada
+        religion = protestant
         size = 50
     }
 
     officers = {
         culture = thai
-        religion = theravada
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = thai
-        religion = theravada
+        religion = protestant
         size = 25
     }
 
     artisans = {
         culture = thai
-        religion = theravada
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = thai
-        religion = theravada
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = thai
-        religion = theravada
+        religion = protestant
         size = 725
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 750
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 400
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 2000
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 425
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 79425
     }
 
     slaves = {
         culture = khmer
-        religion = theravada
+        religion = protestant
         size = 3100
     }
 
     clergymen = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 50
     }
 
     artisans = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 750
     }
 
     soldiers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 50
     }
 
     farmers = {
         culture = yue
-        religion = mahayana
+        religion = protestant
         size = 2150
     }
 
