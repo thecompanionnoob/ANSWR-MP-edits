@@ -99,31 +99,31 @@
 #Dawson (4000/1000 POPS)
 7 = {
     aristocrats = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 20
     }
 
     clergymen = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 30
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 1800
     }
@@ -135,31 +135,31 @@
 #Echo Bay (4000/1000 POPS)
 11 = {
     aristocrats = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 500
     }
@@ -174,31 +174,31 @@
 #Fort Resolution (2000/500 POPS)
 2596 = {
     aristocrats = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 600
     }
 
     soldiers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 1500
     }
@@ -206,31 +206,31 @@
 #Fort Liard (1600/400 POPS)
 2598 = {
     aristocrats = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 1525
     }
@@ -240,7 +240,7 @@
 2595 = {
 
     aristocrats = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 50
     }
@@ -270,7 +270,7 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 1250
     }
@@ -306,19 +306,19 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 1950
     }
@@ -326,31 +326,31 @@
 #Athabaska Landing (4800/1200 POPS)
 23 = {
     aristocrats = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 20
     }
 
     clergymen = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 60
     }
 
     soldiers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 1080
     }
@@ -383,7 +383,7 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 8250
     }
@@ -417,13 +417,13 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 1500
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 380
     }
@@ -456,13 +456,13 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 580
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 1030
     }
@@ -477,7 +477,7 @@
     }
 
     aristocrats = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 500
     }
@@ -513,13 +513,13 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 6710
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 3185
     }
@@ -552,13 +552,13 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 665
     }
@@ -567,31 +567,31 @@
 #Fort Vermillion (3200/800 POPS)
 2597 = {
     aristocrats = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 15
     }
 
     clergymen = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 20
     }
 
     artisans = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 40
     }
 
     soldiers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 1025
     }
@@ -608,13 +608,13 @@
     }
 
     aristocrats = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 50
     }
 
     aristocrats = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 200
     }
@@ -650,7 +650,7 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 5250
     }
@@ -658,31 +658,31 @@
 #Stanley (4000/1000 POPS)
 31 = {
     aristocrats = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 900
     }
@@ -690,55 +690,55 @@
 #Prince Albert (8000/2000 POPS)
 32 = {
     clergymen = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 910
     }
 
     aristocrats = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 900
     }
@@ -771,13 +771,13 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 1000
     }
@@ -810,18 +810,18 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 1000
     }
 }
-#Maple canuckk (4000/1000 POPS)
+#Maple anglo_canadiank (4000/1000 POPS)
 35 = {
 
     clergymen = {
@@ -849,13 +849,13 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 950
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 655
     }
@@ -922,7 +922,7 @@
 
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 2550
     }
@@ -960,7 +960,7 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 1200
     }
@@ -992,7 +992,7 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 4250
     }
@@ -1025,7 +1025,7 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 10000
     }
@@ -1058,7 +1058,7 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 13000
     }
@@ -1073,7 +1073,7 @@
     }
 
     aristocrats = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 250
     }
@@ -1109,7 +1109,7 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 14000
     }
@@ -1145,7 +1145,7 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 700
     }
@@ -1178,7 +1178,7 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 3000
     }
@@ -1194,13 +1194,13 @@
     }
 
     aristocrats = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 5
     }
 
     aristocrats = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 20
     }
@@ -1230,13 +1230,13 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 1950
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = catholic
         size = 1000
     }
@@ -1269,7 +1269,7 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 3000
     }
@@ -1384,7 +1384,7 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 500
     }
@@ -1730,25 +1730,25 @@
 #Édouard Île (32000/8000 POPS)
 70 = {
     clergymen = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 1500
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 1350
     }
@@ -1764,31 +1764,31 @@
 #Halifax (83000/20750 POPS)
 71 = {
     bureaucrats = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 4000
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 44600
     }
@@ -1809,25 +1809,25 @@
 #Truro (44000/11000 POPS)
 72 = {
     clergymen = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 750
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 125
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 14075
     }
@@ -1841,19 +1841,19 @@
 #Cape Breton Island (20000/5000 POPS)
 73 = {
     clergymen = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 50
     }
@@ -1925,7 +1925,7 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 5000
     }
@@ -1963,7 +1963,7 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 12500
     }
@@ -2001,7 +2001,7 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 4500
     }

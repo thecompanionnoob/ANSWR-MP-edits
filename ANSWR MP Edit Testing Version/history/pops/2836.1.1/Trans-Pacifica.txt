@@ -925,7 +925,7 @@
     }
 
     farmers = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 5520
     }
@@ -1016,7 +1016,7 @@
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 6950
     }
@@ -1054,7 +1054,7 @@
         size = 1360
     }
     farmers = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 2160
     }
@@ -1359,25 +1359,25 @@
 92 = {
 
     clergymen = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 20
     }
 
     farmers = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 30
     }
@@ -1399,37 +1399,37 @@
 113 = {
 
     aristocrats = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 5
     }
 
     officers = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 5
     }
 
     clergymen = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 10
     }
 
     soldiers = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 50
     }
@@ -1462,25 +1462,25 @@
 114 = {
 
     clergymen = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 10
     }
 
     soldiers = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 50
     }
@@ -1780,13 +1780,13 @@
     }
 
     farmers = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 6380
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 5380
     }
@@ -1819,13 +1819,13 @@
     }
 
     farmers = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 1325
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 1380
     }
@@ -1845,12 +1845,12 @@
         size = 245
     }
     farmers= {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 300
     }   
     farmers= {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 300
     }   
@@ -1864,12 +1864,12 @@
         size = 125
     }
     farmers= {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 275
     }
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 200
     }
@@ -1902,13 +1902,13 @@
     }
 
     farmers = {
-        culture = deisui
+        culture = anglo_canadian
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = canuck
+        culture = anglo_canadian
         religion = protestant
         size = 500
     }

@@ -78,61 +78,61 @@
     }
 
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 50
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 8500
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 3050
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 15650
     }
 
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 42000
     }
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1250
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 12125
     }
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 23000
     }
     soldiers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 3750
     }
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 32725
     }
     slaves = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 49500
     }
@@ -176,17 +176,17 @@
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 24820
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 2525
     }
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 21725
     }
@@ -260,40 +260,40 @@
     }
 
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 220
     }
 
     clergymen = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 500
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 2050
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 525
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 5820
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 3725
     }
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 8225
     }
@@ -336,17 +336,17 @@
         size = 54000
     }
 	farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 13820
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 8725
     }
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 18725
     }
@@ -403,52 +403,52 @@
     }
 
     farmers = {
-        culture = sabitak
+        culture = tsakiya
         religion = harami
         size = 12025
     }
 
     aristocrats = {
-        culture = kasashe
+        culture = tsakiya
         religion = harami
         size = 100
     }
 
     clergymen = {
-        culture = kasashe
+        culture = tsakiya
         religion = harami
         size = 50
     }
 
     artisans = {
-        culture = kasashe
+        culture = tsakiya
         religion = harami
         size = 300
     }
 
     soldiers = {
-        culture = kasashe
+        culture = tsakiya
         religion = harami
         size = 75
     }
 
     farmers = {
-        culture = kasashe
+        culture = tsakiya
         religion = harami
         size = 25475
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 5820
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 8725
     }
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 2725
     }
@@ -491,22 +491,22 @@
         size = 35000
     }
     farmers = {
-        culture = kasashe
+        culture = tsakiya
         religion = harami
         size = 3775
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 25820
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 32725
     }
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 6725
     }
@@ -561,22 +561,22 @@
         size = 21000
     }
     farmers = {
-        culture = kasashe
+        culture = tsakiya
         religion = harami
         size = 13775
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 17220
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 12325
     }
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1225
     }
@@ -615,33 +615,33 @@
     }
 
     farmers = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 5800
     }
 
     slaves = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 11100
     }
     farmers = {
-        culture = kasashe
+        culture = tsakiya
         religion = harami
         size = 28775
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 3220
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 7325
     }
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 2225
     }
@@ -679,62 +679,62 @@
     }
 
     aristocrats = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 25
     }
 
     clergymen = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 50
     }
 
     artisans = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 100
     }
 
     soldiers = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 25
     }
 
     farmers = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 21800
     }
 
     slaves = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 11100
     }
     farmers = {
-        culture = kasashe
+        culture = tsakiya
         religion = harami
         size = 11775
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 4220
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 12325
     }
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1225
     }
     farmers = {
-        culture = sabitak
+        culture = tsakiya
         religion = harami
         size = 33325
     }
@@ -779,17 +779,17 @@
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 4220
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 2325
     }
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 21225
     }
@@ -833,17 +833,17 @@
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 8220
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 4325
     }
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 41225
     }
@@ -887,17 +887,17 @@
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 35220
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 2325
     }
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 21225
     }
@@ -941,17 +941,17 @@
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 13220
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 4325
     }
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 11225
     }
@@ -1019,17 +1019,17 @@
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 3220
     }
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 4325
     }
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 14175
     }
@@ -1091,19 +1091,19 @@
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 2500
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1500
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 8250
     }
@@ -1148,19 +1148,19 @@
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 32500
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 5500
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 48250
     }
@@ -1204,19 +1204,19 @@
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 12500
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1500
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 68250
     }
@@ -1260,24 +1260,24 @@
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 5100
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1250
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 56250
     }
 }
-##Yankunas
+##tsakiya
 #Mao (149453/37362 POPS)
 1824 = {
     aristocrats = {
@@ -1323,22 +1323,22 @@
     }
 
     slaves = {
-        culture = yankun
+        culture = tsakiya
         religion = kaura
         size = 45875
     }
     artisans = {
-        culture = yankun
+        culture = tsakiya
         religion = kaura
         size = 3500
     }
     clergymen = {
-        culture = yankun
+        culture = tsakiya
         religion = kaura
         size = 250
     }
     farmers = {
-        culture = yankun
+        culture = tsakiya
         religion = kaura
         size = 3250
     }
@@ -1346,54 +1346,54 @@
 ##############
 ## Kadakusa ##
 ##############
-#shenkuda Region (1676000)
+#tsakiya Region (1676000)
 #ruled by Benin in 1836
 #Benin (1144000/286000 POPS)
 1928 = {
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 4250
     }
 
     bureaucrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1200
     }
 
     officers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 400
     }
 
     clergymen = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1750
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 8600
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 6000
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 73100
     }
 
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 115000
     }
@@ -1425,37 +1425,37 @@
 #Lokoja (332000/83000 POPS)
 1930 = {
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1125
     }
 
     clergymen = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 600
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 2175
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 3000
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 48650
     }
 
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 38000
     }
@@ -1499,43 +1499,43 @@
 #Warri (1232000/308000 POPS)
 1931 = {
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 6150
     }
 
     clergymen = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 3100
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 10000
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 2350
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 3000
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 51530
     }
 
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 28000
     }
@@ -1550,67 +1550,67 @@
 #Akure (312000/78000 POPS) african_Minor includes Nupe
 1929 = {
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 850
     }
 
     clergymen = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 450
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 2200
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 450
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 34050
     }
 
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 6000
     }
 
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 200
     }
 
     clergymen = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 100
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 600
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1150
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 9950
     }
@@ -1655,67 +1655,67 @@
 #Lagos (336000/84000 POPS)
 1923 = {
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1550
     }
 
     clergymen = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 800
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 3200
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 6850
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 93400
     }
 
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 56000
     }
 
     aristocrats = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 500
     }
 
     clergymen = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 1000
     }
 
     artisans = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 5000
     }
 
     soldiers = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 500
     }
 
     farmers = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 42300
     }
@@ -1729,67 +1729,67 @@
 #Abeokuta (784000/196000 POPS)
 1924 = {
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1650
     }
 
     clergymen = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 850
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 7500
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 3000
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 63000
     }
 
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 48000
     }
 
     aristocrats = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 2000
     }
 
     clergymen = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 1000
     }
 
     artisans = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 5000
     }
 
     soldiers = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 1000
     }
 
     farmers = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 39100
     }
@@ -1802,73 +1802,73 @@
 #Ibadan (1160000/290000 POPS)
 1925 = {
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1200
     }
 
     bureaucrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 600
     }
 
     officers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 500
     }
 
     clergymen = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1500
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 6000
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 3000
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 81400
     }
 
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 81000
     }
 
     clergymen = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 700
     }
 
     artisans = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 2000
     }
 
     soldiers = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 1000
     }
 
     farmers = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 49100
     }
@@ -1882,43 +1882,43 @@
 #Ife (872000/218000 POPS)
 1926 = {
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 2250
     }
 
     clergymen = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1150
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 8000
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1500
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 34600
     }
 
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 40000
     }
 
     farmers = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 49100
     }
@@ -1932,37 +1932,37 @@
 #Ilorin (248000/62000 POPS) african_Minor includes Nupe
 1927 = {
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 950
     }
 
     clergymen = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 525
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 2500
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1100
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 59025
     }
 
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 6000
     }
@@ -1974,7 +1974,7 @@
     }
 
     farmers = {
-        culture = fon
+        culture = tsakiya
         religion = harami
         size = 31500
     }
@@ -1989,37 +1989,37 @@
 #Bonny (224000/56000 POPS) afrcan_minor includes Ijaw
 1932 = {
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1100
     }
 
     clergymen = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 550
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 2250
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1100
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 70000
     }
 
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 44000
     }
@@ -2031,7 +2031,7 @@
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 52500
     }
@@ -2045,43 +2045,43 @@
 #Awka (1264000/316000 POPS)
 1933 = {
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 6300
     }
 
     clergymen = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 3150
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 10000
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 7650
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 3000
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 123000
     }
 
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 44000
     }
@@ -2093,7 +2093,7 @@
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 45000
     }
@@ -2107,37 +2107,37 @@
 #Calabar (840000/210000 POPS)
 1934 = {
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1150
     }
 
     bureaucrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 450
     }
 
     clergymen = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 700
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 11400
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 3100
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 59250
     }
@@ -2149,7 +2149,7 @@
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 65000
     }
@@ -2163,43 +2163,43 @@
 #Aruchukwu (832000/208000 POPS)
 1935 = {
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 4150
     }
 
     bureaucrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 450
     }
 
     clergymen = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 2100
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 6350
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 2500
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 97000
     }
 
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 48000
     }
@@ -2211,7 +2211,7 @@
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 37250
     }
@@ -2227,31 +2227,31 @@
 #Makurdi (372000/93000 POPS)
 1936 = {
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1850
     }
 
     clergymen = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1925
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 6725
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 3950
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 92550
     }
@@ -2263,7 +2263,7 @@
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 61250
     }
@@ -2275,76 +2275,76 @@
     }
 }
 #############
-## Filayen ##
+## tsakiya ##
 #############
 ##Babbangabas##
 #Babbangabas
 12 = {
     aristocrats = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1250
     }
 
     bureaucrats = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 500
     }
 
     officers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 400
     }
 
     clergymen = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 2000
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 13000
     }
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 8450
     }
 
     soldiers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 6000
     }
 
     soldiers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 3000
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 122115
     }
     slaves = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 115750
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 6125
     }
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 4000
     }
@@ -2367,47 +2367,47 @@
 #Ngaoundere (160000/40000 POPS) #now part of Cameroun
 1963 = {
     aristocrats = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 650
     }
 
     clergymen = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 750
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 7000
     }
 
     soldiers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 3000
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 71915
     }
     slaves = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 33750
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 7425
     }
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 2000
     }
@@ -2431,65 +2431,65 @@
 #Maroua (433600/108400 POPS) #now part of Cameroun
 1964 = {
     aristocrats = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1650
     }
 
     clergymen = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1250
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 12000
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 12000
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 12000
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 8000
     }
 
     soldiers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 4000
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 41315
     }
     slaves = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 42820
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 4425
     }
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 3000
     }
@@ -2514,43 +2514,43 @@
 #Douala (328000/82000 POPS)
 1956 = {
     aristocrats = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1675
     }
 
     officers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 150
     }
 
     clergymen = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 825
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 3300
     }
 
     soldiers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 825
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 61225
     }
 
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 14000
     }
@@ -2564,37 +2564,37 @@
 #Buea (224000/56000 POPS)
 1957 = {
     aristocrats = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1075
     }
 
     clergymen = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 550
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 2250
     }
 
     soldiers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 3550
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 59575
     }
 
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 42000
     }
@@ -2607,73 +2607,73 @@
 #Kribi (176000/44000 POPS)
 1958 = {
     aristocrats = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 500
     }
 
     clergymen = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 250
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1050
     }
 
     soldiers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 275
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 37925
     }
 
     slaves = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 3000
     }
 
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 725
     }
 
     clergymen = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 175
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 725
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 175
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 4600
     }
 
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 2000
     }
@@ -2685,7 +2685,7 @@
     }
 
     slaves = {
-        culture = bakongo
+        culture = tsakiya
         religion = harami
         size = 33000
     }
@@ -2695,79 +2695,79 @@
 #Yaounde (344000/86000 POPS)
 1959 = {
     aristocrats = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 525
     }
 
     clergymen = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 275
     }
 
     artisans = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 1125
     }
 
     soldiers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 275
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 21800
     }
 
     slaves = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 4000
     }
 
     aristocrats = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1450
     }
 
     clergymen = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 575
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 2325
     }
 
     soldiers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 600
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 49350
     }
 
     slaves = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 34000
     }
 
     slaves = {
-        culture = bakongo
+        culture = tsakiya
         religion = harami
         size = 13000
     }
@@ -2781,37 +2781,37 @@
 #Bafoussam (276000/69000 POPS)
 1960 = {
     aristocrats = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1375
     }
 
     clergymen = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 700
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 2775
     }
 
     soldiers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 700
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 44450
     }
 
     slaves = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 19000
     }
@@ -2823,7 +2823,7 @@
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 17300
     }
@@ -2832,36 +2832,36 @@
 #Etorofu
 1089 = {
     aristocrats = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 650
     }
     clergymen = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1400
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 4450
     }
 
     soldiers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 3000
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 43225
     }
 
     slaves = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 51250
     }
@@ -2879,13 +2879,13 @@
     }
 
     slaves = {
-        culture = bakongo
+        culture = tsakiya
         religion = harami
         size = 31750
     }
 
     farmers = {
-        culture = shenkuda
+        culture = tsakiya
         religion = sarki
         size = 3800
     }
@@ -2893,36 +2893,36 @@
 #Bertoua (320000/80000 POPS)
 1962 = {
     aristocrats = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1650
     }
     clergymen = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 400
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 8450
     }
 
     soldiers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 3600
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 63225
     }
 
     slaves = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 42850
     }
@@ -2940,7 +2940,7 @@
     }
 
     slaves = {
-        culture = bakongo
+        culture = tsakiya
         religion = harami
         size = 63150
     }
@@ -2948,36 +2948,36 @@
 #Bamenda (372000/93000 POPS)
 1961 = {
     aristocrats = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1250
     }
     clergymen = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 700
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 3450
     }
 
     soldiers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 3000
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 13225
     }
 
     slaves = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 36850
     }
@@ -2995,7 +2995,7 @@
     }
 
     slaves = {
-        culture = bakongo
+        culture = tsakiya
         religion = harami
         size = 22750
     }
@@ -3004,36 +3004,36 @@
 #Bangui (104000/26000 POPS)
 1965 = {
     aristocrats = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 2250
     }
     clergymen = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1500
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 7450
     }
 
     soldiers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1500
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 23225
     }
 
     slaves = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 46850
     }
@@ -3053,36 +3053,36 @@
 #Nola (40000/10000 POPS)
 1966 = {
     aristocrats = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1250
     }
     clergymen = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 700
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 6450
     }
 
     soldiers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1000
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 33225
     }
 
     slaves = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 13850
     }
@@ -3103,36 +3103,36 @@
 #Bouar (28000/7000 POPS)
 1967 = {
     aristocrats = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 2250
     }
     clergymen = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1200
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 9450
     }
 
     soldiers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 2000
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 33225
     }
 
     slaves = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 46850
     }
@@ -3152,36 +3152,36 @@
 #Bossangoa (56000/14000 POPS)
 1968 = {
     aristocrats = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1750
     }
     clergymen = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1200
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 7450
     }
 
     soldiers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 3000
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 43225
     }
 
     slaves = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 32850
     }
@@ -3201,36 +3201,36 @@
 #Moundou (48000/12000 POPS)
 1819 = {
     aristocrats = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 1150
     }
     clergymen = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 800
     }
 
     artisans = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 3450
     }
 
     soldiers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 2500
     }
 
     farmers = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 23225
     }
 
     slaves = {
-        culture = filayen
+        culture = tsakiya
         religion = sarki
         size = 2750
     }

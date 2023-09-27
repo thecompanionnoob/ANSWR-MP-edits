@@ -3,49 +3,49 @@
 #Khartoum (344000/86000 POPS)
 1827 = {
     aristocrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 650
     }
 
     bureaucrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 40
     }
 
     officers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 110
     }
 
     clergymen = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 125
     }
 
     artisans = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 2125
     }
 
     soldiers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 3000
     }
 
     soldiers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 38150
     }
@@ -99,7 +99,7 @@
     }
 
     slaves = {
-        culture = nilotic
+        culture = tigray
         religion = animist
         size = 22000
     }
@@ -113,37 +113,37 @@
 #Wadi Madani (136000/34000 POPS)
 1828 = {
     aristocrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 375
     }
 
     clergymen = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 1150
     }
 
     soldiers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 20425
     }
 
     slaves = {
-        culture = nilotic
+        culture = tigray
         religion = animist
         size = 7000
     }
@@ -157,92 +157,92 @@
 #Kassala (252000/63000 POPS)
 1829 = {
     aristocrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 400
     }
 
     clergymen = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 1150
     }
 
     soldiers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 20400
     }
 
     aristocrats = {
-        culture = nilotic
+        culture = tigray
         religion = animist
         size = 675
     }
 
 
     artisans = {
-        culture = nilotic
+        culture = tigray
         religion = animist
         size = 1800
     }
 
     soldiers = {
-        culture = nilotic
+        culture = tigray
         religion = animist
         size = 275
     }
 
     farmers = {
-        culture = nilotic
+        culture = tigray
         religion = animist
         size = 24225
     }
 
     slaves = {
-        culture = nilotic
+        culture = tigray
         religion = animist
         size = 9000
     }
 
     aristocrats = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 75
     }
 
     clergymen = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 3625
     }
@@ -250,31 +250,31 @@
 #Sennar (160000/40000 POPS)
 1830 = {
     aristocrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 475
     }
 
     clergymen = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 1350
     }
 
     soldiers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 22125
     }
@@ -336,31 +336,31 @@
 #Rabak (128000/32000 POPS)
 1831 = {
     aristocrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 350
     }
 
     clergymen = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 975
     }
 
     soldiers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 17625
     }
@@ -398,13 +398,13 @@
 #Fashoda (132000/33000 POPS)
 1832 = {
     aristocrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 100
     }
 
     bureaucrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 25
     }
@@ -504,43 +504,43 @@
 #Suakin (60000/15000 POPS) #now part of Sudan
 1833 = {
     aristocrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 75
     }
 
     bureaucrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 25
     }
 
     officers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 3575
     }
@@ -576,37 +576,37 @@
     }
 
     aristocrats = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 1800
     }
 
     slaves = {
-        culture = nilotic
+        culture = tigray
         religion = animist
         size = 2000
     }
@@ -614,31 +614,31 @@
 #Halaib (48000/12000 POPS) #now part of Sudan
 1834 = {
     aristocrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 300
     }
 
     soldiers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 75
     }
 
     farmers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 5475
     }
@@ -674,31 +674,31 @@
     }
 
     aristocrats = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 150
     }
 
     soldiers = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 2700
     }
@@ -708,43 +708,43 @@
 #Dunqulah (84000/21000 POPS)
 1835 = {
     aristocrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     bureaucrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 10
     }
 
     officers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 40
     }
 
     clergymen = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 150
     }
 
     soldiers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 75
     }
 
     farmers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 2600
     }
@@ -780,37 +780,37 @@
     }
 
     slaves = {
-        culture = nilotic
+        culture = tigray
         religion = animist
         size = 3000
     }
 
     aristocrats = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 15
     }
 
     clergymen = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 25
     }
 
     artisans = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     soldiers = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 10
     }
 
     farmers = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 900
     }
@@ -818,31 +818,31 @@
 #Hayya (104000/26000 POPS)
 1836 = {
     aristocrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 75
     }
 
     clergymen = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 3625
     }
@@ -878,31 +878,31 @@
     }
 
     aristocrats = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 325
     }
 
     clergymen = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 900
     }
 
     soldiers = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 200
     }
 
     farmers = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 16500
     }
@@ -910,31 +910,31 @@
 #Atbarah (40000/1000 POPS)
 1837 = {
     aristocrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 15
     }
 
     clergymen = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 25
     }
 
     artisans = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     soldiers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 10
     }
 
     farmers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 900
     }
@@ -970,31 +970,31 @@
     }
 
     aristocrats = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 150
     }
 
     soldiers = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 2700
     }
@@ -1035,31 +1035,31 @@
 #Taoudenni - Now Bayuda (8000/2000 POPS)
 1806 = {
     aristocrats = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = beja
+        culture = tigray
         religion = sunni
         size = 500
     }
@@ -1069,43 +1069,43 @@
 #Obeid (180000/45000 POPS)
 1838 = {
     aristocrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 500
     }
 
     officers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 1100
     }
 
     soldiers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 450
     }
 
     farmers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 23900
     }
 
     slaves = {
-        culture = sudanese
+        culture = tigray
         religion = animist
         size = 50000
     }
@@ -1113,13 +1113,13 @@
 #Nuhud (164000/41000 POPS)
 1839 = {
     aristocrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 100
     }
 
     bureaucrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 25
     }
@@ -1149,7 +1149,7 @@
     }
 
     slaves = {
-        culture = nilotic
+        culture = tigray
         religion = animist
         size = 15000
     }
@@ -1157,31 +1157,31 @@
 #Kaduqli (180000/45000 POPS)
 1840 = {
     aristocrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 200
     }
 
     farmers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 10000
     }
@@ -1457,31 +1457,31 @@
 #Bor (344000/86000 POPS)
 1844 = {
     aristocrats = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 150
     }
 
     soldiers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = sudanese
+        culture = tigray
         religion = sunni
         size = 2700
     }
@@ -1560,7 +1560,7 @@
     }
 
     slaves = {
-        culture = nilotic
+        culture = tigray
         religion = animist
         size = 10000
     }
@@ -1691,7 +1691,7 @@
     }
 
     farmers = {
-        culture = nilotic
+        culture = tigray
         religion = animist
         size = 950
     }
@@ -1709,7 +1709,7 @@
     }
 
     slaves = {
-        culture = nilotic
+        culture = tigray
         religion = animist
         size = 1100
     }
@@ -1741,7 +1741,7 @@
     }
 
     aristocrats = {
-        culture = nilotic
+        culture = tigray
         religion = animist
         size = 125
     }
@@ -1765,7 +1765,7 @@
     }
 
     slaves = {
-        culture = nilotic
+        culture = tigray
         religion = animist
         size = 1100
     }

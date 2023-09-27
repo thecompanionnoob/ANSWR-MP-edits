@@ -33,43 +33,43 @@
     }
 
     bureaucrats = {
-        culture = misri
+        culture = tigray
         religion = sunni
         size = 5
     }
 
     soldiers = {
-        culture = misri
+        culture = tigray
         religion = sunni
         size = 20
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = tigray
         religion = sunni
         size = 75
     }
 
     clergymen = {
-        culture = bedouin
+        culture = tigray
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = bedouin
+        culture = tigray
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = bedouin
+        culture = tigray
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = bedouin
+        culture = tigray
         religion = sunni
         size = 3600
     }
@@ -107,31 +107,31 @@
     }
 
     aristocrats = {
-        culture = afar
+        culture = tigray
         religion = sunni
         size = 75
     }
 
     clergymen = {
-        culture = afar
+        culture = tigray
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = afar
+        culture = tigray
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = afar
+        culture = tigray
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = afar
+        culture = tigray
         religion = sunni
         size = 3600
     }
@@ -212,7 +212,7 @@
     }
 
     slaves = {
-        culture = cushitic
+        culture = tigray
         religion = sunni
         size = 500
     }
@@ -250,13 +250,13 @@
     }
 
     slaves = {
-        culture = cushitic
+        culture = tigray
         religion = sunni
         size = 500
     }
 
     slaves = {
-        culture = nilotic
+        culture = tigray
         religion = animist
         size = 500
     }

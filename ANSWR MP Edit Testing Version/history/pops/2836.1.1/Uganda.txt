@@ -3,109 +3,109 @@
 #Entebbe (400000/100000 POPS)
 2019 = {
     aristocrats = {
-        culture = baganda
+        culture = luo
         religion = animist
         size = 1000
     }
 
     aristocrats = {
-        culture = baganda
+        culture = luo
         religion = sunni
         size = 350
     }
 
     bureaucrats = {
-        culture = baganda
+        culture = luo
         religion = sunni
         size = 50
     }
 
     officers = {
-        culture = baganda
+        culture = luo
         religion = animist
         size = 50
     }
 
     officers = {
-        culture = baganda
+        culture = luo
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = baganda
+        culture = luo
         religion = sunni
         size = 725
     }
 
     artisans = {
-        culture = baganda
+        culture = luo
         religion = animist
         size = 1800
     }
 
     artisans = {
-        culture = baganda
+        culture = luo
         religion = sunni
         size = 1000
     }
 
     soldiers = {
-        culture = baganda
+        culture = luo
         religion = animist
         size = 1000
     }
 
     soldiers = {
-        culture = baganda
+        culture = luo
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = baganda
+        culture = luo
         religion = animist
         size = 48025
     }
 
     farmers = {
-        culture = baganda
+        culture = luo
         religion = sunni
         size = 15000
     }
 
     aristocrats = {
-        culture = lacustrine_bantu
+        culture = luo
         religion = animist
         size = 575
     }
 
     clergymen = {
-        culture = lacustrine_bantu
+        culture = luo
         religion = animist
         size = 300
     }
 
     artisans = {
-        culture = lacustrine_bantu
+        culture = luo
         religion = animist
         size = 1500
     }
 
     soldiers = {
-        culture = lacustrine_bantu
+        culture = luo
         religion = animist
         size = 300
     }
 
     farmers = {
-        culture = lacustrine_bantu
+        culture = luo
         religion = animist
         size = 10325
     }
 
     slaves = {
-        culture = lacustrine_bantu
+        culture = luo
         religion = animist
         size = 7000
     }
@@ -137,19 +137,19 @@
     }
 
     artisans = {
-        culture = nilotic
+        culture = luo
         religion = animist
         size = 1450
     }
 
     farmers = {
-        culture = nilotic
+        culture = luo
         religion = animist
         size = 3700
     }
 
     slaves = {
-        culture = nilotic
+        culture = luo
         religion = animist
         size = 4000
     }
@@ -241,19 +241,19 @@
     }
 
     farmers = {
-        culture = nilotic
+        culture = luo
         religion = animist
         size = 5075
     }
 
     farmers = {
-        culture = nilotic
+        culture = luo
         religion = sunni
         size = 2700
     }
 
     slaves = {
-        culture = nilotic
+        culture = luo
         religion = animist
         size = 3300
     }
@@ -261,55 +261,55 @@
 #Jinja (208000/52000 POPS)
 2023 = {
     aristocrats = {
-        culture = baganda
+        culture = luo
         religion = animist
         size = 275
     }
 
     clergymen = {
-        culture = baganda
+        culture = luo
         religion = animist
         size = 150
     }
 
     aristocrats = {
-        culture = baganda
+        culture = luo
         religion = sunni
         size = 750
     }
 
     clergymen = {
-        culture = baganda
+        culture = luo
         religion = sunni
         size = 375
     }
 
     artisans = {
-        culture = baganda
+        culture = luo
         religion = animist
         size = 575
     }
 
     soldiers = {
-        culture = baganda
+        culture = luo
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = baganda
+        culture = luo
         religion = sunni
         size = 375
     }
 
     farmers = {
-        culture = baganda
+        culture = luo
         religion = animist
         size = 52850
     }
 
     farmers = {
-        culture = baganda
+        culture = luo
         religion = sunni
         size = 9000
     }
@@ -327,13 +327,13 @@
     }
 
     artisans = {
-        culture = lacustrine_bantu
+        culture = luo
         religion = animist
         size = 200
     }
 
     slaves = {
-        culture = lacustrine_bantu
+        culture = luo
         religion = animist
         size = 6000
     }

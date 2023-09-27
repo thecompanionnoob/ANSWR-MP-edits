@@ -2634,31 +2634,31 @@
 #Foix (348000/87000 POPS)
 457 = {
     aristocrats = {
-        culture = occitan
+        culture = spanish
         religion = catholic
         size = 800
     }
 
     clergymen = {
-        culture = occitan
+        culture = spanish
         religion = catholic
         size = 450
     }
 
     artisans = {
-        culture = occitan
+        culture = spanish
         religion = catholic
         size = 4000
     }
 
     soldiers = {
-        culture = occitan
+        culture = spanish
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = occitan
+        culture = spanish
         religion = catholic
         size = 80750
     }

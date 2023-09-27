@@ -489,25 +489,25 @@
     }
 
     clergymen = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 250
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 700
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 20900
     }
@@ -576,7 +576,7 @@
 #Saint John's (52000/13000 POPS)
 74 = {
     aristocrats = {
-        culture = dutch
+        culture = french_canadian
         religion = protestant
         size = 125
     }
@@ -588,7 +588,7 @@
     }
 
     bureaucrats = {
-        culture = dutch
+        culture = french_canadian
         religion = protestant
         size = 100
     }
@@ -624,19 +624,19 @@
     }
 
     clergymen = {
-        culture = dutch
+        culture = french_canadian
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = dutch
+        culture = french_canadian
         religion = catholic
         size = 2000
     }
 
     farmers = {
-        culture = dutch
+        culture = french_canadian
         religion = catholic
         size = 18500
     }
@@ -645,19 +645,19 @@
 75 = {
 
     clergymen = {
-        culture = dutch
+        culture = french_canadian
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = dutch
+        culture = french_canadian
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = dutch
+        culture = french_canadian
         religion = protestant
         size = 26000
     }
@@ -765,7 +765,7 @@
     }
 
     labourers = {
-        culture = dutch
+        culture = french_canadian
         religion = protestant
         size = 2500
     }
