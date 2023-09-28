@@ -4,24 +4,6 @@ political_decisions = {
         potential = {
             OR = {                
                 tag = HAE
-                tag = FRM 
-                tag = WAG
-                tag = AUG
-                tag = PRI
-                tag = RPL
-                tag = TTB
-                tag = UIL 
-                tag = UNB
-                tag = UNM
-                tag = UOR
-                tag = FSA
-                tag = BLZ
-                tag = VEB 
-                tag = TRE
-                tag = ION  
-                tag = BRE 
-                tag = PRT
-                tag = OLD     
             }
             NOT = {has_global_flag = Holy_aust}
 			
@@ -233,7 +215,6 @@ political_decisions = {
 
         effect = {                
             prestige = 30
-            change_tag = HAE
             set_global_flag= Holy_aust
             HAE = {
 				all_core = { add_core = HAE }
@@ -283,7 +264,6 @@ political_decisions = {
             ION = {
 				all_core = { add_core = HAE }
 			}
-            inherit = HAE
             inherit = FRM 
             inherit = WAG
             inherit = AUG
@@ -298,13 +278,11 @@ political_decisions = {
             inherit = BLZ
             inherit = VEB 
             inherit = TRE
-            inherit = ION  
-            inherit = LIT
-            inherit = BYE
-            inherit = UKR
+            inherit = ION
             inherit = BRE 
             inherit = PRT
             inherit = OLD
+		inherit = VEN
             add_accepted_culture = perther
             add_accepted_culture = eyre
             add_accepted_culture = australian

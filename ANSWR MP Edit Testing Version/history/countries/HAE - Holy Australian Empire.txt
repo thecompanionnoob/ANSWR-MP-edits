@@ -8,6 +8,8 @@ literacy = 0.54
 civilized = yes
 is_releasable_vassal = no
 
+oob = "HAE_oob.txt"
+
 prestige = 30
 
 # Political reforms

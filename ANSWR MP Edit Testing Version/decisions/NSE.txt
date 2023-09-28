@@ -1,0 +1,55 @@
+political_decisions = {
+	NSE = {
+	picture = NSE
+		potential = {
+		tag = SCO
+		NOT = {
+			exists = NSE
+			has_global_flag = NSE_formed
+			}
+		}
+		allow = {
+			war = no
+			year = 2845
+			SCO = {
+			all_core = {	
+				owned_by = THIS
+				}
+			}
+			IRE = {
+			all_core = {	
+				owned_by = THIS	
+				}
+			}
+			
+			DEN_367 = {controller = THIS}
+			SWE_334 = {controller = THIS}
+			SWE_309 = {controller = THIS}
+			SWE_313 = {controller = THIS}
+		}
+		effect = {
+			change_tag = NSE
+			prestige = 25
+			SCO = {
+				all_core = add_core{NSE}
+			}
+			IRE = {
+				all_core = add_core{NSE}
+			}
+			SCA = {
+				all_core = add_core{NSE}
+			}
+			NOD = {
+				all_core = add_core{NSE}
+			}
+			inherit = SCO
+			set_global_flag = NSE_formed
+			add_accepted_culture = irish
+			add_accepted_culture = swedish
+			add_accepted_culture = norwegian
+		}
+		ai_will_do = {
+		factor = 1
+		}
+	}
+}
