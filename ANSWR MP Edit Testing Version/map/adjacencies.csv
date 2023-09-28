@@ -105,6 +105,24 @@ From;To;Type;Through;Data;Comment
 762;1725;sea;2758;0;Channel 12
 291;292;land;2732;0;Ipswich Cambridge
 280;269;sea;3289;0;Newcastle Edinburgh
+321;307;sea;3281;0;Lulea-Overforingen
+307;338;sea;3281;0;Overforingen-Tornio
+306;982;sea;3281;0;Bodo-Petsamo
+344;340;sea;3317;0;Kotka-Hameenlinna
+339;2715;sea;2714;0;Viipuri-Suuri Saari
+340;2715;sea;2714;0;Kotka-Suuri Saari
+2715;994;sea;2714;0;Suuri Saari-Peterburgh
+994;996;sea;3329;0;Peterburgh-Luga
+994;997;sea;3329;0;Peterburgh-Gdov
+2580;2715;sea;2714;0;Novaya Ladoga-Suuri Saari
+996;350;sea;2713;0;Luga-Narva
+996;352;sea;2713;0;Luga-Dorpat
+997;945;sea;2713;0;Gdov-Vitebsk
+1004;2580;sea;2714;0;Tikhvin-Novaya Ladoga
+955;2580;sea;2714;0;Petrozavodsk-Novaya Ladoga
+1003;2580;sea;3329;0;Novgorod-Novaya Ladoga
+431;467;sea;3326;0;Macon-Marseilles
+429;467;sea;3326;0;Auxerre-Marseilles
 
 #
 # Asian Straits
