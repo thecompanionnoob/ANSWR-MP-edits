@@ -3,7 +3,7 @@ political_decisions = {
 		picture = unite_with_poland
 		potential = {
 			tag = PLC
-			NOT = {has_global_flag = intergrate_balkans}
+			NOT = {has_global_flag = intergrate_baltics}
 			
 		}
 		allow = {
@@ -69,7 +69,7 @@ political_decisions = {
 			prestige = 25
 			add_accepted_culture = byelorussian
 			add_accepted_culture = osti
-			set_global_flag = intergrate_balkans
+			set_global_flag = intergrate_baltics
 		}
 		ai_will_do = {
 		factor = 1
