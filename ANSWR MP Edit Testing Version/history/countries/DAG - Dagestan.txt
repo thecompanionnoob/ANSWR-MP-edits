@@ -1,7 +1,5 @@
 capital = 1053 #Gunib(Mahachkala)
-primary_culture = chechen
-culture = azerbaijani
-culture = dagestani
+primary_culture = circassian
 religion = protestant
 government = theocracy
 plurality = 0.0

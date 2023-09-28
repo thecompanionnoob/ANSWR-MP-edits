@@ -1,5 +1,5 @@
 capital = 1095
-primary_culture = abkhazian
+primary_culture = circassian
 religion = protestant
 government = absolute_monarchy
 plurality = 0.0

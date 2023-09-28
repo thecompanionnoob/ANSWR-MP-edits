@@ -1,5 +1,5 @@
 owner = YNN
 controller = YNN
 add_core = YNN
-trade_goods = precious_metal
+trade_goods = coffee
 life_rating = 32

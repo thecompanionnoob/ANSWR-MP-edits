@@ -1,6 +1,5 @@
 capital = 1102
-primary_culture = azerbaijani
-culture = turkish
+primary_culture = circassian
 religion = protestant
 government = democracy
 plurality = 25.0

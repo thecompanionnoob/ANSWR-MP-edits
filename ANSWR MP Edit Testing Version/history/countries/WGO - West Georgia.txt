@@ -1,5 +1,5 @@
 capital = 1092
-primary_culture = westgeorgian
+primary_culture = circassian
 religion = protestant
 government = absolute_monarchy
 plurality = 0.0

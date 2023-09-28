@@ -2051,31 +2051,31 @@
 #Grozny (68000/17000 POPS)
 1055 = {
     aristocrats = {
-        culture = chechen
+        culture = circassian
         religion = protestant
         size = 1325
     }
 
     clergymen = {
-        culture = chechen
+        culture = circassian
         religion = protestant
         size = 1175
     }
 
     artisans = {
-        culture = chechen
+        culture = circassian
         religion = protestant
         size = 3850
     }
 
     soldiers = {
-        culture = chechen
+        culture = circassian
         religion = protestant
         size = 42650
     }
 
     farmers = {
-        culture = chechen
+        culture = circassian
         religion = protestant
         size = 179000
     }

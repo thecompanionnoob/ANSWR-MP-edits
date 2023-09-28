@@ -1,5 +1,5 @@
 capital = 1049
-primary_culture = cherkesskiy
+primary_culture = circassian
 religion = protestant
 government = absolute_monarchy
 plurality = 0.02

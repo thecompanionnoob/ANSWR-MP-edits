@@ -1,6 +1,6 @@
-owner = CRA
-controller = CRA
-add_core = CRA
+owner = DIX
+controller = DIX
+add_core = DIX
 add_core = CSA
 trade_goods = cotton
 life_rating = 35

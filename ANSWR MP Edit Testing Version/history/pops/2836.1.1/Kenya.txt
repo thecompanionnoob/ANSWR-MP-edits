@@ -494,31 +494,31 @@
     }
 
     aristocrats = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 300
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 500
     }

@@ -38,17 +38,6 @@ political_decisions = {
                     }
                 }
 	         } 
-             CRA = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         } 
              COW  = {
                 OR = {
                     in_sphere = THIS
@@ -139,9 +128,6 @@ political_decisions = {
             DIX = {
 				all_core = { add_core = USA }
 			}
-            CRA = {
-				all_core = { add_core = USA }
-			}
             COW = {
 				all_core = { add_core = USA }
 			}
@@ -171,7 +157,6 @@ political_decisions = {
 			}
             inherit = NEN
             inherit = DIX
-            inherit = CRA
             inherit = COW
             inherit = SLC
             inherit = RSB

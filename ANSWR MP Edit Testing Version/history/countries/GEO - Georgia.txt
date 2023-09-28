@@ -1,5 +1,5 @@
 capital = 1090
-primary_culture = georgian
+primary_culture = circassian
 religion = protestant
 government = absolute_monarchy
 plurality = 0.0

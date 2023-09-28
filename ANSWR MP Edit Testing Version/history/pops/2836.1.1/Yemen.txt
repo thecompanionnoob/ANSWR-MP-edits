@@ -200,43 +200,43 @@
 #Sana (124000/31000 POPS)
 1178 = {
     aristocrats = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 950
     }
 
     bureaucrats = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 100
     }
 
     officers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 150
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 500
     }
 
     artisans = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 2550
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 42750
     }
@@ -292,31 +292,31 @@
 #Hodeida (48000/12000 POPS)
 1179 = {
     aristocrats = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 300
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 200
     }
 
     artisans = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 12500
     }
@@ -360,61 +360,61 @@
 #Taizz (52000/13000 POPS)
 1180 = {
     aristocrats = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 2000
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 7225
     }
 
     aristocrats = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 250
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 150
     }
 
     artisans = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 800
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 12400
     }
@@ -429,7 +429,7 @@
 1412 = {
 
     aristocrats = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 436
     }
@@ -447,55 +447,55 @@
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 7225
     }
 
     aristocrats = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 300
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 5275
     }

@@ -111,7 +111,7 @@
     }
 
     farmers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 15925
     }
@@ -193,7 +193,7 @@
     }
 
     farmers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 7925
     }
@@ -231,7 +231,7 @@
     }
 
     farmers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 22925
     }
@@ -269,7 +269,7 @@
     }
 
     farmers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 27925
     }
@@ -310,7 +310,7 @@
     }
 
     farmers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 17925
     }
@@ -343,7 +343,7 @@
     }
 
     farmers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 7925
     }

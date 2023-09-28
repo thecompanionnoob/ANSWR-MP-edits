@@ -35,31 +35,31 @@
 #Maan (28000/7000 POPS) #now part of Jordan
 911 = {
     aristocrats = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 2050
     }
@@ -99,25 +99,25 @@
 #Aqaba (20000/5000 POPS) #now part of Jordan
 922 = {
     clergymen = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = mashriqi
+        culture = bedouin
         religion = protestant
         size = 900
     }

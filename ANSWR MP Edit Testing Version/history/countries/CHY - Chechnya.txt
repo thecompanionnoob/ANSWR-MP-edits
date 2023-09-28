@@ -1,7 +1,5 @@
 capital = 1055 #Grozny
-primary_culture = chechen
-culture = circassian
-culture = dagestani
+primary_culture = circassian
 religion = protestant
 government = absolute_monarchy
 plurality = 10
