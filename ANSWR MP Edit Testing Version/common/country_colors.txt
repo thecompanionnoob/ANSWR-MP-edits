@@ -164,7 +164,12 @@ SCO = {
     color2= { 202 112 85  }
     color3= { 104 137 140  }
 }
-
+# North Sea Empire
+NSE = {
+	color1 = { 98  123  163 }
+    color2= { 202 112 85  }
+    color3= { 104 137 140  }
+}
 # Brazil
 BRZ = {
     color1= { 50 85 47  }
@@ -517,7 +522,7 @@ SIC = {
     color3= { 131 101 85  }
 }
 
-# Siebenbürgen
+# SiebenbÃ¼rgen
 SIE = {
     color1= { 75 111 205  }
     color2= { 124 140 162  }
