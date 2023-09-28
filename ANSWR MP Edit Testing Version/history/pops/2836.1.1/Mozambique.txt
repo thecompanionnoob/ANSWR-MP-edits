@@ -3,73 +3,73 @@
 #Maputo (244000/61000)
 2049 = {
     aristocrats = {
-        culture = nguni
+        culture = tsakiya
         religion = protestant
         size = 2400
     }
 
     clergymen = {
-        culture = nguni
+        culture = tsakiya
         religion = protestant
         size = 350
     }
 
     artisans = {
-        culture = nguni
+        culture = tsakiya
         religion = protestant
         size = 1600
     }
 
     soldiers = {
-        culture = nguni
+        culture = tsakiya
         religion = protestant
         size = 400
     }
 
     farmers = {
-        culture = nguni
+        culture = tsakiya
         religion = protestant
         size = 42250
     }
 
     slaves = {
-        culture = nguni
+        culture = tsakiya
         religion = protestant
         size = 3000
     }
 
     aristocrats = {
-        culture = tonga
+        culture = tsakiya
         religion = protestant
         size = 1250
     }
 
     clergymen = {
-        culture = tonga
+        culture = tsakiya
         religion = protestant
         size = 225
     }
 
     artisans = {
-        culture = tonga
+        culture = tsakiya
         religion = protestant
         size = 1750
     }
 
     soldiers = {
-        culture = tonga
+        culture = tsakiya
         religion = protestant
         size = 250
     }
 
     farmers = {
-        culture = tonga
+        culture = tsakiya
         religion = protestant
         size = 21525
     }
 
     slaves = {
-        culture = tonga
+        culture = tsakiya
         religion = protestant
         size = 3000
     }

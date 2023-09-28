@@ -3,37 +3,37 @@
 #Seychelles (5000/1250 POPS)
 2127 = {
     aristocrats = {
-        culture = kreol
+        culture = tuareg
         religion = protestant
         size = 20
     }
 
     aristocrats = {
-        culture = kreol
+        culture = tuareg
         religion = protestant
         size = 30
     }
 
     soldiers = {
-        culture = kreol
+        culture = tuareg
         religion = protestant
         size = 30
     }
 
     clergymen = {
-        culture = kreol
+        culture = tuareg
         religion = protestant
         size = 30
     }
 
     artisans = {
-        culture = kreol
+        culture = tuareg
         religion = protestant
         size = 75
     }
 
     farmers = {
-        culture = kreol
+        culture = tuareg
         religion = protestant
         size = 1175
     }

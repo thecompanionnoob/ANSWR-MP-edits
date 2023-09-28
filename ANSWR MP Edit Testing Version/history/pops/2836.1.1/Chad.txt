@@ -4,85 +4,85 @@
 #Massenya (320000/80000 POPS)
 1818 = {
     aristocrats = {
-        culture = sara
+        culture = tuareg
         religion = protestant
         size = 200
     }
 
     bureaucrats = {
-        culture = sara
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     officers = {
-        culture = sara
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = sara
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = sara
+        culture = tuareg
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = sara
+        culture = tuareg
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = sara
+        culture = tuareg
         religion = protestant
         size = 10000
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 200
     }
 
     bureaucrats = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     officers = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 13458
     }
@@ -126,91 +126,91 @@
 #Bongor (36000/9000 POPS)
 1820 = {
     aristocrats = {
-        culture = sara
+        culture = tuareg
         religion = protestant
         size = 300
     }
 
     bureaucrats = {
-        culture = sara
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = sara
+        culture = tuareg
         religion = protestant
         size = 200
     }
 
     artisans = {
-        culture = sara
+        culture = tuareg
         religion = protestant
         size = 1000
     }
 
     soldiers = {
-        culture = sara
+        culture = tuareg
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = sara
+        culture = tuareg
         religion = protestant
         size = 30000
     }
 
     aristocrats = {
-        culture = sara
+        culture = tuareg
         religion = protestant
         size = 125
     }
 
     clergymen = {
-        culture = sara
+        culture = tuareg
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = sara
+        culture = tuareg
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 1000
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 125
     }
 
     clergymen = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = ubangian
+        culture = tuareg
         religion = protestant
         size = 2000
     }
@@ -220,51 +220,15 @@
 #Abeche (136000/34000 POPS)
 1821 = {
     aristocrats = {
-        culture = fur
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     bureaucrats = {
-        culture = fur
-        religion = protestant
-        size = 50
-    }
-
-    officers = {
-        culture = fur
-        religion = protestant
-        size = 50
-    }
-
-    clergymen = {
-        culture = fur
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = fur
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = fur
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = fur
-        religion = protestant
-        size = 550
-    }
-
-    aristocrats = {
         culture = tuareg
         religion = protestant
-        size = 100
+        size = 50
     }
 
     officers = {
@@ -276,7 +240,7 @@
     clergymen = {
         culture = tuareg
         religion = protestant
-        size = 100
+        size = 50
     }
 
     artisans = {
@@ -298,73 +262,109 @@
     }
 
     aristocrats = {
-        culture = teda
+        culture = tuareg
+        religion = protestant
+        size = 100
+    }
+
+    officers = {
+        culture = tuareg
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = protestant
+        size = 550
+    }
+
+    aristocrats = {
+        culture = tuareg
         religion = protestant
         size = 300
     }
 
     bureaucrats = {
-        culture = teda
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = teda
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = teda
+        culture = tuareg
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = teda
+        culture = tuareg
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = teda
+        culture = tuareg
         religion = protestant
         size = 20183
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 300
     }
 
     bureaucrats = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 7000
     }
@@ -380,43 +380,43 @@
 1822 = {
 
     slaves = {
-        culture = ubangian
+        culture = tuareg
         religion = protestant
         size = 1900
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 150
     }
 
     clergymen = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     bureaucrats = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 350
     }
 
     soldiers = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 7300
     }
@@ -424,61 +424,61 @@
 #Mongo (184000/46000 POPS)
 1823 = {
     aristocrats = {
-        culture = fur
+        culture = tuareg
         religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = fur
+        culture = tuareg
         religion = protestant
         size = 350
     }
 
     artisans = {
-        culture = fur
+        culture = tuareg
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = fur
+        culture = tuareg
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = fur
+        culture = tuareg
         religion = protestant
         size = 5000
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 300
     }
 
     soldiers = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 7269
     }
@@ -521,7 +521,7 @@
     }
 
     slaves = {
-        culture = ubangian
+        culture = tuareg
         religion = protestant
         size = 2000
     }
@@ -531,31 +531,31 @@
 #Zouar (72000/18000 POPS)
 1825 = {
     aristocrats = {
-        culture = teda
+        culture = tuareg
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = teda
+        culture = tuareg
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = teda
+        culture = tuareg
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = teda
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = teda
+        culture = tuareg
         religion = protestant
         size = 1380
     }
@@ -564,37 +564,37 @@
 #Faya (56000/14000 POPS)
 1826 = {
     aristocrats = {
-        culture = teda
+        culture = tuareg
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = teda
+        culture = tuareg
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = teda
+        culture = tuareg
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = teda
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = teda
+        culture = tuareg
         religion = protestant
         size = 1080
     }
 
     farmers = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 300
     }

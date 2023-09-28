@@ -4,79 +4,79 @@
 #Tabriz (808000/202000 POPS)
 1108 = {
     aristocrats = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 2500
     }
 
     bureaucrats = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 500
     }
 
     officers = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 400
     }
 
     clergymen = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 1250
     }
 
     artisans = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 6000
     }
 
     soldiers = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 95850
     }
 
     aristocrats = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 1500
     }
 
     clergymen = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 525
     }
 
     artisans = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 8500
     }
 
     soldiers = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 800
     }
 
     farmers = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 65175
     }
@@ -88,25 +88,25 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = circassian
         religion = protestant
         size = 10
     }
 
     artisans = {
-        culture = sephardic
+        culture = circassian
         religion = protestant
         size = 490
     }
 
     clergymen = {
-        culture = armenian
+        culture = circassian
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = armenian
+        culture = circassian
         religion = protestant
         size = 1475
     }
@@ -118,13 +118,13 @@
     }
 
     slaves = {
-        culture = georgian
+        culture = circassian
         religion = protestant
         size = 8000
     }
 
     slaves = {
-        culture = armenian
+        culture = circassian
         religion = protestant
         size = 5000
     }
@@ -462,61 +462,61 @@
 #Ardabil (280000/70000 POPS)
 1112 = {
     aristocrats = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 625
     }
 
     clergymen = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 325
     }
 
     artisans = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 1550
     }
 
     soldiers = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 27500
     }
 
     aristocrats = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 375
     }
 
     clergymen = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 200
     }
 
     artisans = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 20125
     }
@@ -562,43 +562,43 @@
 #Rasht (168000/42000 POPS)
 1113 = {
     aristocrats = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 800
     }
 
     bureaucrats = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 100
     }
 
     officers = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 125
     }
 
     clergymen = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 425
     }
 
     artisans = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 40500
     }
@@ -612,31 +612,31 @@
 #Noshehr (88000/22000 POPS)
 1114 = {
     aristocrats = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 400
     }
 
     clergymen = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 225
     }
 
     artisans = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 225
     }
 
     farmers = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size =21050
     }
@@ -644,31 +644,31 @@
 #Sari (52000/13000 POPS)
 1115 = {
     aristocrats = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 250
     }
 
     clergymen = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 125
     }
 
     artisans = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 650
     }
 
     soldiers = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 125
     }
 
     farmers = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 11850
     }
@@ -676,31 +676,31 @@
 #Gorgan (140000/35000 POPS)
 1116 = {
     aristocrats = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 500
     }
 
     clergymen = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 250
     }
 
     artisans = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 1300
     }
 
     soldiers = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 22950
     }
@@ -990,49 +990,49 @@
 #Tehran (338000/84500 POPS)
 1121 = {
 	    aristocrats = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 1875
     }
 
     bureaucrats = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 325
     }
 
     officers = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 300
     }
 
     clergymen = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 875
     }
 
     artisans = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 2000
     }
 
     soldiers = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 56125
     }
@@ -1212,31 +1212,31 @@
 #Qazvin (140000/35000 POPS)
 1124 = {
 	  aristocrats = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 700
     }
 
     clergymen = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 375
     }
 
     artisans = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 5000
     }
 
     soldiers = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = mazandarani
+        culture = persian
         religion = protestant
         size = 27925
     }

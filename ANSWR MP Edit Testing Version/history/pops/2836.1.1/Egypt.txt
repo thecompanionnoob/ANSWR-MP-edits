@@ -39,115 +39,115 @@
     }
 
     aristocrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 2600
     }
 
     bureaucrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 125
     }
 
     officers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 325
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 3000
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 3000
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 4000
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 146000
     }
 
     bureaucrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 175
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 8000
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 26800
     }
@@ -215,73 +215,73 @@
     }
 
     aristocrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1500
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 462
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1800
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 3000
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 79238
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 2825
     }
@@ -290,37 +290,37 @@
 #Douglas (46000/11500 POPS)
 304 = {
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 3000
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 3000
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 4000
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 146000
     }
@@ -346,19 +346,19 @@
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 425
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 4100
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 65625
     }
@@ -402,49 +402,49 @@
     }
 
     aristocrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 700
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 300
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 3050
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 2100
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 54700
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1875
     }
@@ -482,49 +482,49 @@
     }
 
     aristocrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 700
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 325
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 5250
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 2100
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 49625
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1850
     }
@@ -550,19 +550,19 @@
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 400
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 4050
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 64820
     }
@@ -614,7 +614,7 @@
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 10000
     }
@@ -650,7 +650,7 @@
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 116725
     }
@@ -712,31 +712,31 @@
 #Matruh (60000/15000 POPS)
 1752 = {
     aristocrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 225
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 125
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 600
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 10150
     }
@@ -840,43 +840,43 @@
 #Suez (72000/18000 POPS)
 1755 = {
     aristocrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 350
     }
 
     bureaucrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 10
     }
 
     officers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 175
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1900
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 16340
     }
@@ -884,31 +884,31 @@
 #Al Arish (16000/4000 POPS)
 1756 = {
     aristocrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1800
     }
@@ -946,31 +946,31 @@
 #Sharm al Shaykh (12000/3000 POPS)
 1757 = {
     aristocrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 15
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 10
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 900
     }
@@ -1140,67 +1140,67 @@
 #Asyut (196000/49000 POPS)
 1762 = {
     aristocrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 825
     }
 
     bureaucrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 110
     }
 
     officers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 175
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 450
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 8050
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 2100
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 80390
     }
 
     bureaucrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 15
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 150
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 900
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 20935
     }
@@ -1220,7 +1220,7 @@
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 2800
     }
@@ -1232,7 +1232,7 @@
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 15575
     }
@@ -1258,49 +1258,49 @@
 #Minya (104000/26000 POPS)
 1764 = {
     aristocrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 375
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1550
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 18325
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 250
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 4800
     }
@@ -1320,7 +1320,7 @@
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 2100
     }
@@ -1332,7 +1332,7 @@
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 37675
     }
@@ -1358,49 +1358,49 @@
 #Suhaj (96000/24000 POPS)
 2559 = {
     aristocrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 600
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 525
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 3600
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1250
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 50025
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1850
     }
@@ -1410,67 +1410,67 @@
 #Aswan (48000/12000 POPS)
 1766 = {
     aristocrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 175
     }
 
     bureaucrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 45
     }
 
     officers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 75
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 125
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 8980
     }
 
     bureaucrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 5
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1850
     }
@@ -1478,49 +1478,49 @@
 #Luxor (68000/17000 POPS)
 1767 = {
     aristocrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1225
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1125
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 8600
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 5175
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 115875
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 250
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 4700
     }
@@ -1528,49 +1528,49 @@
 #Idfu (76000/19000 POPS)
 1768 = {
     aristocrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 300
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 175
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 850
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 15475
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1850
     }
@@ -1578,49 +1578,49 @@
 #Qina (52000/13000 POPS)
 1769 = {
     aristocrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 500
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 300
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1550
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1150
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 36000
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 1850
     }
@@ -1662,31 +1662,31 @@
 #Marsa Alam (20000/5000 POPS)
 1771 = {
     aristocrats = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 15
     }
 
     clergymen = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 10
     }
 
     farmers = {
-        culture = misri
+        culture = bedouin
         religion = protestant
         size = 900
     }

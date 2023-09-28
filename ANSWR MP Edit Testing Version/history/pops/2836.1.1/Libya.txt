@@ -3,43 +3,43 @@
 #Tripoli (172000/43000 POPS)
 1731 = {
     aristocrats = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 550
     }
 
     bureaucrats = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     officers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 75
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 275
     }
 
     artisans = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 3150
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 22900
     }
@@ -95,31 +95,31 @@
 #Gharyan (40000/10000 POPS)
 1732 = {
     aristocrats = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 1725
     }
@@ -163,31 +163,31 @@
 #Misratah (84000/21000 POPS)
 1733 = {
     aristocrats = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 175
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 10125
     }
@@ -243,31 +243,31 @@
 #Sirt (100000/25000 POPS)
 1734 = {
     aristocrats = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 150
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 400
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 75
     }
 
     farmers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 7300
     }
@@ -313,43 +313,43 @@
 #Benghazi (124000/31000 POPS)
 1735 = {
     aristocrats = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 275
     }
 
     bureaucrats = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     officers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 150
     }
 
     artisans = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 735
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 14025
     }
@@ -405,31 +405,31 @@
 #Darnah (60000/15000 POPS)
 1736 = {
     aristocrats = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 75
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 4575
     }
@@ -473,31 +473,31 @@
 #Tobruk (48000/12000 POPS)
 1737 = {
     aristocrats = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 2700
     }
@@ -543,19 +543,19 @@
 #Jaghbub (12000/3000 POPS)
 1738 = {
     aristocrats = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 150
     }
@@ -576,19 +576,19 @@
 #Waddan (16000/4000 POPS)
 1740 = {
     aristocrats = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 150
     }
@@ -639,31 +639,31 @@
 2585 = {
 
     aristocrats = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 1650
     }
@@ -727,43 +727,43 @@
 #Murzuk (16000/4000 POPS)
 1741 = {
     aristocrats = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 15
     }
 
     bureaucrats = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 20
     }
 
     officers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 15
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 10
     }
 
     farmers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 880
     }
@@ -799,7 +799,7 @@
     }
 
     slaves = {
-        culture = berber
+        culture = bedouin
         religion = protestant
         size = 1100
     }
@@ -807,19 +807,19 @@
 #Sabha (14000/3500 POPS)
 1742 = {
     aristocrats = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 15
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 50
     }
@@ -876,25 +876,25 @@
 #Ghadamis - Now Sabha (24000/6000 POPS)
 1744 = {
     aristocrats = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 65
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = bedouin
         religion = protestant
         size = 1100
     }
@@ -936,7 +936,7 @@
     }
 
     slaves = {
-        culture = berber
+        culture = bedouin
         religion = protestant
         size = 3100
     }

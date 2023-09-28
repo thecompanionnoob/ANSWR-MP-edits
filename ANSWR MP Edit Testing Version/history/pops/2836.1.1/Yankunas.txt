@@ -32,7 +32,7 @@
     }
 
     farmers = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 33625
     }

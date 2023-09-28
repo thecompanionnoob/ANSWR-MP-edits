@@ -620,37 +620,37 @@
 #Irebu (660000/165000 POPS)
 1993 = {
     aristocrats = {
-        culture = mongo
+        culture = tuareg
         religion = protestant
         size = 1100
     }
 
     clergymen = {
-        culture = mongo
+        culture = tuareg
         religion = protestant
         size = 550
     }
 
     artisans = {
-        culture = mongo
+        culture = tuareg
         religion = protestant
         size = 2200
     }
 
     soldiers = {
-        culture = mongo
+        culture = tuareg
         religion = protestant
         size = 1650
     }
 
     farmers = {
-        culture = mongo
+        culture = tuareg
         religion = protestant
         size = 169690
     }
 
     slaves = {
-        culture = forest_bantu
+        culture = tuareg
         religion = protestant
         size = 10000
     }
@@ -702,37 +702,37 @@
 #Gemena (1232000/308000 POPS)
 1995 = {
     aristocrats = {
-        culture = mongo
+        culture = tuareg
         religion = protestant
         size = 2000
     }
 
     clergymen = {
-        culture = mongo
+        culture = tuareg
         religion = protestant
         size = 1100
     }
 
     artisans = {
-        culture = mongo
+        culture = tuareg
         religion = protestant
         size = 4125
     }
 
     soldiers = {
-        culture = mongo
+        culture = tuareg
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = mongo
+        culture = tuareg
         religion = protestant
         size = 149750
     }
 
     slaves = {
-        culture = ubangian
+        culture = tuareg
         religion = protestant
         size = 14670
     }
@@ -742,37 +742,37 @@
 #Kisangani (1716000/429000 POPS)
 1996 = {
     aristocrats = {
-        culture = lendu
+        culture = tuareg
         religion = protestant
         size = 2840
     }
 
     clergymen = {
-        culture = lendu
+        culture = tuareg
         religion = protestant
         size = 1470
     }
 
     artisans = {
-        culture = lendu
+        culture = tuareg
         religion = protestant
         size = 5775
     }
 
     soldiers = {
-        culture = lendu
+        culture = tuareg
         religion = protestant
         size = 1470
     }
 
     farmers = {
-        culture = lendu
+        culture = tuareg
         religion = protestant
         size = 132120
     }
 
     slaves = {
-        culture = kingwana
+        culture = tuareg
         religion = protestant
         size = 49330
     }
@@ -781,79 +781,79 @@
 #Mungbane (836000/209000 POPS)
 1997 = {
     aristocrats = {
-        culture = azande
+        culture = tuareg
         religion = protestant
         size = 640
     }
 
     clergymen = {
-        culture = azande
+        culture = tuareg
         religion = protestant
         size = 370
     }
 
     artisans = {
-        culture = azande
+        culture = tuareg
         religion = protestant
         size = 1375
     }
 
     soldiers = {
-        culture = azande
+        culture = tuareg
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = azande
+        culture = tuareg
         religion = protestant
         size = 32920
     }
 
     aristocrats = {
-        culture = lendu
+        culture = tuareg
         religion = protestant
         size = 640
     }
 
     clergymen = {
-        culture = lendu
+        culture = tuareg
         religion = protestant
         size = 370
     }
 
     artisans = {
-        culture = lendu
+        culture = tuareg
         religion = protestant
         size = 1830
     }
 
     soldiers = {
-        culture = lendu
+        culture = tuareg
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = lendu
+        culture = tuareg
         religion = protestant
         size = 193460
     }
 
     farmers = {
-        culture = luo
+        culture = tuareg
         religion = protestant
         size = 35345
     }
 
     farmers = {
-        culture = ruanda
+        culture = tuareg
         religion = protestant
         size = 27435
     }
 
     slaves = {
-        culture = forest_bantu
+        culture = tuareg
         religion = protestant
         size = 7330
     }

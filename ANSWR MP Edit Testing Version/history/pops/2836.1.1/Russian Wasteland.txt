@@ -1842,117 +1842,117 @@
 #Derbent (160000/40000 POPS)
 1052 = {
     bureaucrats = {
-        culture = russian
+        culture = circassian    
         religion = protestant
         size = 75
     }
 
     clergymen = {
-        culture = russian
+        culture = circassian
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = russian
+        culture = circassian
         religion = protestant
         size = 225
     }
 
     aristocrats = {
-        culture = dagestani
+        culture = circassian
         religion = protestant
         size = 650
     }
 
     clergymen = {
-        culture = dagestani
+        culture = circassian
         religion = protestant
         size = 350
     }
 
     officers = {
-        culture = dagestani
+        culture = circassian
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = dagestani
+        culture = circassian
         religion = protestant
         size = 1800
     }
 
     soldiers = {
-        culture = dagestani
+        culture = circassian
         religion = protestant
         size = 1150
     }
 
     farmers = {
-        culture = dagestani
+        culture = circassian
         religion = protestant
         size = 48000
     }
 
     ######Jews
     aristocrats = {
-        culture = sephardic
+        culture = circassian
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = sephardic
+        culture = circassian
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = sephardic
+        culture = circassian
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = sephardic
+        culture = circassian
         religion = protestant
         size = 300
     }
 
     farmers = {
-        culture = sephardic
+        culture = circassian
         religion = protestant
         size = 200
     }
     ########
 
     aristocrats = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 1750
     }
 
     farmers = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 1100
     }
@@ -1960,61 +1960,61 @@
 #Gunib (164000/41000 POPS)
 1053 = {
     aristocrats = {
-        culture = dagestani
+        culture = circassian
         religion = protestant
         size = 650
     }
 
     clergymen = {
-        culture = dagestani
+        culture = circassian
         religion = protestant
         size = 350
     }
 
     artisans = {
-        culture = dagestani
+        culture = circassian
         religion = protestant
         size = 1750
     }
 
     soldiers = {
-        culture = dagestani
+        culture = circassian
         religion = protestant
         size = 4350
     }
 
     farmers = {
-        culture = dagestani
+        culture = circassian
         religion = protestant
         size = 42200
     }
 
     aristocrats = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 75
     }
 
     clergymen = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 1050
     }
 
     farmers = {
-        culture = azerbaijani
+        culture = circassian
         religion = protestant
         size = 3575
     }
@@ -2022,25 +2022,25 @@
     ######Jews
 
     soldiers = {
-        culture = sephardic
+        culture = circassian
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = sephardic
+        culture = circassian
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = sephardic
+        culture = circassian
         religion = protestant
         size = 400
     }
 
     farmers = {
-        culture = sephardic
+        culture = circassian
         religion = protestant
         size = 300
     }
@@ -2083,108 +2083,108 @@
 #Kizylyar (68000/17000 POPS)
 1057 = {
     aristocrats = {
-        culture = cherkesskiy
+        culture = circassian
         religion = protestant
         size = 125
     }
 
     clergymen = {
-        culture = cherkesskiy
+        culture = circassian
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = cherkesskiy
+        culture = circassian
         religion = protestant
         size = 600
     }
 
     farmers = {
-        culture = cherkesskiy
+        culture = circassian
         religion = protestant
         size = 6175
     }
 
     aristocrats = {
-        culture = cherkesskiy
+        culture = circassian
         religion = protestant
         size = 125
     }
 
     clergymen = {
-        culture = cherkesskiy
+        culture = circassian
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = cherkesskiy
+        culture = circassian
         religion = protestant
         size = 3350
     }
 
     soldiers = {
-        culture = cherkesskiy
+        culture = circassian
         religion = protestant
         size = 2075
     }
 
     farmers = {
-        culture = cherkesskiy
+        culture = circassian
         religion = protestant
         size = 9375
     }
     aristocrats = {
-        culture = cherkesskiy
+        culture = circassian
         religion = protestant
         size = 125
     }
 
     clergymen = {
-        culture = cherkesskiy
+        culture = circassian
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = cherkesskiy
+        culture = circassian
         religion = protestant
         size = 600
     }
 
     farmers = {
-        culture = cherkesskiy
+        culture = circassian
         religion = protestant
         size = 6175
     }
 
     aristocrats = {
-        culture = cherkesskiy
+        culture = circassian
         religion = protestant
         size = 125
     }
 
     clergymen = {
-        culture = cherkesskiy
+        culture = circassian
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = cherkesskiy
+        culture = circassian
         religion = protestant
         size = 3350
     }
 
     soldiers = {
-        culture = cherkesskiy
+        culture = circassian
         religion = protestant
         size = 2075
     }
 
     farmers = {
-        culture = cherkesskiy
+        culture = circassian
         religion = protestant
         size = 9375
     }

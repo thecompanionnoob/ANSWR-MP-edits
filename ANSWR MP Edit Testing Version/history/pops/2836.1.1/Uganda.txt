@@ -3,109 +3,109 @@
 #Entebbe (400000/100000 POPS)
 2019 = {
     aristocrats = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 1000
     }
 
     aristocrats = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 350
     }
 
     bureaucrats = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 50
     }
 
     officers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 50
     }
 
     officers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 725
     }
 
     artisans = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 1800
     }
 
     artisans = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 1000
     }
 
     soldiers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 1000
     }
 
     soldiers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 48025
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 15000
     }
 
     aristocrats = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 575
     }
 
     clergymen = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 300
     }
 
     artisans = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 1500
     }
 
     soldiers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 300
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 10325
     }
 
     slaves = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 7000
     }
@@ -113,73 +113,73 @@
 #Masindi (192000/48000 POPS)
 2021 = {
     aristocrats = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 550
     }
 
     clergymen = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 300
     }
 
     soldiers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 300
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 700
     }
 
     artisans = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 1450
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 3700
     }
 
     slaves = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 4000
     }
 
     aristocrats = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 375
     }
 
     clergymen = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 200
     }
 
     artisans = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 775
     }
 
     soldiers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 20450
     }
@@ -187,73 +187,73 @@
 #Kitgum (104000/26000 POPS)
 2022 = {
     aristocrats = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 375
     }
 
     clergymen = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 200
     }
 
     artisans = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 775
     }
 
     soldiers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 24450
     }
 
     aristocrats = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 125
     }
 
     clergymen = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 350
     }
 
     soldiers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 75
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 5075
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 2700
     }
 
     slaves = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 3300
     }
@@ -261,79 +261,79 @@
 #Jinja (208000/52000 POPS)
 2023 = {
     aristocrats = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 275
     }
 
     clergymen = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 150
     }
 
     aristocrats = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 750
     }
 
     clergymen = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 375
     }
 
     artisans = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 575
     }
 
     soldiers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 375
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 52850
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 9000
     }
 
     artisans = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 1900
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 4400
     }
 
     artisans = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 200
     }
 
     slaves = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 6000
     }

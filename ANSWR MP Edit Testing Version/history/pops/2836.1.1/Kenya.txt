@@ -332,67 +332,67 @@
 #Wajir (100000/25000 POPS)
 2031 = {
     aristocrats = {
-        culture = somali
+        culture = tigray
         religion = protestant
         size = 400
     }
 
     clergymen = {
-        culture = somali
+        culture = tigray
         religion = protestant
         size = 200
     }
 
     artisans = {
-        culture = somali
+        culture = tigray
         religion = protestant
         size = 850
     }
 
     soldiers = {
-        culture = somali
+        culture = tigray
         religion = protestant
         size = 225
     }
 
     farmers = {
-        culture = somali
+        culture = tigray
         religion = protestant
         size = 18225
     }
 
     aristocrats = {
-        culture = cushitic
+        culture = tigray
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = cushitic
+        culture = tigray
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = cushitic
+        culture = tigray
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = cushitic
+        culture = tigray
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = cushitic
+        culture = tigray
         religion = protestant
         size = 3650
     }
 
     slaves = {
-        culture = cushitic
+        culture = tigray
         religion = protestant
         size = 1100
     }

@@ -1,5 +1,5 @@
 capital = 1114
-primary_culture = mazandarani
+primary_culture = persian
 religion = protestant
 government = absolute_monarchy
 plurality = 0.0

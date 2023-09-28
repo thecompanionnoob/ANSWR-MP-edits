@@ -105,7 +105,7 @@
     }
 
     slaves = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 5000
     }
@@ -149,7 +149,7 @@
     }
 
     slaves = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 4000
     }
@@ -280,55 +280,55 @@
     }
 
     aristocrats = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 4675
     }
 
     slaves = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 2000
     }
 
     aristocrats = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 150
     }
 
     artisans = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 400
     }
 
     soldiers = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 75
     }
 
     farmers = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 7375
     }
@@ -366,31 +366,31 @@
     }
 
     aristocrats = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 150
     }
 
     artisans = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 400
     }
 
     soldiers = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 75
     }
 
     farmers = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 7350
     }
 
     slaves = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 4000
     }
@@ -410,91 +410,91 @@
     }
 
     aristocrats = {
-        culture = nuer
+        culture = tigray
         religion = protestant
         size = 275
     }
 
     artisans = {
-        culture = nuer
+        culture = tigray
         religion = protestant
         size = 750
     }
 
     soldiers = {
-        culture = nuer
+        culture = tigray
         religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = nuer
+        culture = tigray
         religion = protestant
         size = 13825
     }
 
     aristocrats = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 125
     }
 
     artisans = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 350
     }
 
     soldiers = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 75
     }
 
     farmers = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 6450
     }
 
     aristocrats = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 200
     }
 
     bureaucrats = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 50
     }
 
     officers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 550
     }
 
     soldiers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 3025
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 10125
     }
 
     slaves = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 4000
     }
@@ -1125,25 +1125,25 @@
     }
 
     aristocrats = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 475
     }
 
     artisans = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 425
     }
 
     farmers = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 24900
     }
@@ -1187,55 +1187,55 @@
     }
 
     aristocrats = {
-        culture = nuba
+        culture = tigray
         religion = protestant
         size = 350
     }
 
     artisans = {
-        culture = nuba
+        culture = tigray
         religion = protestant
         size = 725
     }
 
     soldiers = {
-        culture = nuba
+        culture = tigray
         religion = protestant
         size = 300
     }
 
     farmers = {
-        culture = nuba
+        culture = tigray
         religion = protestant
         size = 16650
     }
 
     slaves = {
-        culture = nuba
+        culture = tigray
         religion = protestant
         size = 10000
     }
 
     aristocrats = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 275
     }
 
     artisans = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 800
     }
 
     soldiers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 14775
     }
@@ -1245,43 +1245,43 @@
 #Fasher (272000/68000 POPS)
 1841 = {
     aristocrats = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 1200
     }
 
     bureaucrats = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 100
     }
 
     officers = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 2600
     }
 
     soldiers = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 1250
     }
 
     farmers = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 58600
     }
@@ -1295,31 +1295,31 @@
 #Junayah (200000/50000 POPS)
 1842 = {
     aristocrats = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 650
     }
 
     clergymen = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 1500
     }
 
     soldiers = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 32300
     }
@@ -1363,91 +1363,91 @@
 #Waw (140000/35000 POPS)
 1843 = {
     aristocrats = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 125
     }
 
     clergymen = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 350
     }
 
     soldiers = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 6350
     }
 
     aristocrats = {
-        culture = ubangian
+        culture = tigray
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = ubangian
+        culture = tigray
         religion = protestant
         size = 300
     }
 
     soldiers = {
-        culture = ubangian
+        culture = tigray
         religion = protestant
         size = 75
     }
 
     farmers = {
-        culture = ubangian
+        culture = tigray
         religion = protestant
         size = 5525
     }
 
     slaves = {
-        culture = ubangian
+        culture = tigray
         religion = protestant
         size = 4000
     }
 
     aristocrats = {
-        culture = nuba
+        culture = tigray
         religion = protestant
         size = 200
     }
 
     artisans = {
-        culture = nuba
+        culture = tigray
         religion = protestant
         size = 450
     }
 
     soldiers = {
-        culture = nuba
+        culture = tigray
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = nuba
+        culture = tigray
         religion = protestant
         size = 10150
     }
 
     slaves = {
-        culture = nuba
+        culture = tigray
         religion = protestant
         size = 7000
     }
@@ -1487,74 +1487,74 @@
     }
 
     aristocrats = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 325
     }
 
     artisans = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 850
     }
 
     soldiers = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 175
     }
 
     farmers = {
-        culture = dinka
+        culture = tigray
         religion = protestant
         size = 15650
     }
 
     aristocrats = {
-        culture = nuer
+        culture = tigray
         religion = protestant
         size = 750
     }
 
 
     artisans = {
-        culture = nuer
+        culture = tigray
         religion = protestant
         size = 1950
     }
 
     soldiers = {
-        culture = nuer
+        culture = tigray
         religion = protestant
         size = 400
     }
 
     farmers = {
-        culture = nuer
+        culture = tigray
         religion = protestant
         size = 35900
     }
 
     aristocrats = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 300
     }
 
     artisans = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 675
     }
 
     soldiers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 275
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 15775
     }
@@ -1568,67 +1568,67 @@
 #Yambio (140000/35000 POPS)
 1845 = {
     aristocrats = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 75
     }
 
     clergymen = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 3650
     }
 
     aristocrats = {
-        culture = azande
+        culture = tigray
         religion = protestant
         size = 450
     }
 
     artisans = {
-        culture = azande
+        culture = tigray
         religion = protestant
         size = 900
     }
 
     soldiers = {
-        culture = azande
+        culture = tigray
         religion = protestant
         size = 325
     }
 
     farmers = {
-        culture = azande
+        culture = tigray
         religion = protestant
         size = 21100
     }
 
     slaves = {
-        culture = azande
+        culture = tigray
         religion = protestant
         size = 8000
     }
 
     slaves = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 4000
     }
@@ -1636,56 +1636,56 @@
 #Lado (244000/61000 POPS)
 1846 = {
     aristocrats = {
-        culture = azande
+        culture = tigray
         religion = protestant
         size = 450
     }
 
     artisans = {
-        culture = azande
+        culture = tigray
         religion = protestant
         size = 1200
     }
 
     soldiers = {
-        culture = azande
+        culture = tigray
         religion = protestant
         size = 250
     }
 
     farmers = {
-        culture = azande
+        culture = tigray
         religion = protestant
         size = 22100
     }
 
     aristocrats = {
-        culture = nuer
+        culture = tigray
         religion = protestant
         size = 325
     }
 
 
     artisans = {
-        culture = nuer
+        culture = tigray
         religion = protestant
         size = 900
     }
 
     soldiers = {
-        culture = nuer
+        culture = tigray
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = nuer
+        culture = tigray
         religion = protestant
         size = 16575
     }
 
     aristocrats = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 325
     }
@@ -1697,13 +1697,13 @@
     }
 
     soldiers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 16550
     }
@@ -1717,25 +1717,25 @@
 #Kapoeta (140000/35000 POPS)
 1847 = {
     aristocrats = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 525
     }
 
     artisans = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 1400
     }
 
     soldiers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 300
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 25800
     }
@@ -1747,19 +1747,19 @@
     }
 
     artisans = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 350
     }
 
     soldiers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 75
     }
 
     farmers = {
-        culture = luo
+        culture = tigray
         religion = protestant
         size = 6475
     }
@@ -1775,43 +1775,43 @@
 #PLACEHOLDER, former Kufra (16000/4000 POPS)
 1739 = {
     aristocrats = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 25
     }
 
     officers = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 500
     }
 
     slaves = {
-        culture = fur
+        culture = tigray
         religion = protestant
         size = 200
     }
