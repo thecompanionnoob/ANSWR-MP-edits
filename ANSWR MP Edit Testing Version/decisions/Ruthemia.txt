@@ -13,52 +13,67 @@ political_decisions = {
         allow = {         
             war = no            
             POL = {
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                            owner = {
-                            in_sphere = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
             }
            UKR = {
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                            owner = {
-                            in_sphere = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
             }
             
         BYE = {
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                            owner = {
-                            in_sphere = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
             }
           CRI = {
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                            owner = {
-                            in_sphere = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
             }	 
           ZKY = {
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                            owner = {
-                            in_sphere = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -71,26 +86,21 @@ political_decisions = {
             prestige = 25
             change_tag = RUT
             POL = {
-				all_core = { add_core = RUT }
+				all_core = { add_core = RUT secede_province = THIS }
 			}
             
             BYE = {
-				all_core = { add_core = RUT }
+				all_core = { add_core = RUT secede_province = THIS }
 			}
             UKR = {
-				all_core = { add_core = RUT }
+				all_core = { add_core = RUT secede_province = THIS }
 			}
             CRI = {
-				all_core = { add_core = RUT }
+				all_core = { add_core = RUT secede_province = THIS }
 			}
             ZKY = {
-				all_core = { add_core = RUT }
+				all_core = { add_core = RUT secede_province = THIS }
 			}
-            inherit = POL
-            inherit = BYE
-            inherit = UKR
-            inherit = CRI
-            inherit = ZKY
             add_accepted_culture = krymskiy
             add_accepted_culture = polish
         }

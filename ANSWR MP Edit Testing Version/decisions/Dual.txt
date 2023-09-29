@@ -3,7 +3,7 @@ political_decisions = {
         picture = Dual
         potential = {
             OR = {                
-                tag = ENG    
+                tag = ENL    
                 tag = FRE         
             }
             NOT = { exists = ENF }
@@ -12,139 +12,32 @@ political_decisions = {
 
         allow = {         
             war = no          
-            SCO = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+            ENL = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
-	         }
-           ULS = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+            }
+            FRE = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
-	         }
-           COC = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }
-           LEC = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }
-           UNS = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }
-            CHS = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }
-            TYN = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }
-            ANI = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }
-            ROU = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }
-            OCC = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }
-            DPA = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }
-            BRT = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }
-           
+            }
         }
 		
         
@@ -152,38 +45,12 @@ political_decisions = {
         effect = {                
             prestige = 25
             change_tag = ENF
-        
-            
-            SCO = {
-				all_core = { add_core = ENF }
-			}
-            IRE = {
-				all_core = { add_core = ENF }
-			}
-            ENL = {
-				all_core = { add_core = ENF }
+            ENG = {
+				all_core = { add_core = ENF secede_province = THIS}
 			}
             FRE = {
-				all_core = { add_core = ENF }
+				all_core = { add_core = ENF secede_province = THIS}
 			}
-
-            inherit = SCO
-            inherit = ENL 
-            inherit = IRE    
-            inherit = ULS
-            inherit = COC
-            inherit = LEC
-            inherit = UNS
-            inherit = CHS
-            inherit = TYN   
-            inherit = ROU
-            inherit = OCC
-            inherit = ANI
-            inherit = DPA
-            inherit = BRT 
-            inherit = AUV
-            add_accepted_culture = scottish
-            add_accepted_culture = irish
             add_accepted_culture = english
             add_accepted_culture = welsh
             add_accepted_culture = parish

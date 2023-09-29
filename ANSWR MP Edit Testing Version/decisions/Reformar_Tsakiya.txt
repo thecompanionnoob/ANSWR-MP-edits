@@ -14,23 +14,27 @@ political_decisions = {
         allow = {
             civilized = yes
             SOK = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 			}  
             OYO = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -43,13 +47,11 @@ political_decisions = {
             prestige = 15
             set_global_flag= TSR
             SOK = {
-				all_core = { add_core = NGR }
+				all_core = { add_core = NGR secede_province = THIS }
 			}
             OYO = {
-				all_core = { add_core = NGR }
+				all_core = { add_core = NGR secede_province = THIS }
 			}
-            inherit = SOK
-            inherit = OYO
             add_accepted_culture = shenkuda
             add_accepted_culture = filayen
             		

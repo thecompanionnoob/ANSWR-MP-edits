@@ -14,23 +14,27 @@ political_decisions = {
         allow = {         
             war = no           
             SJR = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
              RLP = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -44,10 +48,10 @@ political_decisions = {
             change_tag = LPL
             inherit = SJR
             SJR = {
-				all_core = { add_core = LPL }
+				all_core = { add_core = LPL secede_province = THIS }
 			}
             RLP = {
-				all_core = { add_core = LPL }
+				all_core = { add_core = LPL secede_province = THIS }
 			}
             
         }

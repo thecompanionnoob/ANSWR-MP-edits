@@ -15,34 +15,40 @@ political_decisions = {
         allow = {         
             war = no           
             ROM = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            BUL = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         } 
            SYC = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -55,18 +61,15 @@ political_decisions = {
             prestige = 10
             change_tag = BRO
             ROM = {
-				all_core = { add_core = ARN }
+				all_core = { add_core = BRO secede_province = THIS }
 			}
             BUL = {
-				all_core = { add_core = BRO }
+				all_core = { add_core = BRO secede_province = THIS }
 			}
             SYC = {
-				all_core = { add_core = BRO }
+				all_core = { add_core = BRO secede_province = THIS }
 			}
-            
-            inherit = ROM
-            inherit = BUL 
-            inherit = SYC       
+             
             add_accepted_culture = romanian
             add_accepted_culture = bulgarian
             add_accepted_culture = westturkish

@@ -12,18 +12,18 @@ political_decisions = {
         allow = {         
             war = no           
             KUK = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
-	         }
-            
-           
+            }
         }
 		
         
@@ -37,6 +37,9 @@ political_decisions = {
             add_accepted_culture = romanian
             add_accepted_culture = czech
             add_accepted_culture = slovak
+            KUK={
+                all_core = { secede_province = THIS }
+            }
         }
 		ai_will_do = {
 			factor = 1

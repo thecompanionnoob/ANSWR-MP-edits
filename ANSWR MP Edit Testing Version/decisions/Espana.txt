@@ -3,9 +3,7 @@ political_decisions = {
         picture = spanish_restoration
         potential = {
             OR = {                
-                tag = LIR
-                
-                                
+                tag = LIR        
             }
             NOT = { exists = SPA }
 			
@@ -14,67 +12,79 @@ political_decisions = {
         allow = {         
             war = no           
             DAL = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            LIR = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }            
            CLV = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         } 
            DMN = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }   
            CAT = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }   
            BSQ = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -88,31 +98,23 @@ political_decisions = {
             change_tag = SPA
             
             DAL = {
-				all_core = { add_core = SPA }
+				all_core = { add_core = SPA secede_province = THIS }
 			}
             CLV = {
-				all_core = { add_core = SPA }
+				all_core = { add_core = SPA secede_province = THIS }
 			}
             DMN = {
-				all_core = { add_core = SPA }
+				all_core = { add_core = SPA secede_province = THIS }
 			}
-            
             LIR = {
-				all_core = { add_core = SPA }
+				all_core = { add_core = SPA secede_province = THIS }
 			}
             CAT = {
-				all_core = { add_core = SPA }
+				all_core = { add_core = SPA secede_province = THIS }
 			}
             BSQ = {
-				all_core = { add_core = SPA }
-			}
-            inherit = DAL
-            inherit = CLV 
-            inherit = DMN
-            inherit = ARN
-            inherit = LIR  
-            inherit = CAT
-            inherit = BSQ        
+				all_core = { add_core = SPA secede_province = THIS }
+			}     
             518 = {
 				remove_core = SPA
 			}

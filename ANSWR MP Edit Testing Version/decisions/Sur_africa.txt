@@ -15,56 +15,66 @@ political_decisions = {
         allow = {         
             war = no           
             SAF = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            TSW = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }  
             TRN = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            KBO = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }            
            ZUL = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -84,25 +94,20 @@ political_decisions = {
             prestige = 15
             change_tag = SAF
             SAF = {
-				all_core = { add_core = SAF }
+				all_core = { add_core = SAF secede_province = THIS }
 			}
             TSW = {
-				all_core = { add_core = SAF }
+				all_core = { add_core = SAF secede_province = THIS }
 			}
             TRN = {
-				all_core = { add_core = SAF }
+				all_core = { add_core = SAF secede_province = THIS }
 			}
             KBO = {
-				all_core = { add_core = SAF }
+				all_core = { add_core = SAF secede_province = THIS }
 			}
             ZUL = {
-				all_core = { add_core = SAF }
+				all_core = { add_core = SAF secede_province = THIS }
 			}
-            inherit = SAF
-            inherit = TSW
-            inherit = TRN
-            inherit = KBO
-            inherit = ZUL
             
             
             

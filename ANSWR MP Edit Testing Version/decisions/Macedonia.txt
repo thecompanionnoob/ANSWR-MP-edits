@@ -13,45 +13,53 @@ political_decisions = {
         allow = {         
             war = no           
             JAM = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            NSR = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         } 
             ALB = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            MON = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -64,16 +72,16 @@ political_decisions = {
             prestige = 10
             change_tag = MCD          
             JAM = {
-				all_core = { add_core = MCD }
+				all_core = { add_core = MCD secede_province = THIS }
 			}
             NSR = {
-				all_core = { add_core = MCD }
+				all_core = { add_core = MCD secede_province = THIS }
 			}
             ALB = {
-				all_core = { add_core = MCD }
+				all_core = { add_core = MCD secede_province = THIS }
 			}
             MON = {
-				all_core = { add_core = MCD }
+				all_core = { add_core = MCD secede_province = THIS }
 			}
             IST = {
 				all_core = { add_core = MCD }

@@ -13,90 +13,105 @@ political_decisions = {
         allow = {         
             war = no          
             JAM = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            SYC = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            MON = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
 
            ALB = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            NSR = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
            IST = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
-	         }
            BUL = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            TUR = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -109,36 +124,28 @@ political_decisions = {
             prestige = 25
             change_tag = BUE
             JAM = {
-				all_core = { add_core = BUE }
+				all_core = { add_core = BUE secede_province = THIS }
 			}
             NSR = {
-				all_core = { add_core = BUE }
+				all_core = { add_core = BUE secede_province = THIS }
 			}
             
             BUL = {
-				all_core = { add_core = BUE }
+				all_core = { add_core = BUE secede_province = THIS }
 			}
             
             SYC = {
-				all_core = { add_core = BUE }
+				all_core = { add_core = BUE secede_province = THIS }
 			}
             ALB = {
-				all_core = { add_core = BUE }
+				all_core = { add_core = BUE secede_province = THIS }
 			}
             MON = {
-				all_core = { add_core = BUE }
+				all_core = { add_core = BUE secede_province = THIS }
 			}
             IST = {
-				all_core = { add_core = BUE }
+				all_core = { add_core = BUE secede_province = THIS }
 			}
-
-            inherit = MON
-            inherit = ALB
-            inherit = IST
-            inherit = SYC 
-            inherit = BUL      
-            inherit = JAM
-            inherit = NSR 
             add_accepted_culture = bulgarian
             add_accepted_culture = westturkish
         }

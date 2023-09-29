@@ -12,49 +12,56 @@ political_decisions = {
         allow = {         
             war = no  
             POL = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            UKR = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
             LIT = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
         BYE = {
+            all_core = {
                 OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
+                    owned_by = THIS
+                    owner = {
                         OR = {
-                            owned_by = THIS
+                            in_sphere = THIS
+                            vassal_of = THIS                      
                         }
                     }
                 }
-	         }  
+            }
         }
 		
         
@@ -63,21 +70,21 @@ political_decisions = {
             prestige = 30
             change_tag = BEE
             POL = {
-				all_core = { add_core = BEE }
+				all_core = { add_core = BEE secede_province = THIS }
 			}
             LIT = {
-				all_core = { add_core = BEE }
+				all_core = { add_core = BEE secede_province = THIS }
 			}
             BYE = {
-				all_core = { add_core = BEE }
+				all_core = { add_core = BEE secede_province = THIS }
 			}
             UKR = {
-				all_core = { add_core = BEE }
+				all_core = { add_core = BEE secede_province = THIS }
 			}
-            inherit = POL
-            inherit = LIT
-            inherit = BYE
-            inherit = UKR
+            #inherit = POL
+            #inherit = LIT
+            #inherit = BYE
+            #inherit = UKR
             add_accepted_culture = paltijan
             add_accepted_culture = polish
         }

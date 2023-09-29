@@ -14,56 +14,66 @@ political_decisions = {
         allow = {         
             war = no           
 	    CAT = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
 	    OCC = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
         ROU = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
 	    AUV = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            BSQ = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -75,25 +85,25 @@ political_decisions = {
         effect = {                
             prestige = 25         
             CAT = {
-				all_core = { add_core = SWI }
+				all_core = { add_core = SWI secede_province = THIS}
 			}
             BSQ = {
-				all_core = { add_core = SWI }
+				all_core = { add_core = SWI secede_province = THIS}
 			}
             OCC = {
-				all_core = { add_core = SWI }
+				all_core = { add_core = SWI secede_province = THIS}
 			}
 			ROU = {
-				all_core = { add_core = SWI }
+				all_core = { add_core = SWI secede_province = THIS}
 			}
 			AUV = {
-				all_core = { add_core = SWI }
+				all_core = { add_core = SWI secede_province = THIS}
 			}
-            inherit = CAT
-            inherit = BSQ   
-            inherit = OCC
-            inherit = ROU
-            inherit = AUV			
+            #inherit = CAT
+            #inherit = BSQ   
+            #inherit = OCC
+            #inherit = ROU
+            #inherit = AUV			
             add_accepted_culture = basque
             add_accepted_culture = catalan
 			add_accepted_culture = occitan

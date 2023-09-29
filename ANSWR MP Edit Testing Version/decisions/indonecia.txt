@@ -16,66 +16,70 @@ political_decisions = {
         allow = {         
             war = no  
              JAV = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            BAL = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
             EQG = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
         SLW = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         } 
          SWK = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
-	         }
-          owns = 1433
-          owns = 1447
-          owns = 1449
-          owns = 1450
-          owns = 1448
-          owns = 1447	  
+	         } 
         }
 		
         
@@ -84,25 +88,20 @@ political_decisions = {
             prestige = 30
             change_tag = INO
             JAV = {
-				all_core = { add_core = INO }
+				all_core = { add_core = INO secede_province = THIS }
 			}
             BAL = {
-				all_core = { add_core = INO }
+				all_core = { add_core = INO secede_province = THIS }
 			}
             EQG = {
-				all_core = { add_core = INO }
+				all_core = { add_core = INO secede_province = THIS }
 			}
             SLW = {
-				all_core = { add_core = INO }
+				all_core = { add_core = INO secede_province = THIS }
 			}
             SWK = {
-				all_core = { add_core = INO }
+				all_core = { add_core = INO secede_province = THIS }
 			}
-            inherit = JAV
-            inherit = BAL
-            inherit = EQG
-            inherit = SLW
-            inherit = SWK
            1433 = { add_core = INO }
            1447 = { add_core = INO }
            1449 = { add_core = INO }

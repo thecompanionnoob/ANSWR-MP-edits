@@ -14,21 +14,27 @@ political_decisions = {
         allow = {         
             war = no  
             NIT = {
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                            owner = {
-                            in_sphere = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
             }
            BOH = {
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                            owner = {
-                            in_sphere = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -42,14 +48,11 @@ political_decisions = {
             prestige = 25
             change_tag = CZH
             NIT = {
-				all_core = { add_core = CZH }
+				all_core = { add_core = CZH secede_province = THIS }
 			}
             BOH = {
-				all_core = { add_core = CZH }
-			}
-            
-            inherit = NIT
-            inherit = BOH           
+				all_core = { add_core = CZH secede_province = THIS }
+			}      
             add_accepted_culture = czech
             add_accepted_culture = slovak
             

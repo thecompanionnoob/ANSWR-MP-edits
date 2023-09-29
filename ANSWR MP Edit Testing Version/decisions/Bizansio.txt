@@ -14,27 +14,31 @@ political_decisions = {
         allow = {         
             war = no           
             IST = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
-	         }
+            }
            TUR = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
-	         }   
+            }   
         }
 		
         
@@ -43,21 +47,17 @@ political_decisions = {
             prestige = 25
             change_tag = BYZ           
             JAM = {
-				all_core = { add_core = BYZ }
+				all_core = { add_core = BYZ secede_province = THIS}
 			}
             NSR = {
-				all_core = { add_core = BYZ }
+				all_core = { add_core = BYZ secede_province = THIS}
 			}
             TUR = {
-				all_core = { add_core = BYZ }
+				all_core = { add_core = BYZ secede_province = THIS}
 			}
             IST = {
-				all_core = { add_core = BYZ }
-			}
-           
-
-            inherit = TUR
-            inherit = IST           
+				all_core = { add_core = BYZ secede_province = THIS}
+			}         
             
             
         }

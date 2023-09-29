@@ -14,23 +14,27 @@ political_decisions = {
         allow = {         
             war = no           
             JAM = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            NSR = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -43,14 +47,11 @@ political_decisions = {
             prestige = 10
             change_tag = GRE           
             JAM = {
-				all_core = { add_core = GRE }
+				all_core = { add_core = GRE secede_province = THIS }
 			}
             NSR = {
-				all_core = { add_core = GRE }
-			}
-            
-            inherit = JAM
-            inherit = NSR           
+				all_core = { add_core = GRE secede_province = THIS }
+			}  
             add_accepted_culture = greek
 
             

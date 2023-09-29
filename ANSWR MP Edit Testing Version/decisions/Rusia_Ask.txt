@@ -16,9 +16,7 @@ political_decisions = {
             RUS = {
                 OR = {                
                     all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
+                        owned_by = THIS
                     }
                 }
             }     

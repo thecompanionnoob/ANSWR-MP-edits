@@ -14,23 +14,27 @@ political_decisions = {
         allow = {         
             war = no           
             SJR = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
              RLP = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -43,7 +47,7 @@ political_decisions = {
             prestige = 15          
             set_global_flag = Plata
             RLP = {
-				all_core = { add_core = SJR }
+				all_core = { add_core = SJR secede_province = THIS }
 			}
             
             

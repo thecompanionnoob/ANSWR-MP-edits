@@ -11,67 +11,79 @@ political_decisions = {
         allow = {         
             war = no           
             HUN = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
             AUS = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
             SER = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
             BAN = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            GLC = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            DAK = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -85,28 +97,23 @@ political_decisions = {
             change_tag = KUK
            
             HUN = {
-				all_core = { add_core = KUK }
+				all_core = { add_core = KUK secede_province = THIS}
 			}
             SER = {
-				all_core = { add_core = KUK }
+				all_core = { add_core = KUK secede_province = THIS}
 			}
             BAN = {
-				all_core = { add_core = KUK }
+				all_core = { add_core = KUK secede_province = THIS}
 			}
            GLC = {
-				all_core = { add_core = KUK }
+				all_core = { add_core = KUK secede_province = THIS}
 			}
             DAK = {
-				all_core = { add_core = KUK }
+				all_core = { add_core = KUK secede_province = THIS}
 			}
             CRO = {
-				all_core = { add_core = KUK }
+				all_core = { add_core = KUK secede_province = THIS}
 			}
-            inherit = HUN
-            inherit = SER
-            inherit = BAN 
-            inherit = GLC      
-            inherit = DAK
             add_accepted_culture = hungarian
             add_accepted_culture = staromadar
 			remove_country_modifier = oudrijk_prince

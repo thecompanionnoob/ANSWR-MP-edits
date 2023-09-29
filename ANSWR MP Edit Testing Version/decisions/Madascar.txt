@@ -14,12 +14,14 @@ political_decisions = {
         allow = {         
             war = no           
             MAD = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -33,9 +35,15 @@ political_decisions = {
             add_accepted_culture = filayen
             prestige = 15
             change_tag = MAD
-            inherit = NAL
-            inherit = XHO
-            inherit = SHO
+            NAL = {
+				all_core = { add_core = MAD secede_province = THIS }
+			}
+            XHO = {
+				all_core = { add_core = MAD secede_province = THIS }
+			}
+            SHO = {
+				all_core = { add_core = MAD secede_province = THIS }
+			}
             
             
             

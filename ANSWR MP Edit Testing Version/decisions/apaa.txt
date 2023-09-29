@@ -14,32 +14,40 @@ political_decisions = {
         allow = {         
             war = no              
             POL = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            NIT = {
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                            owner = {
-                            in_sphere = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
             }
            BOH = {
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                            owner = {
-                            in_sphere = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -52,14 +60,11 @@ political_decisions = {
             prestige = 10
             change_tag = WSF           
             CZH = {
-				all_core = { add_core = WSF }
+				all_core = { add_core = WSF secede_province = THIS }
 			}
             POL = {
-				all_core = { add_core = WSF }
+				all_core = { add_core = WSF secede_province = THIS }
 			}
-            
-            inherit = CZH
-            inherit = POL          
             add_accepted_culture = polish
             add_accepted_culture = czech
             add_accepted_culture = slovak

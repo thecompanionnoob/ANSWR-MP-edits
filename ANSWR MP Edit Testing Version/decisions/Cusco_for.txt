@@ -14,45 +14,53 @@ political_decisions = {
         allow = {         
             war = no           
             HUA = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
               SPU = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }  
               ARE = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         } 
                ECU = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -66,16 +74,16 @@ political_decisions = {
             capital = 2302
             change_tag = CSK
             HUA = {
-				all_core = { add_core = CSK }
+				all_core = { add_core = CSK secede_province = THIS}
 			}
             ARE = {
-				all_core = { add_core = CSK }
+				all_core = { add_core = CSK secede_province = THIS}
 			}
             SPU = {
-				all_core = { add_core = CSK }
+				all_core = { add_core = CSK secede_province = THIS}
 			}
             ECU = {
-				all_core = { add_core = CSK }
+				all_core = { add_core = CSK secede_province = THIS}
 			}
         }
 		ai_will_do = {

@@ -20,111 +20,131 @@ political_decisions = {
         allow = {         
             war = no           
             MAS = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            TOO = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }  
             JAL = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            KNG = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }            
            DND = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }  
            MOS = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }   
            MOS = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }  
            ASH = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
             DAH = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         } 
             WOL = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -134,55 +154,46 @@ political_decisions = {
         
 
         effect = {              
-            add_accepted_culture = fulbe
-            add_accepted_culture = tuareg
-            add_accepted_culture = mande
+            #add_accepted_culture = fulbe
+            #add_accepted_culture = tuareg
+            #add_accepted_culture = mande
             add_accepted_culture = gur
-            add_accepted_culture = senufo
-            add_accepted_culture = dyula
-            add_accepted_culture = songhai
-            add_accepted_culture = mossi
-            add_accepted_culture = akan
-            add_accepted_culture = fon
-            add_accepted_culture = east_kwa
+            #add_accepted_culture = senufo
+            #add_accepted_culture = dyula
+            #add_accepted_culture = songhai
+            #add_accepted_culture = mossi
+            #add_accepted_culture = akan
+            #add_accepted_culture = fon
+            #add_accepted_culture = east_kwa
             prestige = 15
             change_tag = MLI
             MAS = {
-				all_core = { add_core = MLI }
+				all_core = { add_core = MLI secede_province = THIS }
 			}
             TOO = {
-				all_core = { add_core = MLI }
+				all_core = { add_core = MLI secede_province = THIS }
 			}
             JAL = {
-				all_core = { add_core = MLI }
+				all_core = { add_core = MLI secede_province = THIS }
 			}
             KNG = {
-				all_core = { add_core = MLI }
+				all_core = { add_core = MLI secede_province = THIS }
 			}
             DND = {
-				all_core = { add_core = MLI }
+				all_core = { add_core = MLI secede_province = THIS }
 			}
             MOS = {
-				all_core = { add_core = MLI }
+				all_core = { add_core = MLI secede_province = THIS }
 			}
             ASH = {
-				all_core = { add_core = MLI }
+				all_core = { add_core = MLI secede_province = THIS }
 			}
             DAH = {
-				all_core = { add_core = MLI }
+				all_core = { add_core = MLI secede_province = THIS }
 			}
             WOL = {
-				all_core = { add_core = MLI }
+				all_core = { add_core = MLI secede_province = THIS }
 			}
-            inherit = MAS
-            inherit = TOO
-            inherit = JAL
-            inherit = KNG
-            inherit = DND
-            inherit = MOS
-            inherit = ASH
-            inherit = DAH
-            inherit = WOL
         }
 		ai_will_do = {
 			factor = 1

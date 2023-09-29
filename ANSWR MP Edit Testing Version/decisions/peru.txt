@@ -14,34 +14,40 @@ political_decisions = {
         allow = {         
             war = no           
             HUA = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
              SPU = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }  
              ARE = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -54,17 +60,14 @@ political_decisions = {
             prestige = 25
             change_tag = PEU
             HUA = {
-				all_core = { add_core = PEU }
+				all_core = { add_core = PEU secede_province = THIS }
 			}
             SPU = {
-				all_core = { add_core = PEU }
+				all_core = { add_core = PEU secede_province = THIS }
 			}
             ARE = {
-				all_core = { add_core = PEU }
+				all_core = { add_core = PEU secede_province = THIS }
 			}
-            inherit = HUA
-            inherit = SPU
-            inherit = ARE
             add_accepted_culture = quechua
             add_accepted_culture = aimara
             

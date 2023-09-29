@@ -10,11 +10,24 @@ political_decisions = {
 				tag = RIZ
 				tag = BIC
 			}
+			NOT = { exists = PHL }
 			NOT = { has_country_flag = philippines_formed }
 		}	
 		allow = { 
 			NOT = { war = yes }
-			PHL = { all_core = { owned_by = THIS } }
+			PHL = { 
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+			}
 		}
 		
 		effect = {
@@ -29,6 +42,7 @@ political_decisions = {
 				remove_core = THIS
 			}
 			change_tag = PHL
+			all_core = { secede_province = PHL }
 		}
 	}
 }

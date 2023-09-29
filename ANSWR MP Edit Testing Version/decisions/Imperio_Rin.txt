@@ -12,155 +12,183 @@ political_decisions = {
         allow = {         
             war = no  
             RHD = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
              ALS = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
              BRI = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            SAX = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
             WEI = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            BAV = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            RHI = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
           BAD = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
           ULM = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
           VLA = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }	
            MEC = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            WES = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
           PZN = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            BRI = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -173,72 +201,41 @@ political_decisions = {
             prestige = 25
             change_tag = RHE
             SAX = {
-				all_core = { add_core = RHE }
+				all_core = { add_core = RHE secede_province = THIS }
 			} 
             PZN = {
-				all_core = { add_core = RHE }
+				all_core = { add_core = RHE secede_province = THIS }
 			}
             RHD = {
-				all_core = { add_core = RHE }
+				all_core = { add_core = RHE secede_province = THIS }
 			}
             WEI = {
-				all_core = { add_core = RHE }
+				all_core = { add_core = RHE secede_province = THIS }
 			}
             BAV = {
-				all_core = { add_core = RHE }
+				all_core = { add_core = RHE secede_province = THIS }
 			}
             RHI = {
-				all_core = { add_core = RHE }
+				all_core = { add_core = RHE secede_province = THIS }
 			}
             BAD = {
-				all_core = { add_core = RHE }
+				all_core = { add_core = RHE secede_province = THIS }
 			}
             ULM = {
-				all_core = { add_core = RHE }
+				all_core = { add_core = RHE secede_province = THIS }
 			}
             VLA = {
-				all_core = { add_core = RHE }
+				all_core = { add_core = RHE secede_province = THIS }
 			}
             WES = {
-				all_core = { add_core = RHE }
+				all_core = { add_core = RHE secede_province = THIS }
 			}
             MEC = {
-				all_core = { add_core = RHE }
+				all_core = { add_core = RHE secede_province = THIS }
 			}
             BRI = {
-				all_core = { add_core = RHE }
+				all_core = { add_core = RHE secede_province = THIS }
 			}
-
-            
-            371 = {
-				remove_core = RHE
-			}
-            2557 = {
-				remove_core = RHE
-			}
-            367 = {
-				remove_core = RHE
-			}
-            366 = {
-				remove_core = RHE
-			}
-            348 = {
-				remove_core = RHE
-			}
-            inherit = RHI
-            inherit = ALS
-            inherit = VLA
-            inherit = WES
-            inherit = SAX
-            inherit = WEI
-            inherit = BAV
-            inherit = RHI
-            inherit = BAD
-            inherit = ULM
-            inherit = VLA
-            inherit = PZN
-            inherit = MEC
-            inherit = BRI
             add_accepted_culture = north_german
         }
 		ai_will_do = {
