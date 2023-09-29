@@ -7,7 +7,7 @@ life_rating = 35
 terrain = ruined_city
 state_building = {
     level = 1
-    building = luxury_furniture_factory
+    building = artillery_factory
     upgrade = yes
 }
 state_building = {

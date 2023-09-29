@@ -1,6 +1,6 @@
-owner = DPA
-controller = DPA
-add_core = DPA
+owner = PRP
+controller = PRP
+add_core = PRP
 add_core = FRE
 trade_goods = coal
 life_rating = 32
