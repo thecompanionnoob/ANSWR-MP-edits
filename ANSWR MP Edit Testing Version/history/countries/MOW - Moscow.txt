@@ -74,3 +74,5 @@ nonstate_consciousness = 1
 
 land_reform = yes_land_reform
 foreign_training = yes_foreign_training
+
+oob = "MOW_oob.txt"

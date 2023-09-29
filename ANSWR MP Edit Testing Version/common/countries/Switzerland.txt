@@ -39,7 +39,7 @@ party = {
     ideology = conservative
 
     social_policy = no_position_set
-    economic_policy = interventionism
+    economic_policy = state_capitalism
     trade_policy = free_trade
     religious_policy = secularized
     citizenship_policy = residency
@@ -153,22 +153,22 @@ party = {
 
 unit_names = {
     dreadnought = {
-            "Werner Stauffacher" "Walter Fürst" "Arnold von Melchtal" "Wilhelm Tell"
+            "Werner Stauffacher" "Walter Fï¿½rst" "Arnold von Melchtal" "Wilhelm Tell"
     }
     ironclad = {
-            Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich
+            Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Leman Linth Lugano Luzern Oberland Ratien Sentis Schaffhausen Solothurn Thurgau Waldstette Wallis Zerich
     }
     manowar = {
-            Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich
+            Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Leman Linth Lugano Luzern Oberland Ratien Sentis Schaffhausen Solothurn Thurgau Waldstette Wallis Zerich
     }
     cruiser = {
-            Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich
+            Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Leman Linth Lugano Luzern Oberland Ratien Sentis Schaffhausen Solothurn Thurgau Waldstette Wallis Zerich
     }
     frigate = {
-            Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich
+            Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Leman Linth Lugano Luzern Oberland Ratien Sentis Schaffhausen Solothurn Thurgau Waldstette Wallis Zerich
     }
     monitor = {
-            Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich
+            Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Leman Linth Lugano Luzern Oberland Ratien Sentis Schaffhausen Solothurn Thurgau Waldstette Wallis Zerich
     }
     clipper_transport = {
 
@@ -177,6 +177,6 @@ unit_names = {
 
     }
     commerce_raider = {
-            Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich
+            Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Leman Linth Lugano Luzern Oberland Ratien Sentis Schaffhausen Solothurn Thurgau Waldstette Wallis Zerich
     }
 }
