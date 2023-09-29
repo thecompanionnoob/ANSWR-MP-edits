@@ -319,7 +319,7 @@
     craftsmen = {
         culture = scottish
         religion = protestant
-        size = 55000
+        size = 15000
     }
 
     artisans = {
@@ -349,7 +349,7 @@
     farmers = {
         culture = scottish
         religion = protestant
-        size = 53150
+        size = 93150
     }
 
     clergymen = {
@@ -612,7 +612,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 30000
+        size = 10000
     }
 
     artisans = {
@@ -636,7 +636,7 @@
     labourers = {
         culture = english
         religion = protestant
-        size = 138850
+        size = 158850
     }
 
     clergymen = {
@@ -710,7 +710,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 82500
+        size = 12500
     }
 
     artisans = {
@@ -734,7 +734,7 @@
     labourers = {
         culture = english
         religion = protestant
-        size = 65350
+        size = 135350
     }
 
     clergymen = {
@@ -824,12 +824,12 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 30000
+        size = 25000
     }
     artisans = {
         culture = english
         religion = protestant
-        size = 10000
+        size = 15000
     }
 
     artisans = {
@@ -968,7 +968,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 25000
+        size = 15000
     }
     officers = {
         culture = english
@@ -1003,7 +1003,7 @@
     labourers = {
         culture = english
         religion = protestant
-        size = 102825
+        size = 112825
     }
 
     farmers = {
@@ -1585,7 +1585,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 12000
+        size = 4000
     }
 
     artisans = {
@@ -1603,7 +1603,7 @@
     labourers = {
         culture = english
         religion = protestant
-        size = 63275
+        size = 71275
     }
 
     farmers = {
@@ -1635,7 +1635,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 12000
+        size = 4000
     }
 
     soldiers = {
@@ -1647,7 +1647,7 @@
     labourers = {
         culture = english
         religion = protestant
-        size = 82375
+        size = 90375
     }
 }
 #Bath (408000/102000 POPS)
@@ -1678,13 +1678,13 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 12000
+        size = 7733
     }
 
     labourers = {
         culture = english
         religion = protestant
-        size = 70625
+        size = 74892
     }
 }
 #Plymouth (812000/203000 POPS)
@@ -1768,13 +1768,13 @@
     clerks = {
         culture = english
         religion = protestant
-        size = 12000
+        size = 7411
     }
 
     craftsmen = {
         culture = english
         religion = protestant
-        size = 116000
+        size = 33952
     }
 
     artisans = {
@@ -1822,7 +1822,7 @@
     farmers = {
         culture = english
         religion = protestant
-        size = 127000
+        size = 213637
     }
 
     artisans = {
