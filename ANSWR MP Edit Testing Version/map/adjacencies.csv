@@ -185,15 +185,30 @@ From;To;Type;Through;Data;Comment
 1644;1088;sea;2839;0;Meakan-Shumshu
 1088;1074;sea;2838;0;Shumshu-Petropavlovsk Strait
 1637;1635;sea;2829;0;Cheju-Kwangju Strait
-
-#
-# Asian Straits
-#
 1084;1086;sea;2832;0;Tatar Straits
 1168;1145;sea;2787;0;Straits of Hormuz
 1180;1851;sea;2782;0;Aden Strait
 1412;1874;sea;2783;0;Aden Strait
 1663;1666;sea;2843;0;Matsuyama Strait
+1430;1431;sea;2810;0;Makassar-Bone
+1460;3335;sea;2850;0;Iloilo-Upper Bacolod
+3335;2565;sea;2850;0;Upper Bacolod-Cebu
+2565;3337;sea;2850;0;Cebu-Upper Tagbilaran
+3341;3337;sea;2850;0;New Palo-Upper Tagbilaran
+3341;2565;sea;2850;0;New Palo-Cebu
+3341;1461;sea;2850;0;New Palo-Tacloban
+3337;1463;sea;2850;0;Upper Tagbilaran-New Cayagan De Oro
+3335;3350;sea;2850;0;Upper Bacolod-Kalawit
+3341;3348;sea;2850;0;New Palo-Bislig
+3336;3334;land;2847;0;Cabanatuan-Upper Subric
+3334;1445;land;2848;0;Upper Subric-Lipa
+1537;1522;sea;3295;0;Changzhou-Wuchang (1)
+1537;1522;sea;3108;0;Changzhou-Wuchang (2)
+1544;1522;sea;3295;0;Zhenjiang-Wuchang
+1504;1495;land;2823;0;Pingle-Maoming
+1504;1501;land;2823;0;Pingle-Zhaoqing
+1504;1493;land;2823;0;Pingle-Canton
+
 
 #
 # Oceanian Straits
