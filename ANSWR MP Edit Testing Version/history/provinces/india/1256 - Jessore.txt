@@ -3,4 +3,4 @@ controller = NAG
 add_core = NAG
 trade_goods = wool
 life_rating = 32
-colonial = 2
+
