@@ -1713,7 +1713,7 @@
         size = 700
     }
 
-    farmers = {
+    labourers = {
         culture = romanian
         religion = protestant
         size = 31250

@@ -323,7 +323,7 @@
         size = 250
     }
 
-    farmers = {
+    labourers = {
         culture = osti
         religion = protestant
         size = 39800
@@ -352,7 +352,7 @@
         religion = protestant
         size = 100
     }
-    farmers = {
+    labourers = {
         culture = paltijan
         religion = protestant
         size = 13635

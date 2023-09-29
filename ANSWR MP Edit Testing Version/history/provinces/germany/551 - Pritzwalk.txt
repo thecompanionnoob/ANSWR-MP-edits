@@ -2,6 +2,6 @@ owner = BRI
 controller = BRI
 add_core = BRI
 add_core = OUD
-trade_goods = cattle
+trade_goods = wool
 life_rating = 40
 2861.1.1 = { railroad = 3 }

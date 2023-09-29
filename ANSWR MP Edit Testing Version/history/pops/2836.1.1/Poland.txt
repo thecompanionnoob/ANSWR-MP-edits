@@ -1611,7 +1611,7 @@
         size = 2150
     }
 
-    farmers = {
+    labourers = {
         culture = polish
         religion = protestant
         size = 50275
