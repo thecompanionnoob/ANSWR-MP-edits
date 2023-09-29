@@ -10,22 +10,16 @@ political_decisions = {
 		}
 
 		allow = {
-			is_greater_power = yes
-			prestige = 45
 			war = no
 			cultural_union = {
                 all_core = {
                     OR = {
                         owned_by = THIS
                         owner = {
-                            in_sphere = THIS
                             OR = {
-                                is_vassal = no
-                                vassal_of = THIS
+                                in_sphere = THIS
+                                vassal_of = THIS                      
                             }
-                            war = no
-                            is_mobilised = no
-                            is_greater_power = no
                         }
                     }
                 }
@@ -33,7 +27,7 @@ political_decisions = {
         }
 
 		effect = {
-            prestige = 25
+            prestige = 30
             all_core = { remove_core = THIS }
             change_tag = FRE
             any_country = {
@@ -41,13 +35,12 @@ political_decisions = {
                     NOT = { is_greater_power = yes }
                     NOT = { has_country_flag = post_colonial_country }
                     is_culture_group = THIS
-                    in_sphere = THIS
                     OR = {
-                        is_vassal = no
+                        in_sphere = THIS
                         vassal_of = THIS
                     }
                 }
-                country_event = 52006
+                annex_to = THIS
             }
             add_accepted_culture = union
         }
