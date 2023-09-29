@@ -123,6 +123,19 @@ From;To;Type;Through;Data;Comment
 1003;2580;sea;3329;0;Novgorod-Novaya Ladoga
 431;467;sea;3326;0;Macon-Marseilles
 429;467;sea;3326;0;Auxerre-Marseilles
+732;734;land;2761;0;Venice-Trent
+732;733;land;2761;0;Venice-Udine
+405;397;sea;3328;0;Charleville-Luxemburg
+433;431;sea;3324;0;Lons-Macon
+970;965;sea;3331;0;Nikolaev-Kherson
+965;964;sea;2775;0;Kherson-Simferopol
+966;967;sea;2776;0;Kerch-Sevastopol
+946;1007;sea;3330;0;Polotsk-Velikiye Luki
+1009;948;sea;3330;0;Borodino-Varyjaca
+979;1047;sea;2776;0;Rostov-Azov
+1046;1047;sea;2776;0;Chirskaya-Azov 
+1041;1050;sea;2779;0;Elista-Stavropol
+1041;1057;sea;2779;0;Elista-Kizlyar
 
 #
 # Asian Straits
