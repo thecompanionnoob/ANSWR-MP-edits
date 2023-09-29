@@ -15,34 +15,40 @@ political_decisions = {
         allow = {         
             war = no           
             BAV = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            ULM = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         } 
             BAD = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -56,14 +62,11 @@ political_decisions = {
             change_tag = SGF
             
             ULM = {
-				all_core = { add_core = SGF }
+				all_core = { add_core = SGF secede_province = THIS }
 			}
             BAD = {
-				all_core = { add_core = SGF }
-			}
-            
-            inherit = ULM
-            inherit = BAD          
+				all_core = { add_core = SGF secede_province = THIS }
+			}      
             add_accepted_culture = rhine_german
             
             

@@ -15,27 +15,31 @@ political_decisions = {
             war = no    
             nationalism_n_imperialism = 1        
             DPA = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
-	         }
+            }
            NET = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
-	         }     
+            }     
         }
 		
         
@@ -44,14 +48,11 @@ political_decisions = {
             prestige = 10
             change_tag = BRG          
             DPA = {
-				all_core = { add_core = BRG }
+				all_core = { add_core = BRG secede_province = THIS }
 			}
             NET = {
-				all_core = { add_core = BRG }
-			}
-            
-            inherit = DPA
-            inherit = NET           
+				all_core = { add_core = BRG secede_province = THIS }
+			} 
             add_accepted_culture = parish
             add_accepted_culture = breton
             add_accepted_culture = occitan

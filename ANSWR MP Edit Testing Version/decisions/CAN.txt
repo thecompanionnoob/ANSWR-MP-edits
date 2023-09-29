@@ -14,40 +14,44 @@ political_decisions = {
         allow = {         
             war = no          
             QUE = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            ONT = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            WNN = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
-	         }
-           
-           
+            }    
         }
 		
         
@@ -56,20 +60,16 @@ political_decisions = {
             prestige = 25
             change_tag = CAN  
             QUE = {
-				all_core = { add_core = CAN }
+				all_core = { add_core = CAN secede_province = THIS }
 			}
             ONT = {
-				all_core = { add_core = CAN }
+				all_core = { add_core = CAN secede_province = THIS }
 			}
             WNN = {
-				all_core = { add_core = CAN }
-			}
-            
-            inherit = QUE
-            inherit = ONT
-            inherit = WNN      
+				all_core = { add_core = CAN secede_province = THIS }
+			}  
             add_accepted_culture = anglo_canadian
-	    add_accepted_culture = french_canadian
+	        add_accepted_culture = french_canadian
             add_accepted_culture = canuck
             
         }

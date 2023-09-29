@@ -15,12 +15,14 @@ political_decisions = {
         allow = {         
             war = no           
             CSA = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -32,6 +34,9 @@ political_decisions = {
         effect = {                
             prestige = 25
             change_tag = CSA
+            CSA = {
+                all_core = { secede_province = THIS }
+            }
             add_accepted_culture = dixie_cajun
 	    add_accepted_culture = floridian
             

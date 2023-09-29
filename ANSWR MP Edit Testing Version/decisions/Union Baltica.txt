@@ -14,38 +14,43 @@ political_decisions = {
         allow = {         
             war = no           
             LIT = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
             IZH = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
             EST = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
-	         }
         }
 		
         
@@ -55,17 +60,14 @@ political_decisions = {
             change_tag = UBD
 
             LIT = {
-				all_core = { add_core = UBD }
+				all_core = { add_core = UBD secede_province = THIS }
 			}
             IZH = {
-				all_core = { add_core = UBD }
+				all_core = { add_core = UBD secede_province = THIS }
 			}
             EST = {
-				all_core = { add_core = UBD }
+				all_core = { add_core = UBD secede_province = THIS }
 			}
-            inherit = LIT
-            inherit = IZH    
-            inherit = EST      
             add_accepted_culture = paltijan
             add_accepted_culture = tesredinikh
             add_accepted_culture = osti

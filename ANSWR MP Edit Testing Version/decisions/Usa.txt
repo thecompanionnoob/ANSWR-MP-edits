@@ -8,7 +8,12 @@ political_decisions = {
                 tag = RSB
                 tag = MUS
                 tag = ANM
-                tag = WKK              
+                tag = WKK
+                tag = TEX
+                tag = DIX
+                tag = COW
+                tag = PAW
+                tag = CSA             
             }
             NOT = { exists = USA }
 			
@@ -17,100 +22,118 @@ political_decisions = {
         allow = {         
             war = no           
             NEN = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }  
              DIX = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         } 
              COW  = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         } 
              SLC  = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         } 
              RSB  = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
              ANM  = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
              MUS  = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
             MRU  = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
             WKK  = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -123,47 +146,38 @@ political_decisions = {
             prestige = 30
             change_tag = USA
             NEN = {
-				all_core = { add_core = USA }
+				all_core = { add_core = USA secede_province = THIS }
 			}
             DIX = {
-				all_core = { add_core = USA }
+				all_core = { add_core = USA secede_province = THIS }
 			}
             COW = {
-				all_core = { add_core = USA }
+				all_core = { add_core = USA secede_province = THIS }
 			}
             SLC = {
-				all_core = { add_core = USA }
+				all_core = { add_core = USA secede_province = THIS }
 			}
             RSB = {
-				all_core = { add_core = USA }
+				all_core = { add_core = USA secede_province = THIS }
 			}
             ANM = {
-				all_core = { add_core = USA }
+				all_core = { add_core = USA secede_province = THIS }
 			}
             MUS = {
-				all_core = { add_core = USA }
+				all_core = { add_core = USA secede_province = THIS }
 			}
             MRU = {
-				all_core = { add_core = USA }
+				all_core = { add_core = USA secede_province = THIS }
 			}
             WKK = {
-				all_core = { add_core = USA }
+				all_core = { add_core = USA secede_province = THIS }
 			}
             TEX = {
-				all_core = { add_core = USA }
+				all_core = { add_core = USA secede_province = THIS }
 			}
             PAW = {
-				all_core = { add_core = USA }
+				all_core = { add_core = USA secede_province = THIS }
 			}
-            inherit = NEN
-            inherit = DIX
-            inherit = COW
-            inherit = SLC
-            inherit = RSB
-            inherit = ANM
-            inherit = MUS
-            inherit = MRU
-            inherit = WKK
             add_accepted_culture = yankee
             add_accepted_culture = dixie
             add_accepted_culture = texan

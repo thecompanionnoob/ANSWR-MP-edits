@@ -15,23 +15,27 @@ political_decisions = {
         allow = {         
             war = no           
             TUS = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            PAR = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -44,14 +48,11 @@ political_decisions = {
             prestige = 10
             change_tag = ITN      
             TUS = {
-				all_core = { add_core = ITN }
+				all_core = { add_core = ITN secede_province = THIS}
 			}
             PAR = {
-				all_core = { add_core = ITN }
-			}
-            
-            inherit = TUS
-            inherit = PAR           
+				all_core = { add_core = ITN secede_province = THIS}
+			}      
             set_global_flag = italia_5
             
         }

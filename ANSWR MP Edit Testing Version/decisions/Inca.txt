@@ -14,23 +14,27 @@ political_decisions = {
         allow = {         
             war = no           
             CSK = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
              BWK = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -43,14 +47,12 @@ political_decisions = {
             prestige = 25
             change_tag = INC
             CSK = {
-				all_core = { add_core = INC }
+				all_core = { add_core = INC secede_province = THIS }
 			}
             BWK = {
-				all_core = { add_core = INC }
+				all_core = { add_core = INC secede_province = THIS }
 			}
-            
-            inherit = CSK
-            inherit = BWK           
+                     
             add_accepted_culture = pacinian
             add_accepted_culture = aimara
             

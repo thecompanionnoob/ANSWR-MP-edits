@@ -17,56 +17,66 @@ political_decisions = {
         allow = {         
             war = no          
             GUA = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            CHP = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            YUC = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            NIC = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            HON = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -80,33 +90,28 @@ political_decisions = {
             prestige = 25
             change_tag = UCA   
             NIC = {
-				all_core = { add_core = UCA }
+				all_core = { add_core = UCA secede_province = THIS }
 			}
             CHP = {
-				all_core = { add_core = UCA }
+				all_core = { add_core = UCA secede_province = THIS }
 			}
             ELS = {
-				all_core = { add_core = UCA }
+				all_core = { add_core = UCA secede_province = THIS }
 			}
             HON = {
-				all_core = { add_core = UCA }
+				all_core = { add_core = UCA secede_province = THIS }
 			}
             YUC = {
-				all_core = { add_core = UCA }
+				all_core = { add_core = UCA secede_province = THIS }
 			}
-            
             GUA = {
-				all_core = { add_core = UCA }
+				all_core = { add_core = UCA secede_province = THIS }
 			}
             
             PNM = {
-				all_core = { add_core = UCA }
+				all_core = { add_core = UCA secede_province = THIS }
 			}
             add_accepted_culture = mayan
-            inherit = NIC
-            inherit = YUC
-            inherit = GUA      
-            inherit = PNM 
             
         }
 		ai_will_do = {

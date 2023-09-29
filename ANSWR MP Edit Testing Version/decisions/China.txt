@@ -25,21 +25,20 @@ political_decisions = {
 
         allow = {         
             war = no   
-           CHI = {
-		all_core = {
-			OR = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-						
-					}
-				}
-			}               
-           
-        }
+            CHI = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                            owner = {
+                                OR = {
+                                    in_sphere = THIS
+                                    vassal_of = THIS                      
+                                }
+                            }
+                        }
+                    }             
+                }
+            }
 		
         
 
@@ -47,71 +46,58 @@ political_decisions = {
             prestige = 10
             change_tag = CHI           
             HNN = {
-				all_core = { add_core = CHI }
+				all_core = { add_core = CHI secede_province = THIS }
 			}
             GMJ = {
-				all_core = { add_core = CHI }
+				all_core = { add_core = CHI secede_province = THIS }
 			}
             HEI = {
-				all_core = { add_core = CHI }
+				all_core = { add_core = CHI secede_province = THIS }
 			}
             GXI = {
-				all_core = { add_core = CHI }
+				all_core = { add_core = CHI secede_province = THIS }
 			}
             SXI = {
-				all_core = { add_core = CHI }
+				all_core = { add_core = CHI secede_province = THIS }
 			}
             RYU = {
-				all_core = { add_core = CHI }
+				all_core = { add_core = CHI secede_province = THIS }
 			}
             HUI = {
-				all_core = { add_core = CHI }
+				all_core = { add_core = CHI secede_province = THIS }
 			}
             HNN = {
-				all_core = { add_core = CHI }
+				all_core = { add_core = CHI secede_province = THIS }
 			}
             GMJ = {
-				all_core = { add_core = CHI }
+				all_core = { add_core = CHI secede_province = THIS }
 			}
             XIR = {
-				all_core = { add_core = CHI }
+				all_core = { add_core = CHI secede_province = THIS }
 			}
             JUC = {
-				all_core = { add_core = CHI }
+				all_core = { add_core = CHI secede_province = THIS }
 			}
             SZC = {
-				all_core = { add_core = CHI }
+				all_core = { add_core = CHI secede_province = THIS }
 			}
             WYS = {
-				all_core = { add_core = CHI }
+				all_core = { add_core = CHI secede_province = THIS }
 			}
             GNG = {
-				all_core = { add_core = CHI }
+				all_core = { add_core = CHI secede_province = THIS }
 			}
             CHA = {
-				all_core = { add_core = CHI }
+				all_core = { add_core = CHI secede_province = THIS }
 			}
             YNN = {
-				all_core = { add_core = CHI }
+				all_core = { add_core = CHI secede_province = THIS }
 			}
-            inherit = MGL
-            inherit = HNN          
-            inherit = HEI 
-            inherit = GXI
-            inherit = HUI
-            inherit = SXI
-            inherit = RYU
-            inherit = GMJ
-            inherit = XIR 
-            inherit = JUC 
-            inherit = SZC 
-            inherit = WYS
-            inherit = GNG 
-            inherit = CHA 
-            inherit = YNN 
         }
 		ai_will_do = {
 			factor = 1
-			}
+        }
     }
 }
+
+

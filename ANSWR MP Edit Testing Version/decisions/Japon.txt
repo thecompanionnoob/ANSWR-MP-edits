@@ -15,34 +15,40 @@ political_decisions = {
         allow = {         
             war = no           
             NIH = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            JIY = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
             EZO = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -55,17 +61,14 @@ political_decisions = {
             prestige = 30
             change_tag = JAP
             NIH = {
-				all_core = { add_core = JAP }
+				all_core = { add_core = JAP secede_province = THIS }
 			}
             JIY = {
-				all_core = { add_core = JAP }
+				all_core = { add_core = JAP secede_province = THIS }
 			}
             EZO = {
-				all_core = { add_core = JAP }
-			}
-            inherit = NIH
-            inherit = JIY
-            inherit = EZO          
+				all_core = { add_core = JAP secede_province = THIS }
+			}         
             add_accepted_culture = japanese 
             add_accepted_culture = ainu
             

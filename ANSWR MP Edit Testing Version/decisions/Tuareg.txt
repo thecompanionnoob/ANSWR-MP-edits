@@ -12,56 +12,66 @@ political_decisions = {
         allow = {         
             war = no           
             TRG = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            MOR = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }  
             ALD = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            TUN = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }            
            DAM = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -78,22 +88,18 @@ political_decisions = {
             prestige = 15
             set_global_flag= Tur
             MOR = {
-				all_core = { add_core = TRG }
+				all_core = { add_core = TRG secede_province = THIS}
 			}
             ALD = {
-				all_core = { add_core = TRG }
+				all_core = { add_core = TRG secede_province = THIS}
 			}
             TUN = {
-				all_core = { add_core = TRG }
+				all_core = { add_core = TRG secede_province = THIS}
 			}
             DAM = {
-				all_core = { add_core = TRG }
+				all_core = { add_core = TRG secede_province = THIS}
 			}
             
-            inherit = MAS
-            inherit = TOO
-            inherit = JAL
-            inherit = KNG
             
         }
 		ai_will_do = {

@@ -14,34 +14,40 @@ political_decisions = {
         allow = {         
             war = no           
             SYR = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            LBN = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         } 
             HDJ = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -54,17 +60,14 @@ political_decisions = {
             prestige = 10
             set_global_flag= judios
             SYR = {
-				all_core = { add_core = ISR }
+				all_core = { add_core = ISR secede_province = THIS }
 			}
             LBN = {
-				all_core = { add_core = ISR }
+				all_core = { add_core = ISR secede_province = THIS }
 			}
             HDJ = {
-				all_core = { add_core = ISR }
+				all_core = { add_core = ISR secede_province = THIS }
 			}
-            inherit = SYR
-            inherit = LBN
-            inherit = HDJ
             government = hms_government 
             
         }

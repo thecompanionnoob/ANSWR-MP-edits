@@ -14,17 +14,17 @@ political_decisions = {
         allow = {         
             war = no           
             QHI = {
-				all_core = {
-					OR = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-						
-					}
-				}
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
 			}
            
                
@@ -36,33 +36,26 @@ political_decisions = {
             prestige = 10
             change_tag = QHI           
             MGL = {
-				all_core = { add_core = QHI }
+				all_core = { add_core = QHI secede_province = THIS }
 			}
             HNN = {
-				all_core = { add_core = QHI }
+				all_core = { add_core = QHI secede_province = THIS }
 			}
             HEI = {
-				all_core = { add_core = QHI }
+				all_core = { add_core = QHI secede_province = THIS }
 			}
             GXI = {
-				all_core = { add_core = QHI }
+				all_core = { add_core = QHI secede_province = THIS }
 			}
             SXI = {
-				all_core = { add_core = QHI }
+				all_core = { add_core = QHI secede_province = THIS }
 			}
             RYU = {
-				all_core = { add_core = QHI }
+				all_core = { add_core = QHI secede_province = THIS }
 			}
             HUI = {
-				all_core = { add_core = QHI }
+				all_core = { add_core = QHI secede_province = THIS }
 			}
-            inherit = MGL
-            inherit = HNN          
-            inherit = HEI 
-            inherit = GXI
-            inherit = HUI
-            inherit = SXI
-            inherit = RYU
         }
 		ai_will_do = {
 			factor = 1

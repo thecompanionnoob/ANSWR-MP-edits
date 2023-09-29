@@ -14,23 +14,27 @@ political_decisions = {
         allow = {         
             war = no           
             CAT = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            BSQ = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -47,14 +51,12 @@ political_decisions = {
             505 = { add_core = ARN }
             497 = { add_core = ARN }
             CAT = {
-				all_core = { add_core = ARN }
+				all_core = { add_core = ARN secede_province = THIS }
 			}
             BSQ = {
-				all_core = { add_core = ARN }
+				all_core = { add_core = ARN secede_province = THIS }
 			}
-            
-            inherit = CAT
-            inherit = BSQ           
+                 
             add_accepted_culture = basque
             
             

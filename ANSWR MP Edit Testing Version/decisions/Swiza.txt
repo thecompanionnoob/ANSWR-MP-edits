@@ -14,45 +14,53 @@ political_decisions = {
         allow = {         
             war = no           
 	    SIC = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
             APU = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
              TUS = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
             PAR = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -64,21 +72,21 @@ political_decisions = {
         effect = {                
             prestige = 25         
             SIC = {
-				all_core = { add_core = SWI }
+				all_core = { add_core = SWI secede_province = THIS}
 			}
             APU = {
-				all_core = { add_core = SWI }
+				all_core = { add_core = SWI secede_province = THIS}
 			}
             TUS = {
-				all_core = { add_core = SWI }
+				all_core = { add_core = SWI secede_province = THIS}
 			}
             PAR = {
-				all_core = { add_core = SWI }
+				all_core = { add_core = SWI secede_province = THIS}
 			}
-            inherit = SIC
-            inherit = APU
-            inherit = TUS
-            inherit = PAR
+            #inherit = SIC
+            #inherit = APU
+            #inherit = TUS
+            #inherit = PAR
             add_accepted_culture = north_italian
             add_accepted_culture = south_italian
             set_global_flag= Suiza

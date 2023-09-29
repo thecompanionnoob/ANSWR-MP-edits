@@ -12,56 +12,66 @@ political_decisions = {
         allow = {         
             war = no  
             NET = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
              ALS = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
              WES = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
              VLA = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
              RHI = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -76,16 +86,16 @@ political_decisions = {
             prestige = 25
             set_global_flag= Rin
             NET = {
-				all_core = { add_core = RHI }
+				all_core = { add_core = RHI secede_province = THIS }
 			}
             ALS = {
-				all_core = { add_core = RHI }
+				all_core = { add_core = RHI secede_province = THIS }
 			}
             WES = {
-				all_core = { add_core = RHI }
+				all_core = { add_core = RHI secede_province = THIS }
 			}
             VLA = {
-				all_core = { add_core = RHI }
+				all_core = { add_core = RHI secede_province = THIS }
 			}
             
             371 = {
@@ -103,10 +113,6 @@ political_decisions = {
             348 = {
 				remove_core = RHI
 			}
-            inherit = NET
-            inherit = ALS
-            inherit = VLA
-            inherit = WES
             add_accepted_culture = south_german
             add_accepted_culture = dutch
             add_accepted_culture = flanish

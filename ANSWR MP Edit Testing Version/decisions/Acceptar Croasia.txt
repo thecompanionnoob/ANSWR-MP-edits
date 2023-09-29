@@ -13,12 +13,14 @@ political_decisions = {
         allow = {         
             war = no           
             AUS = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -32,7 +34,7 @@ political_decisions = {
             prestige = 15    
             set_global_flag = Croasia		
             CRO = {
-				all_core = { add_core = OUD }
+				all_core = { add_core = OUD add_core = AUS}
 			}         
             add_accepted_culture = croat
         }

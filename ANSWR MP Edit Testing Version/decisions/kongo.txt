@@ -14,56 +14,66 @@ political_decisions = {
         allow = {         
             war = no           
             SOK = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            NGR = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }  
             DAM = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            KBO = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }            
            OYO = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -78,28 +88,20 @@ political_decisions = {
             prestige = 15
             change_tag = KON
             SOK = {
-				all_core = { add_core = KON }
+				all_core = { add_core = KON secede_province = THIS }
 			}
             NGR = {
-				all_core = { add_core = KON }
+				all_core = { add_core = KON secede_province = THIS }
 			}
             OYO = {
-				all_core = { add_core = KON }
+				all_core = { add_core = KON secede_province = THIS }
 			}
             KBO = {
-				all_core = { add_core = KON }
+				all_core = { add_core = KON secede_province = THIS }
 			}
             DAM = {
-				all_core = { add_core = KON }
+				all_core = { add_core = KON secede_province = THIS }
 			}
-            inherit = SOK
-            inherit = OYO
-            inherit = NGR
-            inherit = KBO
-            inherit = DAM
-            
-            
-            
         }
 		ai_will_do = {
 			factor = 1

@@ -11,34 +11,40 @@ political_decisions = {
         allow = {         
             war = no           
             HUN = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
             AUS = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            SER = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -53,18 +59,14 @@ political_decisions = {
             change_tag = DNB
            
             HUN = {
-				all_core = { add_core = DNB }
+				all_core = { add_core = DNB secede_province = THIS }
 			}
             AUS = {
-				all_core = { add_core = DNB }
+				all_core = { add_core = DNB secede_province = THIS }
 			}
            SER = {
-				all_core = { add_core = DNB }
-			}
-            
-            inherit = HUN
-            inherit = AUS
-            inherit = SER    
+				all_core = { add_core = DNB secede_province = THIS }
+			}  
             add_accepted_culture = serb
             add_accepted_culture = austro_german
             add_accepted_culture = slovene
