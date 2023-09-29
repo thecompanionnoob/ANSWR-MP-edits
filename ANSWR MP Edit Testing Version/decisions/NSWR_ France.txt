@@ -78,7 +78,6 @@ political_decisions = {
     picture = france_liberty
         potential = {
         tag = PRP
-        418 = { owned_by = DPA }
         NOT = { has_country_flag = pars_republic_victory }
         }
 
@@ -92,7 +91,7 @@ political_decisions = {
 
         effect = {
             prestige = 20
-            405 = { add_core = PRP }
+            405 = { add_core = PRP remove_core = DPA}
             FRA_418 = { add_core = PRP remove_core = DPA }
             FRA_435 = { add_core = PRP remove_core = DPA }
             FRA_399 = { add_core = PRP remove_core = DPA }
