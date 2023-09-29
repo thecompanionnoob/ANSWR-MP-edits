@@ -63,6 +63,11 @@ late_enlightenment_philosophy = 1
 enlightenment_thought = 1
 piston_steam_engine = 1
 mechanical_production = 1
+water_wheel_power = 1
+publishing_industry = 1
+mechanized_mining = 1
+experimental_railroad = 1
+basic_chemistry = 1
 
 # Inventions
 
@@ -84,6 +89,11 @@ nonstate_consciousness = 0
     enlightenment_thought = 1
     piston_steam_engine = 1
     mechanical_production = 1
+water_wheel_power = 1
+publishing_industry = 1
+mechanized_mining = 1
+experimental_railroad = 1
+basic_chemistry = 1
     post_nelsonian_thought = 1
     the_command_principle = 1
 
