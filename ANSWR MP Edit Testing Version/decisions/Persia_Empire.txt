@@ -58,28 +58,10 @@ political_decisions = {
         effect = {              
             prestige = 25    
             change_tag = PSB  
-            JAM = {
-				all_core = { add_core = PSB }
-			}
             JOR = {
 				all_core = { add_core = PSB }
 			}
             MYS = {
-				all_core = { add_core = PSB }
-			}
-            NSR = {
-				all_core = { add_core = PSB }
-			}
-            ALB = {
-				all_core = { add_core = PSB }
-			}
-            MON = {
-				all_core = { add_core = PSB }
-			}
-            IST = {
-				all_core = { add_core = PSB }
-			}
-            TUR = {
 				all_core = { add_core = PSB }
 			}
             OTA = {
@@ -106,17 +88,18 @@ political_decisions = {
             AZB = {
 				all_core = { add_core = PSB }
 			} 
-            JOR = {
-				all_core = { add_core = PSB }
-			} 
             PER = {
 				all_core = { add_core = PSB }
 			} 
             TCA = {
 				all_core = { add_core = PSB }
 			}
+            NEJ = {
+                all_core = { add_core = PSB }
+            }
             inherit = JOR
-            inherit = MYS      
+            inherit = MYS
+            add_accepted_culture = kurdish       
             
         }
 		ai_will_do = {
