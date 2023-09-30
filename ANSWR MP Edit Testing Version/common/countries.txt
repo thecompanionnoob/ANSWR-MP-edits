@@ -174,7 +174,7 @@ RUS        = "countries/Russia.txt"
 FRA        = "countries/France.txt"
 USA        = "countries/USA.txt"
 TRP        = "countries/Trans-Pacifica.txt"
-CLE        = "countries/Celtic_Union.txt"
+CLE        = "countries/CLE.txt"
 
 ##HPM
 PNK        ="countries/Pontianak.txt"
