@@ -1,0 +1,107 @@
+leader = {
+    name = "Hugh Jackman"
+    date = 2836.1.1
+    type = land
+    personality = merciless
+    background = eccentric_genius
+    prestige = 0.60
+}
+leader = {
+    name = "Chris Hemsworth"
+    date = 2836.1.1
+    type = land
+    personality = cautious
+    background = clueless
+    prestige = 0.05
+}
+leader = {
+    name = "Michael Hudson"
+    date = 2836.1.1
+    type = sea
+    personality = implacable
+    background = expert_raider
+    prestige = 0.05
+}
+
+army = {
+    name = "The Home Guard"
+    location = 2468
+    regiment = {
+        name= "First Sydney Guard"
+        type = guard
+        home = 2468
+    }    regiment = {
+        name= "Melbourne Guard"
+        type = guard
+        home = 2476
+    }    regiment = {
+        name= "Newcastle Guard"
+        type = guard
+        home = 2469
+    }    regiment = {
+        name= "Second Sydney Guard"
+        type = guard
+        home = 2468
+    }    regiment = {
+        name= "First Sydney Artillery"
+        type = artillery
+        home = 2468
+    }    regiment = {
+        name= "Second Sydney Artillery"
+        type = artillery
+        home = 2468
+    }    regiment = {
+        name= "The Light Brigade"
+        type = cuirassier
+        home = 2471
+    }
+}
+army = {
+    name = "The Colonial Guard"
+    location = 1249
+    regiment = {
+        name= "First Colonial Infantry"
+        type = infantry
+        home = 1249
+    }    regiment = {
+        name= "Second Colonial Infantry"
+        type = infantry
+        home = 1249
+    }    regiment = {
+        name= "First Colonial Artillery"
+        type = artillery
+        home = 1262
+	}
+}
+navy = {
+    name = "Australia's Hope "
+    location = 2468
+	ship = {
+        name= "Sydney's Pride"
+        type = manowar
+    }
+	ship = {
+        name= "Sea Lion"
+        type = manowar
+    }
+	ship = {
+        name= "1st Troop ship"
+        type = clipper_transport
+    }
+    ship = {
+        name= "2nd Troop ship"
+        type = clipper_transport
+    }    
+	ship = {
+        name= "3rd Troop ship"
+        type = clipper_transport
+    }    
+	ship = {
+        name= "4th Troop ship"
+        type = clipper_transport
+    }    
+	ship = {
+        name= "5th Troop ship"
+        type = clipper_transport
+    }
+}
