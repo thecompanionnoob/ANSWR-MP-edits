@@ -88,10 +88,7 @@ political_decisions = {
 			}
             TUR = {
 				all_core = { add_core = MCD }
-			}
-            inherit = JAM
-            inherit = NSR
-            inherit = ALB           
+			}          
             add_accepted_culture = greek
 
             

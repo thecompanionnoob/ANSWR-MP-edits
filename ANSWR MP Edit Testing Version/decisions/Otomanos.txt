@@ -13,46 +13,28 @@ political_decisions = {
 
         allow = {         
             war = no           
-            JAM = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }
-           NSR = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }
            IST = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
            TUR = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
@@ -64,20 +46,11 @@ political_decisions = {
         effect = {                
             prestige = 25
             change_tag = OTM     
-            JAM = {
-				all_core = { add_core = OTM }
-			}
-            NSR = {
-				all_core = { add_core = OTM }
-			}
             TUR = {
-				all_core = { add_core = OTM }
+				all_core = { add_core = OTM secede_province = THIS }
 			}
             IST = {
-				all_core = { add_core = OTM }
-			}
-            BUL = {
-				all_core = { add_core = OTM }
+				all_core = { add_core = OTM secede_province = THIS }
 			}
             OTA = {
 				all_core = { add_core = OTM }
@@ -85,19 +58,10 @@ political_decisions = {
             ISR = {
 				all_core = { add_core = OTM }
 			}
-            ALB = {
-				all_core = { add_core = OTM }
-			}
             LBN = {
 				all_core = { add_core = OTM } 
 			}
-            MON = {
-				all_core = { add_core = OTM }
-			}
             ASY = {
-				all_core = { add_core = OTM }
-			}
-            SYC = {
 				all_core = { add_core = OTM }
 			}
             KWT = {
@@ -106,10 +70,6 @@ political_decisions = {
             SYR = {
 				all_core = { add_core = OTM }
 			}
-            inherit = TUR
-            inherit = IST           
-            inherit = JAM
-            inherit = NSR 
             
         }
 		ai_will_do = {

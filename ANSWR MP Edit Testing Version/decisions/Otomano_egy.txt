@@ -21,11 +21,6 @@ political_decisions = {
         effect = {                
             badboy = 5          
             set_global_flag= otomanos
-            1155 = { add_core = OTM }
-            1179 = { add_core = OTM }
-            1178 = { add_core = OTM }
-            1180 = { add_core = OTM }
-            1412 = { add_core = OTM }
             AQS = {
 				all_core = { add_core = OTM }
 			}
@@ -35,6 +30,16 @@ political_decisions = {
             HDJ = {
 				all_core = { add_core = OTM }
 			}
+            KDS = {
+                all_core = { add_core = OTM }
+            }
+            NEJ = {
+                all_core = { add_core = OTM }
+            }
+            OMA = {
+                all_core = { add_core = OTM }
+            }
+
         }
 		ai_will_do = {
 			factor = 1
