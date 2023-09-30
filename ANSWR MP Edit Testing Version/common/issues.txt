@@ -1220,7 +1220,6 @@ military_reforms = {
 			land_organisation = 0.1
 			technology_cost = 9000
 			civilization_progress_modifier = 0.1
-			research_points_on_conquer = 0.05
 
 			allow = {
 				OR = {
@@ -1263,6 +1262,7 @@ military_reforms = {
 			land_defense_modifier = 0.1
 			technology_cost = 11000
 			civilization_progress_modifier = 0.1
+			research_points_on_conquer = 0.25
 
 			on_execute = {
 				effect = {
@@ -1347,7 +1347,7 @@ military_reforms = {
 			leadership_modifier = 0.1
 			technology_cost = 11000
 			civilization_progress_modifier = 0.1
-			research_points_on_conquer = 0.05
+			research_points_on_conquer = 0.25
 			allow = {
 				OR = {
 					ai = no
@@ -1390,6 +1390,7 @@ military_reforms = {
 			land_unit_start_experience = 10
 			technology_cost = 11000
 			civilization_progress_modifier = 0.1
+			research_points_on_conquer = 0.25
 			allow = {
 				NOT = { has_country_flag = lacking_writing_system }
 				OR = {
@@ -1435,7 +1436,6 @@ military_reforms = {
 			tariff_efficiency_modifier = 0.2
 			technology_cost = 12000
 			civilization_progress_modifier = 0.1
-			research_points_on_conquer = 0.05
 
 			allow = {
 				any_owned_province = { port = yes }
@@ -1479,7 +1479,6 @@ military_reforms = {
 			naval_unit_start_experience = 10
 			technology_cost = 12000
 			civilization_progress_modifier = 0.1
-			research_points_on_conquer = 0.05
 
 			allow = {
 				NOT = { has_country_flag = lacking_writing_system }
@@ -1611,6 +1610,7 @@ military_reforms = {
 		yes_foreign_artillery = {
 			technology_cost = 11000
 			civilization_progress_modifier = 0.1
+			research_points_on_conquer = 0.25
 
 			on_execute = {
 				effect = {
