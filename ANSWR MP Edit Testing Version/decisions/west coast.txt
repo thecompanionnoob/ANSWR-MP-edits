@@ -1,0 +1,28 @@
+political_decisions = {
+	annex_arizona = {
+		potential = {
+			tag = LOS
+			NOT = { has_country_flag = arizona_annexed }
+			ARI = {
+				vassal_of = THIS
+			}
+		}
+		allow = {
+			state_n_government = 1
+			ARI = {
+				vassal_of = THIS
+			}
+		}
+		effect = {
+			set_country_flag = arizona_annexed
+			ARI = {
+				annex_to = THIS
+				all_core = {
+					add_core = THIS
+				}
+			}
+			prestige = 15
+		}
+	}
+}
+			
