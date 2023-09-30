@@ -1,0 +1,47 @@
+political_decisions = {    
+	Celtic = {
+		picture = Celtic_Union
+		potential = {
+			OR = {
+				tag = SCO
+				tag = IRE
+			}
+            NOT = { exists = CLE }
+        }
+
+        allow = {
+            war = no
+            IRE = {
+                all_core = {
+						owned_by = THIS
+                        }
+                    }
+            SCO = {
+                all_core = {
+						owned_by = THIS
+                        }
+                    }				
+		}
+        effect = {                
+            prestige = 25
+			change_tag = CLE
+            SCO = {
+				all_core = { add_core = CLE }
+			}
+            IRE = {
+				all_core = { add_core = CLE }
+			}
+            GRN = {
+				all_core = { add_core = CLE }
+            BRT = {
+				all_core = { add_core = CLE }
+			}			
+			}			
+			add_accepted_culture = irish
+			add_accepted_culture = breton
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+}
