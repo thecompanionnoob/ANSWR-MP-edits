@@ -17,7 +17,8 @@ political_decisions = {
                 tag = WYS
                 tag = GNG 
                 tag = CHA 
-                tag = YNN 
+                tag = YNN
+                tag = MCK
             }
             NOT = { exists = CHI }
 			

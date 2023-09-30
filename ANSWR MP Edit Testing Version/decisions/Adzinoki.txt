@@ -63,7 +63,7 @@ political_decisions = {
                 }
             }
         }
-		
+        }
         
 
         effect = {                
@@ -93,3 +93,4 @@ political_decisions = {
 			}
     }
 }
+
