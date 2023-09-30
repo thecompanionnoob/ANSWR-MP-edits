@@ -73,6 +73,13 @@ CRO = {
     color3= { 166 189 199  }
 }
 
+# Circassian Union
+CRU = {
+    color1= { 19 166 29 }
+    color2= { 129 177 125 }
+    color3= { 166 189 199 }
+}
+
 # Cyprus
 CYP = {
     color1= { 78 75 39  }

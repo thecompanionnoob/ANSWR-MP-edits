@@ -1,6 +1,7 @@
 owner = OSE
 controller = OSE
 add_core = OSE
+add_core = CRU
 trade_goods = wool
 life_rating = 35
 colonial = 2

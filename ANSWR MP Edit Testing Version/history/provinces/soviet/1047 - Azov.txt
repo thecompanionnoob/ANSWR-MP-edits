@@ -1,5 +1,6 @@
 owner = DON
 controller = DON
 add_core = DON
+add_core = CRU
 trade_goods = cattle
 life_rating = 35

@@ -3,5 +3,6 @@ controller = WGO
 add_core = WGO
 add_core = TCA
 add_core = GEO
+add_core = CRU
 trade_goods = fruit
 life_rating = 35

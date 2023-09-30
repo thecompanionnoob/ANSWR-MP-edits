@@ -1,0 +1,46 @@
+political_decisions = {
+    CRU = {
+    picture = CRU
+    potential = {
+        tag = AZB   
+        NOT = {
+			exists = CRU
+			
+			}
+    }
+        
+    
+
+        allow = {         
+            war = no           
+            CRU = {
+             all_core = {
+                 OR = {
+                    owned_by = THIS
+                     owner = {
+                        OR = {
+                            in_sphere = THIS
+                            vassal_of = THIS                      
+                        }
+                    }
+                }
+            }
+         }   
+    }
+    
+    
+
+    effect = {                
+        prestige = 25
+        change_tag = CRU
+        CRU = {
+            all_core = { secede_province = THIS }
+        }
+        
+    }
+    ai_will_do = {
+        factor = 1
+        }
+    
+    }
+}

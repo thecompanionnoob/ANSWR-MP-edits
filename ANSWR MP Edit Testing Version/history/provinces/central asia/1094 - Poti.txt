@@ -3,6 +3,7 @@ controller = WGO
 add_core = WGO
 add_core = TCA
 add_core = GEO
+add_core = CRU
 trade_goods = fish
 life_rating = 35
 naval_base = 1
