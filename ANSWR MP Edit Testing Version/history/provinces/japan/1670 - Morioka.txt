@@ -1,5 +1,5 @@
 owner = JIY
 controller = JIY
 add_core = JIY
-trade_goods = sulfer
+trade_goods = sulphur
 life_rating = 35
