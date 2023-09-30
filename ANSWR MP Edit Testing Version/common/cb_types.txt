@@ -1269,6 +1269,7 @@ release_puppet = {
 	
 	po_release_puppet = yes
 	po_add_to_sphere = yes
+	po_add_to_sphere = yes
 
 	war_name = WAR_NAME
 	
@@ -1321,6 +1322,7 @@ sicilian_puppet = {
 	
 	po_release_puppet = yes
 	po_make_puppet = yes
+	po_add_to_sphere = yes
 
 	war_name = WAR_SICILIAN_PUPPET_NAME
 	
@@ -1375,6 +1377,7 @@ make_puppet = {
 	
 	po_release_puppet = yes
 	po_make_puppet = yes
+	po_add_to_sphere = yes
 
 	war_name = WAR_PUPPET_NAME
 	
@@ -1427,6 +1430,7 @@ get_puppet = {
 	
 	po_release_puppet = yes
 	po_make_puppet = yes
+	po_add_to_sphere = yes
 
 	war_name = WAR_GET_PUPPET_NAME
 	
