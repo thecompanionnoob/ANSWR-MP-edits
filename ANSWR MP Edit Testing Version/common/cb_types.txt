@@ -179,12 +179,12 @@ conquest = {
 		OR = {
 			AND = {
 				civilized = yes
-				NOT = { number_of_states = 5 }
+				NOT = { number_of_states = 3 }
 			}
 			AND = {
 			    THIS = {civilized = no}
 				civilized = no
-				NOT = { number_of_states = 5 }
+				NOT = { number_of_states = 3 }
 			}
 		}
 	}
@@ -1773,7 +1773,7 @@ establish_protectorate_casus_belli = {
 	always = no
 	
 	can_use = {
-		NOT = { number_of_states = 7 }
+		NOT = { number_of_states = 4 }
 		THIS = {
 		    civilized = yes
 		}
