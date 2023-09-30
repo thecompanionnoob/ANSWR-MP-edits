@@ -93,6 +93,8 @@ political_decisions = {
             add_accepted_culture = norwegian
             add_accepted_culture = finnish
             add_accepted_culture = danish
+	    add_accepted_culture = scottish_greenlander 
+	    add_accepted_culture = french_greenlander  
         }
 		ai_will_do = {
 			factor = 1
