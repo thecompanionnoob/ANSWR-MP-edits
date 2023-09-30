@@ -452,3 +452,13 @@ ryotwari = {
     administrative_efficiency_modifier = 0.25
     icon = 16
 }
+sanctions = {
+	trigger = {
+		badboy = 1.15
+	}
+	cb_generation_speed_modifier = -0.5
+	global_immigrant_attract = -0.1
+	land_organisation = -0.25
+	tax_efficiency = -0.2
+	war_exhaustion = 0.5
+}
