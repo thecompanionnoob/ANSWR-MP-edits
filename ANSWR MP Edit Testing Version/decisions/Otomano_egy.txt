@@ -19,7 +19,7 @@ political_decisions = {
         
 
         effect = {                
-            badboy = 5          
+            badboy = 25          
             set_global_flag= otomanos
             AQS = {
 				all_core = { add_core = OTM }
@@ -39,6 +39,7 @@ political_decisions = {
             OMA = {
                 all_core = { add_core = OTM }
             }
+            add_accepted_culture = bedouin
 
         }
 		ai_will_do = {
