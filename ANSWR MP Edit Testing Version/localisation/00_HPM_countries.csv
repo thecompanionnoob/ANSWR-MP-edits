@@ -3695,28 +3695,6 @@ PEU_ADJ;Arequipa;;;;;;;;;;;;;,,
 WNN;Winnipeg;;;;;;;;;;;;;,,
 WNN_ADJ;Winnipegan;;;;;;;;;;;;;,,
 CRU;Circassian Union;x;;;;
-CLE_ADJ;Celtic;Celtic;Celtic;;;;;;;;;;;x;
-CLE;Celtic Union;Celtic Union;Celtic Union;;;;;;;;;;;x;
-CLE_proletarian_dictatorship;Peoples Celtic State;Peoples Celtic State;Peoples Celtic State;;;;;;;;;;;x;
-CLE_presidential_dictatorship;Celtic Empire;Celtic Empire;Celtic Empire;;;;;;;;;;;x;
-CLE_bourgeois_dictatorship;Celtic Empire;Celtic Empire;Celtic Empire;;;;;;;;;;;x;
-CLE_fascist_dictatorship;Celtic Empire;Celtic Empire;Celtic Empire;;;;;;;;;;;x;
-CLE_absolute_monarchy;Celtic Empire;Celtic Empire;Celtic Empire;;;;;;;;;;;x;
-CLE_prussian_constitutionalism;Celtic Union;Celtic Union;Celtic Union;;;;;;;;;;;x;
-CLE_hms_government;Celtic Union;Celtic Union;Celtic Union;;;;;;;;;;;x;
-CLE_democracy;Celtic Union;Celtic Union;Celtic Union;;;;;;;;;;;x;
-CLE_trading_republic;Celtic Trading Company;Celtic Trading Company;Celtic Trading Company;;;;;;;;;;;x;
-CLE_theocracy;Gods Celtic Empire;Gods Celtic Empire;Gods Celtic Empire;;;;;;;;;;;x;
-CLE_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
-CLE_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
-CLE_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
-CLE_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
-CLE_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
-CLE_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
-CLE_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
-CLE_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
-CLE_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
-
 CRU_ADJ;Circassian;x;;;;
 CRU_reactionary;Circassia First;x;;;;
 CRU_liberal;Free Circassia;x;;;;
