@@ -40,19 +40,7 @@ political_decisions = {
                     }
                 }
 	         }  
-           POR = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	         }  
+ 
            CLV = {
                 all_core = {
                     OR = {
@@ -96,24 +84,9 @@ political_decisions = {
             DMN = {
 				all_core = { add_core = CST secede_province = THIS}
 			}
-            POR = {
-				all_core = { add_core = CST secede_province = THIS}
-			}
             LIR = {
 				all_core = { add_core = CST secede_province = THIS}
 			}      
-            497 = {
-				remove_core = CST
-			}
-            503 = {
-				remove_core = CST
-			}
-            504 = {
-				remove_core = CST
-			}
-            505 = {
-				remove_core = CST
-			} 
         }
 		ai_will_do = {
 			factor = 1

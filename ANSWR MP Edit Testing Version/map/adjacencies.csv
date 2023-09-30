@@ -150,6 +150,8 @@ From;To;Type;Through;Data;Comment
 1046;1047;sea;2776;0;Chirskaya-Azov 
 1041;1050;sea;2779;0;Elista-Stavropol
 1041;1057;sea;2779;0;Elista-Kizlyar
+837;842;sea;2765;0;Missolonghi-Patras
+834;840;sea;2772;0;Athina-Korinthos
 
 #
 # Asian Straits
@@ -222,6 +224,16 @@ From;To;Type;Through;Data;Comment
 1504;1495;land;2823;0;Pingle-Maoming
 1504;1501;land;2823;0;Pingle-Zhaoqing
 1504;1493;land;2823;0;Pingle-Canton
+1168;2664;sea;2787;0;Dubai-Khasab
+1168;1141;sea;2787;0;Dubai-Lengeh
+2664;1141;sea;2787;0;Khasab-Lengeh
+2664;1142;sea;2787;0;Khasab-Bandar Abbas
+2664;1145;sea;2787;0;Khasab-Jask
+1205;1116;sea;2780;0;Kyzyl-Su-Gorgan
+1205;1150;sea;2780;0;Kyzyl-Su-Bojnurd
+1205;686;sea;2780;0;Kyzyl-Su-Merv
+1192;1196;sea;2780;0;Nukus-Gurgench
+1196;1191;sea;2780;0;Gurgench-Khiva
 
 
 #
