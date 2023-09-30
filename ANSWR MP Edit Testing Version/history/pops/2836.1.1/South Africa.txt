@@ -1466,7 +1466,7 @@
         size = 1100
     }
 
-    farmers = {
+    labourers = {
         culture = sotho
         religion = protestant
         size = 58000

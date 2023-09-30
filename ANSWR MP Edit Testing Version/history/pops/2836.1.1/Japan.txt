@@ -1547,7 +1547,7 @@
         size = 11850
     }
 
-    farmers = {
+    labourers = {
         culture = japanese
         religion = protestant
         size = 156550
@@ -1577,7 +1577,7 @@
         size = 700
     }
 
-    farmers = {
+    labourers = {
         culture = japanese
         religion = protestant
         size = 63750
@@ -1883,7 +1883,7 @@
         size = 4000
     }
 
-    farmers = {
+    labourers = {
         culture = japanese
         religion = protestant
         size = 65900
@@ -1913,7 +1913,7 @@
         size = 325
     }
 
-    farmers = {
+    labourers = {
         culture = japanese
         religion = protestant
         size = 29225
@@ -2163,7 +2163,7 @@
         size = 575
     }
 
-    farmers = {
+    labourers = {
         culture = japanese
         religion = protestant
         size = 50975
@@ -2193,7 +2193,7 @@
         size = 225
     }
 
-    farmers = {
+    labourers = {
         culture = japanese
         religion = protestant
         size = 20950
@@ -2225,7 +2225,7 @@
         size = 700
     }
 
-    farmers = {
+    labourers = {
         culture = japanese
         religion = protestant
         size = 63800
@@ -2255,7 +2255,7 @@
         size = 300
     }
 
-    farmers = {
+    labourers = {
         culture = japanese
         religion = protestant
         size = 26400
@@ -2287,7 +2287,7 @@
         size = 650
     }
 
-    farmers = {
+    labourers = {
         culture = japanese
         religion = protestant
         size = 57400
@@ -2317,7 +2317,7 @@
         size = 300
     }
 
-    farmers = {
+    labourers = {
         culture = japanese
         religion = protestant
         size = 27325

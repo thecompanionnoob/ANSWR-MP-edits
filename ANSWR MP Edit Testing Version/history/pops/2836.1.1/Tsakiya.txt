@@ -832,17 +832,17 @@
         size = 43000
     }
 
-    farmers = {
+    labourers = {
         culture = tsakiya
         religion = protestant
         size = 8220
     }
-    farmers = {
+    labourers = {
         culture = tsakiya
         religion = protestant
         size = 4325
     }
-    farmers = {
+    labourers = {
         culture = tsakiya
         religion = protestant
         size = 41225
@@ -2250,19 +2250,19 @@
         size = 3950
     }
 
-    farmers = {
+    labourers = {
         culture = tsakiya
         religion = protestant
         size = 92550
     }
 
-    farmers = {
+    labourers = {
         culture = tsakiya
         religion = protestant
         size = 24500
     }
 
-    farmers = {
+    labourers = {
         culture = tsakiya
         religion = protestant
         size = 61250

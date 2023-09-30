@@ -3,5 +3,5 @@ controller = SHO
 add_core = SHO
 add_core = MAD
 terrain = jungle
-trade_goods = fruit
+trade_goods = coal
 life_rating = 35

@@ -39,7 +39,7 @@
         size = 500
     }
 
-    farmers = {
+    labourers = {
         culture = tuareg
         religion = protestant
         size = 10000
@@ -81,7 +81,7 @@
         size = 500
     }
 
-    farmers = {
+    labourers = {
         culture = tuareg
         religion = protestant
         size = 13458
@@ -111,7 +111,7 @@
         size = 500
     }
 
-    farmers = {
+    labourers = {
         culture = tuareg
         religion = protestant
         size = 9000

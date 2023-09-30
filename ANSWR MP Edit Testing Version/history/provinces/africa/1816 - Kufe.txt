@@ -1,6 +1,6 @@
 owner = DAM
 controller = DAM
 add_core = DAM
-trade_goods = grain
+trade_goods = sulfer
 life_rating = 32
 terrain = semidesert

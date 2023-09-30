@@ -190,7 +190,7 @@
         size = 5000
     }
 
-    farmers = {
+    labourers = {
         culture = tigray
         religion = protestant
         size = 113500
@@ -220,7 +220,7 @@
         size = 4810
     }
 
-    farmers = {
+    labourers = {
         culture = tigray
         religion = protestant
         size = 7750
@@ -1162,7 +1162,7 @@
         religion = protestant
         size = 1100
     }
-    farmers = {
+    labourers = {
         culture = tigray
         religion = protestant
         size = 20850
@@ -1198,7 +1198,7 @@
         size = 240
     }
 
-    farmers = {
+    labourers = {
         culture = tigray
         religion = protestant
         size = 57500
@@ -1216,7 +1216,7 @@
         size = 435
     }
 
-    farmers = {
+    labourers = {
         culture = tigray
         religion = protestant
         size = 41000

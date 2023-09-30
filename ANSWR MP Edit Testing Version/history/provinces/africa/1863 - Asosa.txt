@@ -2,5 +2,5 @@ owner = ETH
 controller = ETH
 add_core = ETH
 add_core = HAR
-trade_goods = cattle
+trade_goods = iron
 life_rating = 35

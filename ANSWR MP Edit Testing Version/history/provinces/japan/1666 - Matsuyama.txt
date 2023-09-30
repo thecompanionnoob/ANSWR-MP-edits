@@ -1,5 +1,5 @@
 owner = NIH
 controller = NIH
 add_core = NIH
-trade_goods = wool
+trade_goods = coal
 life_rating = 35

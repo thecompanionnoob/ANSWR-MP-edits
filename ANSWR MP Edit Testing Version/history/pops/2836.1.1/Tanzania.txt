@@ -827,7 +827,7 @@
         size = 350
     }
 
-    farmers = {
+    labourers = {
         culture = unyamwezi
         religion = protestant
         size = 20225
@@ -857,7 +857,7 @@
         size = 75
     }
 
-    farmers = {
+    labourers = {
         culture = swahili
         religion = protestant
         size = 3525
@@ -887,7 +887,7 @@
         size = 150
     }
 
-    farmers = {
+    labourers = {
         culture = kilombero
         religion = protestant
         size = 12825
@@ -923,7 +923,7 @@
         size = 25
     }
 
-    farmers = {
+    labourers = {
         culture = sukuma
         religion = protestant
         size = 2700
