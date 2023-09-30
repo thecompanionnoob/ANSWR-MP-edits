@@ -51,7 +51,6 @@ foreign_naval_officers = yes_foreign_naval_officers
 naval_schools = yes_naval_schools
 foreign_navies = yes_foreign_navies
 western_shipyards = yes_western_shipyards
-foreign_weapons = yes_foreign_weapons
 
 # Technologies
 flintlock_rifles = 1
