@@ -300,6 +300,15 @@ political_decisions = {
             ION = {
 				all_core = { add_core = HAE secede_province = THIS }
 			}
+            PRT = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            OLD = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            BRE = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}			
             add_accepted_culture = perther
             add_accepted_culture = eyre
             add_accepted_culture = australian
