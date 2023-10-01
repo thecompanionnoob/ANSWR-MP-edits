@@ -24,7 +24,7 @@ party = {
     ideology = liberal
 
     social_policy = no_position_set
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = protectionism
     religious_policy = pluralism
     citizenship_policy = full_citizenship
@@ -54,7 +54,7 @@ party = {
     ideology = anarcho_liberal
 
     social_policy = no_state_interference
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pro_atheism
     citizenship_policy = full_citizenship
@@ -120,10 +120,10 @@ unit_names = {
         "Mali Srpan" "Veliki Srpan" Prosinec "Mali Traven" "Veliki Traven"
     }
     frigate = {
-        "Miroslav Stumberger" "Ivan Grohar" "Jožef Tominc" "Matija Cop" "Anton Tomaž Linhart"
+        "Miroslav Stumberger" "Ivan Grohar" "Joï¿½ef Tominc" "Matija Cop" "Anton Tomaï¿½ Linhart"
     }
     monitor = {
-        Ivana Metka Štefka Duša Nataša
+        Ivana Metka ï¿½tefka Duï¿½a Nataï¿½a
     }
     clipper_transport = {
 
@@ -134,6 +134,6 @@ unit_names = {
 
     }
     commerce_raider = {
-        "Blejsko Jezero" "Blejski Grad" "Tržaški Zaliv" Karavanke Kras
+        "Blejsko Jezero" "Blejski Grad" "Trï¿½aï¿½ki Zaliv" Karavanke Kras
     }
 }

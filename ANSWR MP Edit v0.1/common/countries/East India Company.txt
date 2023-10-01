@@ -39,7 +39,7 @@ party = {
     ideology = liberal
 
     social_policy = colonial_spending_policy
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pluralism
     citizenship_policy = residency
@@ -69,7 +69,7 @@ party = {
     ideology = anarcho_liberal
 
     social_policy = colonial_spending_policy
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pro_atheism
     citizenship_policy = full_citizenship

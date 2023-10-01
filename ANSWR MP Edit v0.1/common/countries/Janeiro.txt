@@ -84,7 +84,7 @@ party = {
     ideology = liberal
 
     social_policy = no_position_set
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = secularized
     citizenship_policy = full_citizenship
@@ -99,7 +99,7 @@ party = {
     ideology = anarcho_liberal
 
     social_policy = no_state_interference
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pro_atheism
     citizenship_policy = full_citizenship
@@ -159,24 +159,24 @@ unit_names = {
 
     }
     ironclad = {
-            Brasil Tamandaré "Mariz e Barros" Colombo Bahia "Rio Grande Do Norte" Alagoas
+            Brasil Tamandarï¿½ "Mariz e Barros" Colombo Bahia "Rio Grande Do Norte" Alagoas
             "Espirito Santo" Fonseca
     }
     manowar = {
-            "Primeiro De Março" Paraíba Guanabara Trajano "Vital De Oliveira" Niterói
-            Sergipe Paraná Greenhalgh Macapá
+            "Primeiro De Marï¿½o" Paraï¿½ba Guanabara Trajano "Vital De Oliveira" Niterï¿½i
+            Sergipe Paranï¿½ Greenhalgh Macapï¿½
     }
     cruiser = {
-            "Almirante Barrozo" República "Almirante Tamandaré" "Benjamin Constant" Aquidaban
+            "Almirante Barrozo" Repï¿½blica "Almirante Tamandarï¿½" "Benjamin Constant" Aquidaban
             Riachuelo Toneleros Fortaleza Tiradentes
     }
     frigate = {
-            "Almirante Saldanha" Pernambuco Inhauma Jaceguay Frontin "Julio De Noronha" Niterói
-            Uniao Belém Vigia
+            "Almirante Saldanha" Pernambuco Inhauma Jaceguay Frontin "Julio De Noronha" Niterï¿½i
+            Uniao Belï¿½m Vigia
     }
     monitor = {
-            Javary Solimões "Sete de Setembro" Ipiranga Independência  "Mato Grosso" Maranhão
-            GuanaBara Ceará Humaitá
+            Javary Solimï¿½es "Sete de Setembro" Ipiranga Independï¿½ncia  "Mato Grosso" Maranhï¿½o
+            GuanaBara Cearï¿½ Humaitï¿½
     }
     clipper_transport = {
 
@@ -185,7 +185,7 @@ unit_names = {
 
     }
     commerce_raider = {
-            Belmonte Jequitinhonha Amazonas Beberibe Iguatemi Mearim Araguari Parnaíba Cabral
+            Belmonte Jequitinhonha Amazonas Beberibe Iguatemi Mearim Araguari Parnaï¿½ba Cabral
             Barroso Herval Silvado "Lima Barros"
     }
 }

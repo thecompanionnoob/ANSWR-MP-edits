@@ -8,7 +8,7 @@ party = {
     ideology = liberal
 
     social_policy = no_position_set
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pluralism
     citizenship_policy = limited_citizenship
@@ -53,7 +53,7 @@ party = {
     ideology = liberal
 
     social_policy = no_position_set
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pluralism
     citizenship_policy = full_citizenship
@@ -83,7 +83,7 @@ party = {
     ideology = liberal
 
     social_policy = no_position_set
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pluralism
     citizenship_policy = full_citizenship
@@ -113,7 +113,7 @@ party = {
     ideology = liberal
 
     social_policy = no_position_set
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pluralism
     citizenship_policy = full_citizenship
@@ -158,7 +158,7 @@ party = {
     ideology = anarcho_liberal
 
     social_policy = no_state_interference
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pro_atheism
     citizenship_policy = full_citizenship
@@ -212,32 +212,32 @@ party = {
 
 unit_names = {
     dreadnought = {
-        "Francisco del Rosario" "Gregorio Luperón" "Hermanos de la Concha" "Hermanos Puello" "Juan A. Acosta" "Juan B. Cambiaso" "Juan B. Maggiolo" "Juan Pablo Duarte" "Matías R. Mella" "Vicente C. Duarte"
+        "Francisco del Rosario" "Gregorio Luperï¿½n" "Hermanos de la Concha" "Hermanos Puello" "Juan A. Acosta" "Juan B. Cambiaso" "Juan B. Maggiolo" "Juan Pablo Duarte" "Matï¿½as R. Mella" "Vicente C. Duarte"
     }
     ironclad = {
-        Bahoruco Desolación Destrucción "El Pavor" "El Terror" "La Bombarda" Neiba Samana "Siete Cabezas" Yamasa
+        Bahoruco Desolaciï¿½n Destrucciï¿½n "El Pavor" "El Terror" "La Bombarda" Neiba Samana "Siete Cabezas" Yamasa
     }
     manowar = {
-        Cibao "Diecinueve de Marzo" "La Merced" Leonor Libertad "María Chica" "Separación Dominicana" "Siete de Julio" "Veintisiete de Febrero" Victoria
+        Cibao "Diecinueve de Marzo" "La Merced" Leonor Libertad "Marï¿½a Chica" "Separaciï¿½n Dominicana" "Siete de Julio" "Veintisiete de Febrero" Victoria
     }
     cruiser = {
-        Barahona Duarte Independencia "La Vega" Montecristi "Puerto Plata" Restauración "San Cristóbal" "Sánchez Ramírez" "Santo Domingo"
+        Barahona Duarte Independencia "La Vega" Montecristi "Puerto Plata" Restauraciï¿½n "San Cristï¿½bal" "Sï¿½nchez Ramï¿½rez" "Santo Domingo"
     }
     frigate = {
-        "Cristóbal Colón" "Diego de Ocampo" Dios "Grito de Capoyillo" "La Española" Libertad Patria Taíno "Trabucazo de Mella" Trinitaria
+        "Cristï¿½bal Colï¿½n" "Diego de Ocampo" Dios "Grito de Capoyillo" "La Espaï¿½ola" Libertad Patria Taï¿½no "Trabucazo de Mella" Trinitaria
     }
     monitor = {
-        Azua Beller "El Memiso" "El Número" "La Estrelleta" "Las Carreras" "Puerto Tortuguero" "Sabana Larga" Santiago Santomé
+        Azua Beller "El Memiso" "El Nï¿½mero" "La Estrelleta" "Las Carreras" "Puerto Tortuguero" "Sabana Larga" Santiago Santomï¿½
     }
     clipper_transport = {
         Bajabonico Boa Carey Carpintero Cocodrilo Cotorra "Culebra Verde" Enriquillo Flamenco Gaviota
-        Higuamo Limóm Ozama Romana "San Juan" Soco "Yaque del Norte" "Yaque del Sur" Yuma Yuna
+        Higuamo Limï¿½m Ozama Romana "San Juan" Soco "Yaque del Norte" "Yaque del Sur" Yuma Yuna
     }
     steam_transport = {
         Bajabonico Boa Carey Carpintero Cocodrilo Cotorra "Culebra Verde" Enriquillo Flamenco Gaviota
-        Higuamo Limóm Ozama Romana "San Juan" Soco "Yaque del Norte" "Yaque del Sur" Yuma Yuna
+        Higuamo Limï¿½m Ozama Romana "San Juan" Soco "Yaque del Norte" "Yaque del Sur" Yuma Yuna
     }
     commerce_raider = {
-        Agustina Boba Dejabón Desesperación Incontrolable Josefa Juana Julia Nigua Ocoa
+        Agustina Boba Dejabï¿½n Desesperaciï¿½n Incontrolable Josefa Juana Julia Nigua Ocoa
     }
 }

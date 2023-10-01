@@ -39,7 +39,7 @@ party = {
     ideology = liberal
 
     social_policy = no_position_set
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pluralism
     citizenship_policy = limited_citizenship
@@ -99,7 +99,7 @@ party = {
     ideology = anarcho_liberal
 
     social_policy = no_state_interference
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pro_atheism
     citizenship_policy = full_citizenship
@@ -138,41 +138,41 @@ party = {
 
 unit_names = {
     dreadnought = {
-        Toscana Etruria "Cosimo de' Medici" "Leopoldo di Lorrena" "Niccolò Machiavelli" "Lorenzo Il Magnifico" "San Stefano"
+        Toscana Etruria "Cosimo de' Medici" "Leopoldo di Lorrena" "Niccolï¿½ Machiavelli" "Lorenzo Il Magnifico" "San Stefano"
         Firenze Pisa Siena Livorno Pistoia Prato Arezzo Cortona "San Gimignano" "San Miniato" Volterra Montalcino Montepulciano Pescia
         Portoferraio Grosseto Pontremoli Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco
         Favorita Nereide Patrona Rondinella Serpente Tritone Veloce Vigilante Zeffiro
 
     }
     ironclad = {
-        Toscana Etruria "Cosimo de' Medici" "Leopoldo di Lorrena" "Niccolò Machiavelli" "Lorenzo Il Magnifico" "San Stefano"
+        Toscana Etruria "Cosimo de' Medici" "Leopoldo di Lorrena" "Niccolï¿½ Machiavelli" "Lorenzo Il Magnifico" "San Stefano"
         Firenze Pisa Siena Livorno Pistoia Prato Arezzo Cortona "San Gimignano" "San Miniato" Volterra Montalcino Montepulciano Pescia
         Portoferraio Grosseto Pontremoli Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco
         Favorita Nereide Patrona Rondinella Serpente Tritone Veloce Vigilante Zeffiro
 
     }
     manowar = {
-        Toscana Etruria "Cosimo de' Medici" "Leopoldo di Lorrena" "Niccolò Machiavelli" "Lorenzo Il Magnifico" "San Stefano"
+        Toscana Etruria "Cosimo de' Medici" "Leopoldo di Lorrena" "Niccolï¿½ Machiavelli" "Lorenzo Il Magnifico" "San Stefano"
         Firenze Pisa Siena Livorno Pistoia Prato Arezzo Cortona "San Gimignano" "San Miniato" Volterra Montalcino Montepulciano Pescia
         Portoferraio Grosseto Pontremoli Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco
         Favorita Nereide Patrona Rondinella Serpente Tritone Veloce Vigilante Zeffiro
 
     }
     cruiser = {
-        Toscana Etruria "Cosimo de' Medici" "Leopoldo di Lorrena" "Niccolò Machiavelli" "Lorenzo Il Magnifico" "San Stefano"
+        Toscana Etruria "Cosimo de' Medici" "Leopoldo di Lorrena" "Niccolï¿½ Machiavelli" "Lorenzo Il Magnifico" "San Stefano"
         Firenze Pisa Siena Livorno Pistoia Prato Arezzo Cortona "San Gimignano" "San Miniato" Volterra Montalcino Montepulciano Pescia
         Portoferraio Grosseto Pontremoli Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco
         Favorita Nereide Patrona Rondinella Serpente Tritone Veloce Vigilante Zeffiro
 
     }
     frigate = {
-        Toscana Etruria "Cosimo de' Medici" "Leopoldo di Lorrena" "Niccolò Machiavelli" "Lorenzo Il Magnifico" "San Stefano"
+        Toscana Etruria "Cosimo de' Medici" "Leopoldo di Lorrena" "Niccolï¿½ Machiavelli" "Lorenzo Il Magnifico" "San Stefano"
         Firenze Pisa Siena Livorno Pistoia Prato Arezzo Cortona "San Gimignano" "San Miniato" Volterra Montalcino Montepulciano Pescia
         Portoferraio Grosseto Pontremoli Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco
         Favorita Nereide Patrona Rondinella Serpente Tritone Veloce Vigilante Zeffiro
     }
     monitor = {
-        Toscana Etruria "Cosimo de' Medici" "Leopoldo di Lorrena" "Niccolò Machiavelli" "Lorenzo Il Magnifico" "San Stefano"
+        Toscana Etruria "Cosimo de' Medici" "Leopoldo di Lorrena" "Niccolï¿½ Machiavelli" "Lorenzo Il Magnifico" "San Stefano"
         Firenze Pisa Siena Livorno Pistoia Prato Arezzo Cortona "San Gimignano" "San Miniato" Volterra Montalcino Montepulciano Pescia
         Portoferraio Grosseto Pontremoli Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco
         Favorita Nereide Patrona Rondinella Serpente Tritone Veloce Vigilante Zeffiro
@@ -184,7 +184,7 @@ unit_names = {
 
     }
     commerce_raider = {
-        Toscana Etruria "Cosimo de' Medici" "Leopoldo di Lorrena" "Niccolò Machiavelli" "Lorenzo Il Magnifico" "San Stefano"
+        Toscana Etruria "Cosimo de' Medici" "Leopoldo di Lorrena" "Niccolï¿½ Machiavelli" "Lorenzo Il Magnifico" "San Stefano"
         Firenze Pisa Siena Livorno Pistoia Prato Arezzo Cortona "San Gimignano" "San Miniato" Volterra Montalcino Montepulciano Pescia
         Portoferraio Grosseto Pontremoli Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco
         Favorita Nereide Patrona Rondinella Serpente Tritone Veloce Vigilante Zeffiro

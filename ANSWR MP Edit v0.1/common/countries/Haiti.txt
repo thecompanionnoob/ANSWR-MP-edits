@@ -23,7 +23,7 @@ party = {
     ideology = liberal
 
     social_policy = no_position_set
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = secularized
     citizenship_policy = full_citizenship
@@ -53,7 +53,7 @@ party = {
     ideology = anarcho_liberal
 
     social_policy = no_state_interference
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pro_atheism
     citizenship_policy = full_citizenship
@@ -107,28 +107,28 @@ party = {
 
 unit_names = {
     dreadnought = {
-        "Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jérémie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
+        "Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jï¿½rï¿½mie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
         "Baron Samedi" Calypso "Reine Mojo" Baka "Odu Bodagris" Dambala
 
     }
     ironclad = {
-        "Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jérémie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
+        "Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jï¿½rï¿½mie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
         "Baron Samedi" Calypso "Reine Mojo" Baka "Odu Bodagris" Dambala
     }
     manowar = {
-        "Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jérémie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
+        "Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jï¿½rï¿½mie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
         "Baron Samedi" Calypso "Reine Mojo" Baka "Odu Bodagris" Dambala
     }
     cruiser = {
-        "Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jérémie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
+        "Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jï¿½rï¿½mie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
         "Baron Samedi" Calypso "Reine Mojo" Baka "Odu Bodagris" Dambala
     }
     frigate = {
-        "Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jérémie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
+        "Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jï¿½rï¿½mie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
         "Baron Samedi" Calypso "Reine Mojo" Baka "Odu Bodagris" Dambala
     }
     monitor = {
-        "Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jérémie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
+        "Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jï¿½rï¿½mie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
         "Baron Samedi" Calypso "Reine Mojo" Baka "Odu Bodagris" Dambala
     }
     clipper_transport = {
@@ -138,7 +138,7 @@ unit_names = {
 
     }
     commerce_raider = {
-        "Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jérémie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
+        "Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jï¿½rï¿½mie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
         "Baron Samedi" Calypso "Reine Mojo" Baka "Odu Bodagris" Dambala
     }
 }

@@ -24,7 +24,7 @@ party = {
     ideology = liberal
 
     social_policy = no_position_set
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = protectionism
     religious_policy = pluralism
     citizenship_policy = full_citizenship
@@ -54,7 +54,7 @@ party = {
     ideology = anarcho_liberal
 
     social_policy = no_state_interference
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pro_atheism
     citizenship_policy = full_citizenship
@@ -108,7 +108,7 @@ party = {
 
 unit_names = {
     dreadnought = {
-        "Crna Gora" Podgorica Nikšic Pljevlja Bijelo Polje
+        "Crna Gora" Podgorica Nikï¿½ic Pljevlja Bijelo Polje
     }
     ironclad = {
         Mihailo "Konstantin Bodin" "Petar II" Nikola
@@ -132,6 +132,6 @@ unit_names = {
 
     }
     commerce_raider = {
-        Mamula Prevlaka "Sveti Marko" "Gospa od Škrpjela" "Sveti Ðorde"
+        Mamula Prevlaka "Sveti Marko" "Gospa od ï¿½krpjela" "Sveti ï¿½orde"
     }
 }

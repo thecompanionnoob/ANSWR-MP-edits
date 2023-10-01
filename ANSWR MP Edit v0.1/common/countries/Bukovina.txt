@@ -84,7 +84,7 @@ party = {
     ideology = anarcho_liberal
 
     social_policy = no_state_interference
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = secularized
     citizenship_policy = full_citizenship
@@ -168,26 +168,26 @@ party = {
 
 unit_names = {
     dreadnought = {
-        Bukovina Cernauti "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Râul Prut" Suceava "Târgul Moldovei" Vaslui
+        Bukovina Cernauti "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Rï¿½ul Prut" Suceava "Tï¿½rgul Moldovei" Vaslui
 
     }
     ironclad = {
-        Bukovina Cernauti "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Râul Prut" Suceava "Târgul Moldovei" Vaslui
+        Bukovina Cernauti "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Rï¿½ul Prut" Suceava "Tï¿½rgul Moldovei" Vaslui
     }
     manowar = {
-        Bukovina Cernauti "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Râul Prut" Suceava "Târgul Moldovei" Vaslui
+        Bukovina Cernauti "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Rï¿½ul Prut" Suceava "Tï¿½rgul Moldovei" Vaslui
 
     }
     cruiser = {
-        Bukovina Cernauti "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Râul Prut" Suceava "Târgul Moldovei" Vaslui
+        Bukovina Cernauti "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Rï¿½ul Prut" Suceava "Tï¿½rgul Moldovei" Vaslui
 
     }
     frigate = {
-        Bukovina Cernauti "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Râul Prut" Suceava "Târgul Moldovei" Vaslui
+        Bukovina Cernauti "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Rï¿½ul Prut" Suceava "Tï¿½rgul Moldovei" Vaslui
 
     }
     monitor = {
-        Bukovina Cernauti "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Râul Prut" Suceava "Târgul Moldovei" Vaslui
+        Bukovina Cernauti "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Rï¿½ul Prut" Suceava "Tï¿½rgul Moldovei" Vaslui
 
     }
     clipper_transport = {
@@ -197,7 +197,7 @@ unit_names = {
 
     }
     commerce_raider = {
-        Bukovina Cernauti "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Râul Prut" Suceava "Târgul Moldovei" Vaslui
+        Bukovina Cernauti "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Rï¿½ul Prut" Suceava "Tï¿½rgul Moldovei" Vaslui
 
     }
 }

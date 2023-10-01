@@ -24,7 +24,7 @@ party = {
     ideology = liberal
 
     social_policy = no_position_set
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = protectionism
     religious_policy = pluralism
     citizenship_policy = full_citizenship
@@ -54,7 +54,7 @@ party = {
     ideology = anarcho_liberal
 
     social_policy = no_state_interference
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pro_atheism
     citizenship_policy = full_citizenship
@@ -111,7 +111,7 @@ unit_names = {
         Hrvatska "Maksimilijan Vrhovac" "Ilirski pokret" Slavonija Zagreb
     }
     ironclad = {
-        Osijek  "Janko Draškovic" "Antun Mihanovic" "Ljudevit Gaj" Rijeka
+        Osijek  "Janko Draï¿½kovic" "Antun Mihanovic" "Ljudevit Gaj" Rijeka
     }
     manowar = {
         Sava Drava Kupa Korana Cesma
@@ -120,7 +120,7 @@ unit_names = {
         "Ivan Lupis" "Janko Vukovic" "Matija Politeo" "Ante Tresic Pavicic" Branimir
     }
     frigate = {
-        Dinara Kamešnica Biokovo Velebit Plješevica
+        Dinara Kameï¿½nica Biokovo Velebit Pljeï¿½evica
     }
     monitor = {
         Dubrovnik Ragusa Split Pula Gospic
@@ -134,6 +134,6 @@ unit_names = {
 
     }
     commerce_raider = {
-        Krk Brijuni Lošinj Cres Ilovik
+        Krk Brijuni Loï¿½inj Cres Ilovik
     }
 }

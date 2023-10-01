@@ -24,7 +24,7 @@ party = {
     ideology = liberal
 
     social_policy = no_position_set
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = secularized
     citizenship_policy = full_citizenship
@@ -99,7 +99,7 @@ party = {
     ideology = anarcho_liberal
 
     social_policy = no_state_interference
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pro_atheism
     citizenship_policy = full_citizenship
@@ -143,7 +143,7 @@ unit_names = {
         "Jakob Mora" "Jan III Sobieski"
     }
     ironclad = {
-        Kraków Warszawa Lódz Poznan Wroclaw Lwów Gdansk
+        Krakï¿½w Warszawa Lï¿½dz Poznan Wroclaw Lwï¿½w Gdansk
     }
     manowar = {
         Wisla Odra Warta Narew San Notec Bug

@@ -24,7 +24,7 @@ party = {
     ideology = liberal
 
     social_policy = no_position_set
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = protectionism
     religious_policy = pluralism
     citizenship_policy = full_citizenship
@@ -54,7 +54,7 @@ party = {
     ideology = anarcho_liberal
 
     social_policy = no_state_interference
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pro_atheism
     citizenship_policy = full_citizenship
@@ -108,22 +108,22 @@ party = {
 
 unit_names = {
     dreadnought = {
-        "Anton Bernolák" "Ludovít Štúr" "Michal Miloslav Hodža" "Ján Hollý" Povstanie
+        "Anton Bernolï¿½k" "Ludovï¿½t ï¿½tï¿½r" "Michal Miloslav Hodï¿½a" "Jï¿½n Hollï¿½" Povstanie
     }
     ironclad = {
-        Bratislava Košice Prešov Žilina Nitra
+        Bratislava Koï¿½ice Preï¿½ov ï¿½ilina Nitra
     }
     manowar = {
-        Beskydok "Gerlachovský štít" Rysy Ostrá Záruby
+        Beskydok "Gerlachovskï¿½ ï¿½tï¿½t" Rysy Ostrï¿½ Zï¿½ruby
     }
     cruiser = {
-        Beskydok "Gerlachovský štít" Rysy Ostrá Záruby
+        Beskydok "Gerlachovskï¿½ ï¿½tï¿½t" Rysy Ostrï¿½ Zï¿½ruby
     }
     frigate = {
         Hron Bodrog Dunajec Ipel Tisa
     }
     monitor = {
-        "Majster košického oltára" "Josef Czauczik" "Lajos Csordák" "Karol Ludovít Libay" "Július Jakoby"
+        "Majster koï¿½ickï¿½ho oltï¿½ra" "Josef Czauczik" "Lajos Csordï¿½k" "Karol Ludovï¿½t Libay" "Jï¿½lius Jakoby"
     }
     clipper_transport = {
 
@@ -132,6 +132,6 @@ unit_names = {
 
     }
     commerce_raider = {
-        "Bojnický zámok" "Bratislavsky hrad" "Devínsky hrad" "Nový zámok" "Starý zámok"
+        "Bojnickï¿½ zï¿½mok" "Bratislavsky hrad" "Devï¿½nsky hrad" "Novï¿½ zï¿½mok" "Starï¿½ zï¿½mok"
     }
 }

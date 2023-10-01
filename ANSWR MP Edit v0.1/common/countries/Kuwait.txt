@@ -24,7 +24,7 @@ party = {
     ideology = liberal
 
     social_policy = no_position_set
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pluralism
     citizenship_policy = limited_citizenship
@@ -54,7 +54,7 @@ party = {
     ideology = anarcho_liberal
 
     social_policy = no_state_interference
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pro_atheism
     citizenship_policy = full_citizenship
@@ -109,33 +109,33 @@ party = {
 unit_names = {
     dreadnought = {
         "Kuwait" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah"
-        "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah"
+        "Al Amarah" "Al Kï¿½t" "Sulaimanya" "Al Najaf" "Al Basrah"
 
 
     }
     ironclad = {
         "Kuwait" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah"
-        "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah"
+        "Al Amarah" "Al Kï¿½t" "Sulaimanya" "Al Najaf" "Al Basrah"
 
     }
     manowar = {
         "Kuwait" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah"
-        "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah"
+        "Al Amarah" "Al Kï¿½t" "Sulaimanya" "Al Najaf" "Al Basrah"
 
     }
     cruiser = {
         "Kuwait" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah"
-        "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah"
+        "Al Amarah" "Al Kï¿½t" "Sulaimanya" "Al Najaf" "Al Basrah"
 
     }
     frigate = {
         "Kuwait" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah"
-        "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah"
+        "Al Amarah" "Al Kï¿½t" "Sulaimanya" "Al Najaf" "Al Basrah"
 
     }
     monitor = {
         "Kuwait" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah"
-        "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah"
+        "Al Amarah" "Al Kï¿½t" "Sulaimanya" "Al Najaf" "Al Basrah"
 
     }
     clipper_transport = {
@@ -146,7 +146,7 @@ unit_names = {
     }
     commerce_raider = {
         "Kuwait" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah"
-        "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah"
+        "Al Amarah" "Al Kï¿½t" "Sulaimanya" "Al Najaf" "Al Basrah"
 
     }
 }
