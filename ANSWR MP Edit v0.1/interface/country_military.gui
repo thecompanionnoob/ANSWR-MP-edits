@@ -96,37 +96,37 @@ guiTypes = {
 		#Mobilise info.		
 		guiButtonType = {
 			name = "mobilize"
-			quadTextureSprite = "GFX_button_standard_130x36"
+			quadTextureSprite = "GFX_button_standard_200"
 			buttonFont = "vic_18_black"
 			buttonText = "MOBILISE"
 			Orientation = "UPPER_LEFT"
 			clicksound = click
-			position = { x= 355 y = 564 }
+			position = { x= 403 y = 555 }
 		}
 		guiButtonType = {
 			name = "demobilize"
-			quadTextureSprite = "GFX_button_standard_130x36"
+			quadTextureSprite = "GFX_button_standard_200"
 			buttonFont = "vic_18_black"
 			buttonText = "DEMOBILISE"
 			Orientation = "UPPER_LEFT"
 			clicksound = click
-			position = { x= 355 y = 564 }
+			position = { x= 403 y = 555 }
 		}
 		iconType = {
 			name = "mobilize_progress"
 			spriteType = "GFX_mobilize_progress"
-			position = { x = 489 y = 575 }
+			position = { x = 408 y = 591 }
 		}
 
 		iconType = {
 			name = "mobilize_progress_frame"
 			spriteType = "GFX_mobilization_progress_frame"
-			position = { x = 487 y = 573 }
+			position = { x = 406 y = 589 }
 		}
 		
 		instantTextBoxType = { 
 			name = "mobilize_progress_text"
-			position = { x = 474 y = 574 }
+			position = { x = 393 y = 590 }
 			font = "vic_18_black"
 			maxWidth = 218
 			maxHeight = 20	
@@ -135,7 +135,7 @@ guiTypes = {
 		
 		instantTextBoxType = { 
 			name = "mob_size_label"
-			position = { x = 692 y = 563 }
+			position = { x = 635 y = 563 }
 			font = "vic_18_black"
 			text = "MOB_SIZE_LABEL"	
 			maxWidth = 280
@@ -143,7 +143,7 @@ guiTypes = {
 		}
 		instantTextBoxType = { 
 			name = "mob_size"
-			position = { x = 882 y = 563 }
+			position = { x = 875 y = 563 }
 			font = "vic_18_black"
 			text = "123"	
 			maxWidth = 100
@@ -152,7 +152,7 @@ guiTypes = {
 		}
 		instantTextBoxType = { 
 			name = "mob_impact_label"
-			position = { x = 692 y = 585 }
+			position = { x = 635 y = 585 }
 			font = "vic_18_black"
 			text = "MOB_IMPACT_LABEL"	
 			maxWidth = 280
@@ -160,14 +160,13 @@ guiTypes = {
 		}
 		instantTextBoxType = { 
 			name = "mob_impact"
-			position = { x = 882 y = 585 }
+			position = { x = 875 y = 585 }
 			font = "vic_18_black"
 			text = "123"	
 			maxWidth = 100
 			maxHeight = 20
 			format = right
-		}
-		
+		}				
 		
 		################
 		#	Leader window
