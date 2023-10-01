@@ -115,7 +115,7 @@ impressionism = {
 expressionism = {
 	area = aesthetics
 	year = 2870
-	cost = 28000
+	cost = 18600
 
 	prestige = 0.065
 	ai_chance = {
@@ -169,7 +169,7 @@ mass_culture_n_the_avant_garde = {
 roaring_twenties = {
 	area = aesthetics
 	year = 2921
-	cost = 23600
+	cost = 25600
 
 	prestige = 0.065
 	ai_chance = {
@@ -196,7 +196,7 @@ roaring_twenties = {
 depression_expression = {
 	area = aesthetics
 	year = 2935
-	cost = 25600
+	cost = 28000
 
 	prestige = 0.065
 	ai_chance = {
@@ -345,7 +345,7 @@ analytic_philosophy = {
 phenomenology_n_hermeneutic = {
 	area = philosophy
 	year = 2880
-	cost = 28000
+	cost = 18600
 
 	increase_research = 1.0
 	ai_chance = {
@@ -389,7 +389,7 @@ anti__rationalism = {
 scientific_philosophy = {
 	area = philosophy
 	year = 2921
-	cost = 24600
+	cost = 25600
 
 	increase_research = 1.0
 	ai_chance = {
@@ -411,7 +411,7 @@ scientific_philosophy = {
 reformative_movements = {
 	area = philosophy
 	year = 2935
-	cost = 27600
+	cost = 28000
 
 	increase_research = 1.0
 	ai_chance = {
@@ -546,7 +546,7 @@ biologism = {
 social_science = {
 	area = social_thought
 	year = 2870
-	cost = 28000
+	cost = 18600
 
 	colonial_migration = 0.05
 	education_efficiency = 0.1
@@ -606,7 +606,7 @@ social_alienation = {
 individualism = {
 	area = social_thought
 	year = 2929
-	cost = 23600
+	cost = 25600
 	
 	colonial_migration = 0.05
 	education_efficiency = 0.1
@@ -638,7 +638,7 @@ individualism = {
 universal_education = {
 	area = social_thought
 	year = 2936
-	cost = 25600
+	cost = 28000
 	
 	colonial_migration = 0.05
 	education_efficiency = 0.2
@@ -800,7 +800,7 @@ nationalism_n_imperialism = {
 revolution_n_counterrevolution = {
 	area = political_thought
 	year = 2870
-	cost = 28000
+	cost = 18600
 
 	max_national_focus = 1.5
 	diplomatic_points = 0.25
@@ -845,7 +845,7 @@ mass_politics = {
 mass_state_media = {
 	area = political_thought
 	year = 2929
-	cost = 23600
+	cost = 25600
 
 	max_national_focus = 1.5
 	ai_chance = {
@@ -867,7 +867,7 @@ mass_state_media = {
 international_protocol = {
 	area = political_thought
 	year = 2939
-	cost = 25600
+	cost = 28000
 
 	max_national_focus = 1.5
 	ai_chance = {
@@ -1006,7 +1006,7 @@ experimental_psychology = {
 psychoanalysis = {
 	area = psychology
 	year = 2870
-	cost = 28000
+	cost = 18600
 
 	regular_experience_level = 5
 	reinforce_rate = 0.05
@@ -1063,7 +1063,7 @@ behaviorism = {
 media_psychology = {
 	area = psychology
 	year = 2929
-	cost = 23600
+	cost = 25600
 
 	regular_experience_level = 5
 	reinforce_rate = 0.05
@@ -1091,7 +1091,7 @@ media_psychology = {
 existentialism = {
 	area = psychology
 	year = 2939
-	cost = 25600
+	cost = 28000
 
 	regular_experience_level = 5
 	reinforce_rate = 0.05

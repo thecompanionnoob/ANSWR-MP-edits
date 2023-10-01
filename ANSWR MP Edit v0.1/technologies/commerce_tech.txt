@@ -158,7 +158,7 @@ investment_banks = {
 bank_inspection_board = {
 	area = financial_institutions
 	year = 2900
-	cost = 28000
+	cost = 18600
 
 	tax_eff = 5
 	ai_chance = {
@@ -226,7 +226,7 @@ mutual_funds = {
 international_stock_exchange = {
 	area = financial_institutions
 	year = 2929
-	cost = 23600
+	cost = 25600
 
 	tax_eff = 5
 	loan_interest = -0.025
@@ -258,7 +258,7 @@ international_stock_exchange = {
 bond_markets = {
 	area = financial_institutions
 	year = 2939
-	cost = 25600
+	cost = 28000
 
 	tax_eff = 5
 	loan_interest = -0.025
@@ -421,7 +421,7 @@ central_bank_money_bill_printing = {
 modern_central_bank_system = {
 	area = monetary_system
 	year = 2870
-	cost = 28000
+	cost = 18600
 
 	administrative_efficiency = 0.05
 	ai_chance = {
@@ -490,7 +490,7 @@ market_determined_exchange_rates = {
 fractional_reserve_banking = {
 	area = monetary_system
 	year = 2929
-	cost = 23600
+	cost = 25600
 
 	administrative_efficiency = 0.05
 	ai_chance = {
@@ -520,7 +520,7 @@ fractional_reserve_banking = {
 modern_cheque = {
 	area = monetary_system
 	year = 2936
-	cost = 25600
+	cost = 28000
 
 	administrative_efficiency = 0.05
 	ai_chance = {
@@ -666,7 +666,7 @@ the_historical_theory = {
 neoclassical_theory = {
 	area = economic_thought_and_critique
 	year = 2870
-	cost = 28000
+	cost = 18600
 
 	factory_input = -0.03
 	ai_chance = {
@@ -726,7 +726,7 @@ keynesian_economics = {
 global_market_economics = {
 	area = economic_thought_and_critique
 	year = 2929
-	cost = 23600
+	cost = 25600
 
 	factory_input = -0.03
 	factory_cost = -0.03
@@ -757,7 +757,7 @@ global_market_economics = {
 institutional_economics = {
 	area = economic_thought_and_critique
 	year = 2936
-	cost = 25600
+	cost = 28000
 
 	factory_input = -0.03
 	factory_cost = -0.05
@@ -932,7 +932,7 @@ market_regulations = {
 economic_responsibility = {
 	area = market_functionality
 	year = 2870
-	cost = 28000
+	cost = 18600
 
 	influence = 0.2
 	ai_chance = {
@@ -986,7 +986,7 @@ government_interventionism = {
 market_socialism = {
 	area = market_functionality
 	year = 2929
-	cost = 23600
+	cost = 25600
 
 	influence = 0.2
 	farm_rgo_eff = 0.10
@@ -1015,7 +1015,7 @@ market_socialism = {
 labour_laws = {
 	area = market_functionality
 	year = 2933
-	cost = 23600
+	cost = 28000
 
 	influence = 0.2
 	farm_rgo_eff = 0.10
@@ -1183,7 +1183,7 @@ time_saving_measures = {
 management_strategy = {
 	area = tech_organization
 	year = 2870
-	cost = 28000
+	cost = 18600
 
 	factory_output = 0.01
 	ai_chance = {
@@ -1235,7 +1235,7 @@ organizational_development = {
 human_resource_management = {
 	area = tech_organization
 	year = 2929
-	cost = 23600
+	cost = 25600
 
 	factory_output = 0.01
 	factory_cost = -0.01
@@ -1262,7 +1262,7 @@ human_resource_management = {
 benchmarking = {
 	area = tech_organization
 	year = 2936
-	cost = 25600
+	cost = 28000
 
 	factory_output = 0.01
 	factory_cost = -0.01
