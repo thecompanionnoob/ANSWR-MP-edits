@@ -1,0 +1,138 @@
+political_decisions = {
+	vassal_interactions = {
+        picture = gtfo
+        alert = no
+        potential = {
+			ai = no
+            num_of_vassals_no_substates = 1
+            is_vassal = no
+			has_country_flag = show_ex_decisions
+        }
+        allow = {  }
+        effect = {
+			random_country = {
+				limit = {
+					exists = yes
+					vassal_of = THIS
+				}
+				country_event = 477877793
+			}
+		}
+    }
+	
+	vassal_give_transports = {
+        picture = vassal_transport
+        alert = no
+        potential = {
+			ai = no
+            num_of_vassals = 1
+            is_vassal = no
+			has_country_flag = show_ex_decisions
+        }
+        allow = {  }
+        effect = {
+			any_country = {
+				limit = {
+					exists = yes
+					ai = yes
+					num_of_ports = 1
+					OR = {
+						vassal_of = THIS
+						substate_of = THIS
+					}
+				}
+				country_event = 477877794
+			}
+		}
+    }
+	
+	turn_off_vassal_payments = {
+		picture = vassal_payment
+		alert = no
+		potential = {
+			ai = no
+			has_country_flag = show_ex_decisions
+			MET_1 = {
+				owner = {
+					vassal_of = THIS
+					NOT = { has_country_flag = exempt_from_vassal_contribution }
+				}
+			}
+			NOT = { has_country_flag = vassals_dont_need_to_pay }
+			num_of_vassals_no_substates = 1
+		}
+		
+		allow = {
+		
+		}
+		
+		effect = {
+			set_country_flag = vassals_dont_need_to_pay
+			any_country = {
+				limit = { vassal_of = THIS NOT = { is_substate = yes } }
+				set_country_flag = exempt_from_vassal_contribution
+				relation = { who = THIS value = 100 }
+			}
+		}
+		
+		ai_will_do = { factor = 0 }
+	}
+	
+	turn_on_vassal_payments = {
+		picture = vassal_payment
+		alert = no
+		potential = {
+			ai = no
+			has_country_flag = show_ex_decisions
+			has_country_flag = vassals_dont_need_to_pay
+			num_of_vassals_no_substates = 1
+		}
+		
+		allow = {
+		
+		}
+		
+		effect = {
+			clr_country_flag = vassals_dont_need_to_pay
+			any_country = {
+				limit = { vassal_of = THIS NOT = { is_substate = yes } }
+				clr_country_flag = exempt_from_vassal_contribution 
+				relation = { who = THIS value = -100 }
+			}
+		}
+		
+		ai_will_do = { factor = 0 }
+	}
+	puppet_break_free_ai_war = {
+		picture = puppet_break_free
+		alert = yes
+		potential = {
+			war = yes
+			ai = no
+			war_countries = { ai = yes }
+			OR = {
+				is_vassal = yes
+				is_substate = yes
+			}
+		}
+
+		allow = {
+			overlord = {
+				NOT = { truce_with = THIS }
+			}
+		}
+		
+		effect = {
+			any_country = {
+				limit = {
+					ai = yes
+					war_with = THIS
+				}
+				end_war = THIS
+			}
+			overlord = { country_event = 477877796 }
+		}
+		ai_will_do = { factor = 0 }
+
+	}
+}
