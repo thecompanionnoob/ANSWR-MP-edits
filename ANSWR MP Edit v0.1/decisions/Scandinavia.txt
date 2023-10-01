@@ -76,25 +76,25 @@ political_decisions = {
             prestige = 25
             change_tag = SCA    
             SAP = {
-				all_core = { add_core = SCA }
+				all_core = { add_core = SCA secede_province = THIS}
 			}
             NOD = {
-				all_core = { add_core = SCA }
+				all_core = { add_core = SCA secede_province = THIS}
 			}
             
             FIN = {
-				all_core = { add_core = SCA }
+				all_core = { add_core = SCA secede_province = THIS}
 			}
             
             VLA = {
-				all_core = { add_core = SCA }
+				all_core = { add_core = SCA secede_province = THIS}
 			}
             add_accepted_culture = swedish
             add_accepted_culture = norwegian
             add_accepted_culture = finnish
             add_accepted_culture = danish
-	    add_accepted_culture = scottish_greenlander 
-	    add_accepted_culture = french_greenlander  
+	        add_accepted_culture = scottish_greenlander 
+	        add_accepted_culture = french_greenlander  
         }
 		ai_will_do = {
 			factor = 1
