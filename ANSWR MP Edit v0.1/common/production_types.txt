@@ -32,7 +32,7 @@ factory_template = {
 
 cheap_factory_template = {
     efficiency = {
-        cement = 0.25 #if no cement, work at 75% efficiency #cost = £4/level
+        cement = 0.25 #if no cement, work at 75% efficiency #cost = ï¿½4/level
     }
 
     owner = {
@@ -479,6 +479,7 @@ regular_clothes_factory = {
     template = factory_template
     input_goods = {
         fabric = 40        #72    total input+maint = 82
+        dye = 2
     }
     output_goods = regular_clothes
     value = 16            #92.8, from 87/15. Profit margin is 11.63% - total profit is 10.8
@@ -629,7 +630,7 @@ fabric_factory = {
     template = factory_template
     input_goods = {
         cotton = 18        # 36
-        dye = 2                # 24 total input+maint = 69.875
+        #dye = 2                 24 total input+maint = 69.875
     }
     output_goods = fabric
     value = 44            #79.2 - profit = 9.3
@@ -1265,6 +1266,7 @@ artisan_paper = {
 artisan_regular_clothes = {
     input_goods = {
         fabric = 42        #was 75.6
+        dye = 2
     }
     output_goods = regular_clothes
     value = 15            #87 - profit = 11.4
@@ -1415,7 +1417,7 @@ artisan_fabric = {
 artisan_fabric2 = {
     input_goods = {
         wool = 24        # 36
-        dye = 2                # 24 total input+maint = 60
+        #dye = 2                 24 total input+maint = 60
     }
     output_goods = fabric
     value = 38        #68.4 - profit = 8.4
