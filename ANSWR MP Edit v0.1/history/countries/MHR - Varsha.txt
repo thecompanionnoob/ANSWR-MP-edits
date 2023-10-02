@@ -1,5 +1,5 @@
 capital = 1306
-primary_culture = telegu
+primary_culture = south_indian
 religion = protestant
 government = absolute_monarchy
 plurality = 0.5

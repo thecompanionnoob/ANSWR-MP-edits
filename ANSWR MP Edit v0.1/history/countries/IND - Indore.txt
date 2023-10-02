@@ -1,10 +1,10 @@
 capital = 1290
-primary_culture = issaclander
+primary_culture = north_indian
 religion = protestant
 government = absolute_monarchy
 plurality = 2.0
 nationalvalue = nv_tradition
-literacy = 0.04
+literacy = 0.09
 non_state_culture_literacy = 0.01
 
 # Political reforms

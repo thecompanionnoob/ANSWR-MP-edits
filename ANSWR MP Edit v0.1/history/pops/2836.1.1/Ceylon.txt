@@ -3,217 +3,217 @@
 #Colombo (400000/100000 POPS)
 1321 = {
     aristocrats = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 3900
     }
 
     bureaucrats = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 150
     }
 
     clergymen = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 750
     }
 
     artisans = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 800
     }
 
     soldiers = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 750
     }
 
     farmers = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 64650
     }
 
     aristocrats = {
-        culture = tamil
+        culture = south_indian
         religion = protestant
         size = 125
     }
 
     bureaucrats = {
-        culture = tamil
+        culture = south_indian
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = tamil
+        culture = south_indian
         religion = protestant
         size = 125
     }
 
     artisans = {
-        culture = tamil
+        culture = south_indian
         religion = protestant
         size = 750
     }
 
     soldiers = {
-        culture = tamil
+        culture = south_indian
         religion = protestant
         size = 100
     }
 
     labourers = {
-        culture = tamil
+        culture = south_indian
         religion = protestant
         size = 9800
     }
 
     clergymen = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 50
     }
 
     labourers = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 6400
     }
 
     clergymen = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 750
     }
 
     soldiers = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 25
     }
 
     labourers = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 1200
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = south_indian
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = bedouin
+        culture = south_indian
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = bedouin
+        culture = south_indian
         religion = protestant
         size = 1500
     }
 
     soldiers = {
-        culture = bedouin
+        culture = south_indian
         religion = protestant
         size = 25
     }
 
     labourers = {
-        culture = bedouin
+        culture = south_indian
         religion = protestant
         size = 3375
     }
 
     aristocrats = {
-        culture = malay
+        culture = south_indian
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = malay
+        culture = south_indian
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = malay
+        culture = south_indian
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = malay
+        culture = south_indian
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = malay
+        culture = south_indian
         religion = protestant
         size = 1900
     }
 
     aristocrats = {
-        culture = english
+        culture = south_indian
         religion = protestant
         size = 25
     }
 
     bureaucrats = {
-        culture = english
+        culture = south_indian
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = english
+        culture = south_indian
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = english
+        culture = south_indian
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = english
+        culture = south_indian
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = english
+        culture = south_indian
         religion = protestant
         size = 675
     }
@@ -221,61 +221,61 @@
 #Jaffna (288000/72000 POPS)
 1322 = {
     aristocrats = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 500
     }
 
     clergymen = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 500
     }
 
     artisans = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 4000
     }
 
     soldiers = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 42500
     }
 
     aristocrats = {
-        culture = tamil
+        culture = south_indian
         religion = protestant
         size = 250
     }
 
     clergymen = {
-        culture = tamil
+        culture = south_indian
         religion = protestant
         size = 250
     }
 
     artisans = {
-        culture = tamil
+        culture = south_indian
         religion = protestant
         size = 2000
     }
 
     soldiers = {
-        culture = tamil
+        culture = south_indian
         religion = protestant
         size = 500
     }
 
     labourers = {
-        culture = tamil
+        culture = south_indian
         religion = protestant
         size = 21000
     }
@@ -283,31 +283,31 @@
 #Kandy (304000/76000 POPS)
 1323 = {
     aristocrats = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 750
     }
 
     clergymen = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 750
     }
 
     artisans = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 4000
     }
 
     soldiers = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 750
     }
 
     farmers = {
-        culture = sinhala
+        culture = south_indian
         religion = protestant
         size = 69250
     }
