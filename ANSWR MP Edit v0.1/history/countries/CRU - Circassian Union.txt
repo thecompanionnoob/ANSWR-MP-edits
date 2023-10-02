@@ -8,6 +8,7 @@ literacy = 0.28
 civilized = yes
 prestige = 10
 
+set_country_flag = unreleasable_country
 
 # Political reforms
 slavery = no_slavery

@@ -58,35 +58,12 @@ vassal = {
     end_date = 2871.1.1
 }
 
-###Dacian Confedercy 
-vassal = {
-    first = WAL
-    second = CRV
-    start_date = 2754.9.12
-    end_date = 2900.1.7
-}
-
-vassal = {
-    first = WAL
-    second = MOL
-    start_date = 2754.9.12
-    end_date = 2900.1.7
-}
-
 vassal = {
     first = WAL
     second = SIE
     start_date = 2754.9.12
     end_date = 2900.1.7
 }
-
-vassal = {
-    first = WAL
-    second = DEV
-    start_date = 2754.9.12
-    end_date = 2900.1.7
-}
-
 vassal = {
     first = WAL
     second = BKV

@@ -1,6 +1,6 @@
-owner = CRV
-controller = CRV
-add_core = CRV
+owner = WAL
+controller = WAL
+add_core = WAL
 trade_goods = coal
 life_rating = 35
 

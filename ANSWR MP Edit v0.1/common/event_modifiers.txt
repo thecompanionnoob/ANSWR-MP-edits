@@ -284,7 +284,7 @@ total_reform = {
 }
 
 relutanct_figher = {
-    mobilisation_size = -2.0
+    mobilisation_size = -.01
     icon = 16
 }
 

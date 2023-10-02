@@ -4,7 +4,6 @@ political_decisions = {
         potential = {
             OR = {                
                 tag = WAL
-                tag = MOL
                                 
             }
             NOT = { exists = ROM }
@@ -12,71 +11,62 @@ political_decisions = {
         }
 
         allow = {         
-            war = no           
+            war = no
+            state_n_government = 1          
             WAL = {
-                OR = {                   
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
                         }
                     }
                 }
 	         }
-           MOL = {
-                OR = {
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         } 
            BKV = {
-                OR = {                   
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }
-           CRV = {
+            all_core = {
                 OR = {
-                    all_core = {
+                    owned_by = THIS
+                    owner = {
                         OR = {
-                            owned_by = THIS
+                            in_sphere = THIS
+                            vassal_of = THIS                      
                         }
                     }
                 }
-	         }
-           SIE = {
-                OR = {                   
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }
-           DEV = {
-                OR = {
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }    
-            MDV = {
-                OR = {
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }    
+            }
         }
+	         
+	
+           SIE = {
+            all_core = {
+                OR = {
+                    owned_by = THIS
+                    owner = {
+                        OR = {
+                            in_sphere = THIS
+                            vassal_of = THIS                      
+                        }
+                    }
+                }
+            }
+	    }   
+             all_core = {
+                OR = {
+                    owned_by = THIS
+                    owner = {
+                        OR = {
+                            in_sphere = THIS
+                            vassal_of = THIS                      
+                        }
+                    }
+                }
+            }   
+        }
+    }
 		
         
 
@@ -85,30 +75,21 @@ political_decisions = {
             change_tag = ROM
            
             WAL = {
-				all_core = { add_core = ROM }
-			}
-            MOL = {
-				all_core = { add_core = ROM }
+				all_core = { add_core = ROM secede_province = THIS }
 			}
            BKV = {
-				all_core = { add_core = ROM }
-			}
-            CRV = {
-				all_core = { add_core = ROM }
+				all_core = { add_core = ROM secede_province = THIS }
 			}
             SIE = {
-				all_core = { add_core = ROM }
+				all_core = { add_core = ROM secede_province = THIS }
 			}
-            DEV = {
-				all_core = { add_core = ROM }
-			} 
             MDV = {
-				all_core = { add_core = ROM }
+				all_core = { add_core = ROM secede_province = THIS }
 			} 
             
         }
 		ai_will_do = {
 			factor = 1
 			}
-    }
-}
+    
+        }
