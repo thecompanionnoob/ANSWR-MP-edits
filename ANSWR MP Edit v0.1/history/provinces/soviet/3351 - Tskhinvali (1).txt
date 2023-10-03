@@ -1,6 +1,5 @@
-owner = OSE
-controller = OSE
-add_core = OSE
+owner = TCA
+controller = TCA
 add_core = TCA
 add_core = GEO
 add_core = CRU

@@ -224,7 +224,7 @@
     }
 
     slaves = {
-        culture = kilombero #african_minor
+        culture = baluchi 
         religion = protestant
         size = 4000
     }
@@ -1231,73 +1231,73 @@
 #Ajmer (200000/50000 POPS)
 1264 = {
     aristocrats = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 500
     }
 
     clergymen = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 500
     }
 
     bureaucrats = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 8000
     }
 
     soldiers = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 29450
     }
 
     aristocrats = {
-        culture = avadhi
+        culture = baluchi
         religion = protestant
         size = 250
     }
 
     clergymen = {
-        culture = avadhi
+        culture = baluchi
         religion = protestant
         size = 125
     }
 
     artisans = {
-        culture = avadhi
+        culture = baluchi
         religion = protestant
         size = 2000
     }
 
     soldiers = {
-        culture = avadhi
+        culture = baluchi
         religion = protestant
         size = 300
     }
 
     farmers = {
-        culture = avadhi
+        culture = baluchi
         religion = protestant
         size = 8325
     }
 
     bureaucrats = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 10
     }
@@ -2869,103 +2869,103 @@
 #Karachi (920000/230000 POPS)
 1288 = {
     aristocrats = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 1900
     }
 
     bureaucrats = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 800
     }
 
     officers = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 300
     }
 
     clergymen = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 1875
     }
 
     artisans = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 9000
     }
 
     soldiers = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 3000
     }
 
     soldiers = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 164125
     }
 
     aristocrats = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 300
     }
 
     soldiers = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 5650
     }
 
     aristocrats = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 350
     }
 
     clergymen = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 375
     }
 
     artisans = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 2000
     }
 
     serfs = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 40000
     }
@@ -3091,43 +3091,43 @@
     }
 
     aristocrats = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 300
     }
 
     clergymen = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 375
     }
 
     bureaucrats = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 3000
     }
 
     soldiers = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 20775
     }
@@ -3177,31 +3177,31 @@
     }
 
     aristocrats = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 750
     }
 
     clergymen = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 375
     }
 
     artisans = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 8000
     }
 
     soldiers = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 24375
     }
@@ -3275,31 +3275,31 @@
     }
 
     aristocrats = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 3000
     }
 
     soldiers = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 1850
     }
@@ -3313,79 +3313,79 @@
 #Mandvi (312000/78000 POPS)
 1293 = {
     aristocrats = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 725
     }
 
     bureaucrats = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 75
     }
 
     clergymen = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 700
     }
 
     artisans = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 2500
     }
 
     soldiers = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 3000
     }
 
     soldiers = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 3000
     }
 
     soldiers = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 54050
     }
 
     aristocrats = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 75
     }
 
     clergymen = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 70
     }
 
     artisans = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 75
     }
 
     serfs = {
-        culture = sindi
+        culture = baluchi
         religion = protestant
         size = 10780
     }
@@ -3450,7 +3450,7 @@
     }
 
     artisans = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 1100
     }
@@ -3492,61 +3492,61 @@
     }
 
     aristocrats = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 500
     }
 
     clergymen = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 1250
     }
 
     bureaucrats = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 500
     }
 
     artisans = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 10000
     }
 
     soldiers = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 1500
     }
 
     farmers = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 97250
     }
 
     clergymen = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 3875
     }
 
     farmers = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 2075
     }
@@ -3614,31 +3614,31 @@
     }
 
     aristocrats = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 3000
     }
 
     soldiers = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = sindi
+        culture = south_indian
         religion = protestant
         size = 4775
     }

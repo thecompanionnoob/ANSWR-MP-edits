@@ -10,46 +10,6 @@ vassal = {
     end_date = 2936.1.1
 }
 
-#Circassian Steppe Russians-Native Circassians
-vassal = {
-    first = DON
-    second = CIR
-    start_date = 2836.1.1
-    end_date = 2936.1.1
-}
-
-#Azerbaijan-Caucasian Imamate
-vassal = {
-	first = AZB
-	second = DAG
-	start_date = 2836.1.1
-    end_date = 2936.1.1
-}
-
-#Ostanatolien-West Georgia
-vassal = {
-    first = OTA
-    second = WGO
-    start_date = 2836.1.1
-    end_date = 2936.1.1
-}
-
-#Cossackia-Abkhazia
-vassal = {
-    first = DON
-    second = ABK
-    start_date = 2836.1.1
-    end_date = 2936.1.1
-}
-
-#Cossackia-Ossetia
-vassal = {
-    first = DON
-    second = OSE
-    start_date = 2836.1.1
-    end_date = 2936.1.1
-}
-
 #Paltija - Ostikunina
 vassal = {
     first = LIT

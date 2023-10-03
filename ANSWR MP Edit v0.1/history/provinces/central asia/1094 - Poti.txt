@@ -1,6 +1,5 @@
-owner = WGO
-controller = WGO
-add_core = WGO
+owner = TCA
+controller = TCA
 add_core = TCA
 add_core = GEO
 add_core = CRU

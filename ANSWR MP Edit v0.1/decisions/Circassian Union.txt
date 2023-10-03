@@ -2,11 +2,14 @@ political_decisions = {
     CRU = {
     picture = CRU
     potential = {
-        tag = AZB   
+        OR = {
+        tag = AZB
+        tag = TCA
+        tag = DAG
+        tag = DON
+        }
         NOT = {
-			exists = CRU
-			
-			}
+			exists = CRU }
     }
         
     
