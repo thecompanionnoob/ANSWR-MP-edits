@@ -11,19 +11,18 @@ political_decisions = {
 			NOT = { tag = AUS }
         }
         allow = {
-            prestige = 35
-            war = no
-                OUD = {
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                            owner = {
-                            in_sphere = THIS
-                        }
-                    }
-                }
-            }
-        }
+			prestige = 35
+			war = no
+			OUD = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = THIS
+						in_sphere = THIS
+					}
+				}
+			}
+		}
         effect = {
             prestige = 25
             change_tag = OUD
@@ -37,9 +36,7 @@ political_decisions = {
             add_accepted_culture = rhine_german
             add_accepted_culture = austro_german
         }
-        ai_will_do = {
-        factor = 1
-        }
+        ai_will_do = { factor = 1 }
     }
 	Orda = {
         picture = central_oudrijk
@@ -62,28 +59,28 @@ political_decisions = {
 					who = AUS
 					value = 200
 				}
-				OR {		
+				OR = {		
 					neighbour = BAV
 					relation = {
 						who = BAV
 						value = 200
 					}					   
                 }
-				OR {		
+				OR = {		
 					neighbour = BOH
 					relation = {
 						who = BOH
 						value = 200
 					}					   
                 }
-				OR {		
+				OR = {		
 					neighbour = SGF
 					relation = {
 						who = SGF
 						value = 200
 					}					   
 				}
-				OR {		
+				OR = {		
 					neighbour = PRU
 					relation = {
 					who = PRU
@@ -91,8 +88,7 @@ political_decisions = {
 					}					   
 				}
 			}       
-       }
-      
+        }
 		effect = {
 	 		add_country_modifier = {
                     name = oudrijk_prince
@@ -103,5 +99,5 @@ political_decisions = {
 			}
         }
 		ai_will_do = { factor = 1 }
-   }
+    }
 }
