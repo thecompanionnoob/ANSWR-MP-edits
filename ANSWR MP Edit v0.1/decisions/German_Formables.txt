@@ -325,7 +325,6 @@ political_decisions = {
 				}
 			}
         }
-    }
         effect = {                
             prestige = 50
             change_tag = OUD
@@ -1377,22 +1376,17 @@ political_decisions = {
 				remove_core = SGF
 			}
         }
-		ai_will_do = {
-			factor = 1
-			}
+		ai_will_do = { factor = 1 }
     }
 	ger_s_10  = {
         picture = austrian_form_south_german_confederation
         potential = {
             OR = {                
                 tag = SGF
-                                
             }
 			has_global_flag = sur_ale_9
             NOT={has_global_flag = sur_ale_10}
-			
         }
-
         allow = {         
             war = no                     	
 	        SGF = {
@@ -1403,12 +1397,9 @@ political_decisions = {
                         }
                     }
                 }
-	         }
+			}
         }
-		
-        
-
-        effect = {                    		
+        effect = {
             set_global_flag = sur_ale_10
 			MEC = {
 				all_core = { add_core = SGF }
@@ -1420,8 +1411,6 @@ political_decisions = {
 				all_core = { add_core = SGF }
 			}
         }
-		ai_will_do = {
-			factor = 1
-			}
+		ai_will_do = { factor = 1 }
     }
 }
