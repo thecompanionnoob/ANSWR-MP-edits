@@ -2,14 +2,14 @@ political_decisions = {
 	unite_with_romania  = {
         picture = create_romania
         potential = {
-            OR = {                
+            OR = {
                 tag = WAL
             }
             NOT = { exists = ROM }
         }
-        allow = {         
+        allow = {
             war = no
-            state_n_government = 1          
+            state_n_government = 1
             WAL = {
                 all_core = {
                     OR = {
@@ -24,51 +24,52 @@ political_decisions = {
                 }
 	        }
             BKV = {
-            all_core = {
-                OR = {
-                    owned_by = THIS
-                    owner = {
-                        OR = {
-                            in_sphere = THIS
-                            vassal_of = THIS                      
-                        }
-                    }
-                }
-            }
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS                      
+							}
+						}
+					}
+				}
+			}
+			SIE = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS                      
+							}
+						}
+					}
+				}
+			}
+			MDV = {	
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS                      
+							}
+						}
+					}
+				}
+			}
         }
-           SIE = {
-            all_core = {
-                OR = {
-                    owned_by = THIS
-                    owner = {
-                        OR = {
-                            in_sphere = THIS
-                            vassal_of = THIS                      
-                        }
-                    }
-                }
-            }
-	    }   
-             all_core = {
-                OR = {
-                    owned_by = THIS
-                    owner = {
-                        OR = {
-                            in_sphere = THIS
-                            vassal_of = THIS                      
-                        }
-                    }
-                }
-            }   
-        }
-    }
         effect = {                
             prestige = 10
             change_tag = ROM
             WAL = {
 				all_core = { add_core = ROM secede_province = THIS }
 			}
-           BKV = {
+            BKV = {
 				all_core = { add_core = ROM secede_province = THIS }
 			}
             SIE = {

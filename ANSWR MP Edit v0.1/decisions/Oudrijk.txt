@@ -56,7 +56,7 @@ political_decisions = {
         }
         allow = {
             war = no 
-			OR {
+			OR = {
 				neighbour = AUS
 				relation = {
 					who = AUS
