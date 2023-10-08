@@ -1,19 +1,19 @@
 political_decisions = {
-	Aragon  = {
-        picture = Aragon
+	indonesia  = {
+        picture = indonesia
         potential = {
             OR = {                
-                tag = CAT
-                
-                                
+                tag = JAV
+                tag = BAL  
+                tag = EQG
+                tag = SLW   
+                tag = SWK        
             }
-            NOT = { exists = ARN }
-			
+            NOT = { exists = INO }	
         }
-
         allow = {         
-            war = no           
-            CAT = {
+            war = no  
+             JAV = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -25,8 +25,8 @@ political_decisions = {
                         }
                     }
                 }
-	         }
-           BSQ = {
+	        }
+            BAL = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -38,101 +38,77 @@ political_decisions = {
                         }
                     }
                 }
-	         }     
+	        }
+            EQG = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+			SLW = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        } 
+			SWK = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        } 
         }
-		
-        
-
         effect = {                
-            prestige = 10
-            change_tag = ARN
-            504 = { add_core = ARN }
-            503 = { add_core = ARN }
-            505 = { add_core = ARN }
-            497 = { add_core = ARN }
-            CAT = {
-				all_core = { add_core = ARN secede_province = THIS }
+            prestige = 30
+            change_tag = INO
+            JAV = {
+				all_core = { add_core = INO secede_province = THIS }
 			}
-            BSQ = {
-				all_core = { add_core = ARN secede_province = THIS }
+            BAL = {
+				all_core = { add_core = INO secede_province = THIS }
 			}
-                 
-            add_accepted_culture = basque
-            
-            
+            EQG = {
+				all_core = { add_core = INO secede_province = THIS }
+			}
+            SLW = {
+				all_core = { add_core = INO secede_province = THIS }
+			}
+            SWK = {
+				all_core = { add_core = INO secede_province = THIS }
+			}
+            1433 = { add_core = INO }
+            1447 = { add_core = INO }
+            1449 = { add_core = INO }
+            1450 = { add_core = INO }
+            1448 = { add_core = INO }
+            1447 = { add_core = INO }
+            add_accepted_culture = moluccan
+            add_accepted_culture = australian
+            add_accepted_culture = javan
+            add_accepted_culture = sumatranmalay
+            add_accepted_culture = malay
         }
-		ai_will_do = {
-			factor = 1
-		}
+		ai_will_do = { factor = 1 }
     }
-	Aragonitalia  = {
-        picture = Aragon
-        potential = {
-            OR = {                
-                tag = ARN
-                
-                                
-            }
-            NOT = { exists = AGI }
-            		
-        }
-        allow = {         
-            war = no              
-            ARN = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }   
-                }
-            }
-	    SIC = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-            }
-            APU = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-            }
-        }
-        effect = {                
-            prestige = 25
-            change_tag = AGI           
-            SIC = {
-				all_core = { add_core = AGI secede_province = THIS }
-			}
-            APU = {
-				all_core = { add_core = AGI secede_province = THIS }
-			}
-
-            add_accepted_culture = south_italian
-            
-        }
-		ai_will_do = {
-			factor = 1
-		}
-    }	
 }

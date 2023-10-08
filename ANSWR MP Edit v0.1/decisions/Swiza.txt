@@ -1,19 +1,16 @@
 political_decisions = {
-        Suiza  = {
+	Suiza  = {
         picture = british_propaganda
         potential = {
             OR = {                
                 tag = SWI
-                
-                                
             }
             NOT = {has_global_flag = Suiza}	
             NOT = {has_global_flag = Suiza_ita}			
         }
-
         allow = {         
             war = no           
-	    SIC = {
+			SIC = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -25,7 +22,7 @@ political_decisions = {
                         }
                     }
                 }
-	         }
+	        }
             APU = {
                 all_core = {
                     OR = {
@@ -38,8 +35,8 @@ political_decisions = {
                         }
                     }
                 }
-	         }
-             TUS = {
+	        }
+            TUS = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -51,7 +48,7 @@ political_decisions = {
                         }
                     }
                 }
-	         }
+	        }
             PAR = {
                 all_core = {
                     OR = {
@@ -64,11 +61,8 @@ political_decisions = {
                         }
                     }
                 }
-	         } 
+	        } 
         }
-		
-        
-
         effect = {                
             prestige = 25         
             SIC = {
@@ -92,8 +86,115 @@ political_decisions = {
             set_global_flag= Suiza
             
         }
-		ai_will_do = {
-			factor = 1
+		ai_will_do = { factor = 1 }
+    }
+	Suiza_occ  = {
+        picture = british_propaganda
+        potential = {
+            OR = {                
+                tag = SWI
+                
+                                
+            }
+            NOT = {has_global_flag = Suiza}	
+            NOT = {has_global_flag = Suiza_ita}				
+        }
+
+        allow = {         
+            war = no           
+			CAT = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+			OCC = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+			ROU = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+			AUV = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            BSQ = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }    
+        }
+        effect = {                
+            prestige = 25         
+            CAT = {
+				all_core = { add_core = SWI secede_province = THIS}
 			}
+            BSQ = {
+				all_core = { add_core = SWI secede_province = THIS}
+			}
+            OCC = {
+				all_core = { add_core = SWI secede_province = THIS}
+			}
+			ROU = {
+				all_core = { add_core = SWI secede_province = THIS}
+			}
+			AUV = {
+				all_core = { add_core = SWI secede_province = THIS}
+			}
+            #inherit = CAT
+            #inherit = BSQ   
+            #inherit = OCC
+            #inherit = ROU
+            #inherit = AUV			
+            add_accepted_culture = basque
+            add_accepted_culture = catalan
+			add_accepted_culture = occitan
+            set_global_flag= Suiza_ita
+        }
+		ai_will_do = { factor = 1 }
     }
 }

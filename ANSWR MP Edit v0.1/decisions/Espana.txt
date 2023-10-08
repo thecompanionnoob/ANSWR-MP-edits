@@ -1,14 +1,12 @@
 political_decisions = {
-        spanish_restoration  = {
+	spanish_restoration  = {
         picture = spanish_restoration
         potential = {
             OR = {                
                 tag = LIR        
             }
             NOT = { exists = SPA }
-			
         }
-
         allow = {         
             war = no           
             DAL = {
@@ -23,8 +21,8 @@ political_decisions = {
                         }
                     }
                 }
-	         }
-           LIR = {
+	        }
+			LIR = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -37,7 +35,7 @@ political_decisions = {
                     }
                 }
 	         }            
-           CLV = {
+			CLV = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -49,8 +47,8 @@ political_decisions = {
                         }
                     }
                 }
-	         } 
-           DMN = {
+	        } 
+			DMN = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -62,7 +60,7 @@ political_decisions = {
                         }
                     }
                 }
-	         }   
+			}   
            CAT = {
                 all_core = {
                     OR = {
@@ -75,8 +73,8 @@ political_decisions = {
                         }
                     }
                 }
-	         }   
-           BSQ = {
+	        }   
+			BSQ = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -88,15 +86,11 @@ political_decisions = {
                         }
                     }
                 }
-	         }  
+			}  
         }
-		
-        
-
         effect = {                
             prestige = 30
             change_tag = SPA
-            
             DAL = {
 				all_core = { add_core = SPA secede_province = THIS }
 			}
@@ -128,9 +122,363 @@ political_decisions = {
             add_accepted_culture = spanish
             add_accepted_culture = catalan
             capital = 487
+		}
+		ai_will_do = { factor = 1 }
+	}
+    Castilla  = {
+        picture = Castilla
+        potential = {
+            OR = {                
+                tag = DAL
+                tag = DMN
+                tag = CLV
+                                
+            }
+            NOT = { exists = CST }
+			
         }
-		ai_will_do = {
-			factor = 1
+        allow = {         
+            war = no           
+            DAL = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            LIR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            CLV = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        } 
+            DMN = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }   
+        }
+        effect = {                
+            prestige = 25
+            change_tag = CST
+            
+            DAL = {
+				all_core = { add_core = CST secede_province = THIS}
 			}
+            CLV = {
+				all_core = { add_core = CST secede_province = THIS}
+			}
+            DMN = {
+				all_core = { add_core = CST secede_province = THIS}
+			}
+			LIR = {
+				all_core = { add_core = CST secede_province = THIS}
+			}
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Hispania  = {
+        picture = spanish_restoration
+        potential = {
+            OR = {                
+                
+                tag = CST
+                                
+            }
+            NOT = { exists = HIS }
+			
+        }
+        allow = {         
+            war = no           
+            CST = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }   
+            CAT = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }   
+            BSQ = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            POR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }   
+        }
+        effect = {                
+            prestige = 30
+            change_tag = HIS
+            
+            DAL = {
+				all_core = { add_core = HIS secede_province = THIS }
+			}
+            CLV = {
+				all_core = { add_core = HIS secede_province = THIS }
+			}
+            DMN = {
+				all_core = { add_core = HIS secede_province = THIS }
+			}
+            POR = {
+				all_core = { add_core = HIS secede_province = THIS }
+			}
+            LIR = {
+				all_core = { add_core = HIS secede_province = THIS }
+			}
+            CAT = {
+				all_core = { add_core = HIS secede_province = THIS }
+			}
+            BSQ = {
+				all_core = { add_core = HIS secede_province = THIS }
+			}       
+            add_accepted_culture = basque
+            add_accepted_culture = spanish
+            add_accepted_culture = catalan
+            add_accepted_culture = portuguese
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Hispaniaa  = {
+        picture = spanish_restoration
+        potential = {
+            OR = {                
+                tag = HIS
+            }
+            NOT = {has_global_flag = Hispaniaa}
+        }
+        allow = {         
+            war = no           
+            nationalism_n_imperialism = 1  
+        }
+        effect = {                          
+            set_global_flag= Hispaniaa 
+            MOR = {
+				all_core = { add_core = HIS }
+			}
+            ALD = {
+				all_core = { add_core = HIS }
+			}
+            TUN = {
+				all_core = { add_core = HIS }
+			}
+            APU = {
+				all_core = { add_core = HIS }
+			}
+            add_accepted_culture = south_italian
+            755 = { add_core = HIS }
+            754 = { add_core = HIS }
+            2567 = { add_core = HIS }
+            753 = { add_core = HIS }
+            10 = { add_core = HIS }
+            757 = { add_core = HIS }
+            766 = { add_core = HIS }
+            765 = { add_core = HIS }
+        }
+		ai_will_do = { factor = 1 }
+    }
+	create_iberia  = {
+        picture = create_iberia
+        potential = {
+            OR = {                
+                tag = POR
+                tag = SPA
+            }
+            NOT = { exists = IBR }
+        }
+        allow = {         
+            war = no           
+            DAL = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            LIR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }  
+            POR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }  
+            CLV = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        } 
+            DMN = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }   
+            CAT = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }   
+            BSQ = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }  
+        }
+        effect = {                
+            prestige = 30
+            change_tag = IBR
+            DAL = {
+				all_core = { add_core = IBR secede_province = THIS }
+			}
+            CLV = {
+				all_core = { add_core = IBR secede_province = THIS }
+			}
+            DMN = {
+				all_core = { add_core = IBR secede_province = THIS }
+			}
+            POR = {
+				all_core = { add_core = IBR secede_province = THIS }
+			}
+            LIR = {
+				all_core = { add_core = IBR secede_province = THIS }
+			}
+            CAT = {
+				all_core = { add_core = IBR secede_province = THIS }
+			}
+            BSQ = {
+				all_core = { add_core = IBR secede_province = THIS }
+			}      
+            add_accepted_culture = basque
+            add_accepted_culture = spanish
+            add_accepted_culture = catalan
+            add_accepted_culture = portuguese
+        }
+		ai_will_do = { factor = 1 }
     }
 }

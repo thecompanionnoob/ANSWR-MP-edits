@@ -8,7 +8,6 @@ political_decisions = {
             NOT = {has_global_flag = Holy_aust}
 			
         }
-
         allow = {         
             war = no  
              HAE = {
@@ -23,8 +22,8 @@ political_decisions = {
                         }
                     }
                 }
-	         }
-           FRM = {
+	        }
+			FRM = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -36,7 +35,7 @@ political_decisions = {
                         }
                     }
                 }
-	         }
+	        }
             WAG = {
                 all_core = {
                     OR = {
@@ -49,8 +48,8 @@ political_decisions = {
                         }
                     }
                 }
-	         }
-        AUG = {
+	        }
+			AUG = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -62,8 +61,8 @@ political_decisions = {
                         }
                     }
                 }
-	         } 
-         RPL = {
+	        } 
+			RPL = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -75,8 +74,8 @@ political_decisions = {
                         }
                     }
                 }
-	         }
-           TTB = {
+	        }
+			TTB = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -88,7 +87,7 @@ political_decisions = {
                         }
                     }
                 }
-	         }
+	        }
             UIL = {
                 all_core = {
                     OR = {
@@ -101,8 +100,8 @@ political_decisions = {
                         }
                     }
                 }
-	         }
-        UNB = {
+	        }
+			UNB = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -114,8 +113,8 @@ political_decisions = {
                         }
                     }
                 }
-	         }
-         UNM = {
+	        }
+			UNM = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -127,8 +126,8 @@ political_decisions = {
                         }
                     }
                 }
-	         }
-           UOR = {
+	        }
+			UOR = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -140,7 +139,7 @@ political_decisions = {
                         }
                     }
                 }
-	         }
+	        }
             FSA = {
                 all_core = {
                     OR = {
@@ -153,8 +152,8 @@ political_decisions = {
                         }
                     }
                 }
-	         }
-        BLZ = {
+	        }
+			BLZ = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -166,8 +165,8 @@ political_decisions = {
                         }
                     }
                 }
-	         } 
-         VEN = {
+	        } 
+			VEN = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -179,8 +178,8 @@ political_decisions = {
                         }
                     }
                 }
-	         }
-           TRE = {
+			}
+			TRE = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -192,7 +191,7 @@ political_decisions = {
                         }
                     }
                 }
-	         }
+	        }
             ION = {
                 all_core = {
                     OR = {
@@ -205,8 +204,8 @@ political_decisions = {
                         }
                     }
                 }
-	         }
-        BRE  = {
+	        }
+			BRE  = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -218,8 +217,8 @@ political_decisions = {
                         }
                     }
                 }
-	         } 
-         PRT = {
+	        } 
+			PRT = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -231,7 +230,7 @@ political_decisions = {
                         }
                     }
                 }
-	         }
+	        }
             OLD = {
                 all_core = {
                     OR = {
@@ -246,9 +245,6 @@ political_decisions = {
                 }
             }		  
         }
-		
-        
-
         effect = {                
             prestige = 30
             set_global_flag= Holy_aust
@@ -315,6 +311,32 @@ political_decisions = {
         }
 		ai_will_do = {
 			factor = 1
-			}
+		}
+    }
+    Holy_Aus  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = HAE
+            }
+            NOT = {has_global_flag = Aus}	
+        }
+        allow = {         
+            war = no           
+            money = 600000 
+        }
+        effect = {                
+            money = -600000 
+            set_global_flag = Aus
+            2495 = {secede_province = THIS}
+            2503 = {secede_province = THIS}
+            2605 = {secede_province = THIS}  
+            2507 = {secede_province = THIS}   
+            2603 = {secede_province = THIS} 
+            2601 = {secede_province = THIS}          			
+        }
+		ai_will_do = {
+			factor = 1
+		}
     }
 }

@@ -1,16 +1,12 @@
 political_decisions = {
-        Peru  = {
+    Peru  = {
         picture = reunite_peru
         potential = {
             OR = {                
                 tag = ARE
-                
-                                
             }
             NOT = { exists = PEU }
-
         }
-
         allow = {         
             war = no           
             HUA = {
@@ -25,8 +21,8 @@ political_decisions = {
                         }
                     }
                 }
-	         }
-             SPU = {
+	        }
+            SPU = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -38,8 +34,8 @@ political_decisions = {
                         }
                     }
                 }
-	         }  
-             ARE = {
+	        }  
+            ARE = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -51,11 +47,8 @@ political_decisions = {
                         }
                     }
                 }
-	         } 
+	        } 
         }
-		
-        
-
         effect = {                
             prestige = 25
             change_tag = PEU
@@ -70,10 +63,195 @@ political_decisions = {
 			}
             add_accepted_culture = quechua
             add_accepted_culture = aimara
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Peru_Bol  = {
+        picture = peru_bolivia
+        potential = {
+            OR = {                
+                tag = PEU
+                tag = BKW
+            }
+            NOT = { exists = PBC }
+        }
+        allow = {         
+            war = no           
+            HUA = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            SPU = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }  
+            ARE = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        } 
+            BWK = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }     
+        }
+        effect = {                
+            prestige = 25
+            change_tag = PBC
+            HUA = {
+				all_core = { add_core = PBC secede_province = THIS }
+			}
+            SPU = {
+				all_core = { add_core = PBC secede_province = THIS }
+			}
+            ARE = {
+				all_core = { add_core = PBC secede_province = THIS }
+			}
+            BWK = {
+				all_core = { add_core = PBC secede_province = THIS }
+			}
+               
+            add_accepted_culture = pacinian
+            add_accepted_culture = muisca
+            add_accepted_culture = aimara 
             
         }
-		ai_will_do = {
-			factor = 1
+		ai_will_do = { factor = 1 }
+    }
+    Plata  = {
+        picture = unite_la_plata
+        potential = {
+            OR = {                
+                tag = RLP
+                
+                                
+            }
+            NOT = {has_global_flag = Plata}
+			
+        }
+
+        allow = {         
+            war = no           
+            SJR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            RLP = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+        }
+        effect = {                
+            prestige = 15          
+            change_tag = LPL
+            inherit = SJR
+            SJR = {
+				all_core = { add_core = LPL secede_province = THIS }
 			}
+            RLP = {
+				all_core = { add_core = LPL secede_province = THIS }
+			}
+            
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Bor  = {
+        picture = unite_la_plata
+        potential = {
+            OR = {                
+                tag = SJR 
+            }
+            NOT = {has_global_flag = Plata}
+        }
+        allow = {         
+            war = no           
+            SJR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            RLP = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+        }
+        effect = {                
+            prestige = 15          
+            set_global_flag = Plata
+            RLP = {
+				all_core = { add_core = SJR secede_province = THIS }
+			}
+        }
+		ai_will_do = { factor = 1 }
     }
 }

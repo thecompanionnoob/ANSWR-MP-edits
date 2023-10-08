@@ -1,11 +1,11 @@
 political_decisions = {
-        China  = {
+	China  = {
         picture = form_china
         potential = {
             OR = {                
                 tag = HUI
-		tag = QNG
-		tag = QHI
+				tag = QNG
+				tag = QHI
                 tag = HNN
                 tag = HEI 
                 tag = GXI
@@ -25,7 +25,6 @@ political_decisions = {
             NOT = { exists = CHI }
 			
         }
-
         allow = {         
             war = no   
             CHI = {
@@ -101,6 +100,194 @@ political_decisions = {
 			factor = 1
         }
     }
+    Chinaa  = {
+        picture = form_china
+        potential = {
+            OR = {                
+                tag = HUI
+                tag = HNN
+                tag = HEI 
+                tag = GXI
+                tag = SXI 
+                tag = HUI 
+                tag = RYU   
+                tag = GMJ   
+                tag = XIR 
+                tag = JUC 
+                tag = SZC 
+                tag = WYS
+                tag = GNG 
+                tag = CHA 
+                tag = YNN 
+            }
+            NOT = {has_global_flag = china}
+        }
+        allow = {         
+            war = no  
+        }
+        effect = {                
+            set_global_flag= china 
+            HUI = {
+				all_core = { add_core = CHI }
+			}      
+            HNN = {
+				all_core = { add_core = CHI }
+			}
+            GMJ = {
+				all_core = { add_core = CHI }
+			}
+            HEI = {
+				all_core = { add_core = CHI }
+			}
+            GXI = {
+				all_core = { add_core = CHI }
+			}
+            SXI = {
+				all_core = { add_core = CHI }
+			}
+            RYU = {
+				all_core = { add_core = CHI }
+			}
+            HUI = {
+				all_core = { add_core = CHI }
+			}
+            HNN = {
+				all_core = { add_core = CHI }
+			}
+            GMJ = {
+				all_core = { add_core = CHI }
+			}
+            XIR = {
+				all_core = { add_core = CHI }
+			}
+            JUC = {
+				all_core = { add_core = CHI }
+			}
+            SZC = {
+				all_core = { add_core = CHI }
+			}
+            WYS = {
+				all_core = { add_core = CHI }
+			}
+            GNG = {
+				all_core = { add_core = CHI }
+			}
+            CHA = {
+				all_core = { add_core = CHI }
+			}
+            YNN = {
+				all_core = { add_core = CHI }
+			}   
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+    Qingg  = {
+        picture = form_china
+        potential = {
+            OR = {                
+                tag = MCK
+                tag = BUL
+                tag = SYC 
+                tag = DAL
+                tag = DMN
+                tag = CLV 
+                tag = HNN
+                tag = HEI 
+                tag = GXI
+                tag = SXI 
+                tag = HUI 
+                tag = RYU   
+                tag = GMJ                     
+            }
+            NOT = {has_global_flag = qing}
+        }
+        allow = {         
+            war = no
+        }
+        effect = { 
+            set_global_flag= qing                                     
+            MGL = {
+				all_core = { add_core = QHI }
+			}
+            HNN = {
+				all_core = { add_core = QHI }
+			}
+            HEI = {
+				all_core = { add_core = QHI }
+			}
+            GXI = {
+				all_core = { add_core = QHI }
+			}
+            SXI = {
+				all_core = { add_core = QHI }
+			}
+            RYU = {
+				all_core = { add_core = QHI }
+			}
+            HUI = {
+				all_core = { add_core = QHI }
+			}
+            
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+    Qing  = {
+        picture = form_china
+        potential = {
+            OR = {                
+                tag = MCK
+            }
+            NOT = { exists = QHI }
+        }
+        allow = {         
+            war = no           
+            QHI = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+			}
+        }
+        effect = {                
+            prestige = 10
+            change_tag = QHI           
+            MGL = {
+				all_core = { add_core = QHI secede_province = THIS }
+			}
+            HNN = {
+				all_core = { add_core = QHI secede_province = THIS }
+			}
+            HEI = {
+				all_core = { add_core = QHI secede_province = THIS }
+			}
+            GXI = {
+				all_core = { add_core = QHI secede_province = THIS }
+			}
+            SXI = {
+				all_core = { add_core = QHI secede_province = THIS }
+			}
+            RYU = {
+				all_core = { add_core = QHI secede_province = THIS }
+			}
+            HUI = {
+				all_core = { add_core = QHI secede_province = THIS }
+			}
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }	
 }
 
 

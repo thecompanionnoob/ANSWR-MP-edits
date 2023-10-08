@@ -1,18 +1,18 @@
 political_decisions = {
-	Colombia  = {
-        picture = unite_gran_colombia
+	Japon  = {
+        picture = japan
         potential = {
             OR = {                
-                tag = PNM
-                tag = GAR
-                tag = CRR  
-                tag = ECU      
+                tag = NIH
+                tag = JIY
+                tag = EZO
             }
-            NOT = { exists = GCO }
+            NOT = { exists = JAP }
+
         }
         allow = {         
-            war = no          
-            PNM = {
+            war = no           
+            NIH = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -25,7 +25,7 @@ political_decisions = {
                     }
                 }
 	        }
-			GAR = {
+            JIY = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -38,7 +38,7 @@ political_decisions = {
                     }
                 }
 	        }
-			CRR = {
+            EZO = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -50,39 +50,24 @@ political_decisions = {
                         }
                     }
                 }
-	        }
-            ECU = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	        }
+	        }     
         }
         effect = {                
-            prestige = 25
-            change_tag = GCO 
-            PNM = {
-				all_core = { add_core = GCO secede_province = THIS }
+            prestige = 30
+            change_tag = JAP
+            NIH = {
+				all_core = { add_core = JAP secede_province = THIS }
 			}
-            GAR = {
-				all_core = { add_core = GCO secede_province = THIS }
+            JIY = {
+				all_core = { add_core = JAP secede_province = THIS }
 			}
-            CRR = {
-				all_core = { add_core = GCO secede_province = THIS }
-			}
-            ECU = {
-				all_core = { add_core = GCO secede_province = THIS }
-			}   
-            add_accepted_culture = muisca
-            add_accepted_culture = central_american
+            EZO = {
+				all_core = { add_core = JAP secede_province = THIS }
+			}         
+            add_accepted_culture = japanese 
+            add_accepted_culture = ainu
+            
         }
 		ai_will_do = { factor = 1 }
-    }
+	}
 }

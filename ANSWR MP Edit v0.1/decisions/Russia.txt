@@ -1,0 +1,589 @@
+political_decisions = {
+    Rusia  = {
+        picture = russian_vladivostok
+        potential = {
+            OR = {                
+                tag = MOW  
+            }
+            NOT = { exists = RUS }
+        }
+        allow = {         
+            war = no
+            civilized = yes           
+            MOW = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            PRZ = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            STR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }     
+            NBA = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }     
+            ZKY = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }     
+            ZVY = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }    
+            owns = 1025
+            owns = 1037
+            owns = 1001
+            owns = 998
+            owns = 991
+            owns = 992
+            owns = 1000
+            owns = 1014
+            owns = 1015
+            owns = 1016
+            owns = 943
+            owns = 1017
+            owns = 1019
+            owns = 1039
+            owns = 1040
+            owns = 1022
+            owns = 1027
+            owns = 1020
+            owns = 1033
+            owns = 987
+            owns = 990
+            owns = 1028
+            owns = 1030
+            owns = 1034
+            owns = 1035
+            owns = 1043
+            owns = 2689
+            owns = 2700
+            owns = 1026
+            owns = 1029
+            owns = 1031
+            owns = 1183
+            owns = 2610
+            owns = 1043
+            owns = 1042
+            owns = 1034
+            owns = 1044      
+        }
+        effect = {                
+            prestige = 25
+            change_tag = RUS
+            MOW = {
+				all_core = { add_core = RUS secede_province = THIS }
+			}
+            PRZ = {
+				all_core = { add_core = RUS secede_province = THIS }
+			}
+            STR = {
+				all_core = { add_core = RUS secede_province = THIS }
+			}
+            NBA = {
+				all_core = { add_core = RUS secede_province = THIS }
+			}
+            ZKY = {
+				all_core = { add_core = RUS secede_province = THIS }
+			}
+            ZVY = {
+				all_core = { add_core = RUS secede_province = THIS }
+			}     
+            add_accepted_culture = kazak
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+	Rusia_Ask  = {
+        picture = map_alaska
+        potential = {
+            OR = {                
+                tag = RUS
+                
+                                
+            }
+            NOT = {has_global_flag = Recuperar_Alaska}
+            has_global_flag = Recuperar_Rus		
+        }
+        allow = {         
+            war = no           
+            RUS = {
+                OR = {                
+                    all_core = {
+                        owned_by = THIS
+                    }
+                }
+            }     
+        }
+        effect = {  
+            badboy = 5                       
+            set_global_flag= Recuperar_Alaska
+            LSK = {
+				all_core = { add_core = RUS }
+			}
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+	Rusia_Empire  = {
+        picture = romanians_marching
+        potential = {
+            OR = {                
+                tag = RUS                
+            }
+            NOT = {has_global_flag = Recuperar_Rus}
+            has_global_flag = Siberia		
+        }
+        allow = {         
+            war = no           
+            RUS = {
+                OR = {                 
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+            }     
+        }
+        effect = {  
+            badboy = 10                        
+            set_global_flag= Recuperar_Rus
+            POL = {
+				all_core = { add_core = RUS }
+			}
+            LIT = {
+				all_core = { add_core = RUS }
+			}
+            BYE = {
+				all_core = { add_core = RUS }
+			}
+            UKR = {
+				all_core = { add_core = RUS }
+			}
+            IZH = {
+				all_core = { add_core = RUS }
+			}
+            EST = {
+				all_core = { add_core = RUS }
+			}
+            CRI = {
+				all_core = { add_core = RUS }
+			}
+            FIN = {
+				all_core = { add_core = RUS }
+			}
+           add_accepted_culture = ukrainian
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+	Rusia_Siberia  = {
+        picture = form_the_ikhwan
+        potential = {
+            OR = {                
+                tag = RUS
+            }
+            NOT = {has_global_flag = Siberia}
+        }
+        allow = {         
+            war = no           
+        }
+        effect = {                
+            badboy = 15          
+            set_global_flag= Siberia
+            URA = {
+				all_core = { add_core = RUS }
+			}
+            OMS = {
+				all_core = { add_core = RUS }
+			}
+            SIB = {
+				all_core = { add_core = RUS }
+			}
+            TAR = {
+				all_core = { add_core = RUS }
+			}
+            BRY = {
+				all_core = { add_core = RUS }
+			}
+            KRL = {
+				all_core = { add_core = RUS }
+			}
+            YAK = {
+				all_core = { add_core = RUS }
+			}
+            KAM = {
+				all_core = { add_core = RUS }
+			}
+            CPL = {
+				all_core = { add_core = RUS }
+			}
+            1076 = { add_core = RUS }
+            1075 = { add_core = RUS }
+            1469 = { add_core = RUS }
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+	Rusia_con_1  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = MOW
+            }
+            NOT = {has_global_flag = Con_1}
+			
+        }
+        allow = {         
+            war = no           
+            money = 10000
+        }
+        effect = {                
+            set_global_flag= Con_1
+            1025 = {secede_province = THIS}
+            1037 = {secede_province = THIS}
+            1025 = { add_core = MOW }
+            1037 = { add_core = MOW }
+            money = -10000
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+    Rusia_con_2  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = MOW
+            }
+            NOT = {has_global_flag = Con_2}
+            has_global_flag = Con_1	
+        }
+        allow = {         
+            war = no           
+            money = 20000 
+        }
+        effect = {                
+            money = -20000
+            set_global_flag= Con_2
+            1001 = {secede_province = THIS}
+            998 = {secede_province = THIS}
+            991 = {secede_province = THIS}
+            992 = {secede_province = THIS}
+            1001 = { add_core = MOW }
+            998 = { add_core = MOW }
+            991 = { add_core = MOW }
+            992 = { add_core = MOW }
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+    Rusia_con_3  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = MOW
+            }
+            NOT = {has_global_flag = Con_3}
+            has_global_flag = Con_2	
+        }
+
+        allow = {         
+            war = no           
+            money = 40000 
+        }
+        effect = {  
+            money = -40000               
+            set_global_flag= Con_3
+            1000 = {secede_province = THIS}
+            1014 = {secede_province = THIS}
+            1015 = {secede_province = THIS}
+            1016 = {secede_province = THIS}
+            943 = {secede_province = THIS}
+            1000 = { add_core = MOW }
+            1014 = { add_core = MOW }
+            1015 = { add_core = MOW }
+            1016 = { add_core = MOW }
+            943 = { add_core = MOW }
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+    Rusia_con_4  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = MOW
+            }
+            NOT = {has_global_flag = Con_4}
+            has_global_flag = Con_3	
+        }
+
+        allow = {         
+            war = no           
+            money = 50000 
+        }
+        effect = {  
+            money = -50000              
+            set_global_flag= Con_4
+            1017 = {secede_province = THIS}
+            1019 = {secede_province = THIS}
+            1039 = {secede_province = THIS}
+            1040 = {secede_province = THIS}
+            1017 = { add_core = MOW }
+            1019 = { add_core = MOW }
+            1039 = { add_core = MOW }
+            1040 = { add_core = MOW }
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+    Rusia_con_5  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = MOW
+            }
+            NOT = {has_global_flag = Con_5}
+            has_global_flag = Con_4	
+        }
+        allow = {         
+            war = no           
+            money = 70000  
+        }
+        effect = {
+            money = -70000                 
+            set_global_flag= Con_5
+            1022 = {secede_province = THIS}
+            1027 = {secede_province = THIS}
+            1020 = {secede_province = THIS}
+            1033 = {secede_province = THIS}
+            1022 = { add_core = MOW }
+            1027 = { add_core = MOW }
+            1020 = { add_core = MOW }
+            1033 = { add_core = MOW }
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+    Rusia_con_6  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = MOW
+            }
+            NOT = {has_global_flag = Con_6}
+            has_global_flag = Con_5	
+        }
+        allow = {         
+            war = no           
+            money = 90000  
+        }
+        effect = {
+            money = -90000                 
+            set_global_flag= Con_6
+            987 = {secede_province = THIS}
+            990 = {secede_province = THIS}
+            1028 = {secede_province = THIS}
+            1030 = {secede_province = THIS}
+            1034 = {secede_province = THIS}
+            1035 = {secede_province = THIS}
+            1043 = {secede_province = THIS}
+            987 = { add_core = MOW }
+            990 = { add_core = MOW }
+            1028 = { add_core = MOW }
+            1030 = { add_core = MOW }
+            1034 = { add_core = MOW }
+            1035 = { add_core = MOW }
+            1043 = { add_core = MOW }
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+    Rusia_con_7  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = MOW
+            }
+            NOT = {has_global_flag = Con_7}
+            has_global_flag = Con_6	
+        }
+        allow = {         
+            war = no           
+            money = 100000  
+        }
+        effect = {
+            money = -100000                 
+            set_global_flag= Con_7
+            2689 = {secede_province = THIS}
+            2700 = {secede_province = THIS}
+            1026 = {secede_province = THIS}
+            1029 = {secede_province = THIS}
+            1031 = {secede_province = THIS}     
+            2689 = { add_core = MOW }
+            2700 = { add_core = MOW }  
+            1026 = { add_core = MOW }  
+            1029 = { add_core = MOW } 
+            1031 = { add_core = MOW }  
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+    Rusia_con_8  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = MOW
+            }
+            NOT = {has_global_flag = Con_8}
+            has_global_flag = Con_7	
+        }
+        allow = {         
+            war = no           
+            money = 120000  
+        }
+        effect = {
+            money = -120000                
+            set_global_flag= Con_8
+            1183 = {secede_province = THIS}
+            2610 = {secede_province = THIS}
+            1043 = {secede_province = THIS}
+            1042 = {secede_province = THIS}
+            1034 = {secede_province = THIS}
+            1044 = {secede_province = THIS}   
+            1183 = { add_core = MOW } 
+            2610 = { add_core = MOW } 
+            1043 = { add_core = MOW }  
+            1042 = { add_core = MOW }    
+            1034 = { add_core = MOW }
+            1044 = { add_core = MOW } 
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+	#Moscow
+	colonize_old_russia = {
+		potential = {
+			tag = MOW
+			OR = {
+				AND = { 
+						primary_culture = russian 
+						NOT = { exists = MOW }
+						}
+					}
+			NOT = {
+				any_owned_province = { region = RUS_1020 }
+				any_owned_province = { region = RUS_1037 }
+				has_global_flag = colonized_old_russia
+				}
+			}
+		allow = {
+			year = 2840
+			prestige = 10
+			OR = { 
+				transport_improv = yes_transport_improv }
+			}
+		effect = {
+			prestige = 5
+			RUS_1020 = { secede_province = THIS }
+			RUS_1020 = { add_core = THIS }
+			RUS_1037 = { secede_province = THIS }
+			RUS_1037 = { add_core = THIS }
+			set_global_flag = colonized_old_russia
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	#Ukraine Annexation
+	colonize_old_ukraine = {
+		potential = {
+			tag = UKR
+			OR = { primary_culture = ukrainian }
+			NOT = { RUS_973 = { owned_by = THIS } RUS_978 = { owned_by = THIS } }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+				OR = { RUS_973 = { owned_by = THIS }
+					   RUS_978 = { owned_by = THIS } }
+				OR = {
+					NOT = {exists = ZKY}
+				}
+			}
+		effect = {
+			RUS_973 = { add_core = THIS }
+			RUS_978 = { add_core = THIS }
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

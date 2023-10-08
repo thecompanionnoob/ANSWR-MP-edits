@@ -1,19 +1,16 @@
 political_decisions = {
-	Judea  = {
-        picture = Bulgaria
-        potential = {
-            OR = {                
-                tag = ISR
-                
-                                
-            }
-            NOT = {has_global_flag = judios}
-			
+	ZAP_Form  = {
+		picture = ZAP
+		potential = {
+			OR = {                
+				tag = CZH
+				tag = POL  
+			}
+			NOT = { exists = WSF }
         }
-
         allow = {         
-            war = no           
-            SYR = {
+            war = no              
+            POL = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -25,8 +22,8 @@ political_decisions = {
                         }
                     }
                 }
-	         }
-           LBN = {
+			}
+           NIT = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -38,8 +35,8 @@ political_decisions = {
                         }
                     }
                 }
-	         } 
-            HDJ = {
+            }
+           BOH = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -51,51 +48,54 @@ political_decisions = {
                         }
                     }
                 }
-	         }         
+            }   
         }
-		
-        
-
         effect = {                
             prestige = 10
-            set_global_flag= judios
-            SYR = {
-				all_core = { add_core = ISR secede_province = THIS }
+            change_tag = WSF           
+            CZH = {
+				all_core = { add_core = WSF secede_province = THIS }
 			}
-            LBN = {
-				all_core = { add_core = ISR secede_province = THIS }
+            POL = {
+				all_core = { add_core = WSF secede_province = THIS }
 			}
-            HDJ = {
-				all_core = { add_core = ISR secede_province = THIS }
-			}
-            government = hms_government 
+            add_accepted_culture = polish
+            add_accepted_culture = czech
+            add_accepted_culture = slovak
             
         }
 		ai_will_do = {
 			factor = 1
 		}
     }
-	the_sinai_settlements = {
-		potential = {
-			tag = ISR
-			NOT = { has_country_flag = sinai_renamed }
+	ZAP_Big  = {
+        picture = ZAP
+        potential = {
+            OR = {                
+                tag = WSF   
+            }
+            NOT = {has_global_flag = zap}	
+        }
+        allow = {
+			war = no
+			nationalism_n_imperialism = 1 
+        }
+        effect = {                       
+			set_global_flag= zap
+			add_accepted_culture = romanian
+			add_accepted_culture = ukrainian
+			add_accepted_culture = hungarian
+			add_accepted_culture = staromadar
+			AUS_623 = {add_core = WSF}
+			AUS_641 = {add_core = WSF}
+			RUS_959 = {add_core = WSF}
+			MOL_673 = {add_core = WSF}
+			AUS_657 = {add_core = WSF}
+			AUS_654 = {add_core = WSF}
+			MOL_676 = {add_core = WSF}
 		}
-		
-		allow = {
-			NOT = { war = yes }
-			owns = 921
-			owns = 922
-			owns = 1757
-			money = 20000
+		ai_will_do = {
+			factor = 1
 		}
-		
-		effect = { 
-			prestige = 5
-			921 = { change_province_name = "Be'er Sheva" }
-			922 = { change_province_name = "Elath" }
-			1757 = { change_province_name = "Ofira" }
-			set_country_flag = sinai_renamed
-			money = -20000
-		}
-	}	
+    }
 }
