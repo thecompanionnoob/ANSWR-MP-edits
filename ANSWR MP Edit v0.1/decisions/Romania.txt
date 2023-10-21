@@ -1,18 +1,15 @@
 political_decisions = {
-        unite_with_romania  = {
+	unite_with_romania  = {
         picture = create_romania
         potential = {
-            OR = {                
+            OR = {
                 tag = WAL
-                                
             }
             NOT = { exists = ROM }
-			
         }
-
-        allow = {         
+        allow = {
             war = no
-            state_n_government = 1          
+            state_n_government = 1
             WAL = {
                 all_core = {
                     OR = {
@@ -25,59 +22,54 @@ political_decisions = {
                         }
                     }
                 }
-	         }
-           BKV = {
-            all_core = {
-                OR = {
-                    owned_by = THIS
-                    owner = {
-                        OR = {
-                            in_sphere = THIS
-                            vassal_of = THIS                      
-                        }
-                    }
-                }
-            }
+	        }
+            BKV = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS                      
+							}
+						}
+					}
+				}
+			}
+			SIE = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS                      
+							}
+						}
+					}
+				}
+			}
+			MDV = {	
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS                      
+							}
+						}
+					}
+				}
+			}
         }
-	         
-	
-           SIE = {
-            all_core = {
-                OR = {
-                    owned_by = THIS
-                    owner = {
-                        OR = {
-                            in_sphere = THIS
-                            vassal_of = THIS                      
-                        }
-                    }
-                }
-            }
-	    }   
-             all_core = {
-                OR = {
-                    owned_by = THIS
-                    owner = {
-                        OR = {
-                            in_sphere = THIS
-                            vassal_of = THIS                      
-                        }
-                    }
-                }
-            }   
-        }
-    }
-		
-        
-
         effect = {                
             prestige = 10
             change_tag = ROM
-           
             WAL = {
 				all_core = { add_core = ROM secede_province = THIS }
 			}
-           BKV = {
+            BKV = {
 				all_core = { add_core = ROM secede_province = THIS }
 			}
             SIE = {
@@ -86,10 +78,79 @@ political_decisions = {
             MDV = {
 				all_core = { add_core = ROM secede_province = THIS }
 			} 
-            
         }
-		ai_will_do = {
-			factor = 1
+		ai_will_do = { factor = 1 }
+	}
+    Bulgariarom  = {
+        picture = Bulgariarom
+        potential = {
+            OR = {                
+                tag = ROM
+                tag = BUL
+                tag = SYC
+                                
+            }
+            NOT = { exists = BRO }
+			
+        }
+        allow = {         
+            war = no           
+            ROM = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           BUL = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         } 
+           SYC = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }      
+        }
+        effect = {                
+            prestige = 10
+            change_tag = BRO
+            ROM = {
+				all_core = { add_core = BRO secede_province = THIS }
 			}
-    
+            BUL = {
+				all_core = { add_core = BRO secede_province = THIS }
+			}
+            SYC = {
+				all_core = { add_core = BRO secede_province = THIS }
+			}
+            add_accepted_culture = romanian
+            add_accepted_culture = bulgarian
+            add_accepted_culture = westturkish
         }
+		ai_will_do = { factor = 1 }
+    }
+}

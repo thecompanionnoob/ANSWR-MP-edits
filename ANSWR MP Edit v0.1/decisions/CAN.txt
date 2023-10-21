@@ -1,5 +1,5 @@
 political_decisions = {
-        Canadaa	  = {
+	Canadaa = {
         picture = sign_the_geneva_convention
         potential = {
             OR = {                
@@ -10,7 +10,6 @@ political_decisions = {
             NOT = { exists = CAN }
 			
         }
-
         allow = {         
             war = no          
             QUE = {
@@ -53,9 +52,6 @@ political_decisions = {
                 }
             }    
         }
-		
-        
-
         effect = {                
             prestige = 25
             change_tag = CAN  
@@ -75,6 +71,6 @@ political_decisions = {
         }
 		ai_will_do = {
 			factor = 1
-			}
+		}
     }
 }

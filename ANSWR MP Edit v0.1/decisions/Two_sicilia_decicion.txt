@@ -1,41 +1,32 @@
 political_decisions = {
-        Italia_S_1  = {
+	Italia_S_1  = {
         picture = Sicilia
         potential = {
             OR = {                
                 tag = APU
-                                
             }
             NOT={has_global_flag = Two_sicilia_1}
 			NOT = {				
 				has_country_modifier = Two_sicilia
 			}
         }
-
         allow = {         
-            war = no                     	
-            
+            war = no
         }
-		
-        
-
         effect = {                   		
             set_global_flag = Two_sicilia_1
 			add_country_modifier = {
-                        name = Two_sicilia
-                        duration = 200
-                }
+                name = Two_sicilia
+                duration = 200
+            }
         }
-		ai_will_do = {
-			factor = 1
-			}
+		ai_will_do = { factor = 1 }
     }
 	Italia_S_2  = {
         picture = Sicilia
         potential = {
             OR = {                
-                tag = APU
-                                
+                tag = APU 
             }
 			has_global_flag = Two_sicilia_1
             NOT={has_global_flag = Two_sicilia_2}
@@ -43,31 +34,25 @@ political_decisions = {
 				has_country_modifier = Two_sicilia
 			}
         }
-
-        allow = {         
-            war = no                     	
-            	
+        allow = {        
+            war = no
         }
-		
-        
-
         effect = {                   		
             set_global_flag = Two_sicilia_2
 			add_country_modifier = {
-                        name = Two_sicilia
-                        duration = 200
-                }
+                name = Two_sicilia
+                duration = 200
+            }
         }
 		ai_will_do = {
 			factor = 1
-			}
+		}
     }
 	Italia_S_3  = {
         picture = Sicilia
         potential = {
             OR = {                
                 tag = APU
-                                
             }
 			has_global_flag = Two_sicilia_2
             NOT={has_global_flag = Two_sicilia_3}
@@ -75,31 +60,23 @@ political_decisions = {
 				has_country_modifier = Two_sicilia
 			}
         }
-
         allow = {         
-            war = no                     	
-            	
+            war = no
         }
-		
-        
-
         effect = {                    		
             set_global_flag = Two_sicilia_3
 			add_country_modifier = {
-                        name = Two_sicilia
-                        duration = 200
-                }
+				name = Two_sicilia
+                duration = 200
+            }
         }
-		ai_will_do = {
-			factor = 1
-			}
+		ai_will_do = { factor = 1 }
     }
 	Italia_S_4  = {
         picture = Sicilia
         potential = {
             OR = {                
                 tag = APU
-                                
             }
 			has_global_flag = Two_sicilia_3
             NOT={has_global_flag = Two_sicilia_4}
@@ -107,31 +84,23 @@ political_decisions = {
 				has_country_modifier = Two_sicilia
 			}
         }
-
         allow = {         
-            war = no                     	
-            	
+            war = no
         }
-		
-        
-
         effect = {                    		
             set_global_flag = Two_sicilia_4
 			add_country_modifier = {
-                        name = Two_sicilia
-                        duration = 200
-                }
+                name = Two_sicilia
+                duration = 200
+            }
         }
-		ai_will_do = {
-			factor = 1
-			}
+		ai_will_do = { factor = 1 }
     }
 	Italia_S_5  = {
         picture = Sicilia
         potential = {
             OR = {                
                 tag = APU
-                                
             }
 			has_global_flag = Two_sicilia_4
             NOT={has_global_flag = Two_sicilia_5}
@@ -139,29 +108,20 @@ political_decisions = {
 				has_country_modifier = Two_sicilia
 			}
         }
-
         allow = {         
-            war = no                     	
-            
+            war = no
         }
-		
-        
-
         effect = {                    		
             set_global_flag = Two_sicilia_5
 			change_tag = SIS
-            
         }
-		ai_will_do = {
-			factor = 1
-			}
+		ai_will_do = { factor = 1 }
     }
 	Italia_S_6  = {
         picture = Sicilia
         potential = {
             OR = {                
-                tag = SIS
-                                
+                tag = SIS  
             }
 			has_global_flag = Two_sicilia_5
             NOT={has_global_flag = Two_sicilia_6}
@@ -169,14 +129,9 @@ political_decisions = {
 				has_country_modifier = Two_sicilia
 			}
         }
-
         allow = {         
-            war = no                     	
-	
+            war = no
         }
-		
-        
-
         effect = {                    		
             set_global_flag = Two_sicilia_6
 			755 = { add_core = SIS }
@@ -185,24 +140,18 @@ political_decisions = {
 			753 = { add_core = SIS }
 			757 = { add_core = SIS }
 			10 = { add_core = SIS }
-			
         }
-		ai_will_do = {
-			factor = 1
-			}
+		ai_will_do = { factor = 1 }
     }
 	Italia_S_7  = {
         picture = Sicilia
         potential = {
             OR = {                
                 tag = SIS
-                                
             }
 			has_global_flag = Two_sicilia_6
             NOT={has_global_flag = Two_sicilia_7}
-			
         }
-
         allow = {         
             war = no                     	
 	        SIS = {
@@ -213,33 +162,25 @@ political_decisions = {
                         }
                     }
                 }
-	         }
+	        }
         }
-		
-        
-
         effect = {                    		
             set_global_flag = Two_sicilia_7
 			SIC = {
 				all_core = { add_core = SIS }
 			}
         }
-		ai_will_do = {
-			factor = 1
-			}
+		ai_will_do = { factor = 1 }
     }
 	Italia_S_8  = {
         picture = Sicilia
         potential = {
             OR = {                
                 tag = SIS
-                                
             }
 			has_global_flag = Two_sicilia_7
             NOT={has_global_flag = Two_sicilia_8}
-			
         }
-
         allow = {         
             war = no                     	
 	        SIS = {
@@ -250,11 +191,8 @@ political_decisions = {
                         }
                     }
                 }
-	         }
+	        }
         }
-		
-        
-
         effect = {                    		
             set_global_flag = Two_sicilia_8
 			TUS = {
@@ -264,9 +202,7 @@ political_decisions = {
 				all_core = { add_core = SIS }
 			}
         }
-		ai_will_do = {
-			factor = 1
-			}
+		ai_will_do = { factor = 1 }
     }
 }
 

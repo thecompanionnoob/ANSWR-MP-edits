@@ -1,0 +1,73 @@
+political_decisions = {
+	Japon  = {
+        picture = japan
+        potential = {
+            OR = {                
+                tag = NIH
+                tag = JIY
+                tag = EZO
+            }
+            NOT = { exists = JAP }
+
+        }
+        allow = {         
+            war = no           
+            NIH = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            JIY = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            EZO = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }     
+        }
+        effect = {                
+            prestige = 30
+            change_tag = JAP
+            NIH = {
+				all_core = { add_core = JAP secede_province = THIS }
+			}
+            JIY = {
+				all_core = { add_core = JAP secede_province = THIS }
+			}
+            EZO = {
+				all_core = { add_core = JAP secede_province = THIS }
+			}         
+            add_accepted_culture = japanese 
+            add_accepted_culture = ainu
+            
+        }
+		ai_will_do = { factor = 1 }
+	}
+}

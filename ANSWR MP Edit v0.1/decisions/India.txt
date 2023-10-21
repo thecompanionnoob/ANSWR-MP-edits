@@ -1,0 +1,200 @@
+political_decisions = {
+    north_indian_empire = {
+		picture = government_decisions
+		potential = {
+			OR = {                
+				tag = IND
+				tag = NEP
+				tag = PNJ
+				tag = NAG          
+			}
+			NOT = { exists = NGE }
+		}
+		allow = {         
+			war = no          
+			IND = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS                      
+							}
+						}
+					}
+				}
+			}
+			NEP = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS                      
+							}
+						}
+					}
+				}
+			}
+			PNJ = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS                      
+							}
+						}
+					}
+				}
+			}
+		   NAG = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS                      
+							}
+						}
+					}
+				}
+			 }
+		}
+		effect = {                
+			prestige = 25
+			change_tag = NGE   
+			IND = {
+				all_core = { add_core = NGE secede_province = THIS}
+			}
+			NEP = {
+				all_core = { add_core = NGE secede_province = THIS}
+			}
+			
+			PNJ = {
+				all_core = { add_core = NGE secede_province = THIS}
+			}
+			
+			NAG = {
+				all_core = { add_core = NGE secede_province = THIS}
+			}
+			add_accepted_culture = north_indian
+		}
+		ai_will_do = {factor = 1 }
+	}
+    form_india = {
+		picture = form_india
+        potential = {
+            OR = {
+                is_culture_group = south_asian
+                is_culture_group = indo_iranian
+            }
+			NOT = { tag = NAG } 
+            NOT = { tag = PAK }
+            NOT = { tag = MUG }
+            NOT = { tag = NEP }
+            NOT = { has_country_flag = mughal_reborn }
+            NOT = {
+                has_country_flag = post_colonial_country
+                exists = HND
+            }
+        }
+        allow = {
+            prestige = 45
+            war = no
+            HND = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        province_id = 1303
+                        province_id = 1312
+                        province_id = 1320
+                        is_core = KAL
+                        is_core = MAK
+                        is_core = AFG
+                        is_core = KAS
+                        owner = {
+                            in_sphere = THIS
+                            OR = {
+                                is_vassal = no
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+                    }
+                }
+            }
+        }
+        effect = {
+            prestige = 20
+            clr_country_flag = sunni_country
+            clr_country_flag = shiite_country
+            clr_country_flag = ibadi_country
+            clr_country_flag = catholic_country
+            clr_country_flag = protestant_country
+            clr_country_flag = mormon_country
+            clr_country_flag = orthodox_country
+            clr_country_flag = coptic_country
+            clr_country_flag = jewish_country
+            clr_country_flag = yazidi_country
+            clr_country_flag = mahayana_country
+            clr_country_flag = gelugpa_country
+            clr_country_flag = theravada_country
+            clr_country_flag = hindu_country
+            clr_country_flag = shinto_country
+            clr_country_flag = sikh_country
+            clr_country_flag = animist_country
+            religion = hindu
+            set_country_flag = hindu_country
+            all_core = { remove_core = THIS }
+            1303 = { add_core = HND }
+            1312 = { add_core = HND }
+            change_tag = HND
+            any_country = {
+                limit = {
+                    exists = yes
+                    NOT = {
+                        is_greater_power = yes
+                        has_country_flag = post_colonial_country
+                        tag = PAK
+                    }
+                    OR = {
+                        is_culture_group = south_asian
+                        AND = {
+                            is_culture_group = indo_iranian
+                            NOT = {
+                                has_global_flag = pakistan_formed
+                                has_global_flag = pakistan_born
+                            }
+                        }
+                    }
+                    in_sphere = THIS
+                    OR = {
+                        is_vassal = no
+                        vassal_of = THIS
+                    }
+                }
+                country_event = 11101
+            }
+            add_accepted_culture = avadhi
+            add_accepted_culture = marathi
+            add_accepted_culture = rajput
+            add_accepted_culture = bihari
+            add_accepted_culture = bengali
+            add_accepted_culture = kanauji
+            add_accepted_culture = panjabi
+            add_accepted_culture = kashmiri
+            add_accepted_culture = manipuri
+            add_accepted_culture = assamese
+            add_accepted_culture = oriya
+            add_accepted_culture = gujarati
+        }
+        ai_will_do = { factor = 1 }
+    }
+}

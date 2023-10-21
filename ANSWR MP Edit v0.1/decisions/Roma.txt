@@ -1,20 +1,16 @@
 political_decisions = {
-        rome  = {
+	rome  = {
         picture = rome
         potential = {
             OR = {                
                 tag = SIC
-                
-                                
             }
 			has_global_flag = Roma_event
             NOT = { exists = RME }
-            		
         }
-
         allow = {         
             war = no                      
-	    SIC = {
+			SIC = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -26,7 +22,7 @@ political_decisions = {
                         }
                     }
                 }
-	         }
+	        }
             APU = {
                 all_core = {
                     OR = {
@@ -39,8 +35,8 @@ political_decisions = {
                         }
                     }
                 }
-	         }
-             TUS = {
+	        }
+            TUS = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -52,7 +48,7 @@ political_decisions = {
                         }
                     }
                 }
-	         }
+	        }
             PAR = {
                 all_core = {
                     OR = {
@@ -65,11 +61,8 @@ political_decisions = {
                         }
                     }
                 }
-	         } 
+	        } 
         }
-		
-        
-
         effect = {                
             prestige = 25
 			capital = 749
@@ -95,10 +88,568 @@ political_decisions = {
             inherit = PAR
             add_accepted_culture = north_italian
             add_accepted_culture = south_italian
-            
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Roma  = {
+        picture = rome
+        potential = {
+            OR = {                
+                tag = SIC
+            }
+			has_global_flag = Roma_event
+            NOT= { has_global_flag = Roma }
+			NOT = {				
+				has_country_modifier = Roma
+			}
+        }
+        allow = {         
+            war = no
+        }
+        effect = {                   		
+            set_global_flag = Roma
+			add_country_modifier = {
+				name = Roma
+				duration = 500
+			}
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Roma_1  = {
+        picture = rome
+        potential = {
+            OR = {                
+                tag = SIC  
+            }
+			has_global_flag = Roma
+            NOT={has_global_flag = Roma_1}
+			NOT = {				
+				has_country_modifier = Roma
+			}
+        }
+        allow = {         
+            war = no
+        }
+        effect = {                   		
+            set_global_flag = Roma_1
+			add_country_modifier = {
+				name = Roma
+				duration = 200
+			}
+			APU = {
+				all_core = { add_core = SIC }
+			}
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Roma_2  = {
+        picture = rome
+        potential = {
+            OR = {                
+                tag = SIC
+            }
+			has_global_flag = Roma_1
+            NOT={has_global_flag = Roma_2}
+			NOT = {				
+				has_country_modifier = Roma
+			}
+        }
+        allow = {         
+            war = no
+        }
+        effect = {                   		
+            set_global_flag = Roma_2
+			add_country_modifier = {
+				name = Roma
+				duration = 200
+			}
+			TUS = {
+				all_core = { add_core = SIC }
+			}
+            PAR = {
+				all_core = { add_core = SIC }
+			}
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Roma_fra  = {
+        picture = rome
+        potential = {
+            OR = {                
+                tag = RME
+            }
+            NOT={has_global_flag = Roma_fra}
+        }
+        allow = {         
+            war = no                     	
+            RME = {
+                OR = {                 
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+        effect = {                   		
+            set_global_flag = Roma_fra
+			FRE = {
+				all_core = { add_core = RME }
+			}
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Roma_his  = {
+        picture = rome
+        potential = {
+            OR = {                
+                tag = RME
+            }
+            NOT={has_global_flag = Roma_his}
+        }
+        allow = {         
+            war = no                     	
+            RME = {
+                OR = {                 
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+        effect = {                   		
+            set_global_flag = Roma_his
+			DAL = {
+				all_core = { add_core = RME }
+			}
+            CLV = {
+				all_core = { add_core = RME }
+			}
+            DMN = {
+				all_core = { add_core = RME }
+			}
+            POR = {
+				all_core = { add_core = RME }
+			}
+            LIR = {
+				all_core = { add_core = RME }
+			}
+            CAT = {
+				all_core = { add_core = RME }
+			}
+            BSQ = {
+				all_core = { add_core = RME }
+			}
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Roma_eng  = {
+        picture = rome
+        potential = {
+            OR = {                
+                tag = RME
+            }
+            NOT={has_global_flag = Roma_eng}
+        }
+        allow = {         
+            war = no                     	
+            RME = {
+                OR = {                 
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+        effect = {                   		
+            set_global_flag = Roma_eng
+			ENL = {
+				all_core = { add_core = RME }
+			}
         }
 		ai_will_do = {
 			factor = 1
+		}
+    }
+	Roma_gre  = {
+        picture = rome
+        potential = {
+            OR = {                
+                tag = RME 
+            }
+            NOT={has_global_flag = Roma_gre}
+        }
+        allow = {         
+            war = no                     	
+            RME = {
+                OR = {                 
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+        effect = {                   		
+            set_global_flag = Roma_gre
+			JAM = {
+				all_core = { add_core = RME }
 			}
+            NSR = {
+				all_core = { add_core = RME }
+			}
+            TUR = {
+				all_core = { add_core = RME }
+			}
+            IST = {
+				all_core = { add_core = RME }
+			}
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Roma_est  = {
+        picture = rome
+        potential = {
+            OR = {                
+                tag = RME
+            }
+            NOT={has_global_flag = Roma_est}
+        }
+        allow = {         
+            war = no                     	
+            RME = {
+                OR = {                 
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+        effect = {                   		
+            set_global_flag = Roma_est
+			ALB = {
+				all_core = { add_core = RME }
+			}
+            SER = {
+				all_core = { add_core = RME }
+			}
+            AUS = {
+				all_core = { add_core = RME }
+			}
+            HUN = {
+				all_core = { add_core = RME }
+			}           
+            BAN = {
+				all_core = { add_core = RME }
+			}
+            GLC = {
+				all_core = { add_core = RME }
+			}
+            DAK = {
+				all_core = { add_core = RME }
+			}
+            CRO = {
+				all_core = { add_core = RME }
+			}
+			BUL = {
+				all_core = { add_core = RME }
+			}
+            SYC = {
+				all_core = { add_core = RME }
+			}
+			WAL = {
+				all_core = { add_core = RME }
+			}
+            MOL = {
+				all_core = { add_core = RME }
+			}
+           BKV = {
+				all_core = { add_core = RME }
+			}
+            CRV = {
+				all_core = { add_core = RME }
+			}
+            SIE = {
+				all_core = { add_core = RME }
+			}
+            DEV = {
+				all_core = { add_core = RME }
+			} 
+            MDV = {
+				all_core = { add_core = RME }
+			} 
+			MON = {
+				all_core = { add_core = RME }
+			} 
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Roma_egy  = {
+        picture = rome
+        potential = {
+            OR = {                
+                tag = RME
+            }
+			
+            NOT={has_global_flag = Roma_egy}
+        }
+        allow = {         
+            war = no                     	
+            RME = {
+                OR = {                 
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+        effect = {                   		
+            set_global_flag = Roma_egy
+			AQS = {
+				all_core = { add_core = RME }
+			}
+            EGY = {
+				all_core = { add_core = RME }
+			}
+            PTO = {
+				all_core = { add_core = RME }
+			}
+            1746 = { add_core = RME }
+			1745 = { add_core = RME }
+			1755 = { add_core = RME }
+			1749 = { add_core = RME }
+			1748 = { add_core = RME }
+			304 = { add_core = RME }
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Roma_ger  = {
+        picture = rome
+        potential = {
+            OR = {                
+                tag = RME
+            }
+            NOT={has_global_flag = Roma_ger}
+        }
+        allow = {         
+            war = no                     	
+            RME = {
+                OR = {                 
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+        effect = {                   		
+            set_global_flag = Roma_ger
+			ALS = {
+				all_core = { add_core = RME }
+			}
+            BAD = {
+				all_core = { add_core = RME }
+			}
+            ULM = {
+				all_core = { add_core = RME }
+			}
+			RHI = {
+				all_core = { add_core = RME }
+			}
+			BAV = {
+				all_core = { add_core = RME }
+			}
+			WES = {
+				all_core = { add_core = RME }
+			}
+            572 = { add_core = RME }
+			397 = { add_core = RME }
+			398 = { add_core = RME }
+			575 = { add_core = RME }
+			388 = { add_core = RME }
+			395 = { add_core = RME }
+			391 = { add_core = RME }
+			392 = { add_core = RME }
+			382 = { add_core = RME }
+			387 = { add_core = RME }
+			390 = { add_core = RME }
+			378 = { add_core = RME }
+			375 = { add_core = RME }
+			377 = { add_core = RME }
+			380 = { add_core = RME }
+			381 = { add_core = RME }
+			577 = { add_core = RME }
+			393 = { add_core = RME }
+			581 = { add_core = RME }
+			384 = { add_core = RME }
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Roma_afr  = {
+        picture = rome
+        potential = {
+            OR = {                
+                tag = RME
+            }
+            NOT={has_global_flag = Roma_afr}
+        }
+        allow = {         
+            war = no                     	
+            RME = {
+                OR = {                 
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+       effect = {                   		
+            set_global_flag = Roma_afr
+			ALD = {
+				all_core = { add_core = RME }
+			}
+            TUN = {
+				all_core = { add_core = RME }
+			}
+            TRI = {
+				all_core = { add_core = RME }
+			}			
+            1687 = { add_core = RME }
+			2590 = { add_core = RME }
+			1686 = { add_core = RME }
+			1729 = { remove_core = RME }
+			1732 = { remove_core = RME }
+			1740 = { remove_core = RME }
+			1744 = { remove_core = RME }
+			1741 = { remove_core = RME }
+			1742 = { remove_core = RME }
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Roma_meso  = {
+        picture = rome
+        potential = {
+            OR = {                
+                tag = RME
+            }
+            NOT={has_global_flag = Roma_meso}
+        }
+        allow = {         
+            war = no                     	
+            RME = {
+                OR = {                 
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+        effect = {                   		
+            set_global_flag = Roma_meso
+			ISR = {
+				all_core = { add_core = RME }
+			}
+            LBN = {
+				all_core = { add_core = RME }
+			}
+            SYR = {
+				all_core = { add_core = RME }
+			}	
+            ASY = {
+				all_core = { add_core = RME }
+			}		
+            KDS = {
+				all_core = { add_core = RME }
+			}	
+            OTA = {
+				all_core = { add_core = RME }
+			}	
+            TCA = {
+				all_core = { add_core = RME }
+			}			
+            931 = { add_core = RME }
+			1133 = { add_core = RME }
+			926 = { add_core = RME }
+			929 = { add_core = RME }
+			930 = { add_core = RME }
+			934 = { add_core = RME }
+			933 = { add_core = RME }
+			932 = { add_core = RME }
+			935 = { add_core = RME }
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Roma_pax  = {
+        picture = rome
+        potential = {
+            OR = {                
+                tag = RME
+            }
+			has_global_flag = Roma_fra
+			has_global_flag = Roma_his
+			has_global_flag = Roma_est
+			has_global_flag = Roma_egy
+			has_global_flag = Roma_ger
+			has_global_flag = Roma_afr
+            has_global_flag = Roma_meso
+        }
+        allow = {         
+            war = no                     	
+            RME = {
+                OR = {                 
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+       effect = {                   		
+            pretige = 50
+			add_accepted_culture = basque
+            add_accepted_culture = spanish
+            add_accepted_culture = catalan
+            add_accepted_culture = portuguese
+			add_accepted_culture = catalan
+            add_accepted_culture = english
+			add_accepted_culture = welsh
+            add_accepted_culture = dutch
+            add_accepted_culture = flemish
+			add_accepted_culture = parish
+            add_accepted_culture = breton
+            add_accepted_culture = occitan
+			add_accepted_culture = swiss
+			add_accepted_culture = provencal
+			add_accepted_culture = serb
+            add_accepted_culture = slovene
+            add_accepted_culture = romanian
+			add_accepted_culture = bulgarian
+            add_accepted_culture = westturkish
+			add_accepted_culture = albanian
+			add_accepted_culture = peloponesian
+			add_accepted_culture = greek
+			add_accepted_culture = skrvat
+			add_accepted_culture = turkish
+			add_accepted_culture = maghrebi
+			add_accepted_culture = misri
+			add_accepted_culture = bedouin
+        }
+		ai_will_do = { factor = 1 }
     }
 }
