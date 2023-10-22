@@ -1,0 +1,17 @@
+Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
+PRO_REACTIONARY;PRO-REACTIONARY ;;;;;;;;;;;;;
+PRO_SOCIALIST;PRO-SOCIALIST ;;;;;;;;;;;;;
+PRO_FASCIST;PRO-FASCIST ;;;;;;;;;;;;;
+PRO_LIBERAL;LIBERAL ;;;;;;;;;;;;;
+PRO_COMMIES;PRO-COMMUNIST ;;;;;;;;;;;;;
+
+	###Great Powers###
+EVTDESC19010_NEWS_LONG;$CAPITAL$, $COUNTRY$: A Showcase of Imperial Glory has been announced by the government of $COUNTRY$. The event will involve the $FROMCOUNTRY_ADJ$ army and navy parading through the streets of $CAPITAL$ showing off their shiny buttons and tight trousers, but also demonstrating new technological advancements in the field of armaments. Prestigious cultural paraphernalia will also be in evidence, and it cannot be denied that the $FROMCOUNTRY_ADJ$s do have a knack for literature, music and the arts. It is not yet known if foreign dignitaries will be invited to the event.;;;;;;;;;;;;;
+EVTDESC19010_NEWS_MEDIUM;$CAPITAL$: A Showcase of Imperial Glory has been announced by $COUNTRY$. The event will involve the $FROMCOUNTRY_ADJ$ military parading through $CAPITAL$ demonstrating technological advancements in the field of armaments. Prestigious cultural paraphernalia will also be in evidence.;;;;;;;;;;;;;
+EVTDESC19010_NEWS_SHORT;$CAPITAL$, $COUNTRY$: A Showcase of Imperial Glory has been announced by the government of $COUNTRY$. Sources say that it is not yet known if foreign dignitaries will be invited to the event.;;;;;;;;;;;;;
+EVTDESC19370_NEWS_LONG;$FROMCOUNTRY_ADJ$ soldiers marched into $CAPITAL$ today, accompanying the new $FROMCOUNTRY_ADJ$ governor who will be overseeing the operation of the $COUNTRY_ADJ$ puppet government. Already the $COUNTRY_ADJ$ people are up in arms over this imposition by a foreign power, though some are clearly questioning whether there is anything to be done. $COUNTRY$ did not submit willingly, after all, and if a rebellion breaks them free of $FROMCOUNTRY_ADJ$ control would $FROMCOUNTRY$ not simply invade once again?;;;;;;;;;;;;;
+EVTDESC19370_NEWS_MEDIUM;$FROMCOUNTRY_ADJ$ soldiers marched into $CAPITAL$ today, accompanying the new $FROMCOUNTRY_ADJ$ governor who will be overseeing the operation of the $COUNTRY_ADJ$ puppet government. Already the $COUNTRY_ADJ$ people are up in arms over this imposition by a foreign power.;;;;;;;;;;;;;
+EVTDESC19370_NEWS_SHORT;$FROMCOUNTRY_ADJ$ soldiers marched into $CAPITAL$ today, accompanying the new $FROMCOUNTRY_ADJ$ governor who will be overseeing the operation of the $COUNTRY_ADJ$ puppet government.;;;;;;;;;;;;;
+EVTDESC19356_NEWS_LONG;It has become increasingly clear that we have entered a new era of unprecedented warfare. The conflicts of our time are no longer mere local issues, but instead reach every corner of the world. Considering the ever increasing stakes and the terrifying impact of these hostilities on the nations involved, there is no longer any need for restrain.;;;;;;;;;;;;;
+EVTDESC19356_NEWS_MEDIUM;It has become increasingly clear that we have entered a new era of unprecedented warfare. The conflicts of our time are no longer mere local issues, but instead reach every corner of the world. Considering the ever increasing stakes and the terrifying impact of these hostilities on the nations involved, there is no longer any need for restrain.;;;;;;;;;;;;;
+EVTDESC19356_NEWS_SHORT;It has become increasingly clear that we have entered a new era of unprecedented warfare.;;;;;;;;;;;;;

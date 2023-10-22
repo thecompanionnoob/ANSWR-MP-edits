@@ -895,8 +895,8 @@ country_event = {
 
 # Liberal Newspaper
 country_event = {
-    title = "EVTNAME10120_NEW"
-    desc = "EVTDESC10120_NEW"
+    title = "EVTNAME10120"
+    desc = "EVTDESC10120"
     id = 10120
     picture = "news"
 
@@ -1123,7 +1123,7 @@ country_event = {
 # Chartist Society
 country_event = {
     title = "EVTNAME10130"
-    desc = "EVTDESC10130_NEW"
+    desc = "EVTDESC10130"
     id = 10130
     picture = "chartists"
 
@@ -1458,7 +1458,7 @@ country_event = {
 # Secret Society
 country_event = {
     title = "EVTNAME10140"
-    desc = "EVTDESC10140_NEW"
+    desc = "EVTDESC10140"
     id = 10140
     picture = "Finepeople"
 
@@ -1762,7 +1762,7 @@ country_event = {
 # Luddite Mob
 country_event = {
     title = "EVTNAME10150"
-    desc = "EVTDESC10150_NEW"
+    desc = "EVTDESC10150"
     id = 10150
     picture = "luddites"
 
@@ -2066,7 +2066,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT10155OPTA"
+        name = "EVTOPTA10155"
         random_state = {
             limit = {
                 is_colonial = no
@@ -2100,7 +2100,7 @@ country_event = {
 # Banquet Campaign
 country_event = {
     title = "EVTNAME10160"
-    desc = "EVTDESC10160_NEW"
+    desc = "EVTDESC10160"
     id = 10160
     picture = "banquet"
 
@@ -2288,7 +2288,7 @@ country_event = {
 #Liberal Agitation Spreads
 province_event = {
     title = "EVTNAME10170"
-    desc = "EVTDESC10170_NEW"
+    desc = "EVTDESC10170"
     id = 10170
 
     trigger = {
@@ -2601,7 +2601,7 @@ country_event = {
 
 # Fiery Sermon
 province_event = {
-    title = "EVTNAME10190_NEW"
+    title = "EVTNAME10190"
     desc = "EVTDESC10190"
     id = 10190
 
@@ -2728,8 +2728,8 @@ province_event = {
 
 # Insurrection
 province_event = {
-    title = "EVTNAME10200_NEW"
-    desc = "EVTDESC10200_NEW"
+    title = "EVTNAME10200"
+    desc = "EVTDESC10200"
     id = 10200
 
     trigger = {
@@ -3016,7 +3016,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT10205OPTA"
+        name = "EVTOPTA10205"
         random_owned = {
             limit = {
                 controlled_by = THIS
@@ -3049,7 +3049,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT10205OPTB"
+        name = "EVTOPTB10205"
         random_owned = {
             limit = {
                 controlled_by = THIS
@@ -3082,7 +3082,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT10205OPTC"
+        name = "EVTOPTC10205"
         random_owned = {
             limit = {
                 controlled_by = THIS
@@ -3119,7 +3119,7 @@ country_event = {
 
 # Revolt
 province_event = {
-    title = "EVTNAME10210_NEW"
+    title = "EVTNAME10210"
     desc = "EVTDESC10210"
     id = 10210
 
@@ -3300,7 +3300,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT10215OPTA"
+        name = "EVTOPTA10215"
         random_state = {
             limit = {
                 any_owned_province = {
@@ -3452,7 +3452,7 @@ province_event = {
         }
     }
     option = {
-        name = "EVT10216OPTA"
+        name = "EVTOPTA10216"
         state_scope = {
             any_pop = {
                 limit = {
@@ -3511,7 +3511,7 @@ province_event = {
         }
     }
     option = {
-        name = "EVT10216OPTB"
+        name = "EVTOPTB10216"
         state_scope = {
             any_pop = {
                 limit = {

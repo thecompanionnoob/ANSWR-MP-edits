@@ -258,7 +258,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT13015OPTA"
+        name = "EVTOPTA13015"
         random_owned = {
             limit = {
                 OR = {
@@ -285,7 +285,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT13015OPTB"
+        name = "EVTOPTB13015"
         treasury = 5000
         random_owned = {
             limit = {
@@ -332,7 +332,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT13016OPTA"
+        name = "EVTOPTA13016"
         random_owned = {
             limit = {
                 has_province_modifier = foreign_smugglers
@@ -351,7 +351,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT13016OPTB"
+        name = "EVTOPTB13016"
         prestige = -3
         random_owned = {
             limit = {
@@ -452,7 +452,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT13020OPTA"
+        name = "EVTOPTA13020"
         random_owned = {
             limit = {
                 OR = {
@@ -480,7 +480,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT13020OPTB"
+        name = "EVTOPTB13020"
         random_country = {
             limit = {
                 capital_scope = { continent = europe }
@@ -542,17 +542,12 @@ country_event = {
     id = 13021
     title = "EVTNAME13021" #Missionaries Executed
     desc = "EVTDESC13021"
-    news = yes
-    news_title = "EVTNAME13021_NEWS_TITLE"
-    news_desc_long = "EVTDESC13021_NEWS_LONG"
-    news_desc_medium = "EVTDESC13021_NEWS_MEDIUM"
-    news_desc_short = "EVTDESC13021_NEWS_SHORT"
     picture = "missionaries"
 
     is_triggered_only = yes
 
     option = {
-        name = "EVT13021OPTA"
+        name = "EVTOPTA13021"
         relation = { who = FROM value = -25 }
         leave_alliance = FROM
         random_country = {
@@ -595,7 +590,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT13021OPTB"
+        name = "EVTOPTB13021"
         random_owned = {
             limit = {
                 owner = {
@@ -683,7 +678,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT13030OPTA"
+        name = "EVTOPTA13030"
         random_owned = {
             limit = {
                 is_capital = yes
@@ -732,7 +727,7 @@ country_event = {
         }
     }
     option = {
-        name = "EVT13030OPTB"
+        name = "EVTOPTB13030"
         random_country = {
             limit = {
                 OR = {
@@ -812,7 +807,7 @@ country_event = {
     is_triggered_only = yes
 
     option = {
-        name = "EVT13031OPTA"
+        name = "EVTOPTA13031"
         casus_belli = {
             target = FROM
             type = cut_down_to_size
@@ -861,7 +856,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT13031OPTB"
+        name = "EVTOPTB13031"
         relation = {
             who = FROM
             value = 20
@@ -1230,7 +1225,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT13051OPTA"
+        name = "EVTOPTA13051"
         random_owned = {
             limit = {
                 port = yes
@@ -1257,7 +1252,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT13051OPTB"
+        name = "EVTOPTB13051"
         prestige = -3
         random_owned = {
             limit = {
@@ -1705,52 +1700,6 @@ country_event = {
 #                                                                    #
 #####################################################################
 
-#Sayings of The Dutch
-country_event = {
-    id = 13070
-    title = "EVTNAME13070"
-    desc = "EVTDESC13070"
-    picture = "explorers"
-
-    trigger = {
-        any_owned_province = { has_province_modifier = foreign_trading_post }
-        NOT = { has_country_modifier = sayings_of_the_dutch }
-    }
-
-    mean_time_to_happen = {
-        months = 200
-
-        modifier = {
-            factor = 0.9
-            plurality = 50
-        }
-        modifier = {
-            factor = 0.9
-            average_consciousness = 5
-        }
-        modifier = {
-            factor = 1.5
-            average_militancy = 3
-        }
-        modifier = {
-            factor = 0.8
-            civilization_progress = 0.5
-        }
-        modifier = {
-            factor = 0.8
-            civilization_progress = 0.75
-        }
-    }
-
-    option = {
-        name = "EVTOPTA13070"
-        add_country_modifier = {
-            name = sayings_of_the_dutch
-            duration = 730
-        }
-    }
-}
-
 #Local aristocrat insulted
 country_event = {
     id = 13080
@@ -1912,10 +1861,6 @@ province_event = {
     id = 13100
     title = "EVTNAME13100"
     desc = "EVTDESC13100"
-    news = yes
-    news_desc_long = "EVTDESC13100_NEWS_LONG"
-    news_desc_medium = "EVTDESC13100_NEWS_MEDIUM"
-    news_desc_short = "EVTDESC13100_NEWS_SHORT"
 
     trigger = {
         average_militancy = 3
@@ -2655,7 +2600,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT13185OPTA"
+        name = "EVTOPTA13185"
         years_of_research = 0.1
         random_country = {
             limit = {
@@ -2703,7 +2648,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT13185OPTB"
+        name = "EVTOPTB13185"
         prestige = -3
         years_of_research = -0.1
         ai_chance = {
@@ -2721,7 +2666,7 @@ country_event = {
     is_triggered_only = yes
 
     option = {
-        name = "EVT13186OPTA"
+        name = "EVTOPTA13186"
         treasury = -25000
         diplomatic_influence = { who = FROM value = 50 }
         relation = { who = FROM value = 50 }
@@ -2735,7 +2680,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT13186OPTB"
+        name = "EVTOPTB13186"
         diplomatic_influence = { who = FROM value = 20 }
         relation = { who = FROM value = 20 }
         ai_chance = {
@@ -2744,7 +2689,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT13186OPTC"
+        name = "EVTOPTC13186"
         prestige = -3
         ai_chance = {
             factor = 0
@@ -2905,9 +2850,6 @@ country_event = {
         any_pop = {
             militancy = -2
         }
-        sphere_owner = {
-            country_event = 13201
-        }
         ai_chance = {
             factor = 25
             modifier = {
@@ -2924,81 +2866,6 @@ country_event = {
     }
 }
 
-#Notify from event 13200
-country_event = {
-    id = 13201
-    title = "EVTNAME13201"
-    desc = "EVTDESC13201"
-    news = yes
-    news_title = "EVTNAME13201_NEWS_TITLE"
-    news_desc_long = "EVTDESC13201_NEWS_LONG"
-    news_desc_medium = "EVTDESC13201_NEWS_MEDIUM"
-    news_desc_short = "EVTDESC13201_NEWS_SHORT"
-    picture = "Outside_influences"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA13201"
-        leave_alliance = FROM
-        random_country = {
-            limit = {
-                tag = FROM
-                vassal_of = THIS
-            }
-            THIS = { release_vassal = FROM }
-        }
-        diplomatic_influence = {
-            who = FROM
-            value = -200
-        }
-        casus_belli = {
-            target = FROM
-            type = add_to_sphere
-            months = 12
-        }
-        war = {
-            target = FROM
-            attacker_goal = {
-                casus_belli = add_to_sphere
-            }
-        }
-        ai_chance = {
-            factor = 50
-            modifier = {
-                factor = 0
-                FROM = {
-                    NOT = { neighbour = THIS }
-                    NOT = { any_owned_province = { port = yes } }
-                    NOT = {    any_neighbor_country = { alliance_with = THIS } }
-                }
-            }
-            modifier = {
-                factor = 0.5
-                FROM = { brigades_compare = 1 }
-            }
-        }
-    }
-
-    option = {
-        name = "EVTOPTB13201"
-        diplomatic_influence = {
-            who = FROM
-            value = -400
-        }
-        prestige_factor = -0.1
-        ai_chance = {
-            factor = 50
-            modifier = {
-                factor = 0.5
-                FROM = {
-                    NOT = { brigades_compare = 0.5 }
-                }
-            }
-        }
-    }
-}
-
 country_event = {
     id = 13202
     title = "EVTNAME13202"
@@ -3008,7 +2875,7 @@ country_event = {
     is_triggered_only = yes
 
     option = {
-        name = "EVT13202OPTA"
+        name = "EVTOPTA13202"
         badboy = 2
         leave_alliance = FROM
         random_country = {
@@ -3104,7 +2971,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT13202OPTB"
+        name = "EVTOPTB13202"
         diplomatic_influence = {
             who = FROM
             value = -200
@@ -3337,10 +3204,6 @@ country_event = {
     id = 13230
     title = "EVTNAME13230"
     desc = "EVTDESC13230"
-    news = yes
-    news_desc_long = "EVTDESC13230_NEWS_LONG"
-    news_desc_medium = "EVTDESC13230_NEWS_MEDIUM"
-    news_desc_short = "EVTDESC13230_NEWS_SHORT"
     picture = "Outside_influences"
 
     trigger = {
@@ -3476,199 +3339,6 @@ country_event = {
     }
 }
 
-#A ship on our shores
-country_event = {
-    id = 13240
-    title = "EVTNAME13240"
-    desc = "EVTDESC13240"
-    picture = "Opiumwar"
-
-    trigger = {
-        civilized = no
-        is_vassal = no
-        war = no
-        any_owned_province = {
-            port = yes
-            NOT = { has_province_modifier = local_opium_habit }
-            NOT = { has_province_modifier = boxer_presence }
-        }
-        has_country_modifier = trade_restrictions
-    }
-
-    mean_time_to_happen = {
-        months = 100
-    }
-
-    option = {
-        name = "EVTOPTA13240"
-        random_country = {
-            limit = {
-                num_of_ports = 1
-                OR = {
-                    AND = {
-                        is_greater_power = yes
-                        any_owned_province = { continent = africa }
-                        THIS = { continent = africa }
-                    }
-                    AND = {
-                        is_greater_power = yes
-                        any_owned_province = { continent = asia }
-                        THIS = { continent = asia }
-                    }
-                    AND = {
-                        is_greater_power = yes
-                        any_owned_province = { continent = oceania }
-                        THIS = { continent = oceania }
-                    }
-                    AND = {
-                        is_greater_power = yes
-                        any_owned_province = { continent = south_america }
-                        THIS = { continent = south_america }
-                    }
-                    AND = {
-                        is_greater_power = yes
-                        any_owned_province = { continent = north_america }
-                        THIS = { continent = north_america }
-                    }
-                    AND = {
-                        is_greater_power = yes
-                        any_owned_province = { continent = australia_new_zealand }
-                        THIS = { continent = australia_new_zealand }
-                    }
-                    AND = {
-                        is_greater_power = yes
-                        any_owned_province = { continent = polynesia }
-                        THIS = { continent = polynesia }
-                    }
-                }
-            }
-            relation = {
-                who = THIS
-                value = -5
-            }
-            country_event = 13250
-        }
-    }
-
-    option = {
-        name = "EVTOPTB13240"
-        random_owned = {
-            limit = {
-                port = yes
-                NOT = { has_province_modifier = local_opium_habit }
-                NOT = { has_province_modifier = boxer_presence }
-            }
-            add_province_modifier = {
-                name = local_opium_habit
-                duration = -1
-            }
-        }
-    }
-}
-
-# Our ship turned away
-country_event = {
-    id = 13250
-    title = "EVTNAME13250"
-    desc = "EVTDESC13250"
-    picture = "Opiumwar"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA13250"
-        FROM = {
-            relation = {
-                who = THIS
-                value = -20
-            }
-            diplomatic_influence = {
-                who = THIS
-                value = -20
-            }
-            country_event = 13260
-        }
-    }
-
-    option = {
-        name = "EVTOPTB13250"
-        prestige = -5
-    }
-}
-
-#Foreigners demand a lifting of import restrictions
-country_event = {
-    id = 13260
-    title = "EVTNAME13260"
-    desc = "EVTDESC13260"
-    picture = "Outside_influences"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA13260"
-        remove_country_modifier = trade_restrictions
-    }
-
-    option = {
-        name = "EVTOPTB13260"
-        FROM = {
-            relation = {
-                who = THIS
-                value = -25
-            }
-            country_event = 13270
-        }
-    }
-}
-
-#The Opium War
-country_event = {
-    id = 13270
-    title = "EVTNAME13270"
-    desc = "EVTDESC13270"
-    news = yes
-    news_desc_long = "EVTDESC13270_NEWS_LONG"
-    news_desc_medium = "EVTDESC13270_NEWS_MEDIUM"
-    news_desc_short = "EVTDESC13270_NEWS_SHORT"
-    picture = "Opiumwar"
-
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA13270"
-        prestige = -5
-        random_country = {
-            limit = {
-                tag = FROM
-                OR = {
-                    owns = 1498 #Macao
-                    owns = 1538 #Shanghai
-                    owns = 1496 #Hong Kong
-                    owns = 1566    #Qingdao
-                    owns = 1481 #Lushun - Port Arthur
-                    owns = 1569 #Weihai
-                    owns = 1606 #Jiaxing
-                    owns = 2681 #Taibei
-                    owns = 2562 #Tainan
-                    owns = 1499 #Hainan
-                    owns = 2632 #Kwangchowan
-                    #owns = 1540 #Nantong
-                    owns = 1071 #Qeshm
-                    owns = 1695 #Ifni
-            }
-        }
-        add_casus_belli = { target = THIS type = treaty_port_casus_belli months = 40 }
-        }
-        casus_belli = { target = FROM type = cut_down_to_size months = 12 }
-        random_country = {
-            limit = { tag = FROM NOT = { total_pops = 10000000 } }
-            add_casus_belli = { target = THIS type = add_to_sphere months = 12 }
-        }
-    }
-}
-
 #Angered aristocracy
 country_event = {
     id = 13280
@@ -3757,395 +3427,6 @@ country_event = {
 }
 
 ### UNCIV FLAVOR ###
-# SIA -- An Elephant for America?
-country_event = {
-    id = 13350
-    title = "EVTNAME13350"
-    desc = "EVTDESC13350"
-    picture = "elephant"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA13350"
-        relation = {
-            who = FROM
-            value = 30
-        }
-    }
-}
-
-#Torching of The Summer Palace
-country_event = {
-    id = 13355
-    title = "EVTNAME13355"
-    desc = "EVTDESC13355"
-    news = yes
-    news_desc_long = "EVTDESC13355_NEWS_LONG"
-    news_desc_medium = "EVTDESC13355_NEWS_MEDIUM"
-    news_desc_short = "EVTDESC13355_NEWS_SHORT"
-    major = yes
-    picture = "cityfire"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA13355"
-        prestige = -25
-        war_exhaustion = 5
-        1612 = { clr_province_flag = summer_palace }
-    }
-}
-
-#Doctrine of Lapse 1/2
-country_event = {
-    id = 13357
-    title = "EVTNAME13357"
-    desc = "EVTDESC13357"
-
-    picture = "Rebellion"
-
-    trigger = {
-        vassal_of = ENG
-        ai = yes
-        NOT = {
-            tag = PAK
-            tag = HND
-            is_cultural_union = yes
-            has_country_flag = no_british_doctrine
-            has_global_flag = eic_spawned
-        }
-        overlord = {
-            is_disarmed = no
-            has_recently_lost_war = no
-            ideological_thought = 1
-            exists = yes
-        }
-        OR = {
-            primary_culture = assamese
-            primary_culture = baluchi
-            primary_culture = bengali
-            primary_culture = bihari
-            primary_culture = manipuri
-            primary_culture = nepali
-            primary_culture = oriya
-            primary_culture = sinhala
-            primary_culture = avadhi
-            primary_culture = kanauji
-            primary_culture = kashmiri
-            primary_culture = panjabi
-            primary_culture = gujarati
-            primary_culture = marathi
-            primary_culture = sindi
-            primary_culture = rajput
-            primary_culture = kannada
-            primary_culture = malayalam
-            primary_culture = tamil
-            primary_culture = telegu
-            tag = CRL
-        }
-    }
-
-    mean_time_to_happen = {
-        months = 500
-        modifier = {
-            factor = 1.5
-            NOT = { average_militancy = 1 }
-        }
-        modifier = {
-            factor = 1.2
-            NOT = { average_militancy = 2 }
-        }
-        modifier = {
-            factor = 1.1
-            NOT = { average_militancy = 3 }
-        }
-        modifier = {
-            factor = 0.9
-            average_militancy = 4
-        }
-        modifier = {
-            factor = 0.8
-            average_militancy = 5
-        }
-        modifier = {
-            factor = 0.5
-            num_of_revolts = 1
-        }
-        modifier = {
-            factor = 0.9
-            NOT = { prestige = 10 }
-        }
-        modifier = {
-            factor = 0.9
-            NOT = { prestige = 5 }
-        }
-        modifier = {
-            factor = 0.1
-            NOT = {
-                government = absolute_monarchy
-                government = prussian_constitutionalism
-                government = hms_government
-            }
-        }
-        modifier = {
-            factor = 0.5
-            overlord = { revolution_n_counterrevolution = 1 }
-        }
-        modifier = {
-            factor = 0.1
-            has_country_modifier = regency_government
-        }
-    }
-
-    option = {
-        name = "EVTOPTA13357"
-        set_country_flag = no_british_doctrine
-        any_pop = {
-            limit = {
-                OR = {
-                    is_accepted_culture = yes
-                    is_primary_culture = yes
-                }
-            }
-            militancy = 4
-            consciousness = 1
-        }
-
-        ENG = { country_event = 13358 }
-    }
-}
-
-# Doctrine of Lapse 2/2
-country_event = {
-    id = 13358
-    title = "EVTNAME13358"
-    desc = "EVTDESC13358"
-    news = yes
-    news_desc_long = "EVTDESC13358_NEWS_LONG"
-    news_desc_medium = "EVTDESC13358_NEWS_MEDIUM"
-    news_desc_short = "EVTDESC13358_NEWS_SHORT"
-
-    picture = "india"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA13358"
-        prestige = 5
-        FROM = {
-            tech_school = developing_tech_school
-            political_reform = peonage
-            any_owned = {
-                limit = {
-                    has_pop_type = labourers
-                    has_pop_type = serfs
-                }
-                any_pop = { limit = { type = serfs } pop_type = labourers }
-            }
-            any_owned = {
-                limit = {
-                    has_pop_type = farmers
-                    has_pop_type = serfs
-                }
-                any_pop = { limit = { type = serfs } pop_type = farmers }
-            }
-        }
-        inherit = FROM
-        any_owned = {
-            limit = { is_core = HND }
-            random_list = {
-                34 = {
-                    add_province_modifier = {
-                        name = nationalist_agitation
-                        duration = 730
-                    }
-                }
-                33 = {
-                    add_province_modifier = {
-                        name = nationalist_agitation
-                        duration = 365
-                    }
-                }
-                33 = {
-                }
-            }
-        }
-        set_global_flag = doctrine_of_lapse_has_been_used
-    }
-
-    option = {
-        name = "EVTOPTB13358"
-        prestige = -2
-        FROM = {
-            any_pop = { militancy = -2 }
-        }
-    }
-}
-
-country_event = {
-    title = "westernize_nation_title"
-    desc = "westernize_nation_desc"
-    news = yes
-    news_desc_long = "westernize_nation_desc_NEWS_LONG"
-    news_desc_medium = "westernize_nation_desc_NEWS_MEDIUM"
-    news_desc_short = "westernize_nation_desc_NEWS_SHORT"
-    picture = "Prosper"
-
-    id = 90910
-
-    is_triggered_only = yes
-
-    trigger = {
-        NOT = {
-            tag = QNG
-            tag = CHI
-            tag = TPG
-            AND = {
-                NOT = { has_global_flag = the_dragon_wakes }
-                OR = {
-                    tag = MCK
-                    tag = XBI
-                    tag = XIN
-                    tag = SZC
-                    tag = YNN
-                    tag = GXI
-                    tag = GNG
-                    tag = FJN
-                }
-            }
-        }
-    }
-
-    option = {
-        name = "EVTOPTA90910"
-        civilized = yes
-        prestige = 5
-        tech_school = traditional_academic
-        clr_country_flag = lacking_writing_system
-        remove_country_modifier = lacks_writing_system
-        random_owned = { limit = { owner = { ai = yes } } owner = { add_country_modifier = { name = law_changed_by_force duration = 3 } } }
-        random_owned = {
-            limit = { owner = { has_country_flag = activate_experimental_railroad } NOT = { experimental_railroad = 1 } }
-            owner = { activate_technology = experimental_railroad  clr_country_flag = activate_experimental_railroad }
-        }
-        random_list = {
-            34 = { add_country_modifier = { name = global_baby_boom duration = 3650 } }
-            33 = { add_country_modifier = { name = global_baby_boom duration = 3285 } }
-            33 = { add_country_modifier = { name = global_baby_boom duration = 4015 } }
-        }
-        random_owned = {
-            limit = {
-                owner = {
-                    has_country_modifier = uncivilized_isolationism
-                    NOT = { border_policy = closed_borders } }
-                }
-            owner = { political_reform = closed_borders }
-        }
-
-        random_owned = {
-            limit = {
-                owner = {
-                    has_country_modifier = western_influences
-                    NOT = { border_policy = open_borders } }
-                }
-            owner = { political_reform = open_borders }
-        }
-        remove_country_modifier = assegai
-        remove_country_modifier = educational_reform
-        remove_country_modifier = military_reform
-        remove_country_modifier = western_influences
-        remove_country_modifier = shastar_vidya
-        remove_country_modifier = uncivilized_isolationism
-        remove_country_modifier = trade_restrictions
-        remove_country_modifier = sayings_of_the_dutch
-        remove_country_modifier = rangaku
-        remove_country_modifier = sakoku
-        clr_country_flag = using_foreign_weapons
-        clr_country_flag = using_foreign_artillery
-        clr_country_flag = using_foreign_ships
-        clr_country_flag = using_foreign_shipyards
-        random_owned = {
-            limit = { owner = { has_country_modifier = western_presence_research } }
-            owner = { remove_country_modifier = western_presence_research }
-        }
-        random_owned = {
-            limit = { owner = { has_country_modifier = european_military_mission } }
-            owner = { remove_country_modifier = european_military_mission }
-        }
-        random_owned = {
-            limit = { owner = { has_country_modifier = legation_quarter } }
-            owner = { remove_country_modifier = legation_quarter }
-        }
-        any_owned = {
-            remove_province_modifier = western_presence
-            remove_province_modifier = foreign_smugglers
-            remove_province_modifier = foreign_trading_post
-            remove_province_modifier = local_opium_habit
-            remove_province_modifier = kettler_denkmal
-            remove_province_modifier = extraterritoriality_granted
-            remove_province_modifier = boxer_presence
-            remove_province_modifier = boxer_agitation
-        }
-
-        random_owned = {
-            limit = { owner = { tag = DAI } }
-            owner = { country_event = { days = 2 id = 199072 } }
-        }
-        random_owned = {
-            limit = { owner = { tag = CAM } }
-            owner = { country_event = { days = 2 id = 199071 } }
-        }
-
-        #Non-cores should flip to colonies
-        random_owned = {
-            limit = {
-                NOT = { is_core = THIS }
-                owner = { NOT = { exists = UTI } }
-            }
-            owner = {
-                any_owned = {
-                    limit = {
-                        NOT = {
-                            is_core = THIS
-                            is_colonial = yes
-                            is_accepted_culture = yes
-                            is_primary_culture = yes
-                            any_core = { is_cultural_union = THIS }
-                            #any_neighbor_province = { is_core = THIS } #Rule excluding neighbouring states from the non-core rule
-                        }
-                        any_core = {
-                            OR = {
-                                civilized = no
-                                tech_school = developing_tech_school
-                            }
-                        }
-                    }
-                    secede_province = UTI
-                    UTI = { country_event =  90911 }
-                }
-            }
-        }
-    }
-}
-
-country_event = {
-    title = "EVTNAME90911"
-    desc = "EVTDESC90911"
-    picture = "Prosper"
-
-    id = 90911
-
-    is_triggered_only = yes
-
-    immediate = { civilized = no }
-
-    option = {
-        name = "EVTOPTA90911"
-        FROM = { inherit = THIS }
-    }
-
-}
 
 #Reaction to factories being nationalized
 country_event = {
@@ -4180,520 +3461,5 @@ country_event = {
         relation = { who = FROM value = 100 }
         add_country_modifier = { name = factories_nationalized duration = 365 }
         rich_strata = { militancy = 3 consciousness = 6 }
-    }
-}
-
-#Algerian claims - Candidate for decision
-country_event = {
-    id = 90953
-    title = "EVTNAME90953"
-    desc = "EVTDESC90953"
-    picture = "arab_revolt"
-
-    fire_only_once = yes
-
-    trigger = {
-            1714 = { empty = no }
-            1718 = { empty = no }
-            1714 = { NOT = { is_core = ALD } }
-            1718 = { NOT = { is_core = ALD } }
-            OR = {
-                owns = 1714
-                owns = 1718
-            }
-            NOT = { has_global_flag = algeria_claimed_sahara }
-            NOT = { has_global_flag = mokrani_revolt }
-        }
-
-    option = {
-        name = "EVTOPTA90953"
-        set_global_flag = algeria_claimed_sahara
-#        ALD_1714 = { add_core = ALD }
-        ALD_1718 = { add_core = ALD }
-    }
-}
-
-#Treaty Ports
-province_event = {
-    id = 90954
-    title = "EVTNAME90954"
-    desc = "EVTDESC90954"
-
-    trigger = {
-        OR = {
-            province_id = 1498
-            AND = {
-                province_id = 1496
-                NOT = { 2632 = { trade_goods = precious_goods } }
-            }
-            AND = {
-                province_id = 2632
-                NOT = { total_pops = 30000 }
-                NOT = { 1496 = { trade_goods = precious_goods } }
-            }
-        }
-        port = yes
-        NOT = { has_province_modifier = treaty_port }
-        is_core = CHI
-        owner = {
-            civilized = yes
-            NOT = { is_culture_group = east_asian }
-            NOT = { is_culture_group = far_east_asian }
-            }
-        NOT = { any_neighbor_province = { owned_by = THIS } }
-        any_neighbor_province = { owner = { capital_scope = {continent = asia } } }
-    }
-
-    mean_time_to_happen = { months = 8 }
-
-    option = {
-        name = "EVTOPTA90954"
-        trade_goods = precious_goods
-        any_pop = { limit = { is_culture_group = east_asian } reduce_pop = 1.2 }
-        add_province_modifier = { name = treaty_port duration = -1 }
-    }
-}
-
-#End of Treaty Ports
-province_event = {
-    id = 90955
-    title = "EVTNAME90954"
-    desc = "EVTDESC90955"
-
-    trigger = {
-        owner = { capital_scope = { continent = asia } }
-        OR = {
-            owner = { is_culture_group = east_asian }
-            owner = { is_culture_group = far_east_asian }
-        }
-        trade_goods = precious_goods
-        OR = {
-            province_id = 1498
-            province_id = 1496
-            province_id = 1566
-            province_id = 1569
-            province_id = 2632
-            province_id = 1538
-        }
-    }
-
-    mean_time_to_happen = { months = 1 }
-
-    option = {
-        name = "EVTOPTA90955"
-        add_province_modifier = { name = treaty_port duration = -1 }
-        random_list = {
-            25 = { trade_goods = fish }
-            25 = { trade_goods = silk }
-            25 = { trade_goods = tea }
-            25 = { trade_goods = opium }
-        }
-    }
-}
-
-#Migration to Hong Kong
-province_event = {
-    id = 90956
-    title = "EVTNAME90956"
-    desc = "EVTDESC90956"
-
-    trigger = {
-        province_id = 1496
-        has_province_modifier = treaty_port
-        1496 = { owner = { civilized = yes capital_scope = { NOT = {continent = asia } } } }
-    }
-
-    fire_only_once = yes
-
-    mean_time_to_happen = { months = 1 }
-
-    immediate = {
-        random_list = {
-            40 = { 1497 = { artisans = { move_pop = 1496 } } }
-            10 = { random_neighbor_province = { limit = { owner = { civilized = no } } soldiers = { limit = { has_pop_culture = yue } move_pop = 1496 } } }
-            10 = { random_neighbor_province = { limit = { owner = { civilized = no } } bureaucrats = { limit = { has_pop_culture = yue } move_pop = 1496 } } }
-            40 = { 1493 = { serfs = { limit = { has_pop_culture = yue } move_pop = 1496 } } }
-        }
-    }
-
-    option = {
-        name = "EVTOPTA90956"
-
-        any_pop = {
-            limit = {
-                is_primary_culture = no
-                is_accepted_culture = no
-                is_culture_group = east_asian
-                OR = {
-                    type = artisans
-                    type = soldiers
-                    type = clergymen
-                    type = serfs
-                    }
-                }
-            pop_type = labourers
-            }
-        }
-}
-
-
-#Cleaning Bukhara cores on Kandahar
-country_event = {
-    id = 90957
-    title = "EVTNAME90957"
-    desc = "EVTDESC90957"
-    picture = "central_asian_tribes"
-
-    trigger = {
-        tag = AFG
-        owns = 1211
-        BUK = { exists = no }
-    }
-
-    fire_only_once = yes
-
-    mean_time_to_happen = { months = 12 }
-
-    option = {
-        name = "EVTOPTA90957"
-        1211 = { remove_core = BUK }
-    }
-}
-
-#Treaty Ports
-province_event = {
-    id = 90958
-    title = "EVTNAME90954"
-    desc = "EVTDESC90954"
-
-    trigger = {
-        OR = {
-            AND = {
-                is_core = CHI
-                NOT = { province_id = 1498 }
-                NOT = { province_id = 1496 }
-                NOT = { province_id = 1569 }
-                NOT = { province_id = 1566 }
-            }
-            AND = { province_id = 1569 total_pops = 30000 }
-            AND = { province_id = 1566 total_pops = 30000 }
-        }
-        port = yes
-        NOT = { has_province_modifier = treaty_port }
-        owner = {
-            civilized = yes
-            NOT = { is_culture_group = east_asian }
-            NOT = { is_culture_group = far_east_asian }
-        }
-        NOT = { any_neighbor_province = { owned_by = THIS } }
-        any_neighbor_province = { owner = { capital_scope = {continent = asia } } }
-    }
-
-    mean_time_to_happen = { months = 8 }
-
-    option = {
-        name = "EVTOPTA90954"
-        add_province_modifier = { name = treaty_port duration = -1 }
-    }
-}
-
-# The Golden Stool
-country_event = {
-    id = 110073
-    title = "EVTNAME110073"
-    desc = "EVTDESC110073"
-    picture = "ALL_golden_stool"
-
-    trigger = {
-        has_global_flag = berlin_conference
-        nationalism_n_imperialism = 1
-        capital_scope = { continent = europe }
-        OR = {
-            is_greater_power = yes
-            is_secondary_power = yes
-        }
-        ASH = { exists = yes ai = yes neighbour = THIS }
-        owns = 1910 #Kumasi
-    }
-
-    fire_only_once = yes
-
-    mean_time_to_happen = { months = 40 }
-
-    option = {
-        name = "EVT110073OPTA" #This will make a nice trinket!
-        prestige = 15
-        any_pop = {
-            limit = { has_pop_culture = akan }
-            consciousness = 9
-            militancy = 9
-        }
-        ASH = {
-            civilized = no
-            treasury = 5000
-            small_arms = 25
-            ammunition = 50
-            canned_food = 50
-        }
-        war = {
-            target = ASH
-            attacker_goal = { casus_belli = annex_africa_full }
-        }
-        ai_chance = { factor = 100 }
-    }
-
-    option = {
-        name = "EVT110073OPTB" #Let them have it.
-        badboy = -1
-        prestige_factor = -0.1
-        any_pop = {
-            limit = { has_pop_culture = akan }
-            consciousness = -9
-            militancy = -9
-        }
-        ASH = {
-            any_pop = {
-                limit = { has_pop_culture = akan }
-                consciousness = -9
-                militancy = -9
-            }
-        }
-        ai_chance = { factor = 0 }
-    }
-}
-
-#Requesting Foreign Missionaries
-country_event = {
-    id = 90960
-    title = "EVTNAME90960"
-    desc = "EVTDESC90960"
-    picture = "missionaries"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVT90960OPTA" #Catholic
-        set_country_flag = change_to_catholic
-        random_country = {
-            limit = {
-                exists = yes
-                OR = {
-                    AND = {
-                        is_greater_power = yes
-                        has_country_flag = catholic_country
-                    }
-                    tag = FRA
-                }
-            }
-            country_event = 90961
-        }
-        ai_chance = {
-            factor = 25
-            modifier = { factor = 100 any_neighbor_country = { is_greater_power = yes has_country_flag = catholic_country } }
-        }
-    }
-
-    option = {
-        name = "EVT90960OPTB" #Protestant
-        set_country_flag = change_to_protestant
-        random_country = {
-            limit = {
-                exists = yes
-                OR = {
-                    AND = {
-                        is_greater_power = yes
-                        has_country_flag = protestant_country
-                    }
-                    tag = ENG
-                    tag = ENL
-                }
-            }
-            country_event = 90961
-        }
-        ai_chance = {
-            factor = 25
-            modifier = { factor = 100 any_neighbor_country = { is_greater_power = yes has_country_flag = protestant_country } }
-        }
-    }
-
-    option = {
-        name = "EVT90960OPTC" #Orthodox
-        set_country_flag = change_to_orthodox
-        random_country = {
-            limit = {
-                exists = yes
-                OR = {
-                    AND = {
-                        is_greater_power = yes
-                        has_country_flag = orthodox_country
-                    }
-                    tag = RUS
-                }
-            }
-            country_event = 90961
-        }
-        ai_chance = {
-            factor = 25
-            modifier = { factor = 100 any_neighbor_country = { is_greater_power = yes has_country_flag = orthodox_country } }
-        }
-    }
-
-    option = {
-        name = "EVT90960OPTD" #Sunni
-        set_country_flag = change_to_sunni
-        random_country = {
-            limit = {
-                exists = yes
-                OR = {
-                    AND = {
-                        is_greater_power = yes
-                        has_country_flag = sunni_country
-                    }
-                    tag = TUR
-                }
-            }
-            country_event = 90961
-        }
-        ai_chance = {
-            factor = 25
-            modifier = { factor = 100 any_neighbor_country = { is_greater_power = yes has_country_flag = sunni_country } }
-        }
-    }
-
-    option = {
-        name = "EVT90960OPTE" #Nevermind
-        prestige = 3
-        ai_chance = { factor = 0 }
-    }
-
-}
-
-#Requesting Foreign Missionaries - GPs decide what to do
-country_event = {
-    id = 90961
-    title = "EVTNAME90961"
-    desc = "EVTDESC90961"
-    picture = "missionaries"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVT90961OPTA" #Send the missionaries
-        relation = { who = FROM value = 25 }
-        diplomatic_influence = { who = FROM value = 25 }
-        random_owned = { limit = { owner = { has_country_flag = catholic_country } } FROM = { religion = catholic set_country_flag = catholic_country } }
-        random_owned = {
-            limit = { owner = { has_country_flag = protestant_country } }
-            FROM = { religion = protestant set_country_flag = protestant_country }
-        }
-        random_owned = { limit = { owner = { has_country_flag = orthodox_country } } FROM = { religion = orthodox set_country_flag = orthodox_country } }
-        random_owned = { limit = { owner = { has_country_flag = mormon_country } } FROM = { religion = mormon set_country_flag = mormon_country } }
-        random_owned = { limit = { owner = { has_country_flag = coptic_country } } FROM = { religion = coptic set_country_flag = coptic_country } }
-        random_owned = { limit = { owner = { has_country_flag = sunni_country } } FROM = { religion = sunni set_country_flag = sunni_country } }
-        random_owned = { limit = { owner = { has_country_flag = shiite_country } } FROM = { religion = shiite set_country_flag = shiite_country } }
-        random_owned = { limit = { owner = { has_country_flag = shinto_country } } FROM = { religion = shinto set_country_flag = shinto_country } }
-        random_owned = { limit = { owner = { has_country_flag = mahayana_country } } FROM = { religion = mahayana set_country_flag = mahayana_country } }
-        random_owned = { limit = { owner = { has_country_flag = gelugpa_country } } FROM = { religion = gelugpa set_country_flag = gelugpa_country } }
-        random_owned = { limit = { owner = { has_country_flag = theravada_country } } FROM = { religion = theravada set_country_flag = theravada_country } }
-        random_owned = { limit = { owner = { has_country_flag = hindu_country } } FROM = { religion = hindu set_country_flag = hindu_country } }
-        random_owned = { limit = { owner = { has_country_flag = sikh_country } } FROM = { religion = sikh set_country_flag = sikh_country } }
-        random_owned = { limit = { owner = { has_country_flag = jewish_country } } FROM = { religion = jewish set_country_flag = jewish_country } }
-        random_owned = { limit = { owner = { has_country_flag = ibadi_country } } FROM = { religion = ibadi set_country_flag = ibadi_country } }
-        random_owned = { limit = { owner = { has_country_flag = yazidi_country } } FROM = { religion =  yazidi set_country_flag = yazidi_country } }
-
-        FROM = { country_event = 90962 }
-        ai_chance = {
-            factor = 50
-            modifier = { factor = 0 NOT = { relation = { who = FROM value = -190 } } }
-            modifier = { factor = 1.25 relation = { who = FROM value = 50 } }
-            modifier = { factor = 1.25 relation = { who = FROM value = 100 } }
-            modifier = { factor = 1.25 relation = { who = FROM value = 150 } }
-            modifier = { factor = 1.25 relation = { who = FROM value = 190 } }
-        }
-    }
-
-    option = {
-        name = "EVT90961OPTB" #Send the missionaries
-        relation = { who = FROM value = -25 }
-        FROM = { country_event = 90963 }
-        ai_chance = {
-            factor = 50
-            modifier = { factor = 1.25 NOT = { relation = { who = FROM value = -100 } } }
-            modifier = { factor = 1.25 NOT = { relation = { who = FROM value = -50 } } }
-            modifier = { factor = 1.25 NOT = { relation = { who = FROM value = 0 } } }
-            modifier = { factor = 1.25 FROM = { badboy = 0.8 } }
-        }
-    }
-}
-
-#Requesting Foreign Missionaries - GPs Accepted
-country_event = {
-    id = 90962
-    title = "EVTNAME90962"
-    desc = "EVTDESC90962"
-    picture = "missionaries"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVT90962OPTA"
-        add_country_modifier = { name = missionary_activity duration = 1825 }
-        clr_country_flag = animist_country
-        clr_country_flag = lacking_writing_system
-        remove_country_modifier = lacks_writing_system
-        random_owned = {
-            limit = { owner = { has_country_flag = change_to_catholic } }
-            owner = {
-                religion = catholic
-                set_country_flag = catholic_country
-                clr_country_flag = change_to_catholic
-                FROM = { relation = { who = THIS value = 150 } diplomatic_influence = { who = THIS value = 100 } }
-            }
-        }
-        random_owned = {
-            limit = { owner = { has_country_flag = change_to_protestant } }
-            owner = {
-                religion = protestant
-                set_country_flag = protestant_country
-                clr_country_flag = change_to_protestant
-                FROM = { relation = { who = THIS value = 150 } diplomatic_influence = { who = THIS value = 100 } }
-            }
-        }
-        random_owned = {
-            limit = { owner = { has_country_flag = change_to_orthodox } }
-            owner = {
-                religion = orthodox
-                set_country_flag = orthodox_country
-                clr_country_flag = change_to_orthodox
-                FROM = { relation = { who = THIS value = 150 } diplomatic_influence = { who = THIS value = 100 } }
-            }
-        }
-        random_owned = {
-            limit = { owner = { has_country_flag = change_to_sunni } }
-            owner = {
-                religion = sunni
-                set_country_flag = sunni_country
-                clr_country_flag = change_to_sunni
-                FROM = { relation = { who = THIS value = 150 } diplomatic_influence = { who = THIS value = 100 } }
-            }
-        }
-    }
-}
-
-#Requesting Foreign Missionaries - GP refused
-country_event = {
-    id = 90963
-    title = "EVTNAME90963"
-    desc = "EVTDESC90963"
-    picture = "missionaries"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVT90963OPTA"
-        clr_country_flag = change_to_sunni
-        clr_country_flag = change_to_orthodox
-        clr_country_flag = change_to_protestant
-        clr_country_flag = change_to_catholic
     }
 }

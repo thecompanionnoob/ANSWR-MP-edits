@@ -2,7 +2,7 @@
 country_event = {
     id = 19006
     title = "EVTNAME19000"
-    desc = "EVTDESC19006"
+    desc = "EVTDESC19000"
     picture = "greatpowers"
 
     trigger = {
@@ -89,7 +89,7 @@ country_event = {
 country_event = {
     id = 19007
     title = "EVTNAME19005"
-    desc = "EVTDESC19007"
+    desc = "EVTDESC19005"
     picture = "greatpowers"
 
     is_triggered_only = yes
@@ -266,7 +266,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT19015OPTA"
+        name = "EVTOPTA19015"
         random_country = {
             limit = {
                 alliance_with = THIS
@@ -301,7 +301,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT19015OPTB"
+        name = "EVTOPTB19015"
         ai_chance = {
             factor = 50
         }
@@ -374,7 +374,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT19017OPTA"
+        name = "EVTOPTA19017"
         random_country = {
             limit = {
                 is_greater_power = yes
@@ -419,7 +419,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT19018OPTA"
+        name = "EVTOPTA19018"
         prestige = -10
         random_country = {
             limit = {
@@ -462,7 +462,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT19018OPTA"
+        name = "EVTOPTA19018"
         random_country = {
             limit = {
                 is_greater_power = yes
@@ -477,7 +477,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT19019OPTA"
+        name = "EVTOPTA19019"
         prestige = -10
         random_country = {
             limit = {
@@ -803,565 +803,6 @@ country_event = {
     }
 }
 
-# Crimean war
-country_event = {
-    id = 19030
-    title = "EVTNAME19030"
-    desc = "EVTDESC19030"
-    news = yes
-    news_desc_long = "EVTDESC19030_NEWS_LONG"
-    news_desc_medium = "EVTDESC19030_NEWS_MEDIUM"
-    news_desc_short = "EVTDESC19030_NEWS_SHORT"
-    picture = "Ottoman"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA19030"
-        prestige = 5
-        relation = {
-            who = TUR
-            value = 30
-        }
-        FROM = {
-            country_event = 19031
-        }
-        ai_chance = {
-            factor = 50
-            modifier = {
-                factor = 1.5
-                alliance_with = TUR
-            }
-            modifier = {
-                factor = 0.5
-                alliance_with = FROM
-            }
-            modifier = {
-                factor = 0.25
-                truce_with = TUR
-            }
-            modifier = {
-                factor = 1.5
-                truce_with = FROM
-            }
-            modifier = {
-                factor = 0
-                war_with = TUR
-            }
-            modifier = {
-                factor = 1.25
-                relation = {
-                    who = TUR
-                    value = 50
-                }
-            }
-            modifier = {
-                factor = 0.75
-                relation = {
-                    who = FROM
-                    value = 50
-                }
-            }
-            modifier = {
-                factor = 0.5
-                neighbour = FROM
-            }
-        }
-    }
-
-    option = {
-        name = "EVTOPTB19030"
-        prestige = -15
-        ai_chance = {
-            factor = 50
-            modifier = {
-                factor = 1.25
-                NOT = {
-                    relation = {
-                        who = TUR
-                        value = 0
-                    }
-                }
-            }
-            modifier = {
-                factor = 0.75
-                NOT = {
-                    relation = {
-                        who = FROM
-                        value = 0
-                    }
-                }
-            }
-            modifier = {
-                factor = 0
-                war_with = FROM
-            }
-        }
-    }
-}
-
-country_event = {
-    id = 19031
-    title = "EVTNAME19031"
-    desc = "EVTDESC19031"
-    picture = "Orthodox"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA19030"
-        FROM = {
-            casus_belli = {
-                target = THIS
-                type = humiliate
-                months = 12
-            }
-            country_event = 19032
-        }
-        ai_chance = {
-            factor = 80
-            modifier = {
-                factor = 0.75
-                neighbour = FROM
-            }
-            modifier = {
-                factor = 0.75
-                alliance_with = FROM
-            }
-        }
-    }
-
-    option = {
-        name = "EVTOPTB19030"
-        FROM = {
-            country_event = 19033
-        }
-        remove_country_modifier = protector_of_eastern_christendom
-        prestige = -20
-        ai_chance = {
-            factor = 20
-            modifier = {
-                factor = 0.25
-                truce_with = FROM
-            }
-            modifier = {
-                factor = 0
-                war_with = FROM
-            }
-            modifier = {
-                factor = 0.25
-                NOT = {
-                    relation = {
-                        who = FROM
-                        value = 50
-                    }
-                }
-            }
-        }
-    }
-}
-
-country_event = {
-    id = 19032
-    title = "EVTNAME19032"
-    desc = "EVTDESC19032"
-    picture = "Orthodox"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA19030"
-        prestige = -5
-    }
-}
-
-country_event = {
-    id = 19033
-    title = "EVTNAME19033"
-    desc = "EVTDESC19033"
-    picture = "Orthodox"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTB19030"
-        prestige = 10
-    }
-}
-
-# Valley of The Kings
-country_event = {
-    id = 19040
-    title = "EVTNAME19040"
-    desc = "EVTDESC19040"
-    picture = "ValleyoftheKings"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA19040"
-        set_global_flag = egyptian_excavation_rights
-        FROM = {
-            country_event = 19041
-        }
-        ai_chance = {
-            factor = 20
-            modifier = {
-                factor = 0.1
-                has_global_flag = egyptian_excavation_rights
-            }
-            modifier = {
-                factor = 3
-                FROM = {
-                    prestige = 65
-                }
-            }
-            modifier = {
-                factor = 1.5
-                FROM = {
-                    is_greater_power = yes
-                }
-            }
-        }
-    }
-
-    option = {
-        name = "EVTOPTB19040"
-        FROM = {
-            country_event = 19042
-        }
-    }
-}
-
-#Egypt Allows
-country_event = {
-    id = 19041
-    title = "EVTNAME19041"
-    desc = "EVTDESC19041"
-    picture = "ValleyoftheKings"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA19041"
-        add_country_modifier = {
-            name = egyptian_excavations
-            duration = -1
-        }
-        relation = {
-            who = FROM
-            value = 20
-        }
-        set_global_flag = egyptian_excavation_rights
-        prestige = 5
-    }
-}
-
-#Egypt Refuses
-country_event = {
-    id = 19042
-    title = "EVTNAME19042"
-    desc = "EVTDESC19042"
-    picture = "ValleyoftheKings"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA19042"
-        relation = {
-            who = FROM
-            value = -20
-        }
-        prestige = -5
-        set_country_flag = egypt_refused
-    }
-}
-
-# Excavation team gets into trouble
-country_event = {
-    id = 19043
-    title = "EVTNAME19043"
-    desc = "EVTDESC19043"
-    picture = "ValleyoftheKings"
-
-    trigger = {
-        has_country_modifier = egyptian_excavations
-        NOT = {
-            OR = {
-                owns = 1767
-                tag = EGY
-            }
-        }
-    }
-
-    mean_time_to_happen = {
-        months = 200
-        modifier = {
-            factor = 1.2
-            is_greater_power = yes
-        }
-        modifier = {
-            factor = 0.8
-            NOT = {
-                prestige = 50
-            }
-        }
-        modifier = {
-            factor = 1.3
-            nationalism_n_imperialism = 1
-        }
-    }
-
-    option = {
-        name = "EVTOPTA19043"
-        treasury = -200
-        ai_chance = {
-            factor = 50
-            modifier = {
-                factor = 0.1
-                NOT = { money = 200 }
-            }
-        }
-    }
-
-    option = {
-        name = "EVTOPTB19043"
-        relation = {
-            who = EGY
-            value = -20
-        }
-        clr_global_flag = egyptian_excavation_rights
-        ai_chance = {
-            factor = 50
-        }
-    }
-}
-
-# Tomb Found
-country_event = {
-    id = 19044
-    title = "EVTNAME19044"
-    desc = "EVTDESC19044"
-    picture = "Tomb"
-
-    trigger = {
-        has_country_modifier = egyptian_excavations
-    }
-
-    mean_time_to_happen = {
-        months = 200
-    }
-
-    option = {
-        name = "EVTOPTA19044"
-        prestige = 10
-        years_of_research = 0.1
-    }
-}
-
-#Curse of The Pharaos
-country_event = {
-    id = 19045
-    title = "EVTNAME19045"
-    desc = "EVTDESC19045"
-    picture = "Egyptian"
-
-    trigger = {
-        has_country_modifier = egyptian_excavations
-    }
-
-    mean_time_to_happen = {
-        months = 200
-    }
-
-    option = {
-        name = "EVTOPTA19045"
-        any_pop = { limit = { NOT = { literacy = 0.6 } }
-            militancy = 1
-        }
-    }
-}
-
-#Tutankhamun's Tomb
-country_event = {
-    id = 19046
-    title = "EVTNAME19046"
-    desc = "EVTDESC19046"
-    news = yes
-    news_desc_long = "EVTDESC19046_NEWS_LONG"
-    news_desc_medium = "EVTDESC19046_NEWS_MEDIUM"
-    news_desc_short = "EVTDESC19046_NEWS_SHORT"
-    picture = "Egyptian"
-
-    trigger = {
-        has_country_modifier = egyptian_excavations
-        NOT = {
-            has_global_flag = tutankhamun_found
-        }
-        year = 2900
-    }
-
-    major = yes
-
-    mean_time_to_happen = {
-        months = 265
-    }
-
-    option = {
-        name = "EVTOPTA19046"
-        prestige = 30
-        years_of_research = 1
-        set_global_flag = tutankhamun_found
-        any_country = {
-            remove_country_modifier = egyptian_excavations
-        }
-        remove_country_modifier = egyptian_excavations
-        clr_global_flag = egyptian_excavation_rights
-    }
-}
-
-#Mummy Found
-country_event = {
-    id = 19047
-    title = "EVTNAME19047"
-    desc = "EVTDESC19047"
-    picture = "Egyptian"
-
-    trigger = {
-        has_country_modifier = egyptian_excavations
-    }
-
-    mean_time_to_happen = {
-        months = 300
-    }
-
-    option = {
-        name = "EVTOPTA19047"
-        prestige = 5
-        years_of_research = 0.05
-    }
-}
-
-#The Ems Dispatch (fired by Prussian decision)
-country_event = {
-    id = 19200
-    title = "EVTNAME19200"
-    desc = "EVTDESC19200"
-    news = yes
-    news_desc_long = "EVTDESC19200_NEWS_LONG"
-    news_desc_medium = "EVTDESC19200_NEWS_MEDIUM"
-    news_desc_short = "EVTDESC19200_NEWS_SHORT"
-    picture = "administration"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVT19200OPTA"
-        prestige = -50
-        leave_alliance = FROM
-        relation = {
-            who = FROM
-            value = -100
-        }
-        casus_belli = {
-            target = FROM
-            type = cut_down_to_size
-            months = 24
-        }
-        ai_chance = {
-            factor = 20
-        }
-    }
-
-    option = {
-        name = "EVT19200OPTB"
-        prestige = -10
-        leave_alliance = FROM
-        casus_belli = {
-            target = FROM
-            type = cut_down_to_size
-            months = 24
-        }
-        war = {
-            target = FROM
-            attacker_goal = {
-                casus_belli = cut_down_to_size
-            }
-            call_ally = no
-        }
-        ai_chance = {
-            factor = 80
-            modifier = {
-                factor = 0.5
-                num_of_revolts = 1
-            }
-            modifier = {
-                factor = 0.5
-                war_policy = anti_military
-            }
-            modifier = {
-                factor = 0.2
-                war_policy = pacifism
-            }
-        }
-    }
-}
-
-# The Mandate of Heaven
-country_event = {
-    id = 19310
-    title = "EVTNAME19310"
-    desc = "EVTDESC19310"
-    news = yes
-    news_desc_long = "EVTDESC19310_NEWS_LONG"
-    news_desc_medium = "EVTDESC19310_NEWS_MEDIUM"
-    news_desc_short = "EVTDESC19310_NEWS_SHORT"
-    picture = "asian_ruler"
-
-    trigger = {
-        tag = QNG
-    }
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA19310"
-        prestige = 5
-        any_pop = {
-            militancy = -1
-        }
-    }
-}
-
-# The Empire of the Sun
-country_event = {
-    id = 19320
-    title = "EVTNAME19320"
-    desc = "EVTDESC19320"
-    news = yes
-    news_desc_long = "EVTDESC19320_NEWS_LONG"
-    news_desc_medium = "EVTDESC19320_NEWS_MEDIUM"
-    news_desc_short = "EVTDESC19320_NEWS_SHORT"
-    picture = "japanese_power"
-
-    trigger = {
-        OR = {
-            tag = JAP
-            tag = TKG
-        }
-    }
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA19320"
-        prestige = 5
-        any_pop = {
-            militancy = -3
-        }
-    }
-}
-
 # Great wars
 country_event = {
     id = 19355
@@ -1497,7 +938,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT19365OPTA"
+        name = "EVTOPTA19365"
         set_country_flag = asked_for_restoration
         sphere_owner = { country_event = 19366 }
         any_pop = {
@@ -1521,7 +962,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT19365OPTB"
+        name = "EVTOPTB19365"
         random_country = {
             limit = {
                 neighbour = THIS
@@ -1570,7 +1011,7 @@ country_event = {
     is_triggered_only = yes
 
     option = {
-        name = "EVT19366OPTA"
+        name = "EVTOPTA19366"
         diplomatic_influence = { who = FROM value = 50 }
         military_access = FROM
         FROM = { country_event = 19367 }
@@ -1615,7 +1056,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT19366OPTB"
+        name = "EVTOPTB19366"
         prestige = -10
         diplomatic_influence = { who = FROM value = -25 }
         FROM = { country_event = 19368 }
@@ -1646,7 +1087,7 @@ country_event = {
     is_triggered_only = yes
 
     option = {
-        name = "EVT19367OPTA"
+        name = "EVTOPTA19367"
         badboy = 3
         relation = { who = FROM value = 50 }
     }
@@ -1661,7 +1102,7 @@ country_event = {
     is_triggered_only = yes
 
     option = {
-        name = "EVT19368OPTA"
+        name = "EVTOPTA19368"
         prestige = -5
         relation = { who = FROM value = -25 }
         random_country = {
@@ -1699,7 +1140,7 @@ country_event = {
     is_triggered_only = yes
 
     option = {
-        name = "EVT19370OPTA"
+        name = "EVTOPTA19370"
         FROM = { create_vassal = THIS }
         random_owned = {
             limit = {
@@ -2295,7 +1736,7 @@ country_event = {
     }
 
     option = {
-        name = "EVT81002212OPTA"
+        name = "EVTOPTA81002212"
         any_country = {
             limit = { war_with = THIS }
             end_war = THIS
@@ -2310,77 +1751,12 @@ country_event = {
     }
 
     option = {
-        name = "EVT81002212OPTB"
+        name = "EVTOPTB81002212"
         set_country_flag = abandoned_neutrality
         prestige = -20
         remove_country_modifier = neutrality_modifier
         ai_chance = {
             factor = 0
-        }
-    }
-}
-
-#Titanic Sinks
-country_event = {
-    id = 81002213
-    title = "EVTNAME81002213"
-    desc = "EVTDESC81002213"
-    news = yes
-    news_desc_long = "EVTDESC81002213_NEWS_LONG"
-    news_desc_medium = "EVTDESC81002213_NEWS_MEDIUM"
-    news_desc_short = "EVTDESC81002213_NEWS_SHORT"
-    picture = "titanic_sinks"
-
-    trigger = {
-        has_country_flag = titanic_sinks
-    }
-
-    fire_only_once = yes
-
-    mean_time_to_happen = { days = 1 }
-
-    option = {
-        name = "EVT81002213OPTA"
-        clr_country_flag = titanic_sinks
-        prestige = -25
-        any_pop = { consciousness = 1 }
-    }
-}
-
-#Titanic Doesn't Sink
-country_event = {
-    id = 81002214
-    title = "EVTNAME81002214"
-    desc = "EVTDESC81002214"
-    news = yes
-    news_desc_long = "EVTDESC81002214"
-    news_desc_medium = "EVTDESC81002214"
-    news_desc_short = "EVTDESC81002214"
-    picture = "titanic_arrives"
-
-    trigger = {
-        has_country_flag = titanic_arrives
-    }
-
-    fire_only_once = yes
-
-    mean_time_to_happen = { days = 1 }
-
-    option = {
-        name = "EVT81002214OPTA"
-        clr_country_flag = titanic_arrives
-        prestige = 25
-        random_country = {
-            limit = {
-                prestige = 10
-                NOT = { tag = HAI }
-                capital_scope = { continent = north_america }
-                OR = {
-                    is_greater_power = yes
-                    NOT = { any_greater_power = { capital_scope = { continent = north_america } } }
-                }
-            }
-            relation = { who = THIS value = 50 }
         }
     }
 }
@@ -2415,571 +1791,5 @@ country_event = {
         name = "EVTOPTA19356"
         world_wars_enabled = yes
         set_global_flag = world_wars_enabled
-    }
-}
-
-#Tangier Protocol
-country_event = {
-    id = 81002215
-    title = "EVTNAME81002215"
-    desc = "EVTDESC81002215"
-    picture = "greatpowers"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA81002215" #we agree
-        set_country_flag = agreed_to_tangier_protocol
-        FROM = { change_variable = { which = yes_to_tangier value = 1 } }
-        ai_chance = {
-            factor = 0.7
-            modifier = { factor = 0.5 owns = 1686 }
-            modifier = { factor = 1.2 relation = { who = FROM value = 100 } }
-            modifier = { factor = 2 in_sphere = FROM }
-        }
-    }
-
-    option = {
-        name = "EVTOPTB81002215" #we disagree
-        relation = { who = FROM value = -50 }
-        FROM = { change_variable = { which = no_to_tangier value = 1 } }
-        ai_chance = {
-            factor = 0.3
-            modifier = { factor = 1.5 owns = 1686 }
-            modifier = { factor = 0.8 relation = { who = FROM value = 100 } }
-            modifier = { factor = 0 in_sphere = FROM }
-            modifier = { factor = 0 vassal_of = FROM }
-        }
-    }
-}
-
-#Tangier Protocol - Success
-country_event = {
-    id = 81002216
-    title = "EVTNAME81002216"
-    desc = "EVTDESC81002216"
-    major = yes
-
-    fire_only_once = yes
-
-    trigger = {
-        check_variable = { which = yes_to_tangier value = 2.99 }
-        NOT = { check_variable = { which = no_to_tangier value = 3.99 } }
-        has_country_flag = called_the_tangier_protocol
-    }
-
-    mean_time_to_happen = { days = 1 }
-
-    option = {
-        name = "EVTOPTA81002216"
-        prestige = 10
-        random_owned = {
-            limit = { owner = { has_country_flag = agreed_to_tangier_protocol } province_id = 1686 }
-            owner = {
-                1686 =  { secede_province = MOR }
-                clr_country_flag = agreed_to_tangier_protocol
-            }
-        }
-        random_country = {
-            limit = { exists = yes tag = MOR }
-            government = hms_government
-            civilized = yes
-            THIS = { create_vassal = MOR relation = { who = MOR value = 200 } }
-        }
-        any_country = {
-            limit = { has_country_flag = agreed_to_tangier_protocol }
-            diplomatic_influence = { who = MOR value = 50 }
-            relation = { who = MOR value = 200 }
-            clr_country_flag = agreed_to_tangier_protocol
-        }
-        random_country = {
-            limit = { exists = yes owns = 1686 NOT = { tag = MOR } }
-            country_event = 81002218
-        }
-        clr_country_flag = agreed_to_tangier_protocol
-        clr_country_flag = called_the_tangier_protocol
-        MOR = {
-            set_country_flag = international_zone
-            1686 = { life_rating = 5 }
-            add_country_modifier = { name = international_zone_modifier duration = -1 }
-            remove_country_modifier = educational_reform
-            remove_country_modifier = military_reform
-            remove_country_modifier = western_influences
-            remove_country_modifier = uncivilized_isolationism
-            remove_country_modifier = trade_restrictions
-            remove_country_modifier = sayings_of_the_dutch
-            remove_country_modifier = rangaku
-            remove_country_modifier = sakoku
-            clr_country_flag = using_foreign_weapons
-            clr_country_flag = using_foreign_artillery
-            clr_country_flag = using_foreign_ships
-            clr_country_flag = using_foreign_shipyards
-            random_owned = {
-                limit = { owner = { has_country_modifier = european_military_mission } }
-                owner = { remove_country_modifier = european_military_mission }
-            }
-            random_owned = {
-                limit = { owner = { has_country_modifier = western_presence_research } }
-                owner = { remove_country_modifier = western_presence_research }
-            }
-            random_owned = {
-                limit = { owner = { has_country_modifier = legation_quarter } }
-                owner = { remove_country_modifier = legation_quarter }
-            }
-            any_owned = {
-                remove_province_modifier = western_presence
-                remove_province_modifier = foreign_smugglers
-                remove_province_modifier = foreign_trading_post
-                remove_province_modifier = local_opium_habit
-                remove_province_modifier = kettler_denkmal
-                remove_province_modifier = extraterritoriality_granted
-                remove_province_modifier = boxer_presence
-                remove_province_modifier = boxer_agitation
-            }
-        }
-    }
-}
-
-#Tangier Protocol - Failure
-country_event = {
-    id = 81002217
-    title = "EVTNAME81002217"
-    desc = "EVTDESC81002217"
-    major = yes
-
-    fire_only_once = yes
-
-    trigger = {
-        OR = {
-            check_variable = { which = no_to_tangier value = 3.99 }
-            NOT = { check_variable = { which = yes_to_tangier value = 2.99 } }
-        }
-        has_country_flag = called_the_tangier_protocol
-    }
-
-    mean_time_to_happen = { days = 1 }
-
-    option = {
-        name = "EVTOPTA81002217"
-        prestige_factor = -0.1
-        clr_country_flag = called_the_tangier_protocol
-        clr_country_flag = agreed_to_tangier_protocol
-        any_country = {
-            limit = { has_country_flag = agreed_to_tangier_protocol }
-            clr_country_flag = agreed_to_tangier_protocol
-        }
-    }
-}
-
-#Tangier Protocol - Ultimatum
-country_event = {
-    id = 81002218
-    title = "EVTNAME81002215"
-    desc = "EVTDESC81002218"
-    picture = "greatpowers"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA81002218" #We concede
-        badboy = -1
-        relation = { who = FROM value = 25 }
-        random_owned = {
-            limit = { province_id = 1686 }
-            secede_province = MOR
-        }
-        clr_country_flag = agreed_to_tangier_protocol
-        FROM = {
-            create_vassal = MOR
-            relation = { who = MOR value = 200 }
-            clr_country_flag = agreed_to_tangier_protocol
-        }
-        random_country = {
-            limit = { exists = yes tag = MOR }
-            government = hms_government
-            civilized = yes
-        }
-        any_country = {
-            limit = { has_country_flag = agreed_to_tangier_protocol }
-            diplomatic_influence = { who = MOR value = 50 }
-            relation = { who = MOR value = 200 }
-            clr_country_flag = agreed_to_tangier_protocol
-        }
-        ai_chance = {
-            factor = 0.7
-            modifier = { factor = 10 is_greater_power = no }
-            modifier = { factor = 1.2 relation = { who = FROM value = 100 } }
-            modifier = { factor = 1.2 in_sphere = FROM }
-        }
-    }
-
-    option = {
-        name = "EVTOPTB81002218" #We will not give it
-        badboy = 4
-        relation = { who = FROM value = -50 }
-        set_country_flag = holding_tangiers
-        any_country = {
-            limit = {
-                is_greater_power = yes
-                capital_scope = { continent = europe }
-                NOT = { tag = TUR tag = RUS }
-                }
-            casus_belli = { target = THIS type = cut_down_to_size months = 36 }
-        }
-        MOR = { government = hms_government civilized = yes }
-        ai_chance = {
-            factor = 0.3
-            modifier = { factor = 0.5 is_greater_power = no }
-            modifier = { factor = 1.2 NOT = { relation = { who = FROM value = 0 } } }
-            modifier = { factor = 0 in_sphere = FROM }
-            modifier = { factor = 0 vassal_of = FROM }
-            modifier = { factor = 0 is_disarmed = yes }
-            modifier = { factor = 0.5 NOT = { military_score = 100 } }
-        }
-    }
-}
-
-#Copenhagen Convention of 1857  1/6 - Denmark decides what to do
-country_event = {
-    id = 810003
-    title = "EVTNAME810003"
-    desc = "EVTDESC810003"
-    picture = "ships_cross_the_sound_dues"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA810003" #We will abolish the sound dues
-        badboy = -2
-        372 = { trade_goods = grain remove_province_modifier = sound_dues_toll }
-        set_global_flag = sound_dues_abolished
-        treasury = 300000
-        any_country = {
-            limit = {
-                OR = {
-                    AND = {
-                        is_greater_power = yes
-                        capital_scope = { continent = europe }
-                        NOT = { tag = TUR }
-                    }
-                    tag = SWE
-                    tag = NOR
-                    tag = RUS
-                }
-            }
-            relation = { who = THIS value = 50 }
-        }
-        FROM = { country_event = { id = 810004 days = 7 } }
-        ai_chance = { factor = 80 }
-    }
-
-    option = {
-        name = "EVTOPTB810003" #We will NOT abolish the sound dues
-        badboy = 3
-        prestige = 10
-        set_global_flag = sound_dues_resisted
-        FROM = { country_event = { id = 810007 days = 7 } }
-
-        ai_chance = {
-            factor = 20
-            modifier = { factor = 2 is_greater_power = yes }
-            modifier = { factor = 0.5 NOT = { military_score = 100 } }
-            modifier = {
-                factor = 0
-                OR = {
-                    badboy = 0.5
-                    in_sphere = FROM
-                    vassal_of = FROM
-                    is_disarmed = yes
-                    has_recently_lost_war = yes
-                }
-            }
-        }
-    }
-}
-
-#Copenhagen Convention of 1857  2/6 - Positive response, paying
-country_event = {
-    id = 810004
-    title = "EVTNAME810004"
-    desc = "EVTDESC810004"
-    major = yes
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA810004" #We will pay our part
-        prestige = 2
-
-        random_owned = {
-            limit = {
-                owner = {
-                    NOT = { money = 100000 }
-                    check_variable = { which = owed_cash_money value = 9 }
-                }
-            }
-            owner = { change_variable = { which = owed_cash_money value = 100 } }
-        }
-        random_owned = {
-            limit = {
-                owner = {
-                    NOT = { money = 100000 }
-                    NOT = { check_variable = { which = owed_cash_money value = 1 } }
-                }
-            }
-            owner = { set_variable = { which = owed_cash_money value = 100 } }
-        }
-        random_owned = {
-            limit = { owner = { money = 100000 } }
-            owner = { treasury = -100000 }
-        }
-
-        diplomatic_influence = { who = FROM value = 50 }
-
-        random_country = {
-            limit = {
-                NOT = { tag = THIS }
-                tag = ENG
-            }
-            country_event = { id = 810005 days = 7 }
-        }
-
-        random_country = {
-            limit = {
-                NOT = { tag = THIS }
-                tag = RUS
-            }
-            country_event = { id = 810005 days = 7 }
-        }
-        random_owned = {
-            limit = {
-                owner = {
-                    OR = {
-                        tag = RUS
-                        tag = ENG
-                    }
-                }
-            }
-                random_country = {
-                    limit = {
-                        NOT = { tag = THIS }
-                        capital_scope = { continent = europe }
-                        is_greater_power = yes
-                        NOT = { tag = RUS }
-                        NOT = { tag = TUR }
-                        NOT = { tag = ENG }
-                        NOT = { owns = 372 }
-                        OR = {
-                            primary_culture = north_german
-                            is_culture_group = french
-                            is_culture_group = beneluxian
-                            is_culture_group = scandinavian
-                        }
-                    }
-                    country_event = { id = 810005 days = 7 }
-            }
-        }
-        ai_chance = { factor = 70 }
-    }
-
-    option = {
-        name = "EVTOPTB810004" #We will pay everything
-        prestige = 5
-        diplomatic_influence = { who = FROM value = 200 }
-        random_owned = {
-            limit = {
-                owner = {
-                    NOT = { money = 300000 }
-                    check_variable = { which = owed_cash_money value = 9 }
-                }
-            }
-            owner = { change_variable = { which = owed_cash_money value = 300 } }
-        }
-        random_owned = {
-            limit = {
-                owner = {
-                    NOT = { money = 300000 }
-                    NOT = { check_variable = { which = owed_cash_money value = 1 } }
-                }
-            }
-            owner = { set_variable = { which = owed_cash_money value = 300 } }
-        }
-        random_owned = {
-            limit = { owner = { money = 300000 } }
-            owner = { treasury = -300000 }
-        }
-        ai_chance = {
-            factor = 30
-            modifier = {
-                factor = 0
-                NOT = { money = 300000 }
-            }
-        }
-    }
-}
-
-#Copenhagen Convention of 1857  3/6 - Other GPs decide if they will pay
-country_event = {
-    id = 810005
-    title = "EVTNAME810005"
-    desc = "EVTDESC810005"
-    picture = "ships_cross_the_sound_dues"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA810005" #We will pay our part
-        prestige = 2
-        random_owned = {
-            limit = {
-                owner = {
-                    NOT = { money = 100000 }
-                    check_variable = { which = owed_cash_money value = 9 }
-                }
-            }
-            owner = { change_variable = { which = owed_cash_money value = 100 } }
-        }
-        random_owned = {
-            limit = {
-                owner = {
-                    NOT = { money = 100000 }
-                    NOT = { check_variable = { which = owed_cash_money value = 1 } }
-                }
-            }
-            owner = { set_variable = { which = owed_cash_money value = 100 } }
-        }
-        random_owned = {
-            limit = { owner = { money = 100000 } }
-            owner = { treasury = -100000 }
-        }
-
-        random_list = {
-            50 = { FROM = { country_event = { id = 810008 days = 7 } } }
-            50 = { FROM = { country_event = { id = 810008 days = 8 } } }
-        }
-
-        ai_chance = { factor = 90 }
-    }
-
-    option = {
-        name = "EVTOPTC810005" #We refuse to pay anything
-        prestige_factor = -0.1
-        any_country = { limit = { is_greater_power = yes } relation = { who = THIS value = -30 } }
-        372 = { owner = { relation = { who = THIS value = -75 } } }
-        FROM = { country_event = { id = 810006 days = 7 } }
-
-        ai_chance = {
-            factor = 10
-            modifier = {
-                factor = 0
-                OR = {
-                    tag = RUS
-                    tag = ENG
-                }
-            }
-        }
-    }
-}
-
-#Copenhagen Convention of 1857  4/6 - Other GPs refused to pay - response
-country_event = {
-    id = 810006
-    title = "EVTNAME810006"
-    desc = "EVTDESC810006"
-    picture = "ships_cross_the_sound_dues"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA810006" #We will pay their part
-        prestige = 3
-        casus_belli = { target = FROM type = war_reparations months = 48 } relation = { who = FROM value = -150 }
-        random_owned = {
-            limit = {
-                owner = {
-                    NOT = { money = 100000 }
-                    check_variable = { which = owed_cash_money value = 9 }
-                }
-            }
-            owner = { change_variable = { which = owed_cash_money value = 100 } }
-        }
-        random_owned = {
-            limit = {
-                owner = {
-                    NOT = { money = 100000 }
-                    NOT = { check_variable = { which = owed_cash_money value = 1 } }
-                }
-            }
-            owner = { set_variable = { which = owed_cash_money value = 100 } }
-        }
-        random_owned = {
-            limit = { owner = { money = 100000 } }
-            owner = { treasury = -100000 }
-        }
-        ai_chance = { factor = 100 }
-    }
-
-    option = {
-        name = "EVTOPTC810006" #We refuse to pay anything
-        prestige_factor = -0.1
-        any_country = { limit = { is_greater_power = yes } relation = { who = THIS value = -30 } }
-        372 = { owner = { relation = { who = THIS value = -75 } } }
-        ai_chance = { factor = 0 }
-    }
-}
-
-#Copenhagen Convention of 1857  5/6 - Denmark refused to end the Toll - Response
-country_event = {
-    id = 810007
-    title = "EVTNAME810007"
-    desc = "EVTDESC810007"
-
-    major = yes
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA810007"
-        relation = { who = FROM value = -300 }
-        diplomatic_influence = { who = FROM value = -300 }
-        casus_belli = { target = FROM type = cut_down_to_size months = 36 }
-        any_country = {
-            limit = {
-                is_vassal = no
-                exists = yes
-                OR = {
-                    AND = {
-                        is_greater_power = yes
-                        capital_scope = { continent = europe }
-                        NOT = { tag = TUR }
-                    }
-                    tag = SWE
-                    tag = NOR
-                    tag = RUS
-                    AND = {
-                        primary_culture = north_german
-                        is_greater_power = yes
-                    }
-                }
-            }
-            relation = { who = FROM value = -300 }
-            diplomatic_influence = { who = FROM value = -300 }
-            casus_belli = { target = FROM type = cut_down_to_size months = 36 }
-        }
-        ai_chance = { factor = 100 }
-    }
-}
-
-#Copenhagen Convention of 1857  6/6 - Denmark refused to end the Toll - Response
-country_event = {
-    id = 810008
-    title = "EVTNAME810008"
-    desc = "EVTDESC810008"
-    picture = "ships_cross_the_sound_dues"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA810008"
-        relation = { who = FROM value = 25 }
     }
 }

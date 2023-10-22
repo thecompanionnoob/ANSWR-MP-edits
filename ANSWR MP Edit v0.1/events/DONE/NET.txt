@@ -38,7 +38,7 @@ country_event = {
 country_event = {
 	id = 52037
 	title = "EVTNAME52037"
-	desc = "EVTDESC520376"
+	desc = "EVTDESC52037"
 	picture = "bilderberg"
 
 	trigger = {
