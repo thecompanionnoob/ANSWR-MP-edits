@@ -1,29 +1,7 @@
 political_decisions = {
-	declare_republic_of_neuchatel = {
-		potential = {
-			tag = SWI
-			owns = 608
-			608 = {
-				is_core = PRU
-			}
-		}
-		allow = {
-			prestige = 1
-			romanticism = 1
-		}
-		effect = {
-			prestige = 5
-			608 = {
-				remove_core = PRU
-				remove_core = NGF
-				remove_core = GER
-			}
-			relation = {
-				who = PRU
-				value = 20
-			}
-		}
-	}
+## Decide if we want geneva convention ( TODO )
+## i vote no
+# - companion
 	call_geneva_convention = {
 		potential = {
 			tag = SWI
@@ -71,28 +49,6 @@ political_decisions = {
 				duration = -1
 			}
 			badboy = -1
-		}
-	}
-	
-	build_gotthard_tunnel = {
-		potential = {
-			tag = SWI
-			owns = 606
-			NOT = {
-				has_country_flag = gotthard_tunnel_built
-			}
-		}
-		
-		allow = {
-			invention = machine_tools
-		}
-		
-		effect = {
-			606 = {
-				infrastructure = 4
-			}
-			prestige = 5
-			set_country_flag = gotthard_tunnel_built
 		}
 	}
 }

@@ -1,4 +1,5 @@
-political_decisions = {
+political_decisions = { 
+## TODO decide on these, imo all but soi and nationalization should be removed
 	enact_liquor_prohibition = {
 		potential = {
 			social_science = 1

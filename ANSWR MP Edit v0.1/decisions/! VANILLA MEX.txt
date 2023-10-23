@@ -1,4 +1,7 @@
 political_decisions = {
+## Consider what to do with this ( TODO )
+## IMO should be removed
+## -companion
 	restore_mexican_empire = {
 		potential = {
 			tag = MEX

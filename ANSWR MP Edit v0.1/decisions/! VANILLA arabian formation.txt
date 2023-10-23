@@ -1,4 +1,5 @@
-
+### Leaving for now, figure out how arabia works then decide on this
+# - companion
 political_decisions = {
 
 	form_arabia = {
