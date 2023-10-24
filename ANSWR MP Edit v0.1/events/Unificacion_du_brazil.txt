@@ -6,25 +6,22 @@ country_event = {
     fire_only_once = yes
 
     trigger = {
-    year = 2840
-    OR = {
-           tag = AMZ
-          
-        }  
-        
-}             
+		year = 2840
+        tag = AMZ
+	}             
 
     option = {
         name = "EVTOPTB300400"                     
         AMZ = {
             war = {
-            target = NUH
-            attacker_goal = { casus_belli = get_puppet}
-            defender_goal = { casus_belli = get_puppet}
-            call_ally = no
-        }
-    }
+				target = NUH
+				attacker_goal = { casus_belli = get_puppet}
+				defender_goal = { casus_belli = get_puppet}
+				call_ally = no
+			}
+		}
         
+	}
 }
 
        

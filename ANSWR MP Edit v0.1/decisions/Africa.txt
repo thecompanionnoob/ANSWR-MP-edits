@@ -339,10 +339,8 @@ political_decisions = {
 #Nigeria
     Tsakiya = {
         picture = Czechoslovakia
-        potential = {
-            OR = {                
-                tag = NGR
-            }
+        potential = {            
+			tag = NGR
             NOT = {has_global_flag = TSR}
         }
         allow = {
@@ -390,10 +388,8 @@ political_decisions = {
     }
 	SABBI  = {
         picture = Czechoslovakia
-        potential = {
-            OR = {                
-                tag = MOR
-            }
+        potential = {          
+			tag = MOR
             NOT = { exists = SAA }	
         }
         allow = {         
@@ -487,10 +483,8 @@ political_decisions = {
     }
 	sultanato = {
         picture = forced_egyptological_excavations
-        potential = {
-            OR = {                
-                tag = EGY
-            }
+        potential = {            
+			tag = EGY
             NOT = { exists = SGY }
         }
         allow = {         
@@ -596,10 +590,9 @@ political_decisions = {
 	        }        
         }
 		effect = {    
-            NOT = {has_global_flag = Sur}            
+            set_global_flag = Sur           
             add_accepted_culture = zulu
             add_accepted_culture = kanuri
-            add_accepted_culture = tsakiya
             add_accepted_culture = tsakiya
             add_accepted_culture = fulbe
             add_accepted_culture = boer
@@ -625,10 +618,8 @@ political_decisions = {
     }
 	Tuareg  = {
         picture = Czechoslovakia
-        potential = {
-            OR = {                
-                tag = TRG
-            }
+        potential = {             
+			tag = TRG
             NOT = {has_global_flag = Tur}	
         }
         allow = {         

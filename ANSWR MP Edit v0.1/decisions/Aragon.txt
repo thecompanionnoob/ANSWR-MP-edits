@@ -2,11 +2,7 @@ political_decisions = {
 	Aragon  = {
         picture = Aragon
         potential = {
-            OR = {                
-                tag = CAT
-                
-                                
-            }
+			tag = CAT
             NOT = { exists = ARN }
 			
         }
@@ -67,12 +63,8 @@ political_decisions = {
     }
 	Aragonitalia  = {
         picture = Aragon
-        potential = {
-            OR = {                
-                tag = ARN
-                
-                                
-            }
+        potential = {           
+			tag = ARN
             NOT = { exists = AGI }
             		
         }
