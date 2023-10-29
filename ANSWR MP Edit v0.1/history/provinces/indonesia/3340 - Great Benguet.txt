@@ -1,6 +1,6 @@
-owner = ILC
-controller = ILC
-add_core = ILC
+owner = SBI
+controller = SBI
+add_core = SBI
 add_core = CRD
 add_core = PHL
 trade_goods = iron

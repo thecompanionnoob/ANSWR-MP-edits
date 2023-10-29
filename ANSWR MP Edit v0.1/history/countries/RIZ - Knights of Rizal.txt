@@ -1,6 +1,5 @@
 capital = 1455
-primary_culture = tisoy
-culture = filipino
+primary_culture = filipino
 religion = protestant
 government = hms_government
 plurality = 0.0

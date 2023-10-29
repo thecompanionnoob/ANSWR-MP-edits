@@ -36,13 +36,13 @@
     }
 	
     artisans = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 1200
     }
 
     farmers = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 5800
     }
@@ -87,13 +87,13 @@
     }
 	
     artisans = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 1200
     }
 
     farmers = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 1800
     }
@@ -125,25 +125,25 @@
     }
 
     soldiers = {
-        culture = pampangan
+        culture = pacifica
         religion = protestant
         size = 4000
     }
 
     farmers = {
-        culture = pampangan
+        culture = filipino
         religion = protestant
         size = 86550
     }
 
     artisans = {
-        culture = tisoy
+        culture = pacifica
         religion = protestant
         size = 1200
     }
 
     farmers = {
-        culture = tisoy
+        culture = pacifica
         religion = protestant
         size = 800
     }
@@ -187,13 +187,13 @@
     }
 
     artisans = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 1200
     }
 
     farmers = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 110800
     }
@@ -201,55 +201,55 @@
 #Aparri (230359 POPS)
 3339 = {
     aristocrats = {
-        culture = macoyan
+        culture = filipino
         religion = protestant
         size = 1250
     }
 
     bureaucrats = {
-        culture = macoyan
+        culture = filipino
         religion = protestant
         size = 450
     }
 
     clergymen = {
-        culture = macoyan
+        culture = filipino
         religion = protestant
         size = 7500
     }
 
     artisans = {
-        culture = macoyan
+        culture = filipino
         religion = protestant
         size = 29000
     }
 	
     soldiers = {
-        culture = macoyan
+        culture = filipino
         religion = protestant
         size = 15000
     }
 
 	farmers = {
-        culture = macoyan
+        culture = filipino
         religion = protestant
         size = 70000
     }
 
     farmers = {
-        culture = cordilleran
+        culture = filipino
         religion = protestant
         size = 116550
     }
 
     artisans = {
-        culture = cordilleran
+        culture = filipino
         religion = protestant
         size = 1200
     }
 
     farmers = {
-        culture = cordilleran
+        culture = filipino
         religion = protestant
         size = 800
     }
@@ -257,37 +257,37 @@
 #Baguio
 3340 = {
     aristocrats = {
-        culture = cordilleran
+        culture = filipino
         religion = protestant
         size = 250
     }
 
     bureaucrats = {
-        culture = cordilleran
+        culture = filipino
         religion = protestant
         size = 450
     }
 
     clergymen = {
-        culture = cordilleran
+        culture = filipino
         religion = protestant
         size = 750
     }
 
     artisans = {
-        culture = cordilleran
+        culture = filipino
         religion = protestant
         size = 5000
     }
 
     soldiers = {
-        culture = cordilleran
+        culture = filipino
         religion = protestant
         size = 4000
     }
 
     farmers = {
-        culture = cordilleran
+        culture = filipino
         religion = protestant
         size = 97550
     }
@@ -295,37 +295,37 @@
 #Palo Leyte (111053 POPS)
 3341 = {
     aristocrats = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 1250
     }
 
     bureaucrats = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 450
     }
 
     clergymen = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 750
     }
 
     artisans = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 10000
     }
 
     soldiers = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 4000
     }
 
     farmers = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 91550
     }
@@ -333,37 +333,37 @@
 #Negros Island (291059 POPS)
 3335 = {
     aristocrats = {
-        culture = aklanon
+        culture = filipino
         religion = protestant
         size = 1250
     }
 
     bureaucrats = {
-        culture = aklanon
+        culture = filipino
         religion = protestant
         size = 450
     }
 
     clergymen = {
-        culture = aklanon
+        culture = filipino
         religion = protestant
         size = 7500
     }
 
     artisans = {
-        culture = aklanon
+        culture = filipino
         religion = protestant
         size = 29000
     }
 
     soldiers = {
-        culture = aklanon
+        culture = filipino
         religion = protestant
         size = 15000
     }
 
     farmers = {
-        culture = aklanon
+        culture = filipino
         religion = protestant
         size = 216550
     }
@@ -371,37 +371,37 @@
 #Bohol Island (93608 POP)
 3337 = {
     aristocrats = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 1250
     }
 
     bureaucrats = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 450
     }
 
     clergymen = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 750
     }
 
     artisans = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 10000
     }
 
     soldiers = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 5000
     }
 
     farmers = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 76550
     }
@@ -409,37 +409,37 @@
 #Lanaon Province (74719 POPS)
 3338 = {
     aristocrats = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 250
     }
 
     bureaucrats = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 450
     }
 
     clergymen = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 750
     }
 
     artisans = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 1000
     }
 
     soldiers = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 3550
     }
 
     farmers = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 69000
     }
@@ -448,37 +448,37 @@
 #Sarangani-South Cotabato (74719 POPS)
 3345 = {
     aristocrats = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 250
     }
 
     bureaucrats = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 450
     }
 
     clergymen = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 750
     }
 
     artisans = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 1000
     }
 
     soldiers = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 3550
     }
 
     farmers = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 69000
     }
@@ -493,43 +493,43 @@
 #Gensan-Davao Del Sur (74719 POPS)
 3346 = {
     aristocrats = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 250
     }
 
     bureaucrats = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 450
     }
 
     clergymen = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 750
     }
 
     artisans = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 1000
     }
 
     soldiers = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 3550
     }
 
     farmers = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 69000
     }
 	
 	slaves = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 80000
     }
@@ -538,60 +538,60 @@
 #CEntral Highland Mindanao
 3347 = {
     aristocrats = {
-        culture = manobo
+        culture = filipino
         religion = protestant
         size = 125
     }
  
     clergymen = {
-        culture = manobo
+        culture = filipino
         religion = protestant
         size = 377
     }
 
     artisans = {
-        culture = manobo
+        culture = filipino
         religion = protestant
         size = 1500
     }
 
     soldiers = {
-        culture = manobo
+        culture = filipino
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = manobo
+        culture = filipino
         religion = protestant
         size = 30550
     }
 	aristocrats = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 125
     }
  
     clergymen = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 377
     }
 
     artisans = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 1500
     }
 
     soldiers = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = lanaoan
+        culture = filipino
         religion = protestant
         size = 30550
     }
@@ -600,25 +600,25 @@
 #Highland Zamboanga
 3350 = {
 	aristocrats = {
-        culture = manobo
+        culture = filipino
         religion = protestant
         size = 125
     }
  
     clergymen = {
-        culture = manobo
+        culture = filipino
         religion = protestant
         size = 377
     }
 
     artisans = {
-        culture = manobo
+        culture = filipino
         religion = protestant
         size = 1500
     }
 
     farmers = {
-        culture = manobo
+        culture = filipino
         religion = protestant
         size = 32550
     }
@@ -626,31 +626,31 @@
 #Agusan
 3348 = {
 	aristocrats = {
-        culture = manobo
+        culture = filipino
         religion = protestant
         size = 125
     }
  
     clergymen = {
-        culture = manobo
+        culture = filipino
         religion = protestant
         size = 377
     }
 
     artisans = {
-        culture = manobo
+        culture = filipino
         religion = protestant
         size = 1500
     }
 
 	soldiers = {
-		culture = manobo
+		culture = filipino
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = manobo
+        culture = filipino
         religion = protestant
         size = 62550
     }
@@ -658,31 +658,31 @@
 #West Agusan
 3349 = {
 	aristocrats = {
-        culture = manobo
+        culture = filipino
         religion = protestant
         size = 250
     }
  
     clergymen = {
-        culture = manobo
+        culture = filipino
         religion = protestant
         size = 750
     }
 
     artisans = {
-        culture = manobo
+        culture = filipino
         religion = protestant
         size = 3500
     }
 
     soldiers = {
-		culture = manobo
+		culture = filipino
         religion = protestant
         size = 6000
     }
 
     farmers = {
-        culture = manobo
+        culture = filipino
         religion = protestant
         size = 104550
     }

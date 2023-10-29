@@ -1,5 +1,5 @@
 capital = 1464
-primary_culture = lanaoan
+primary_culture = filipino
 culture = borneanmalay
 religion = protestant
 government = absolute_monarchy

@@ -1,7 +1,5 @@
 capital = 1457
-primary_culture = nagan
-culture = waray
-culture = manobo
+primary_culture = filipino
 religion = protestant
 government = proletarian_dictatorship
 plurality = 0.0

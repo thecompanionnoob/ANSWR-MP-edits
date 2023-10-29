@@ -1,6 +1,6 @@
-owner = NIN
-controller = NIN
-add_core = NIN
+owner = SUL
+controller = SUL
+add_core = SUL
 add_core = PHL
 trade_goods = iron
 life_rating = 35

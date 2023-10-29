@@ -1,5 +1,6 @@
-owner = TRA
-controller = TRA
+owner = RIZ
+controller = RIZ
+add_core = RIZ
 add_core = PHL
 trade_goods = tobacco
 life_rating = 35

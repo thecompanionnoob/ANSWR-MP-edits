@@ -3,31 +3,31 @@
 #Manila (780000/195000 POPS)
 1455 = {
     aristocrats = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 200
     }
 
     bureaucrats = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 400
     }
 
     clergymen = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 250
     }
 
     artisans = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 1050
     }
 
     soldiers = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 7000
     }
@@ -87,37 +87,37 @@
     }
 
     artisans = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 1200
     }
 
     farmers = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 800
     }
 
     clergymen = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 117725
     }
@@ -125,55 +125,55 @@
 #Vigan (133622 POPS)
 1456 = {
     aristocrats = {
-        culture = macoyan
+        culture = filipino
         religion = protestant
         size = 1100
     }
 
     clergymen = {
-        culture = macoyan
+        culture = filipino
         religion = protestant
         size = 625
     }
 
     artisans = {
-        culture = macoyan
+        culture = filipino
         religion = protestant
         size = 7350
     }
 
     soldiers = {
-        culture = macoyan
+        culture = filipino
         religion = protestant
         size = 1500
     }
 
     farmers = {
-        culture = macoyan
+        culture = filipino
         religion = protestant
         size = 114525
     }
 
     clergymen = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 6650
     }
@@ -181,49 +181,49 @@
 #Legazpi (380135 POPS)
 1457 = {
     aristocrats = {
-        culture = nagan
+        culture = filipino
         religion = protestant
         size = 1100
     }
 
     clergymen = {
-        culture = nagan
+        culture = filipino
         religion = protestant
         size = 625
     }
 
     artisans = {
-        culture = nagan
+        culture = filipino
         religion = protestant
         size = 65000
     }
 
     soldiers = {
-        culture = nagan
+        culture = filipino
         religion = protestant
         size = 11350
     }
 
     farmers = {
-        culture = nagan
+        culture = filipino
         religion = protestant
         size = 322525
     }
 
     clergymen = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 10450
     }
@@ -273,13 +273,13 @@
     }
 
     soldiers = {
-        culture = pampangan
+        culture = filipino
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = pampangan
+        culture = filipino
         religion = protestant
         size = 21025
     }
@@ -320,31 +320,31 @@
     }
 
     aristocrats = {
-        culture = aklanon
+        culture = pacifica
         religion = protestant
         size = 750
     }
 
     clergymen = {
-        culture = aklanon
+        culture = pacifica
         religion = protestant
         size = 500
     }
 
     artisans = {
-        culture = aklanon
+        culture = filipino
         religion = protestant
         size = 3000
     }
 
     soldiers = {
-        culture = aklanon
+        culture = filipino
         religion = protestant
         size = 750
     }
 
     farmers = {
-        culture = aklanon
+        culture = filipino
         religion = protestant
         size = 15500
     }
@@ -356,19 +356,19 @@
     }
 
     artisans = {
-        culture = pacifica
+        culture = filipino
         religion = protestant
         size = 4500
     }
 
     soldiers = {
-        culture = pampangan
+        culture = filipino
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = pampangan
+        culture = filipino
         religion = protestant
         size = 9375
     }
@@ -376,31 +376,31 @@
 #Iloilo (283933 POPS)
 1460 = {
     aristocrats = {
-        culture = aklanon
+        culture = filipino
         religion = protestant
         size = 650
     }
 
     clergymen = {
-        culture = aklanon
+        culture = filipino
         religion = protestant
         size = 3500
     }
 
     artisans = {
-        culture = aklanon
+        culture = filipino
         religion = protestant
         size = 3500
     }
 
     soldiers = {
-        culture = aklanon
+        culture = filipino
         religion = protestant
         size = 7500
     }
 
     farmers = {
-        culture = aklanon
+        culture = filipino
         religion = protestant
         size = 264750
     }
@@ -408,31 +408,31 @@
 #Tacloban (119346 POPS)
 1461 = {
     aristocrats = {
-        culture = waray
+        culture = filipino
         religion = protestant
         size = 750
     }
 
     clergymen = {
-        culture = waray
+        culture = filipino
         religion = protestant
         size = 625
     }
 
     artisans = {
-        culture = waray
+        culture = filipino
         religion = protestant
         size = 4250
     }
 
     soldiers = {
-        culture = waray
+        culture = filipino
         religion = protestant
         size = 4500
     }
 
     farmers = {
-        culture = waray
+        culture = filipino
         religion = protestant
         size = 110125
     }
@@ -440,55 +440,55 @@
 #Cebu (207837 POPS)
 2565 = {
     bureaucrats = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 125
     }
 
     clergymen = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 25
     }
 
     aristocrats = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 675
     }
 
     bureaucrats = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 375
     }
 
     clergymen = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 4500
     }
 
     artisans = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 35000
     }
 
     soldiers = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 7500
     }
 
     farmers = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 124050
     }
@@ -498,109 +498,109 @@
 #Cagayan De Oro (152000/38000 POPS)
 1463 = {
     bureaucrats = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 75
     }
 
     clergymen = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = tisoy
+        culture = filipino
         religion = protestant
         size = 25
     }
 
     aristocrats = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 850
     }
 
     soldiers = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 14800
     }
 
     aristocrats = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 600
     }
 
     soldiers = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = cebuan
+        culture = filipino
         religion = protestant
         size = 12200
     }
 
     aristocrats = {
-        culture = asian_minor
+        culture = filipino
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = asian_minor
+        culture = filipino
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = asian_minor
+        culture = filipino
         religion = protestant
         size = 350
     }
 
     soldiers = {
-        culture = asian_minor
+        culture = filipino
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = asian_minor
+        culture = filipino
         religion = protestant
         size = 7375
     }
@@ -609,61 +609,61 @@
 #Zamboanga (126744 POPS)
 1462 = {
     aristocrats = {
-        culture = chavacan
+        culture = filipino
         religion = protestant
         size = 600
     }
 
     clergymen = {
-        culture = chavacan
+        culture = filipino
         religion = protestant
         size = 5000
     }
 
     artisans = {
-        culture = chavacan
+        culture = filipino
         religion = protestant
         size = 2500
     }
 
     soldiers = {
-        culture = chavacan
+        culture = filipino
         religion = protestant
         size = 6000
     }
 
     farmers = {
-        culture = chavacan
+        culture = filipino
         religion = protestant
         size = 94900
     }
 
     aristocrats = {
-        culture = asian_minor
+        culture = filipino
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = asian_minor
+        culture = filipino
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = asian_minor
+        culture = filipino
         religion = protestant
         size = 300
     }
 
     soldiers = {
-        culture = asian_minor
+        culture = filipino
         religion = protestant
         size = 100
     }
 
     slaves = {
-        culture = asian_minor
+        culture = filipino
         religion = protestant
         size = 18525
     }
