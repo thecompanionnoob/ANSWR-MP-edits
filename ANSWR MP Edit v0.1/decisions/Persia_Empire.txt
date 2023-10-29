@@ -99,8 +99,7 @@ political_decisions = {
             }
             inherit = JOR
             inherit = MYS
-            add_accepted_culture = kurdish 
-            add_accepted_culture = baluchi    
+            add_accepted_culture = kurdish       
             
         }
 		ai_will_do = {

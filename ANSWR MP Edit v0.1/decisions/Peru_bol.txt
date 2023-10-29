@@ -1,0 +1,97 @@
+political_decisions = {
+        Peru_Bol  = {
+        picture = peru_bolivia
+        potential = {
+            OR = {                
+                tag = PEU
+                tag = BKW
+                                
+            }
+            NOT = { exists = PBC }
+	    	
+        }
+
+        allow = {         
+            war = no           
+            HUA = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+             SPU = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }  
+             ARE = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         } 
+             BWK = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }     
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = PBC
+            HUA = {
+				all_core = { add_core = PBC secede_province = THIS }
+			}
+            SPU = {
+				all_core = { add_core = PBC secede_province = THIS }
+			}
+            ARE = {
+				all_core = { add_core = PBC secede_province = THIS }
+			}
+            BWK = {
+				all_core = { add_core = PBC secede_province = THIS }
+			}
+               
+            add_accepted_culture = pacinian
+            add_accepted_culture = muisca
+            add_accepted_culture = aimara 
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

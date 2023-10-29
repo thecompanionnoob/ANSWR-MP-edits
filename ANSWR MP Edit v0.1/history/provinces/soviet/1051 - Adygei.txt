@@ -1,6 +1,6 @@
-owner = DAG
-controller = DAG
-add_core = DAG
+owner = CIR
+controller = CIR
+add_core = CIR
 add_core = CRU
 trade_goods = grain
 life_rating = 35

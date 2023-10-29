@@ -1,0 +1,135 @@
+political_decisions = {
+        hungria_Austria  = {
+        picture = commonwealth_of_australia_act
+        potential = {
+            OR = {                
+                tag = AUS              
+            }	
+            NOT = { exists = KUK }
+        }
+
+        allow = {         
+            war = no           
+            HUN = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+            AUS = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+            SER = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+            BAN = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           GLC = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           DAK = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         } 
+        }
+		
+        
+
+        effect = {                
+            prestige = 10
+            change_tag = KUK
+           
+            HUN = {
+				all_core = { add_core = KUK secede_province = THIS}
+			}
+            SER = {
+				all_core = { add_core = KUK secede_province = THIS}
+			}
+            BAN = {
+				all_core = { add_core = KUK secede_province = THIS}
+			}
+           GLC = {
+				all_core = { add_core = KUK secede_province = THIS}
+			}
+            DAK = {
+				all_core = { add_core = KUK secede_province = THIS}
+			}
+            CRO = {
+				all_core = { add_core = KUK secede_province = THIS}
+			}
+            add_accepted_culture = hungarian
+            add_accepted_culture = staromadar
+			remove_country_modifier = oudrijk_prince
+			remove_country_modifier = oudrijk_kaizer
+			remove_country_modifier = oudrijk_oppostion
+			add_country_modifier = {
+                        name = oudrijk_Traitor
+                        duration = -1
+                }
+			THIS = {
+				all_core = { remove_core = OUD }
+			}
+
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

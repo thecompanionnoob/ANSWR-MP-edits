@@ -786,77 +786,6 @@ artillery_production = {
     }
 }
 # mechanized_mining
-
-
-#Metulurgy
-ammunition_production = {
-	limit = { mechanized_mining = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = whitney_n_colts_standardized_small_arms
-		}
-		modifier = {
-			factor = 2
-			army_professionalism = 1
-		}
-	}
-	effect = {
-		activate_building = ammunition_factory 
-	}
-}
-small_arms_production = {
-	limit = { mechanized_mining = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			strategic_mobility = 1
-		}
-		modifier = {
-			factor = 2
-			early_railroad = 1
-		}
-	}
-	effect = {
-		activate_building = small_arms_factory
-	}
-}
-explosives_production = {
-	limit = { mechanized_mining = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			medicine = 1
-		}
-		modifier = {
-			factor = 2
-			invention = nitroglycerin
-		}
-	}
-	effect = {
-		activate_building = explosives_factory 
-	}
-}
-artillery_production = {
-	limit = { mechanized_mining = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = explosives_production
-		}
-		modifier = {
-			factor = 2
-			iron_muzzle_loaded_artillery = 1
-		}
-	}
-	effect = {
-		activate_building = artillery_factory 
-	}
-}
 pit_coal = {
     limit = { mechanized_mining = 1 }
     chance = {
@@ -987,9 +916,11 @@ coke = {
         }
     }
 }
-#Regenerative Furnaces
+# clean_coal
+
+# cheap_iron
 advanced_ore_roasting_processes = {
-    limit = { regenerative_furnaces = 1 }
+    limit = { cheap_iron = 1 }
     chance = {
         base = 2
         modifier = {
@@ -1054,7 +985,7 @@ advanced_ore_roasting_processes = {
     }
 }
 advanced_ore_grinding_processes = {
-    limit = { regenerative_furnaces = 1 }
+    limit = { cheap_iron = 1 }
     chance = {
         base = 2
         modifier = {
@@ -1118,8 +1049,9 @@ advanced_ore_grinding_processes = {
         }
     }
 }
+
 advanced_ore_smelting_processes = {
-    limit = { regenerative_furnaces = 1 }
+    limit = { cheap_iron = 1 }
     chance = {
         base = 2
         modifier = {
@@ -1183,11 +1115,11 @@ advanced_ore_smelting_processes = {
         }
     }
 }
-# Bessemer Process
+# cheap_steel
 bessemer_steel = {
     limit = {
-        regenerative_furnaces = 1
-        year = 1860
+        cheap_steel = 1
+        year = 2860
     }
     chance = {
         base = 2
@@ -1209,8 +1141,8 @@ bessemer_steel = {
 
 martin_steel = {
     limit = {
-        regenerative_furnaces = 1
-        year = 1870
+        cheap_steel = 1
+        year = 2870
     }
     chance = {
         base = 2
@@ -1231,8 +1163,8 @@ martin_steel = {
 }
 thomas_steel = {
     limit = {
-        regenerative_furnaces = 1
-        year = 1880
+        cheap_iron = 1
+        year = 2880
     }
     chance = {
         base = 2
@@ -1253,43 +1185,43 @@ thomas_steel = {
 }
 #advanced_metallurgy
 electric_rolling_techniques = {
-    limit = { advanced_metallurgy = 1 }
-    chance = {
-        base = 2
-        modifier = {
-            factor = 2
-            electricity = 1
-        }
-        modifier = {
-            factor = 2
-            invention = thomas_steel
-        }
-    }
-    effect = {
-        factory_goods_output = {
-            steel = 0.02
-        }
-    }
+	limit = { advanced_metallurgy = 1 }
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			electricity = 1
+		}
+		modifier = {
+			factor = 2
+			invention = thomas_steel
+		}
+	}
+	effect = {
+		factory_goods_output = {
+			steel = 0.04
+		}
+	}
 }
 steel_alloys = {
-    limit = { advanced_metallurgy = 1 }
-    chance = {
-        base = 2
-        modifier = {
-            factor = 2
-            invention = thomas_steel
-        }
-        modifier = {
-            factor = 2
-            inorganic_chemistry = 1
-        }
-    }
-    effect = {
-        rgo_goods_output = { precious_metal = 0.05 }
-        factory_goods_output = { steel = 0.02 }
-    }
+	limit = { advanced_metallurgy = 1 }
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			invention = thomas_steel
+		}
+		modifier = {
+			factor = 2
+			inorganic_chemistry = 1
+		}
+	}
+	effect = {
+		rgo_goods_output = {
+		precious_metal = 0.05
+		}
+	}
 }
-
 #electric_furnace
 stainless_steel = {
     limit = { electric_furnace = 1 }

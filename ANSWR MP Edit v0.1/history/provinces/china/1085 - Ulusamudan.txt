@@ -2,7 +2,7 @@ owner = MCK
 controller = MCK
 
 add_core = MCK
-trade_goods = wool
+trade_goods = grain
 life_rating = 32
 2861.1.1 = {
     owner = RUS

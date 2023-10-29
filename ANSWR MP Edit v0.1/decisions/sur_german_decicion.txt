@@ -1,0 +1,378 @@
+political_decisions = {
+        ger_s_1  = {
+        picture = austrian_form_south_german_confederation
+        potential = {
+            OR = {                
+                tag = BAV
+                                
+            }
+            NOT={has_global_flag = sur_ale_1}
+			NOT = {				
+				has_country_modifier = ger_s
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            
+        }
+		
+        
+
+        effect = {                   		
+            set_global_flag = sur_ale_1
+			add_country_modifier = {
+                        name = ger_s
+                        duration = 200
+                }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	ger_s_2  = {
+        picture = austrian_form_south_german_confederation
+        potential = {
+            OR = {                
+                tag = BAV
+                                
+            }
+			has_global_flag = sur_ale_1
+            NOT={has_global_flag = sur_ale_2}
+			NOT = {				
+				has_country_modifier = ger_s
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                   		
+            set_global_flag = sur_ale_2
+			add_country_modifier = {
+                        name = ger_s
+                        duration = 200
+                }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	ger_s_3  = {
+        picture = austrian_form_south_german_confederation
+        potential = {
+            OR = {                
+                tag = BAV
+                                
+            }
+			has_global_flag = sur_ale_2
+            NOT={has_global_flag = sur_ale_3}
+			NOT = {				
+				has_country_modifier = ger_s
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = sur_ale_3
+			add_country_modifier = {
+                        name = ger_s
+                        duration = 200
+                }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	ger_s_4  = {
+        picture = austrian_form_south_german_confederation
+        potential = {
+            OR = {                
+                tag = BAV
+                                
+            }
+			has_global_flag = sur_ale_3
+            NOT={has_global_flag = sur_ale_4}
+			NOT = {				
+				has_country_modifier = ger_s
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = sur_ale_4
+			add_country_modifier = {
+                        name = ger_s
+                        duration = 200
+                }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	ger_s_5  = {
+        picture = austrian_form_south_german_confederation
+        potential = {
+            OR = {                
+                tag = BAV
+                                
+            }
+			has_global_flag = sur_ale_4
+            NOT={has_global_flag = sur_ale_5}
+			NOT = {				
+				has_country_modifier = ger_s
+			}
+        }
+
+        allow = {         
+            war = no                     	          	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = sur_ale_5
+			change_tag = SGF
+            
+            ULM = {
+				all_core = { add_core = SGF }
+			}
+            BAD = {
+				all_core = { add_core = SGF }
+			}
+                   
+            add_accepted_culture = rhine_german
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	ger_s_6  = {
+        picture = austrian_form_south_german_confederation
+        potential = {
+            OR = {                
+                tag = SGF
+                                
+            }
+			has_global_flag = sur_ale_5
+            NOT={has_global_flag = sur_ale_6}			
+        }
+
+        allow = {         
+            war = no                     	
+	        SGF = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = sur_ale_6
+			RHI = {
+				all_core = { add_core = SGF }
+			}
+            ALS = {
+				all_core = { add_core = SGF }
+			}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	ger_s_7  = {
+        picture = austrian_form_south_german_confederation
+        potential = {
+            OR = {                
+                tag = SGF
+                                
+            }
+			has_global_flag = sur_ale_6
+            NOT={has_global_flag = sur_ale_7}
+			
+        }
+
+        allow = {         
+            war = no                     	
+	        SGF = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = sur_ale_7
+			WES = {
+				all_core = { add_core = SGF }
+			}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	ger_s_8  = {
+        picture = austrian_form_south_german_confederation
+        potential = {
+            OR = {                
+                tag = SGF
+                                
+            }
+			has_global_flag = sur_ale_7
+            NOT={has_global_flag = sur_ale_8}
+			
+        }
+
+        allow = {         
+            war = no                     	
+	        SGF = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = sur_ale_8
+			SAX = {
+				all_core = { add_core = SGF }
+			}
+            WEI = {
+				all_core = { add_core = SGF }
+			}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	ger_s_9  = {
+        picture = austrian_form_south_german_confederation
+        potential = {
+            OR = {                
+                tag = SGF
+                                
+            }
+			has_global_flag = sur_ale_8
+            NOT={has_global_flag = sur_ale_9}
+			
+        }
+
+        allow = {         
+            war = no                     	
+	        SGF = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = sur_ale_9
+			VLA = {
+				all_core = { add_core = SGF }
+			}
+            371 = {
+				remove_core = SGF
+			}
+            2557 = {
+				remove_core = SGF
+			}
+            367 = {
+				remove_core = SGF
+			}
+            366 = {
+				remove_core = SGF
+			}
+            348 = {
+				remove_core = SGF
+			}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	ger_s_10  = {
+        picture = austrian_form_south_german_confederation
+        potential = {
+            OR = {                
+                tag = SGF
+                                
+            }
+			has_global_flag = sur_ale_9
+            NOT={has_global_flag = sur_ale_10}
+			
+        }
+
+        allow = {         
+            war = no                     	
+	        SGF = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = sur_ale_10
+			MEC = {
+				all_core = { add_core = SGF }
+			}
+            BRI = {
+				all_core = { add_core = SGF }
+			}
+			PZN = {
+				all_core = { add_core = SGF }
+			}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}
+

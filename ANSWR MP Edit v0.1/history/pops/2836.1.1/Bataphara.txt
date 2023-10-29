@@ -5,127 +5,127 @@
 #Katmandu (540000/135000 POPS)
 1326 = {
     aristocrats = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 6000
     }
 
     bureaucrats = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 2175
     }
 
     officers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 3225
     }
 
     clergymen = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 7100
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 12050
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 12050
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 12050
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 12050
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 12050
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 7050
     }
 
     soldiers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 9000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 9000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 6000
     }
 
     farmers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 186250
     }
 
     slaves = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 351250
     }
 
     aristocrats = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 2000
     }
 
     clergymen = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 1000
     }
 
     artisans = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 8250
     }
 
     soldiers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 110125
     }
 
     slaves = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 131550
     }
@@ -133,78 +133,78 @@
 #Patna (3028000/757000 POPS)
 1247 = {
     aristocrats = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 5000
     }
 
     clergymen = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 3500
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 5000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 3000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 140750
     }
 
     aristocrats = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 2500
     }
 
     clergymen = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 2250
     }
 
     artisans = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 7000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 1250
     }
 
     farmers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 73750
     }
     slaves = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 110000
     }
@@ -212,72 +212,72 @@
 #Bhagalpur (1900000/475000 POPS)
 1250 = {
     aristocrats = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 4000
     }
 
     clergymen = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 3250
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 2000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 135250
     }
 
     aristocrats = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 1900
     }
 
     clergymen = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 1625
     }
 
     artisans = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 2000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 1500
     }
 
     farmers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 60375
     }
     slaves = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 40000
     }
@@ -287,71 +287,71 @@
 #Jumla (412000/103000 POPS)
 1327 = {
     aristocrats = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 3900
     }
 
     clergymen = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 1450
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 9300
     }
 
     soldiers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 9100
     }
 
     farmers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 149250
     }
 
     aristocrats = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 1700
     }
 
     clergymen = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 1375
     }
 
     artisans = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 8850
     }
 
     soldiers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 3350
     }
 
     farmers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 63725
     }
     slaves = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 70000
     }
     slaves = {
-        culture = north_indian
+        culture = delhiite
         religion = protestant
         size = 42500
     }
@@ -359,95 +359,95 @@
 #Lucknow (2756000/689000 POPS)
 1242 = {
     aristocrats = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 2250
     }
 
     bureaucrats = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 1500
     }
 
     officers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 1500
     }
 
     clergymen = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 1125
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 10000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 3500
     }
 
     farmers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 91125
     }
 
     aristocrats = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 1750
     }
 
     bureaucrats = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 1700
     }
 
     officers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 750
     }
 
     clergymen = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 1275
     }
 
     artisans = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 5000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 51525
     }
     slaves = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 50000
     }
     slaves = {
-        culture = north_indian
+        culture = delhiite
         religion = protestant
         size = 22500
     }
@@ -455,84 +455,84 @@
 #Fyzabad (2064000/516000 POPS)
 1244 = {
     aristocrats = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 4000
     }
 
     clergymen = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 2000
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 8000
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 3000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 3000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 1500
     }
 
     farmers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 164500
     }
 
     aristocrats = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 700
     }
 
     clergymen = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 400
     }
 
     artisans = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 6100
     }
 
     soldiers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 3500
     }
 
     farmers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 121400
     }
     slaves = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 90000
     }
@@ -540,73 +540,73 @@
 #Gorakhpur (2476000/619000 POPS)
 1246 = {
     aristocrats = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 500
     }
 
     clergymen = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 375
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 6000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 141625
     }
 
     aristocrats = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 2500
     }
 
     clergymen = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 6250
     }
 
     artisans = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 5000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 166250
     }
 
     slaves = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 40000
     }
@@ -616,55 +616,55 @@
 #Animist - Lepcha Mun
 1328 = {
     aristocrats = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 1050
     }
 
     bureaucrats = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 520
     }
 
     officers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 450
     }
 
     clergymen = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 2000
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 9000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 4100
     }
 
     farmers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 92095
     }
 
     farmers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 42250
     }
 
     slaves = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 63000
     }
@@ -672,73 +672,73 @@
 #Thimpu (136000/34000 POPS)
 1329 = {
     aristocrats = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 1575
     }
 
     bureaucrats = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 780
     }
 
     officers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 425
     }
 
     clergymen = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 3000
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 11000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 3100
     }
 
     farmers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 105575
     }
 
     aristocrats = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 500
     }
 
     clergymen = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 750
     }
 
     artisans = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 2000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 125
     }
 
     slaves = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 73000
     }
@@ -747,37 +747,37 @@
 1252 = {
 
     farmers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 90000
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 12500
     }
 
     soldiers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 3000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 115250
     }
 
     slaves = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 45000
     }
@@ -786,73 +786,73 @@
 #Rajshahi (2332000/583000 POPS)
 1255 = {
     aristocrats = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 2950
     }
 
     clergymen = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 2750
     }
 
     artisans = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 7000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 193750
     }
 
     aristocrats = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 1500
     }
 
     clergymen = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 2000
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 131500
     }
@@ -861,67 +861,67 @@
 1258 = {
 
     aristocrats = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 11500
     }
 
     bureaucrats = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 500
     }
 
     clergymen = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 1500
     }
 
     artisans = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 6000
     }
 
     soldiers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 1500
     }
 
     farmers = {
-        culture = north_indian
+        culture = nepali
         religion = protestant
         size = 85500
     }
 
     bureaucrats = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 250
     }
 
     clergymen = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 500
     }
 
     artisans = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 12500
     }
 
     soldiers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 3500
     }
 
     farmers = {
-        culture = north_indian
+        culture = talobum
         religion = protestant
         size = 145750
     }

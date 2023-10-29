@@ -6,10 +6,13 @@ country_event = {
     fire_only_once = yes
 
     trigger = {
-		year = 2841
+    year = 2841
+    OR = {
            tag = SIC
+          
+        }  
         
-	}
+}
   
     
 
@@ -33,7 +36,6 @@ country_event = {
         capital = 749
 		set_global_flag = Papal_event
         
-	}
 }
 
        

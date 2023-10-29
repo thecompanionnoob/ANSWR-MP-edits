@@ -1,156 +1,114 @@
 political_decisions = {
-	unite_with_romania  = {
+        unite_with_romania  = {
         picture = create_romania
         potential = {
-            OR = {
-                tag = WAL
-            }
-            NOT = { exists = ROM }
-        }
-        allow = {
-            war = no
-            state_n_government = 1
-            WAL = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	        }
-            BKV = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							OR = {
-								in_sphere = THIS
-								vassal_of = THIS                      
-							}
-						}
-					}
-				}
-			}
-			SIE = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							OR = {
-								in_sphere = THIS
-								vassal_of = THIS                      
-							}
-						}
-					}
-				}
-			}
-			MDV = {	
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							OR = {
-								in_sphere = THIS
-								vassal_of = THIS                      
-							}
-						}
-					}
-				}
-			}
-        }
-        effect = {                
-            prestige = 10
-            change_tag = ROM
-            WAL = {
-				all_core = { add_core = ROM secede_province = THIS }
-			}
-            BKV = {
-				all_core = { add_core = ROM secede_province = THIS }
-			}
-            SIE = {
-				all_core = { add_core = ROM secede_province = THIS }
-			}
-            MDV = {
-				all_core = { add_core = ROM secede_province = THIS }
-			} 
-        }
-		ai_will_do = { factor = 1 }
-	}
-    Bulgariarom  = {
-        picture = Bulgariarom
-        potential = {
             OR = {                
-                tag = ROM
-                tag = BUL
-                tag = SYC
+                tag = WAL
+                tag = MOL
                                 
             }
-            NOT = { exists = BRO }
+            NOT = { exists = ROM }
 			
         }
+
         allow = {         
             war = no           
-            ROM = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
+            WAL = {
+                OR = {                   
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
                         }
                     }
                 }
 	         }
-           BUL = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
+           MOL = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
                         }
                     }
                 }
 	         } 
-           SYC = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
+           BKV = {
+                OR = {                   
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
                         }
                     }
                 }
-	         }      
+	         }
+           CRV = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           SIE = {
+                OR = {                   
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           DEV = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }    
+            MDV = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }    
         }
+		
+        
+
         effect = {                
             prestige = 10
-            change_tag = BRO
-            ROM = {
-				all_core = { add_core = BRO secede_province = THIS }
+            change_tag = ROM
+           
+            WAL = {
+				all_core = { add_core = ROM }
 			}
-            BUL = {
-				all_core = { add_core = BRO secede_province = THIS }
+            MOL = {
+				all_core = { add_core = ROM }
 			}
-            SYC = {
-				all_core = { add_core = BRO secede_province = THIS }
+           BKV = {
+				all_core = { add_core = ROM }
 			}
-            add_accepted_culture = romanian
-            add_accepted_culture = bulgarian
-            add_accepted_culture = westturkish
+            CRV = {
+				all_core = { add_core = ROM }
+			}
+            SIE = {
+				all_core = { add_core = ROM }
+			}
+            DEV = {
+				all_core = { add_core = ROM }
+			} 
+            MDV = {
+				all_core = { add_core = ROM }
+			} 
+            
         }
-		ai_will_do = { factor = 1 }
+		ai_will_do = {
+			factor = 1
+			}
     }
 }

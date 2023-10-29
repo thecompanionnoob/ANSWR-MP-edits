@@ -1,8 +1,8 @@
 political_decisions = {
-	Usa  = {
-		picture = sign_the_geneva_convention
-		potential = {
-			OR = {                
+        Usa  = {
+        picture = sign_the_geneva_convention
+        potential = {
+            OR = {                
                 tag = NEN
                 tag = SLC
                 tag = RSB
@@ -14,9 +14,11 @@ political_decisions = {
                 tag = COW
                 tag = PAW
                 tag = CSA             
-				}
-			NOT = { exists = USA }
-			}
+            }
+            NOT = { exists = USA }
+			
+        }
+
         allow = {         
             war = no           
             NEN = {
@@ -31,8 +33,8 @@ political_decisions = {
                         }
                     }
                 }
-	        }  
-            DIX = {
+	         }  
+             DIX = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -44,8 +46,8 @@ political_decisions = {
                         }
                     }
                 }
-	        } 
-            COW  = {
+	         } 
+             COW  = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -57,8 +59,8 @@ political_decisions = {
                         }
                     }
                 }
-	        } 
-            SLC  = {
+	         } 
+             SLC  = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -70,8 +72,8 @@ political_decisions = {
                         }
                     }
                 }
-	        } 
-            RSB  = {
+	         } 
+             RSB  = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -83,8 +85,8 @@ political_decisions = {
                         }
                     }
                 }
-	        }
-            ANM  = {
+	         }
+             ANM  = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -96,8 +98,8 @@ political_decisions = {
                         }
                     }
                 }
-	        }
-            MUS  = {
+	         }
+             MUS  = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -109,7 +111,7 @@ political_decisions = {
                         }
                     }
                 }
-	        }
+	         }
             MRU  = {
                 all_core = {
                     OR = {
@@ -122,7 +124,7 @@ political_decisions = {
                         }
                     }
                 }
-	        }
+	         }
             WKK  = {
                 all_core = {
                     OR = {
@@ -135,8 +137,11 @@ political_decisions = {
                         }
                     }
                 }
-	        }
+	         }
         }
+		
+        
+
         effect = {                
             prestige = 30
             change_tag = USA
@@ -179,72 +184,6 @@ political_decisions = {
         }
 		ai_will_do = {
 			factor = 1
-		}
-    }
-	weiss_university = {
-		picture = petrograd_city
-		potential = {
-			tag = NEN
-			owns = 241
-			NOT = {
-				has_country_flag = weiss
 			}
-		}
-		allow = {
-			invention = romanticist_literature
-		}
-		effect = {
-			241 = {
-				add_province_modifier = {
-					name = weiss_campus
-					duration = -1
-				}
-			}
-			set_country_flag = weiss
-			prestige = 3
-		}
-		ai_will_do = {
-			factor = 1
-		}		
-	}
-	Confederacion  = {
-        picture = sign_the_geneva_convention
-        potential = {
-            OR = {                
-                tag = TEX
-                tag = DIX
-                tag = CRA  
-                tag = COW              
-            }
-            NOT = { exists = CSA }
-        }
-        allow = {         
-            war = no           
-            CSA = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	         }   
-        }
-        effect = {                
-            prestige = 25
-            change_tag = CSA
-            CSA = {
-                all_core = { secede_province = THIS }
-            }
-            add_accepted_culture = dixie_cajun
-			add_accepted_culture = floridian   
-        }
-		ai_will_do = {
-			factor = 1
-		}
     }
 }

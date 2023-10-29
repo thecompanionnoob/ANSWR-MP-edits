@@ -1,11 +1,11 @@
 capital = 1326
-primary_culture = north_indian
+primary_culture = nepali
 culture = tibetan
 religion = protestant
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.09
+literacy = 0.01
 non_state_culture_literacy = 0.01
 
 # Political reforms

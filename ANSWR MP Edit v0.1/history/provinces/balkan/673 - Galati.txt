@@ -1,6 +1,6 @@
-owner = BKV
-controller = BKV
-add_core = BKV
+owner = MOL
+controller = MOL
+add_core = MOL
 trade_goods = grain
 life_rating = 35
 

@@ -1,7 +1,11 @@
 capital = 1121
 primary_culture = persian
+culture = azerbaijani
+culture = turkmen
 culture = baluchi
-culture = kurdish
+culture = hazara
+culture = tajik
+culture = uzbek
 religion = protestant
 government = absolute_monarchy
 plurality = 0.0

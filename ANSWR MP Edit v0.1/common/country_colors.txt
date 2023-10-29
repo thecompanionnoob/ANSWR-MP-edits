@@ -965,14 +965,6 @@ NEJ = {
     color3= { 69 157 208  }
 }
 
-# New Gupta Empire
-NGE = {
-    color1= { 255 95 31 }
-    color2= { 129 177 125 }
-    color3= { 166 189 199 }
-}
-
-
 
 # Orissa FIXED
 ORI = {

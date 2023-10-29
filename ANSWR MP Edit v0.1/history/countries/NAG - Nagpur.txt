@@ -1,10 +1,10 @@
 capital = 1236
-primary_culture = north_indian
+primary_culture = delhiite
 religion = protestant
 government = absolute_monarchy
 plurality = 4.0
 nationalvalue = nv_tradition
-literacy = 0.09
+literacy = 0.17
 
 # Political reforms
 slavery = no_slavery

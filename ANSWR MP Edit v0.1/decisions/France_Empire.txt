@@ -1,0 +1,78 @@
+political_decisions = {
+        Fra_Emp  = {
+        picture = war_propaganda_france
+        potential = {
+            OR = {                
+                tag = FRE
+                
+                                
+            }
+            NOT = { exists = FRA }
+			
+        }
+
+        allow = {         
+            war = no           
+            FRE = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+			NET = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           CAT = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }     
+        }
+		
+        
+
+        effect = {                
+            prestige = 10
+            change_tag = FRA         
+            CAT = {
+				all_core = { add_core = FRA secede_province = THIS }
+			}
+            NET = {
+				all_core = { add_core = FRA secede_province = THIS }
+			}    
+            inherit = CAT 
+            inherit = FRA			
+            add_accepted_culture = catalan
+            add_accepted_culture = dutch
+            add_accepted_culture = flemish
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

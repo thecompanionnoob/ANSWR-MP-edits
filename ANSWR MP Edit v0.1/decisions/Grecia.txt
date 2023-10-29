@@ -25,8 +25,8 @@ political_decisions = {
                         }
                     }
                 }
-	        }
-            NSR = {
+	         }
+           NSR = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -38,8 +38,11 @@ political_decisions = {
                         }
                     }
                 }
-	        }     
+	         }     
         }
+		
+        
+
         effect = {                
             prestige = 10
             change_tag = GRE           
@@ -50,7 +53,11 @@ political_decisions = {
 				all_core = { add_core = GRE secede_province = THIS }
 			}  
             add_accepted_culture = greek
+
+            
         }
-		ai_will_do = { factor = 1 }
+		ai_will_do = {
+			factor = 1
+			}
     }
 }

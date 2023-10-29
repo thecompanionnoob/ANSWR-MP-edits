@@ -1,0 +1,110 @@
+political_decisions = {
+        Kongo  = {
+        picture = Czechoslovakia
+        potential = {
+            OR = {                
+                tag = DAM
+                tag = KBO
+                                
+            }
+            NOT = { exists = KON }
+			
+        }
+
+        allow = {         
+            war = no           
+            SOK = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           NGR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }  
+            DAM = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           KBO = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }            
+           OYO = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }        
+        }
+		
+        
+
+        effect = {                
+            add_accepted_culture = shenkuda
+            add_accepted_culture = filayen
+            prestige = 15
+            change_tag = KON
+            SOK = {
+				all_core = { add_core = KON secede_province = THIS }
+			}
+            NGR = {
+				all_core = { add_core = KON secede_province = THIS }
+			}
+            OYO = {
+				all_core = { add_core = KON secede_province = THIS }
+			}
+            KBO = {
+				all_core = { add_core = KON secede_province = THIS }
+			}
+            DAM = {
+				all_core = { add_core = KON secede_province = THIS }
+			}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

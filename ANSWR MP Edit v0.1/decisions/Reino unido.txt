@@ -1,0 +1,110 @@
+political_decisions = {
+        Reino_unido  = {
+        picture = Inglatera
+        potential = {
+            OR = {                
+                tag = ENL
+                tag = SCO 
+                tag = IRE              
+            }
+            NOT = { exists = ENG }
+			
+        }
+
+        allow = {         
+            war = no          
+            SCO = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           ULS = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           COC = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           LEC = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           ENL = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+
+           
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = ENG    
+        
+            
+            SCO = {
+				all_core = { add_core = ENG secede_province = THIS }
+			}
+            IRE = {
+				all_core = { add_core = ENG secede_province = THIS }
+			}
+            ENL = {
+				all_core = { add_core = ENG secede_province = THIS }
+			}
+            add_accepted_culture = scottish
+            add_accepted_culture = irish
+            add_accepted_culture = english
+            add_accepted_culture = welsh
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

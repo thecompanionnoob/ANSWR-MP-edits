@@ -1,0 +1,40 @@
+political_decisions = {
+        Rusia_Ask  = {
+        picture = map_alaska
+        potential = {
+            OR = {                
+                tag = RUS
+                
+                                
+            }
+            NOT = {has_global_flag = Recuperar_Alaska}
+            has_global_flag = Recuperar_Rus		
+        }
+
+        allow = {         
+            war = no           
+            RUS = {
+                OR = {                
+                    all_core = {
+                        owned_by = THIS
+                    }
+                }
+            }     
+        }
+		
+        
+
+        effect = {  
+            badboy = 5                       
+            set_global_flag= Recuperar_Alaska
+            LSK = {
+				all_core = { add_core = RUS }
+			}
+            
+           
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

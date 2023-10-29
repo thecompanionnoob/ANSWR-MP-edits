@@ -1,0 +1,75 @@
+political_decisions = {
+		Reunite_with_our_Ukrainian_Brothers = {
+		picture = unite_with_poland
+		potential = {
+			tag = PLC
+			NOT = {has_global_flag = intergrate_baltics}
+			
+		}
+		allow = {
+			war = no
+			year = 2855
+			UKR = {
+				all_core = {
+					OR = {
+						owned_by = PLC
+						in_sphere = PLC
+					}
+				}
+			}
+			ZKY  = {
+				all_core = {
+					OR = {
+						owned_by = PLC
+						in_sphere = PLC
+					}
+				}
+			}
+			CRI = {
+				all_core = {
+					OR = {
+						owned_by = PLC
+						in_sphere = PLC
+					}
+				}
+			}
+		
+
+		}
+		effect = {
+			prestige = 25
+			add_accepted_culture = ukrainian
+			add_accepted_culture = krymskiy
+			
+            CRI = {
+				all_core = { add_core = PLC secede_province = THIS}
+			}
+            ZKY = {
+				all_core = { add_core = PLC secede_province = THIS}
+			}
+			set_global_flag= intergrate_ukraine
+		}
+		ai_will_do = {
+		factor = 1
+		}
+	}
+		Reunite_with_our_Baltic_Brothers = {
+		picture = unite_with_poland
+		potential = {
+			tag = PLC
+			NOT = {has_global_flag= intergrate_ukraine}
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			prestige = 25
+			add_accepted_culture = byelorussian
+			add_accepted_culture = osti
+			set_global_flag = intergrate_baltics
+		}
+		ai_will_do = {
+		factor = 1
+		}		
+	}
+}

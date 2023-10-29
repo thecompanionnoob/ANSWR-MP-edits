@@ -1,4 +1,5 @@
 political_decisions = {
+
     destroy_eiffel_tower = {
         picture = build_the_eiffel_tower
         potential = {
@@ -105,6 +106,7 @@ political_decisions = {
                 AND = { steel_breech_loaded_artillery = 1 invention = nitroglycerin }
             }
         }
+
         effect = {
             set_global_flag = bigben_destroyed
             badboy = 15

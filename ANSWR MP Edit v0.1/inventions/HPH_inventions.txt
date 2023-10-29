@@ -239,7 +239,7 @@ neocolonialism_doctrine = {
         colonial_points = 300
     }
 }
-###Mining and Metallurgy
+#Mining and Metallurgy
 pattinson_process = {
     limit = {
         mechanized_mining = 1
@@ -304,7 +304,7 @@ pattinson_process = {
 
 parkes_process = {
     limit = {
-        regenerative_furnaces = 1
+        cheap_iron = 1
     }
     #news = no
     chance = {
@@ -365,8 +365,8 @@ parkes_process = {
 
 square_set_timbering = {
     limit = {
-        regenerative_furnaces = 1
-        year = 1860
+        cheap_iron = 1
+        year = 2860
     }
     #news = no
     chance = {
@@ -425,8 +425,8 @@ square_set_timbering = {
 
 electrolytic_refining = {
     limit = {
-        regenerative_furnaces = 1
-        year = 1870
+        cheap_iron = 1
+        year = 2870
     }
     #news = no
     chance = {
@@ -485,8 +485,8 @@ electrolytic_refining = {
 
 dynamite = {
     limit = {
-        regenerative_furnaces = 1
-        year = 1860
+        cheap_iron = 1
+        year = 2860
     }
     #news = no
     chance = {

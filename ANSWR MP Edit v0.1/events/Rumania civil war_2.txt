@@ -6,9 +6,11 @@ country_event = {
     fire_only_once = yes
 
     trigger = {
-		year = 2845
-		tag = CRV
-	}
+    year = 2845
+    OR = {
+           tag = CRV
+        }      
+}
 
     
 
@@ -17,6 +19,8 @@ country_event = {
         WAL = {
             inherit = THIS          
         }
+        
+        
     }
     
 
@@ -30,14 +34,13 @@ country_event = {
         WAL = {
             release_vassal = MOL
             war = {
-				target = MOL
-				attacker_goal = { casus_belli = conquest}
-				defender_goal = { casus_belli = conquest}
-				call_ally = no
-			}
-		}
+            target = MOL
+            attacker_goal = { casus_belli = conquest}
+            defender_goal = { casus_belli = conquest}
+            call_ally = no
+        }
+    }
         
-	}
 }
 
        

@@ -1,5 +1,5 @@
 political_decisions = {
-	Inca  = {
+        Inca  = {
         picture = form_Inca_empire
         potential = {
             OR = {                
@@ -60,90 +60,5 @@ political_decisions = {
 		ai_will_do = {
 			factor = 1
 			}
-    }
-	Cusco  = {
-        picture = form_Inca_empire
-        potential = {
-            OR = {                
-                tag = HUA
-                tag = SPU 
-            }
-            NOT = { exists = CSK }	
-        }
-        allow = {         
-            war = no           
-            HUA = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	        }
-            SPU = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	        }  
-            ARE = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	        } 
-            ECU = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	        }
-        }
-        effect = {                
-            prestige = 25
-            capital = 2302
-            change_tag = CSK
-            HUA = {
-				all_core = { add_core = CSK secede_province = THIS}
-			}
-            ARE = {
-				all_core = { add_core = CSK secede_province = THIS}
-			}
-            SPU = {
-				all_core = { add_core = CSK secede_province = THIS}
-			}
-            ECU = {
-				all_core = { add_core = CSK secede_province = THIS}
-			}
-        }
-		ai_will_do = {
-			factor = 1
-		}
     }
 }

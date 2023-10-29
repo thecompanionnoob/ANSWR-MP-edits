@@ -1,0 +1,86 @@
+political_decisions = {
+        become_poland_lithuania  = {
+        picture = become_poland_lithuania
+        potential = {
+            OR = {                
+                tag = POL
+                tag = LIT                
+            }
+            NOT = { exists = PLC }
+			
+        }
+
+        allow = {         
+            war = no  
+             POL = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+           UKR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            LIT = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        BYE = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 		  
+        }
+		
+        
+
+        effect = {                
+            prestige = 30
+            change_tag = PLC
+            POL = {
+				all_core = { add_core = PLC secede_province = THIS }
+			}
+            LIT = {
+				all_core = { add_core = PLC secede_province = THIS}
+			}
+            BYE = {
+				all_core = { add_core = PLC secede_province = THIS}
+			}
+            UKR = {
+				all_core = { add_core = PLC secede_province = THIS}
+			}
+            add_accepted_culture = paltijan
+            add_accepted_culture = polish
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

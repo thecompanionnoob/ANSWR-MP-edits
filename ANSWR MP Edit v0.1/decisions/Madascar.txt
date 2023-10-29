@@ -1,5 +1,5 @@
 political_decisions = {
-    Madascar  = {
+        Madascar  = {
         picture = Czechoslovakia
         potential = {
             OR = {                
@@ -7,8 +7,10 @@ political_decisions = {
                 tag = XHO
                 tag = SHO                
             }
-            NOT = { exists = MAD }	
+            NOT = { exists = MAD }
+			
         }
+
         allow = {         
             war = no           
             MAD = {
@@ -25,6 +27,9 @@ political_decisions = {
                 }
 	         }        
         }
+		
+        
+
         effect = {                
             add_accepted_culture = malagasy
             add_accepted_culture = filayen
@@ -38,8 +43,13 @@ political_decisions = {
 			}
             SHO = {
 				all_core = { add_core = MAD secede_province = THIS }
-			}  
+			}
+            
+            
+            
         }
-		ai_will_do = { factor = 1 }
+		ai_will_do = {
+			factor = 1
+			}
     }
 }

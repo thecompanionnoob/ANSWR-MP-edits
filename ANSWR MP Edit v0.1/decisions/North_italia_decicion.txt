@@ -1,0 +1,279 @@
+political_decisions = {
+        Italia_N_1  = {
+        picture = form_ita_nit
+        potential = {
+            OR = {                
+                tag = TUS
+                                
+            }
+            NOT={has_global_flag = italia_1}
+			NOT = {				
+				has_country_modifier = north_italia
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            
+        }
+		
+        
+
+        effect = {                   		
+            set_global_flag = italia_1
+			add_country_modifier = {
+                        name = north_italia
+                        duration = 200
+                }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italia_N_2  = {
+        picture = form_ita_nit
+        potential = {
+            OR = {                
+                tag = TUS
+                                
+            }
+			has_global_flag = italia_1
+            NOT={has_global_flag = italia_2}
+			NOT = {				
+				has_country_modifier = north_italia
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                   		
+            set_global_flag = italia_2
+			add_country_modifier = {
+                        name = north_italia
+                        duration = 200
+                }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italia_N_3  = {
+        picture = form_ita_nit
+        potential = {
+            OR = {                
+                tag = TUS
+                                
+            }
+			has_global_flag = italia_2
+            NOT={has_global_flag = italia_3}
+			NOT = {				
+				has_country_modifier = north_italia
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = italia_3
+			add_country_modifier = {
+                        name = north_italia
+                        duration = 200
+                }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italia_N_4  = {
+        picture = form_ita_nit
+        potential = {
+            OR = {                
+                tag = TUS
+                                
+            }
+			has_global_flag = italia_3
+            NOT={has_global_flag = italia_4}
+			NOT = {				
+				has_country_modifier = north_italia
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = italia_4
+			add_country_modifier = {
+                        name = north_italia
+                        duration = 200
+                }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italia_N_5  = {
+        picture = form_ita_nit
+        potential = {
+            OR = {                
+                tag = TUS
+                                
+            }
+			has_global_flag = italia_4
+            NOT={has_global_flag = italia_5}
+			NOT = {				
+				has_country_modifier = north_italia
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            exists = PAR	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = italia_5
+			change_tag = ITN   
+            PAR = {
+				all_core = { add_core = ITN }
+			}			
+			PAR = {
+                country_event = { id = 851082 days = 2 }
+            }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italia_N_6  = {
+        picture = form_ita_nit
+        potential = {
+            OR = {                
+                tag = ITN
+                                
+            }
+			has_global_flag = italia_5
+            NOT={has_global_flag = italia_6}
+			NOT = {				
+				has_country_modifier = north_italia
+			}
+        }
+
+        allow = {         
+            war = no                     	
+	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = italia_6
+			724 = { add_core = ITN }
+			725 = { add_core = ITN }
+			723 = { add_core = ITN }
+			720 = { add_core = ITN }
+			SWI = {
+                country_event = { id = 851081 days = 2 }
+            }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italia_N_7  = {
+        picture = form_ita_nit
+        potential = {
+            OR = {                
+                tag = ITN
+                                
+            }
+			has_global_flag = italia_6
+            NOT={has_global_flag = italia_7}
+			
+        }
+
+        allow = {         
+            war = no                     	
+	        ITN = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = italia_7
+			752 = { add_core = ITN }
+			751 = { add_core = ITN }
+			750 = { add_core = ITN }
+			749 = { add_core = ITN }
+			766 = { add_core = ITN }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italia_N_8  = {
+        picture = form_ita_nit
+        potential = {
+            OR = {                
+                tag = ITN
+                                
+            }
+			has_global_flag = italia_7
+            NOT={has_global_flag = italia_8}
+			
+        }
+
+        allow = {         
+            war = no                     	
+	        ITN = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = italia_8
+			SIC = {
+				all_core = { add_core = ITN }
+			}
+			APU = {
+				all_core = { add_core = ITN }
+			}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}
+

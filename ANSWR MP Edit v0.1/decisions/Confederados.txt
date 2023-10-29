@@ -1,0 +1,48 @@
+political_decisions = {
+        Confederacion  = {
+        picture = sign_the_geneva_convention
+        potential = {
+            OR = {                
+                tag = TEX
+                tag = DIX
+                tag = CRA  
+                tag = COW              
+            }
+            NOT = { exists = CSA }
+			
+        }
+
+        allow = {         
+            war = no           
+            CSA = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }   
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = CSA
+            CSA = {
+                all_core = { secede_province = THIS }
+            }
+            add_accepted_culture = dixie_cajun
+	    add_accepted_culture = floridian
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

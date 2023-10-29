@@ -1,0 +1,59 @@
+political_decisions = {
+        Bor  = {
+        picture = unite_la_plata
+        potential = {
+            OR = {                
+                tag = SJR
+                
+                                
+            }
+            NOT = {has_global_flag = Plata}
+			
+        }
+
+        allow = {         
+            war = no           
+            SJR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+             RLP = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            prestige = 15          
+            set_global_flag = Plata
+            RLP = {
+				all_core = { add_core = SJR secede_province = THIS }
+			}
+            
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

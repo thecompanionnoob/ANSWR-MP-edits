@@ -28,7 +28,6 @@ country_event = {
             inherit = THIS      
         }		
         
-	}
 }
 
   

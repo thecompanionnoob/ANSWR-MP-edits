@@ -1,5 +1,5 @@
 political_decisions = {
-	Colombia  = {
+        Colombia  = {
         picture = unite_gran_colombia
         potential = {
             OR = {                
@@ -9,7 +9,9 @@ political_decisions = {
                 tag = ECU      
             }
             NOT = { exists = GCO }
+			
         }
+
         allow = {         
             war = no          
             PNM = {
@@ -24,8 +26,8 @@ political_decisions = {
                         }
                     }
                 }
-	        }
-			GAR = {
+	         }
+           GAR = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -37,8 +39,8 @@ political_decisions = {
                         }
                     }
                 }
-	        }
-			CRR = {
+	         }
+           CRR = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -50,8 +52,8 @@ political_decisions = {
                         }
                     }
                 }
-	        }
-            ECU = {
+	         }
+           ECU = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -63,8 +65,11 @@ political_decisions = {
                         }
                     }
                 }
-	        }
+	         }
         }
+		
+        
+
         effect = {                
             prestige = 25
             change_tag = GCO 
@@ -83,6 +88,8 @@ political_decisions = {
             add_accepted_culture = muisca
             add_accepted_culture = central_american
         }
-		ai_will_do = { factor = 1 }
+		ai_will_do = {
+			factor = 1
+			}
     }
 }

@@ -1,0 +1,32 @@
+political_decisions = {
+        apa  = {
+        picture = ZAP
+        potential = {
+            OR = {                
+                tag = WSF
+                
+                                
+            }
+            NOT = {has_global_flag = zap}
+			
+        }
+
+        allow = {         
+            war = no           
+            nationalism_n_imperialism = 1 
+        }
+		
+        
+
+        effect = {                       
+            set_global_flag= zap
+            add_accepted_culture = romanian
+            add_accepted_culture = ukrainian
+            add_accepted_culture = hungarian
+            add_accepted_culture = staromadar
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

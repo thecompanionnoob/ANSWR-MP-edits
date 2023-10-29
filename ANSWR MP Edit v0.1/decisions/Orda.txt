@@ -1,0 +1,80 @@
+#political_decisions = {
+#        Orda = {
+#        picture = central_oudrijk
+#        potential = {
+#			capital_scope = { continent = europe }
+#			is_greater_power = no			
+#			NOT = {				
+#				has_country_modifier = oudrijk_prince
+#			}
+#			NOT = {				
+#				has_country_modifier = oudrijk_Traitor
+#			}
+#			NOT = { exists = OUD }			
+#        }
+#		
+#
+#        allow = {         
+#            war = no 
+#			OR {
+#				neighbour = AUS
+#                      relation = {
+#				       who = AUS
+#				       value = 200
+#			           }
+#
+#				       OR {		
+#							neighbour = BAV
+#							relation = {
+#							who = BAV
+#							value = 200
+#							}					   
+ #                      }
+#
+#					   OR {		
+#						neighbour = BOH
+#						relation = {
+#						who = BOH
+#						value = 200
+#						}					   
+ #                      }
+#					   OR {		
+#						neighbour = SGF
+#						relation = {
+#						who = SGF
+#						value = 200
+#						}					   
+ #                      }
+#					   OR {		
+#						neighbour = PRU
+#						relation = {
+#						who = PRU
+#						value = 200
+#						}					   
+ #                      }
+#			}       
+#				      
+ #       }
+#		
+ #       
+#
+ #       effect = {
+#			add_country_modifier = {
+ #                       name = oudrijk_prince
+  #                      duration = -1
+   #             }
+	#		THIS = {
+	#			all_core = { add_core = OUD }
+	#		}
+     #       
+      #  }
+#		ai_will_do = {
+#			factor = 1
+#			}
+#    }
+#}
+
+
+
+			
+			

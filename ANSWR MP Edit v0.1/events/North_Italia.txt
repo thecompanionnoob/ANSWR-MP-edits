@@ -15,6 +15,9 @@ country_event = {
         name = "EVTOPTA851081"
         prestige = 15
         
+        
+        
+        
     }
     
 
@@ -30,7 +33,6 @@ country_event = {
 			723 = { remove_core = SWI }
 			720 = { remove_core = SWI }
         add_accepted_culture = provencal
-	}
 }
 
   

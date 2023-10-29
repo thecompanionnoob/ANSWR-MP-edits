@@ -1,12 +1,15 @@
 political_decisions = {
-    macedonia  = {
+        macedonia  = {
         picture = empire
         potential = {
             OR = {                
-                tag = MON 
+                tag = MON
+                                
             }
-            NOT = { exists = MCD }	
+            NOT = { exists = MCD }
+			
         }
+
         allow = {         
             war = no           
             JAM = {
@@ -21,8 +24,8 @@ political_decisions = {
                         }
                     }
                 }
-	        }
-            NSR = {
+	         }
+           NSR = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -34,7 +37,7 @@ political_decisions = {
                         }
                     }
                 }
-	        } 
+	         } 
             ALB = {
                 all_core = {
                     OR = {
@@ -47,8 +50,8 @@ political_decisions = {
                         }
                     }
                 }
-	        }
-            MON = {
+	         }
+           MON = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -60,8 +63,11 @@ political_decisions = {
                         }
                     }
                 }
-	        } 
+	         } 
         }
+		
+        
+
         effect = {                
             prestige = 10
             change_tag = MCD          
@@ -83,73 +89,12 @@ political_decisions = {
             TUR = {
 				all_core = { add_core = MCD }
 			}          
-            add_accepted_culture = greek   
-        }
-		ai_will_do = { factor = 1 }
-    }
-    macedonia_rec  = {
-        picture = empire
-        potential = {
-            OR = {                
-                tag = MCD
-            }
-            NOT = {has_global_flag = macedonia}	
-        }
-        allow = {         
-            war = no           
-            MCD = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	         }
-        }
-        effect = {             
-            badboy = 20   
-            prestige = 25        
-            OTA = {
-				all_core = { add_core = MCD }
-			}
-            LBN = {
-				all_core = { add_core = MCD }
-			}
-            ASY = {
-				all_core = { add_core = MCD }
-			}
-            SYR = {
-				all_core = { add_core = MCD }
-			}
-            KWT = {
-				all_core = { add_core = MCD }
-			}
-            KDS = {
-				all_core = { add_core = MCD }
-			}   
-            WGO = {
-				all_core = { add_core = MCD }
-			} 
-            AZB = {
-				all_core = { add_core = MCD }
-			} 
-            JOR = {
-				all_core = { add_core = MCD }
-			} 
-            PER = {
-				all_core = { add_core = MCD }
-			} 
-            TCA = {
-				all_core = { add_core = MCD }
-			}       
-            set_global_flag= macedonia
+            add_accepted_culture = greek
+
             
         }
-		ai_will_do = { factor = 1 }
+		ai_will_do = {
+			factor = 1
+			}
     }
 }

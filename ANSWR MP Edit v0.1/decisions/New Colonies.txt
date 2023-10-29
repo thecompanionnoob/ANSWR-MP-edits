@@ -1,4 +1,6 @@
 political_decisions = {
+
+
     found_niger_company = {
         picture = royal_niger_company
         potential = {

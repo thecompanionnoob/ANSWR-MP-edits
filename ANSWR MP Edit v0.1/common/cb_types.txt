@@ -1660,7 +1660,7 @@ demand_concession_casus_belli = {
 	break_truce_prestige_factor = 1
 	break_truce_infamy_factor = 1
 	break_truce_militancy_factor = 1
-	truce_months = 60
+	truce_months = 12
 	
 	good_relation_prestige_factor = 0
 	good_relation_infamy_factor = 0
@@ -1710,7 +1710,7 @@ demand_hongkong = {
 	break_truce_prestige_factor = 9
 	break_truce_infamy_factor = 0
 	break_truce_militancy_factor = 1
-	truce_months = 60
+	truce_months = 3
 	
 	good_relation_prestige_factor = 0
 	good_relation_infamy_factor = 0
@@ -1768,7 +1768,7 @@ establish_protectorate_casus_belli = {
 	break_truce_prestige_factor = 5
 	break_truce_infamy_factor = 2
 	break_truce_militancy_factor = 2
-	truce_months = 60
+	truce_months = 12
 	
 	good_relation_prestige_factor = 0
 	good_relation_infamy_factor = 0
@@ -1925,7 +1925,7 @@ unification_casus_belli = {
 	break_truce_prestige_factor = 1
 	break_truce_infamy_factor = 1
 	break_truce_militancy_factor = 1
-	truce_months = 60
+	truce_months = 12
 	
 	good_relation_prestige_factor = 1
 	good_relation_infamy_factor = 1
@@ -1992,7 +1992,7 @@ unification_annex_casus_belli = {
 	break_truce_prestige_factor = 1
 	break_truce_infamy_factor = 1
 	break_truce_militancy_factor = 1
-	truce_months = 60
+	truce_months = 12
 	
 	good_relation_prestige_factor = 1
 	good_relation_infamy_factor = 1

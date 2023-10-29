@@ -1,0 +1,63 @@
+political_decisions = {
+       Tsakiya = {
+        picture = Czechoslovakia
+        potential = {
+            OR = {                
+                tag = NGR
+                
+
+            }
+            NOT = {has_global_flag = TSR}
+			
+        }
+
+        allow = {
+            civilized = yes
+            SOK = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+			}  
+            OYO = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+			}          									
+        }
+		
+        
+
+        effect = {
+            prestige = 15
+            set_global_flag= TSR
+            SOK = {
+				all_core = { add_core = NGR secede_province = THIS }
+			}
+            OYO = {
+				all_core = { add_core = NGR secede_province = THIS }
+			}
+            add_accepted_culture = shenkuda
+            add_accepted_culture = filayen
+            		
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

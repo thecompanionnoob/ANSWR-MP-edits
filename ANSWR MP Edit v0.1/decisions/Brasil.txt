@@ -1,0 +1,64 @@
+political_decisions = {
+        Brazil  = {
+        picture = proclaimindependence
+        potential = {
+            OR = {                
+                tag = AMZ
+                tag = NUH
+                                
+            }
+            NOT = { exists = BRZ }
+            		
+        }
+
+        allow = {         
+            war = no           
+            AMZ = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+	     NUH = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+            }
+            
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = BRZ       
+            AMZ = {
+				all_core = { add_core = BRZ secede_province = THIS }
+			}
+            NUH = {
+				all_core = { add_core = BRZ secede_province = THIS }
+			}
+            add_accepted_culture = brazilian
+            add_accepted_culture = afro_brazilian
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

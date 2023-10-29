@@ -1,5 +1,5 @@
 political_decisions = {
-	hungria  = {
+        hungria  = {
         picture = reclaim_croatia
         potential = {
             OR = {                
@@ -7,6 +7,7 @@ political_decisions = {
             }
             NOT = {has_global_flag = Hungria}	
         }
+
         allow = {         
             war = no           
             HUN = {
@@ -21,7 +22,7 @@ political_decisions = {
                         }
                     }
                 }
-	        }
+	         }
             BAN = {
                 all_core = {
                     OR = {
@@ -34,8 +35,8 @@ political_decisions = {
                         }
                     }
                 }
-	        }
-            GLC = {
+	         }
+           GLC = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -47,8 +48,8 @@ political_decisions = {
                         }
                     }
                 }
-	        }
-            DAK = {
+	         }
+           DAK = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -60,14 +61,17 @@ political_decisions = {
                         }
                     }
                 }
-	        } 
+	         } 
         }
+		
+        
+
         effect = {                
             prestige = 10
             BAN = {
 				all_core = { add_core = HUN secede_province = THIS }
 			}
-            GLC = {
+           GLC = {
 				all_core = { add_core = HUN secede_province = THIS }
 			}
             DAK = {
@@ -76,7 +80,10 @@ political_decisions = {
             set_global_flag= Hungria
             add_accepted_culture = hungarian
             add_accepted_culture = staromadar
+
         }
-		ai_will_do = { factor = 1 }
+		ai_will_do = {
+			factor = 1
+			}
     }
 }

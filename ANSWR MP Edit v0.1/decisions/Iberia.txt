@@ -1,0 +1,145 @@
+political_decisions = {
+        create_iberia  = {
+        picture = create_iberia
+        potential = {
+            OR = {                
+                tag = POR
+                tag = SPA
+                                
+            }
+            NOT = { exists = IBR }
+			
+        }
+
+        allow = {         
+            war = no           
+            DAL = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           LIR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }  
+           POR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }  
+           CLV = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         } 
+           DMN = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }   
+           CAT = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }   
+           BSQ = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }  
+        }
+		
+        
+
+        effect = {                
+            prestige = 30
+            change_tag = IBR
+            
+            DAL = {
+				all_core = { add_core = IBR secede_province = THIS }
+			}
+            CLV = {
+				all_core = { add_core = IBR secede_province = THIS }
+			}
+            DMN = {
+				all_core = { add_core = IBR secede_province = THIS }
+			}
+            POR = {
+				all_core = { add_core = IBR secede_province = THIS }
+			}
+            LIR = {
+				all_core = { add_core = IBR secede_province = THIS }
+			}
+            CAT = {
+				all_core = { add_core = IBR secede_province = THIS }
+			}
+            BSQ = {
+				all_core = { add_core = IBR secede_province = THIS }
+			}      
+            add_accepted_culture = basque
+            add_accepted_culture = spanish
+            add_accepted_culture = catalan
+            add_accepted_culture = portuguese
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

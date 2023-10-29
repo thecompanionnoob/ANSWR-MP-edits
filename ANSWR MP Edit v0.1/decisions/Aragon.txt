@@ -1,8 +1,12 @@
 political_decisions = {
-	Aragon  = {
+        Aragon  = {
         picture = Aragon
         potential = {
-			tag = CAT
+            OR = {                
+                tag = CAT
+                
+                                
+            }
             NOT = { exists = ARN }
 			
         }
@@ -59,72 +63,6 @@ political_decisions = {
         }
 		ai_will_do = {
 			factor = 1
-		}
+			}
     }
-	Aragonitalia  = {
-        picture = Aragon
-        potential = {           
-			tag = ARN
-            NOT = { exists = AGI }
-            		
-        }
-        allow = {         
-            war = no              
-            ARN = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }   
-                }
-            }
-	    SIC = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-            }
-            APU = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-            }
-        }
-        effect = {                
-            prestige = 25
-            change_tag = AGI           
-            SIC = {
-				all_core = { add_core = AGI secede_province = THIS }
-			}
-            APU = {
-				all_core = { add_core = AGI secede_province = THIS }
-			}
-
-            add_accepted_culture = south_italian
-            
-        }
-		ai_will_do = {
-			factor = 1
-		}
-    }	
 }

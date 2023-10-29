@@ -1,0 +1,95 @@
+political_decisions = {
+        Castilla  = {
+        picture = Castilla
+        potential = {
+            OR = {                
+                tag = DAL
+                tag = DMN
+                tag = CLV
+                                
+            }
+            NOT = { exists = CST }
+			
+        }
+
+        allow = {         
+            war = no           
+            DAL = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           LIR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }  
+ 
+           CLV = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         } 
+           DMN = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }   
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = CST
+            
+            DAL = {
+				all_core = { add_core = CST secede_province = THIS}
+			}
+            CLV = {
+				all_core = { add_core = CST secede_province = THIS}
+			}
+            DMN = {
+				all_core = { add_core = CST secede_province = THIS}
+			}
+            LIR = {
+				all_core = { add_core = CST secede_province = THIS}
+			}      
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

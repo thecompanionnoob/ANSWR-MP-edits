@@ -1,5 +1,5 @@
 capital = 1261
-primary_culture = south_indian
+primary_culture = marathi
 religion = protestant
 government = absolute_monarchy
 plurality = 0.0

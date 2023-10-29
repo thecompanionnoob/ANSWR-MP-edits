@@ -1,0 +1,202 @@
+political_decisions = {
+        Mali  = {
+        picture = become_mali_empire
+        potential = {
+            OR = {                
+                tag = MAS
+                tag = TOO
+                tag = JAL
+                tag = KNG
+                tag = DND
+                tag = MOS 
+                tag = ASH   
+                tag = DAH 
+                tag = WOL
+           
+            }
+            NOT = { exists = MLI }	
+        }
+
+        allow = {         
+            war = no           
+            MAS = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           TOO = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }  
+            JAL = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           KNG = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }            
+           DND = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }  
+           MOS = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }   
+           MOS = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }  
+           ASH = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+            DAH = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         } 
+            WOL = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }     
+        }
+		
+        
+
+        effect = {              
+            #add_accepted_culture = fulbe
+            #add_accepted_culture = tuareg
+            #add_accepted_culture = mande
+            add_accepted_culture = gur
+            #add_accepted_culture = senufo
+            #add_accepted_culture = dyula
+            #add_accepted_culture = songhai
+            #add_accepted_culture = mossi
+            #add_accepted_culture = akan
+            #add_accepted_culture = fon
+            #add_accepted_culture = east_kwa
+            prestige = 15
+            change_tag = MLI
+            MAS = {
+				all_core = { add_core = MLI secede_province = THIS }
+			}
+            TOO = {
+				all_core = { add_core = MLI secede_province = THIS }
+			}
+            JAL = {
+				all_core = { add_core = MLI secede_province = THIS }
+			}
+            KNG = {
+				all_core = { add_core = MLI secede_province = THIS }
+			}
+            DND = {
+				all_core = { add_core = MLI secede_province = THIS }
+			}
+            MOS = {
+				all_core = { add_core = MLI secede_province = THIS }
+			}
+            ASH = {
+				all_core = { add_core = MLI secede_province = THIS }
+			}
+            DAH = {
+				all_core = { add_core = MLI secede_province = THIS }
+			}
+            WOL = {
+				all_core = { add_core = MLI secede_province = THIS }
+			}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

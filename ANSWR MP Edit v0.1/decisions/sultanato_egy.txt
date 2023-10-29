@@ -1,0 +1,43 @@
+political_decisions = {
+        sultanato = {
+        picture = forced_egyptological_excavations
+        potential = {
+            OR = {                
+                tag = EGY
+                                
+            }
+            NOT = { exists = SGY }
+			
+        }
+
+        allow = {         
+            war = no          
+            EGY = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = SGY   
+         
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

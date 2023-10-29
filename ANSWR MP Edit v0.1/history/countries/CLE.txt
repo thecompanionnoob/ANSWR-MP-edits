@@ -34,10 +34,10 @@ public_meetings = yes_meeting
 press_rights = censored_press
 trade_unions = non_socialist
 political_parties = gerrymandering
-conscription = four_year_draft
-citizens_rights = culture_voting_only
-debt_law = peonage
-border_policy = open_borders
+conscription = 
+citizens_rights = 
+debt_law = 
+border_policy = 
 wage_reform = trinket_wage
 work_hours = fourteen_hours
 safety_regulations = trinket_safety
@@ -45,8 +45,8 @@ unemployment_subsidies = trinket_subsidies
 pensions = trinket_pensions
 health_care = trinket_health_care
 school_reforms = low_schools
-penal_system = capital_punishment
-child_labor = child_labor_legal
+penal_system = 
+child_labor = 
 
 
 #========================= T E C H N O L O G I E S =========================

@@ -1,0 +1,109 @@
+political_decisions = {
+        Tuareg  = {
+        picture = Czechoslovakia
+        potential = {
+            OR = {                
+                tag = TRG
+           
+            }
+            NOT = {has_global_flag = Tur}	
+        }
+
+        allow = {         
+            war = no           
+            TRG = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           MOR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }  
+            ALD = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           TUN = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }            
+           DAM = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }  
+               
+        }
+		
+        
+
+        effect = {              
+            add_accepted_culture = maghrebi
+            add_accepted_culture = berber
+            add_accepted_culture = tuareg
+            prestige = 15
+            set_global_flag= Tur
+            MOR = {
+				all_core = { add_core = TRG secede_province = THIS}
+			}
+            ALD = {
+				all_core = { add_core = TRG secede_province = THIS}
+			}
+            TUN = {
+				all_core = { add_core = TRG secede_province = THIS}
+			}
+            DAM = {
+				all_core = { add_core = TRG secede_province = THIS}
+			}
+            
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

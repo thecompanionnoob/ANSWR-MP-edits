@@ -1,5 +1,5 @@
 capital = 1328
-primary_culture = south_indian
+primary_culture = kanauji
 culture = asian_minor
 religion = protestant
 government = trading_republic

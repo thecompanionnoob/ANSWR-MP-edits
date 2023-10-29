@@ -1,8 +1,10 @@
 political_decisions = {
         Adzinoki  = {
         picture = government_decisions
-        potential = {     
-			tag = BYE
+        potential = {
+            OR = {                
+                tag = BYE                
+            }
             NOT = { exists = BEE }
 			
         }

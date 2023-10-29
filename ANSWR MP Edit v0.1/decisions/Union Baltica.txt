@@ -74,6 +74,8 @@ political_decisions = {
             add_accepted_culture = osti
             
         }
-		ai_will_do = { factor = 1 }
+		ai_will_do = {
+			factor = 1
+			}
     }
 }

@@ -16,10 +16,13 @@ political_decisions = {
 						owned_by = THIS
                         }
                     }
-			ENG_271 = { owned_by = THIS }
-			ENG_266 = { owned_by = THIS }
+            SCO = {
+                all_core = {
+						owned_by = THIS
+                        }
+                    }				
 		}
-        effect = {
+        effect = {                
             prestige = 25
 			change_tag = CLE
             SCO = {
@@ -38,40 +41,8 @@ political_decisions = {
 			add_accepted_culture = breton
 			add_accepted_culture = french_greenlander
         }
-		ai_will_do = { factor = 1 }
+		ai_will_do = {
+			factor = 1
+		}
     }
-	ireland = {
-		potential = {
-            OR = {                
-                tag = ULS	
-                tag = COC
-                tag = LEC
-            }
-            NOT = { exists = IRE }
-        }
-        allow = {
-            war = no
-            IRE = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-            }           
-        }
-        effect = {
-            prestige = 15
-            change_tag = IRE
-            IRE = {
-                all_core = {secede_province = THIS }
-            }
-        }
-		ai_will_do = { factor = 1 }
-	}	
 }

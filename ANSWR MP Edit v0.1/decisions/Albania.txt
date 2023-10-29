@@ -1,8 +1,11 @@
 political_decisions = {
         albania	  = {
         picture = albania
-        potential = {      
-			tag = ALB
+        potential = {
+            OR = {                
+                tag = ALB
+                                
+            }
             NOT = { exists = ALE }
 			
         }

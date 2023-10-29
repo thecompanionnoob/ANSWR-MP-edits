@@ -1,5 +1,6 @@
 capital = 1393
-primary_culture = borneanmalay
+primary_culture = pacifica
+culture = borneanmalay
 culture = malay
 culture = asian_minor
 culture = yue
