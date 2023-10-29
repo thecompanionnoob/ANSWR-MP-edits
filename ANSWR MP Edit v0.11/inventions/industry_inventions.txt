@@ -916,11 +916,9 @@ coke = {
         }
     }
 }
-# clean_coal
-
-# cheap_iron
+#Regenerative Furnaces
 advanced_ore_roasting_processes = {
-    limit = { cheap_iron = 1 }
+    limit = { regenerative_furnaces = 1 }
     chance = {
         base = 2
         modifier = {
@@ -985,7 +983,7 @@ advanced_ore_roasting_processes = {
     }
 }
 advanced_ore_grinding_processes = {
-    limit = { cheap_iron = 1 }
+    limit = { regenerative_furnaces = 1 }
     chance = {
         base = 2
         modifier = {
@@ -1049,9 +1047,8 @@ advanced_ore_grinding_processes = {
         }
     }
 }
-
 advanced_ore_smelting_processes = {
-    limit = { cheap_iron = 1 }
+    limit = { regenerative_furnaces = 1 }
     chance = {
         base = 2
         modifier = {
@@ -1115,11 +1112,11 @@ advanced_ore_smelting_processes = {
         }
     }
 }
-# cheap_steel
+# Bessemer Process
 bessemer_steel = {
     limit = {
-        cheap_steel = 1
-        year = 2860
+        regenerative_furnaces = 1
+        year = 1860
     }
     chance = {
         base = 2
@@ -1141,8 +1138,8 @@ bessemer_steel = {
 
 martin_steel = {
     limit = {
-        cheap_steel = 1
-        year = 2870
+        regenerative_furnaces = 1
+        year = 1870
     }
     chance = {
         base = 2
@@ -1163,8 +1160,8 @@ martin_steel = {
 }
 thomas_steel = {
     limit = {
-        cheap_iron = 1
-        year = 2880
+        regenerative_furnaces = 1
+        year = 1880
     }
     chance = {
         base = 2
@@ -1185,43 +1182,43 @@ thomas_steel = {
 }
 #advanced_metallurgy
 electric_rolling_techniques = {
-	limit = { advanced_metallurgy = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			electricity = 1
-		}
-		modifier = {
-			factor = 2
-			invention = thomas_steel
-		}
-	}
-	effect = {
-		factory_goods_output = {
-			steel = 0.04
-		}
-	}
+    limit = { advanced_metallurgy = 1 }
+    chance = {
+        base = 2
+        modifier = {
+            factor = 2
+            electricity = 1
+        }
+        modifier = {
+            factor = 2
+            invention = thomas_steel
+        }
+    }
+    effect = {
+        factory_goods_output = {
+            steel = 0.02
+        }
+    }
 }
 steel_alloys = {
-	limit = { advanced_metallurgy = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = thomas_steel
-		}
-		modifier = {
-			factor = 2
-			inorganic_chemistry = 1
-		}
-	}
-	effect = {
-		rgo_goods_output = {
-		precious_metal = 0.05
-		}
-	}
+    limit = { advanced_metallurgy = 1 }
+    chance = {
+        base = 2
+        modifier = {
+            factor = 2
+            invention = thomas_steel
+        }
+        modifier = {
+            factor = 2
+            inorganic_chemistry = 1
+        }
+    }
+    effect = {
+        rgo_goods_output = { precious_metal = 0.05 }
+        factory_goods_output = { steel = 0.02 }
+    }
 }
+
 #electric_furnace
 stainless_steel = {
     limit = { electric_furnace = 1 }
