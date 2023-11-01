@@ -20,7 +20,7 @@ political_decisions = {
 			is_culture_group = american_cultures
 			money = 100000
 			}
-			country_event = { id = 52013 days = 30 }
+			#country_event = { id = 52013 days = 30 } #Not real event! (TODO)
 			}
 		}
 		ai_will_do = { factor = 1 }

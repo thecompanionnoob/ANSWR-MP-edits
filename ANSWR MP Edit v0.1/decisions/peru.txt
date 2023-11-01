@@ -71,7 +71,7 @@ political_decisions = {
         potential = {
             OR = {                
                 tag = PEU
-                tag = BKW
+                tag = BWK
             }
             NOT = { exists = PBC }
         }

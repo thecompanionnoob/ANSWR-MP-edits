@@ -52,11 +52,12 @@ political_decisions = {
         potential = {
                 is_culture_group = french
                 owns = 425
-            NOT = {
-                is_culture = french
-                OR = { 425 = { is_capital = yes } }
-                OR = { tag = DPA }
-                OR = { tag = PRP}
+				NOT = {
+					425 = { is_capital = yes }
+					OR = {
+						tag = DPA
+						tag = PRP
+					}
                 }
             }
 
@@ -162,13 +163,13 @@ political_decisions = {
             is_greater_power = yes
             prestige = 80
             functionalism = 1
-            penomenalism = 1
+            phenomenalism = 1
             war = no
         }
 
         effect = {
             prestige = 15
-            schools = culture_tech_school
+            tech_school = culture_tech_school
             nationalvalue = nv_autocracy
             set_country_flag = embraced_nobility
         }

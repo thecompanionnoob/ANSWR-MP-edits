@@ -621,10 +621,9 @@ political_decisions = {
 	         }
         }
        effect = {                   		
-            pretige = 50
+            prestige = 50
 			add_accepted_culture = basque
             add_accepted_culture = spanish
-            add_accepted_culture = catalan
             add_accepted_culture = portuguese
 			add_accepted_culture = catalan
             add_accepted_culture = english
@@ -639,7 +638,7 @@ political_decisions = {
 			add_accepted_culture = serb
             add_accepted_culture = slovene
             add_accepted_culture = romanian
-			add_accepted_culture = bulgarian
+			#add_accepted_culture = bulgarian #Not real culture!
             add_accepted_culture = westturkish
 			add_accepted_culture = albanian
 			add_accepted_culture = peloponesian

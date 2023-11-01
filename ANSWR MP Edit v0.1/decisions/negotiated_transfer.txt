@@ -1,0 +1,16 @@
+political_decisions = {   
+	negotiated_transfer = {
+	    potential = {
+		    ai = no
+		}
+		allow = { }
+		effect = {
+		    any_country = {
+			    limit = {
+				    ai = no
+				}
+				country_event = { id=48291 days=0 }
+			}
+		}
+	}
+}

@@ -299,7 +299,7 @@ political_decisions = {
 		picture = city_plans
 		potential = {
 			tag = NET
-			has = 400
+			400 = { owned_by = THIS }
 			post_nelsonian_thought = 1
 			NOT = { has_country_flag = royal_harbour}
 		}

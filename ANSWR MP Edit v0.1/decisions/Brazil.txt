@@ -1,6 +1,5 @@
 political_decisions = {
 	Brazil  = {
-        picture = proclaimindependence
         potential = {
             OR = {                
                 tag = AMZ
@@ -47,7 +46,7 @@ political_decisions = {
             NUH = {
 				all_core = { add_core = BRZ secede_province = THIS }
 			}
-            add_accepted_culture = brazilian
+            #add_accepted_culture = brazilian #Invalid Culture! what is this supposed to be?
             add_accepted_culture = afro_brazilian
         }
 		ai_will_do = {
@@ -55,7 +54,6 @@ political_decisions = {
 		}
     }
     Brazil_con_1  = {
-        picture = conquest_of_the_desert
         potential = {
             OR = {                
                 tag = BRZ
@@ -120,7 +118,6 @@ political_decisions = {
 		}
     }
     Brazil_con_2  = {
-        picture = conquest_of_the_desert
         potential = {
             OR = {                
                 tag = BRZ
@@ -194,7 +191,6 @@ political_decisions = {
 		}
     }
     Brazil_con_3  = {
-        picture = conquest_of_the_desert
         potential = {
             OR = {                
                 tag = BRZ
