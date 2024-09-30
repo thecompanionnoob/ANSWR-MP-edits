@@ -1,7 +1,8 @@
-owner = SBI
-controller = SBI
-add_core = SBI
+owner = PHL
+controller = PHL
+add_core = PHL
 add_core = PHL
 trade_goods = tobacco
 life_rating = 35
-colonial = 2
+
+        

@@ -3,3 +3,6 @@ controller = PHL
 add_core = PHL
 trade_goods = dye
 life_rating = 35
+colonial = 2
+
+        
