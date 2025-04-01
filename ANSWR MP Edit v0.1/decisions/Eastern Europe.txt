@@ -101,63 +101,79 @@ political_decisions = {
         }
 		ai_will_do = { factor = 1 }
     }
-	Reunite_with_our_Ukrainian_Brothers = {
-		picture = unite_with_poland
-		potential = {
-			tag = PLC
-			NOT = {has_global_flag = intergrate_baltics}
-			
-		}
-		allow = {
-			war = no
-			year = 2855
-			UKR = {
-				all_core = {
-					OR = {
-						owned_by = PLC
-						in_sphere = PLC
-					}
-				}
-			}
-			ZKY  = {
-				all_core = {
-					OR = {
-						owned_by = PLC
-						in_sphere = PLC
-					}
-				}
-			}
-			CRI = {
-				all_core = {
-					OR = {
-						owned_by = PLC
-						in_sphere = PLC
-					}
-				}
-			}
-		}
-		effect = {
-			prestige = 25
-			add_accepted_culture = ukrainian
-			add_accepted_culture = krymskiy
-			
+Reunite_with_our_Ukrainian_Brothers = {
+        picture = unite_with_poland
+        potential = {
+            tag = PLC
+            NOT = {has_global_flag = intergrate_baltics}
+            NOT = {has_global_flag= intergrate_ukraine}
+            
+        }
+        allow = {
+            war = no
+            year = 2855
+            UKR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+            }
+            ZKY  = {
+ 		 all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+            }
             CRI = {
-				all_core = { add_core = PLC secede_province = THIS}
-			}
+		all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+            }
+        effect = {
+            prestige = 25
+            add_accepted_culture = ukrainian
+            add_accepted_culture = krymskiy
+            
+            CRI = {
+                all_core = { add_core = PLC secede_province = THIS}
+            }
             ZKY = {
-				all_core = { add_core = PLC secede_province = THIS}
-			}
-			set_global_flag= intergrate_ukraine
-		}
-		ai_will_do = {
-		factor = 1
-		}
-	}
+                all_core = { add_core = PLC secede_province = THIS}
+            }
+            set_global_flag= intergrate_ukraine
+        }
+        ai_will_do = {
+        factor = 1
+        }
+    }
 	Reunite_with_our_Baltic_Brothers = {
 		picture = unite_with_poland
 		potential = {
 			tag = PLC
-			NOT = {has_global_flag= intergrate_ukraine}
+			NOT = {has_global_flag = intergrate_baltics}
+            		NOT = {has_global_flag= intergrate_ukraine}
 		}
 		allow = {
 			war = no
