@@ -172,7 +172,8 @@ Reunite_with_our_Ukrainian_Brothers = {
 		picture = unite_with_poland
 		potential = {
 			tag = PLC
-			NOT = {has_global_flag= intergrate_ukraine}
+			NOT = {has_global_flag = intergrate_baltics}
+            		NOT = {has_global_flag= intergrate_ukraine}
 		}
 		allow = {
 			war = no
