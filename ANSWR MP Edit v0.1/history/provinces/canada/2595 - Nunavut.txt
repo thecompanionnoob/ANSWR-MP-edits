@@ -1,6 +1,6 @@
-owner = WIN
-controller = WIN
-add_core = WIN
+owner = WNN
+controller = WNN
+add_core = WNN
 trade_goods = fish
 life_rating = 10
 
