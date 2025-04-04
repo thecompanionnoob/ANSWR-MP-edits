@@ -3,37 +3,37 @@
 #Kiel (256000/64000 POPS)
 369 = {
     aristocrats = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 600
     }
 
     bureaucrats = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 175
     }
 
     officers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 575
     }
 
     artisans = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 2400
     }
 
     soldiers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 2000
     }
@@ -45,7 +45,7 @@
     }
 
     farmers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 25650
     }
@@ -107,19 +107,19 @@
 #Lauenburg (148000/37000 POPS)
 529 = {
     aristocrats = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 350
     }
 
     clergymen = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 375
     }
 
     artisans = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 1825
     }
@@ -130,13 +130,13 @@
     }
 
     soldiers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 21500
     }
@@ -152,31 +152,31 @@
 #Hamburg (150000/37500 POPS)
 528 = {
     aristocrats = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 400
     }
 
     bureaucrats = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 375
     }
 
     officers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 625
     }
 
     artisans = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 10000
     }
@@ -188,13 +188,13 @@
     }
 
     soldiers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 3050
     }
 
     farmers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 26310
     }
@@ -210,13 +210,13 @@
 #Stade (216000/54000 POPS)
 531 = {
     aristocrats = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 550
     }
 
     bureaucrats = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 50
     }
@@ -240,13 +240,13 @@
     }
 
     soldiers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 30050
     }
@@ -266,7 +266,7 @@
     }
 
     clergymen = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 4500
     }
@@ -278,13 +278,13 @@
     }
 
     soldiers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 45900
     }
@@ -295,49 +295,49 @@
 #Lubeck (46503/11626 POPS)
 530 = {
     aristocrats = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 200
     }
 
     bureaucrats = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 116
     }
 
     officers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 22
     }
 
     clergymen = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 230
     }
 
     artisans = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 6976
     }
 
     soldiers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 406
     }
 
     farmers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 3476
     }
 
     farmers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 100
     }
@@ -500,43 +500,43 @@
 #Hannover (420000/105000 POPS)
 534 = {
     aristocrats = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 750
     }
 
     bureaucrats = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 500
     }
 
     officers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 300
     }
 
     clergymen = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 875
     }
 
     artisans = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 5250
     }
 
     soldiers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 49325
     }
@@ -612,31 +612,31 @@
 #Nienburg (276000/64000 POPS)
 535 = {
     aristocrats = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 550
     }
 
     clergymen = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 625
     }
 
     artisans = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 3250
     }
 
     soldiers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 57575
     }
@@ -704,25 +704,25 @@
 #Brunswick (264000/66000 POPS)
 536 = {
     aristocrats = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 500
     }
 
     bureaucrats = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 100
     }
 
     officers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 75
     }
 
     clergymen = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 450
     }
@@ -734,13 +734,13 @@
     }
 
     soldiers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 23375
     }
@@ -768,49 +768,49 @@
 #Bremen (52000/13000 POPS)
 539 = {
     aristocrats = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 2750
     }
 
     bureaucrats = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 550
     }
 
     officers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 400
     }
 
     clergymen = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 1200
     }
 
     artisans = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 5212
     }
 
     artisans = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 3426
     }
 
     soldiers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 6450
     }
 
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 117500
     }
@@ -819,25 +819,25 @@
 #Oldenburg (184000/46000 POPS)
 540 = {
     aristocrats = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 400
     }
 
     bureaucrats = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 125
     }
 
     officers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 75
     }
 
     clergymen = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 325
     }
@@ -849,37 +849,37 @@
     }
 
     artisans = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 2200
     }
 
     soldiers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 13800
     }
 
     clergymen = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 40
     }
 
     artisans = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 550
     }
@@ -905,12 +905,12 @@
     }
 
     aristocrats = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 45
     }
     clergymen = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 75
     }
@@ -921,25 +921,25 @@
         size = 35
     }
     artisans = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 650
     }
 
     soldiers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 125
     }
 
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 8975
     }
 
     clergymen = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 35
     }
@@ -3487,7 +3487,7 @@
 #Minden (216000/54000 POPS)
 582 = {
     aristocrats = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 300
     }
@@ -3517,31 +3517,31 @@
     }
 
     aristocrats = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 200
     }
 
     artisans = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 17600
     }
@@ -3698,19 +3698,19 @@
     }
 
     artisans = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 1150
     }
 
     soldiers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 70405
     }
@@ -3722,13 +3722,13 @@
     }    
 
     clergymen = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 20
     }
 
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 3980
     }
@@ -4773,3 +4773,4 @@
         size = 3680
     }
 }
+
