@@ -2,25 +2,25 @@
 #Aarhus (248000/62000 POPS)
 366 = {
     aristocrats = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 500
     }
 
     bureaucrats = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 350
     }
 
     officers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 375
     }
@@ -32,13 +32,13 @@
     }
 
     soldiers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 2500
     }
 
     farmers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 18075
     }
@@ -59,13 +59,13 @@
 #5k farmers moved to 2557
 367 = {
     aristocrats = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 250
     }
 
     clergymen = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 250
     }
@@ -77,7 +77,7 @@
     }
 
     soldiers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 1100
     }
@@ -93,13 +93,13 @@
 #10k moved to 2557
 368 = {
     aristocrats = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 250
     }
 
     clergymen = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 250
     }
@@ -111,7 +111,7 @@
     }
 
     soldiers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 1100
     }
@@ -132,17 +132,17 @@
         size = 1100
     }
     clergymen = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 125
     }
     soldiers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 1100
     }
     aristocrats = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 250
     }
@@ -158,13 +158,13 @@
 #Flensburg (236000/59000 POPS)
 370 = {
     bureaucrats = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 125
     }
@@ -176,7 +176,7 @@
     }
 
     soldiers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 250
     }
@@ -188,7 +188,7 @@
     }
 
     aristocrats = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 650
     }
@@ -206,7 +206,7 @@
     }
 
     clergymen = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 250
     }
@@ -224,7 +224,7 @@
     }
 
     farmers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 38850
     }
@@ -232,7 +232,7 @@
 #Aabenra (100000/25000 POPS)
 371 = {
     clergymen = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 125
     }
@@ -244,13 +244,13 @@
     }
 
     soldiers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 250
     }
 
     farmers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 16625
     }
@@ -374,12 +374,12 @@
     }
 
     artisans = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 1100
     }
     farmers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 11120
     }
@@ -470,19 +470,19 @@
     }
 
     clergymen = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 125
     }
 
     soldiers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 250
     }
 
     farmers = {
-        culture = flanish
+        culture = danish
         religion = protestant
         size = 6625
     }
