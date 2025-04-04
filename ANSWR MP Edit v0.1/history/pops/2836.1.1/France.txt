@@ -352,43 +352,43 @@
     }
 
     aristocrats = {
-        culture =  alsatian
+        culture =  rhine_german
         religion = protestant
         size = 250
     }
 
     officers = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 80
     }
 
     bureaucrats = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 150
     }
 
     clergymen = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 250
     }
 
     artisans = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 3500
     }
 
     soldiers = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 275
     }
 
     farmers = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 24495
     }
@@ -483,31 +483,31 @@
     ########
 
     aristocrats = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 250
     }
 
     clergymen = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 300
     }
 
     artisans = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 1500
     }
 
     soldiers = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 350
     }
 
     farmers = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 27600
     }
@@ -517,43 +517,43 @@
 #Nancy (432000/108000 POPS)
 411 = {
     aristocrats = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 1100
     }
 
     officers = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 400
     }
 
     bureaucrats = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 600
     }
 
     clergymen = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 850
     }
 
     artisans = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 7450
     }
 
     soldiers = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 74600
     }
@@ -629,31 +629,31 @@
 #Metz (420000/105000 POPS)
 412 = {
     aristocrats = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 600
     }
 
     clergymen = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 425
     }
 
     artisans = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 6000
     }
 
     soldiers = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 650
     }
 
     farmers = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 60825
     }
@@ -749,31 +749,31 @@
 #Verdun (320000/80000 POPS)
 413 = {
     aristocrats = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 450
     }
 
     clergymen = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 319
     }
 
     artisans = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 1500
     }
 
     soldiers = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 751
     }
 
     farmers = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 54919
     }
@@ -805,31 +805,31 @@
 #Epinal (412000/103000 POPS)
 414 = {
     aristocrats = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 1100
     }
 
     clergymen = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 900
     }
 
     artisans = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 3750
     }
 
     soldiers = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 1000
     }
 
     labourers = {
-        culture = alsatian
+        culture = rhine_german
         religion = protestant
         size = 74450
     }
