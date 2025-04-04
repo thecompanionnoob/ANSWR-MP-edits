@@ -467,7 +467,7 @@
     }
 
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 14051
     }
@@ -553,7 +553,7 @@
         size = 5334
     }
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 12150
     }
@@ -609,7 +609,7 @@
     }
 
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 4515
     }
@@ -691,7 +691,7 @@
         size = 11260
     }
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 16200
     }
@@ -762,7 +762,7 @@
         size = 8000
     }
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 14200
     }
@@ -849,7 +849,7 @@
     }
 
     artisans = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 1250
     }
@@ -866,7 +866,7 @@
     }
 
     farmers = {
-        culture = flanish
+        culture = north_german
         religion = protestant
         size = 36950
     }
