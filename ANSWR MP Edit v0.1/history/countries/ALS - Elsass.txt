@@ -1,6 +1,5 @@
 capital = 409
-primary_culture = alsatian
-culture = rhine_german
+primary_culture = rhine_german
 religion = protestant
 government = absolute_monarchy
 plurality = 5.0
