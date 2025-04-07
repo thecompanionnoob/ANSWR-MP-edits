@@ -1,5 +1,5 @@
-owner = FRM
-controller = FRM
+owner = APL
+controller = APL
 add_core = FRM
 trade_goods = wool
 terrain = savanna
