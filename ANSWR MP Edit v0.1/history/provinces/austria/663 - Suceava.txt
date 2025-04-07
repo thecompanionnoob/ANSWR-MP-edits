@@ -1,5 +1,6 @@
-owner = BKV
-controller = BKV
+owner = ROM
+controller = ROM
 add_core = BKV
+add_core = ROM
 trade_goods = cattle
 life_rating = 39
