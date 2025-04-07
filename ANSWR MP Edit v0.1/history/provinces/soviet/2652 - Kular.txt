@@ -1,5 +1,5 @@
-owner = UOR
-controller = UOR
+owner = AUG
+controller = AUG
 add_core = UOR
 trade_goods = grain
 life_rating = 35
