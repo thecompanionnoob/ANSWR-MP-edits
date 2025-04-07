@@ -1,5 +1,5 @@
-owner = WAG
-controller = WAG
+owner = HAE
+controller = HAE
 add_core = WAG
 trade_goods = grain
 life_rating = 20
