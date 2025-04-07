@@ -1,7 +1,7 @@
-owner = APU
-controller = APU
+owner = SIC
+controller = SIC
 add_core = APU
-add_core = SYC
+add_core = SIC
 trade_goods = fish
 life_rating = 35
 terrain = small_island
