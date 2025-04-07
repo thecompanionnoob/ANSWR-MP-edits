@@ -1,5 +1,6 @@
-owner = APU
-controller = APU
+owner = SIC
+controller = SIC
 add_core = APU
+add_core = SIC
 trade_goods = sulphur
 life_rating = 35
