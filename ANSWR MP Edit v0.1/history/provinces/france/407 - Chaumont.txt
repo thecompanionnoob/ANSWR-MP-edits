@@ -1,5 +1,5 @@
-owner = UIL
-controller = UIL
+owner = AUG
+controller = AUG
 add_core = UIL
 trade_goods = iron
 terrain = plains
