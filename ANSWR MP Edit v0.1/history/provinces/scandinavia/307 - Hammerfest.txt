@@ -1,5 +1,6 @@
-owner = NOD
-controller = NOD
+owner = SAP
+controller = SAP
 add_core = NOD
+add_core = SAP
 trade_goods = timber
-life_rating = 10
+life_rating = 20
