@@ -1,5 +1,5 @@
-owner = ION
-controller = ION
+owner = TRE
+controller = TRE
 add_core = ION
 trade_goods = cattle
 terrain = savanna

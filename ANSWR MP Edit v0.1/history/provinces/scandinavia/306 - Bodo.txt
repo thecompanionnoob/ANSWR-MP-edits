@@ -1,6 +1,7 @@
-owner = NOD
-controller = NOD
+owner = SAP
+controller = SAP
 add_core = NOD
+add_core = SAP
 trade_goods = fish
 terrain = montane_tundra
 life_rating = 20

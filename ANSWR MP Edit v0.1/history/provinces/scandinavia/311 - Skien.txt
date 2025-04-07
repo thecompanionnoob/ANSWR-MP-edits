@@ -1,6 +1,5 @@
-owner = SCO
-controller = SCO
+owner = SAP
+controller = SAP
 add_core = SAP
-add_core = SCO
 trade_goods = timber
 life_rating = 35

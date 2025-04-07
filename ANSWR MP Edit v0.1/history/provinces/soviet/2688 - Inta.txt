@@ -1,5 +1,5 @@
-owner = BLZ
-controller = BLZ
+owner = AUG
+controller = AUG
 add_core = BLZ
 trade_goods = wool
 terrain = plains

@@ -1,5 +1,5 @@
-owner = PRI
-controller = PRI
+owner = APL
+controller = APL
 add_core = PRI
 terrain = plains
 trade_goods = cotton

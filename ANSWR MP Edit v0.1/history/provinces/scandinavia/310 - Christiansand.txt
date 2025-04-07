@@ -1,6 +1,5 @@
-owner = SCO
-controller = SCO
-add_core = SCO
+owner = SAP
+controller = SAP
 add_core = SAP
 trade_goods = fish
 life_rating = 35

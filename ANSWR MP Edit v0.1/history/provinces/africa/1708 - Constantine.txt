@@ -1,5 +1,5 @@
-owner = APU
-controller = APU
+owner = SIC
+controller = SIC
 add_core = TUN
 trade_goods = grain
 life_rating = 32
