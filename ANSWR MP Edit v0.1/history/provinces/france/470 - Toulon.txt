@@ -1,5 +1,5 @@
-owner = TTB
-controller = TTB
+owner = RPL
+controller = RPL
 add_core = TTB
 trade_goods = coal
 terrain = savanna
