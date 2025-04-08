@@ -1,5 +1,6 @@
-owner = KAM
-controller = KAM
+owner = MCK
+controller = MCK
 add_core = KAM
+add_core = MCK
 trade_goods = grain
 life_rating = 30
