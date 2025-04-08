@@ -1,5 +1,6 @@
-owner = NIH
-controller = NIH
+owner = JIY
+controller = JIY
+add_core = JIY
 add_core = NIH
 trade_goods = grain
 life_rating = 35
