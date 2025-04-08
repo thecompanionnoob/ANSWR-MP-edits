@@ -7,132 +7,84 @@ political_decisions = {
 			NOT = { exists = YUG }
 			NOT = { has_global_flag = yugoslavia_formed }
 		}
-
-		allow = {
-			war = no
-			SER = {
-				OR = {
-					AND = {
-						exists = yes
-						OR = {
-							part_of_sphere = no
-							in_sphere = THIS
-							sphere_owner = { is_sphere_leader_of = THIS }
-						}
-					}
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = { in_sphere = THIS }
-							owner = {
-								is_culture_group = south_slavic
-								relation = { who = THIS value = 100 }
-							}
-						}
-					}
-				}
+		allow = {         
+            war = no          
+            SER = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+            DAK = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+            BAN = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+        }
+        effect = {                
+            prestige = 25
+            change_tag = YUG    
+            SER = {
+				all_core = { add_core = YUG secede_province = THIS}
 			}
-			BOS = {
-				OR = {
-					AND = {
-						exists = yes
-						OR = {
-							part_of_sphere = no
-							in_sphere = THIS
-							sphere_owner = { is_sphere_leader_of = THIS }
-						}
-					}
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = { in_sphere = THIS }
-							owner = {
-								is_culture_group = south_slavic
-								relation = { who = THIS value = 100 }
-							}
-						}
-					}
-				}
+            DAK = {
+				all_core = { add_core = YUG secede_province = THIS}
 			}
-			CRO = {
-				OR = {
-					AND = {
-						exists = yes
-						OR = {
-							part_of_sphere = no
-							in_sphere = THIS
-							sphere_owner = { is_sphere_leader_of = THIS }
-						}
-					}
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = { in_sphere = THIS }
-							owner = {
-								is_culture_group = south_slavic
-								relation = { who = THIS value = 100 }
-							}
-						}
-					}
-				}
+            
+            BAN = {
+				all_core = { add_core = YUG secede_province = THIS}
 			}
-		}
-
-		effect = {
-			set_global_flag = yugoslavia_formed
-			prestige = 20
-			all_core = { add_core = YUG }
-			SER = { all_core = { add_core = YUG } }
-			MON = { all_core = { add_core = YUG } }
-			CRO = { all_core = { add_core = YUG } }
-			BOS = { all_core = { add_core = YUG } }
-			SLO = { all_core = { add_core = YUG } }
-			add_accepted_culture = serb
-			add_accepted_culture = bosniak
-			add_accepted_culture = croat
-			change_tag = YUG
-			any_country = {
-				limit = {
-					NOT = { is_culture_group = south_slavic }
-					in_sphere = THIS
-					war = no
-					any_owned_province = {
-						OR = {
-							is_core = SER
-							is_core = BOS
-							is_core = CRO
-						}
-					}
-				}
-				any_owned = {
-					limit = {
-						OR = {
-							is_core = SER
-							is_core = BOS
-							is_core = CRO
-						}
-					}
-					secede_province = THIS
-				}
+            
+            CRO = {
+				all_core = { add_core = YUG}
 			}
-			any_country = {
-				limit = {
-					war = no
-					is_culture_group = south_slavic
-					NOT = { tag = ALB }
-					OR = {
-						in_sphere = THIS
-						sphere_owner = { is_sphere_leader_of = THIS }
-						relation = { who = THIS value = 50 }
-					}
-				}
-				country_event = 11108
+            SLO = {
+				all_core = { add_core = YUG}
 			}
-		}
-
+            BUL = {
+				all_core = { add_core = YUG}
+			}
+            MON = {
+				all_core = { add_core = YUG}
+			}
+            SYC = {
+				all_core = { add_core = YUG}
+			}
+            add_accepted_culture = serb
+            add_accepted_culture = slovene
+            add_accepted_culture = iskhor
+            add_accepted_culture = nadati
+	    add_accepted_culture = westturkish
+        }
 		ai_will_do = {
 			factor = 1
 		}
-	}
-
-}
+    }
