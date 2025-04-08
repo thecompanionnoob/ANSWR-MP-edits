@@ -1,5 +1,6 @@
-owner = YAK
-controller = YAK
+owner = MCK
+controller = MCK
 add_core = YAK
+add_core = MCK
 trade_goods = timber
 life_rating = 35
