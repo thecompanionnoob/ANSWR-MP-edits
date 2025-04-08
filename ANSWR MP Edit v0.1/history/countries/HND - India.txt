@@ -1,12 +1,5 @@
 capital = 1319
-primary_culture = tekno
-culture = telegu
-culture = kannada
-culture = oriya
-culture = marathi
-culture = bihari
-culture = kanauji
-culture = gujarati
+primary_culture = south_indian
 religion = protestant
 government = democracy
 plurality = 0.0
