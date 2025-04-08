@@ -1,5 +1,6 @@
-owner = JUC
-controller = JUC
+owner = GNG
+controller = GNG
+add_core = GNG
 add_core = JUC
 trade_goods = tea
 life_rating = 32
