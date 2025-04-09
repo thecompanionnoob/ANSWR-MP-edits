@@ -1,0 +1,613 @@
+political_decisions = {
+Omsk_con_8  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = OMS
+            }
+            NOT = {has_global_flag = OCon_8}
+            has_global_flag = OCon_7	
+			
+        }
+        allow = {         
+            war = no           
+            money = 10000
+        }
+        effect = {                
+            set_global_flag= OCon_8
+            1025 = {secede_province = THIS}
+            1037 = {secede_province = THIS}
+            1025 = { add_core = MOW add_core = OMS }
+            1037 = { add_core = MOW add_core = OMS }
+            money = -10000
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+    Omsk_con_7  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = OMS
+            }
+            NOT = {has_global_flag = OCon_7}
+            has_global_flag = OCon_6	
+        }
+        allow = {         
+            war = no           
+            money = 20000 
+        }
+        effect = {                
+            money = -20000
+            set_global_flag= OCon_7
+            1001 = {secede_province = THIS}
+            998 = {secede_province = THIS}
+            991 = {secede_province = THIS}
+            992 = {secede_province = THIS}
+            1001 = { add_core = MOW add_core = OMS }
+            998 = { add_core = MOW add_core = OMS }
+            991 = { add_core = MOW add_core = OMS }
+            992 = { add_core = MOW add_core = OMS }
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+    Omsk_con_6  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = OMS
+            }
+            NOT = {has_global_flag = OCon_6}
+            has_global_flag = OCon_5	
+        }
+
+        allow = {         
+            war = no           
+            money = 40000 
+        }
+        effect = {  
+            money = -40000               
+            set_global_flag= OCon_6
+            1000 = {secede_province = THIS}
+            1014 = {secede_province = THIS}
+            1015 = {secede_province = THIS}
+            1016 = {secede_province = THIS}
+            943 = {secede_province = THIS}
+            1000 = { add_core = MOW add_core = OMS }
+            1014 = { add_core = MOW add_core = OMS }
+            1015 = { add_core = MOW add_core = OMS }
+            1016 = { add_core = MOW add_core = OMS }
+            943 = { add_core = MOW add_core = OMS }
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+    Omsk_con_5  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = OMS
+            }
+            NOT = {has_global_flag = OCon_5}
+            has_global_flag = OCon_4	
+        }
+
+        allow = {         
+            war = no           
+            money = 50000 
+        }
+        effect = {  
+            money = -50000              
+            set_global_flag= OCon_5
+            1017 = {secede_province = THIS}
+            1019 = {secede_province = THIS}
+            1039 = {secede_province = THIS}
+            1040 = {secede_province = THIS}
+            1017 = { add_core = MOW add_core = OMS }
+            1019 = { add_core = MOW add_core = OMS }
+            1039 = { add_core = MOW add_core = OMS }
+            1040 = { add_core = MOW add_core = OMS }
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+    Omsk_con_4  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = OMS
+            }
+            NOT = {has_global_flag = OCon_4}
+            has_global_flag = OCon_3	
+        }
+        allow = {         
+            war = no           
+            money = 70000  
+        }
+        effect = {
+            money = -70000                 
+            set_global_flag= OCon_4
+            1022 = {secede_province = THIS}
+            1027 = {secede_province = THIS}
+            1020 = {secede_province = THIS}
+            1033 = {secede_province = THIS}
+            1022 = { add_core = MOW add_core = OMS }
+            1027 = { add_core = MOW add_core = OMS }
+            1020 = { add_core = MOW add_core = OMS }
+            1033 = { add_core = MOW add_core = OMS }
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+    Omsk_con_3  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = OMS
+            }
+            NOT = {has_global_flag = OCon_3}
+            has_global_flag = OCon_2	
+        }
+        allow = {         
+            war = no           
+            money = 90000  
+        }
+        effect = {
+            money = -90000                 
+            set_global_flag= OCon_3
+            987 = {secede_province = THIS}
+            990 = {secede_province = THIS}
+            1028 = {secede_province = THIS}
+            1030 = {secede_province = THIS}
+            1034 = {secede_province = THIS}
+            1035 = {secede_province = THIS}
+            1043 = {secede_province = THIS}
+            987 = { add_core = MOW add_core = OMS }
+            990 = { add_core = MOW add_core = OMS }
+            1028 = { add_core = MOW add_core = OMS }
+            1030 = { add_core = MOW add_core = OMS }
+            1034 = { add_core = MOW add_core = OMS }
+            1035 = { add_core = MOW add_core = OMS }
+            1043 = { add_core = MOW add_core = OMS }
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+    Omsk_con_2  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = OMS
+            }
+            NOT = {has_global_flag = OCon_2}
+            has_global_flag = OCon_1	
+        }
+        allow = {         
+            war = no           
+            money = 100000  
+        }
+        effect = {
+            money = -100000                 
+            set_global_flag= OCon_2
+            2689 = {secede_province = THIS}
+            2700 = {secede_province = THIS}
+            1026 = {secede_province = THIS}
+            1029 = {secede_province = THIS}
+            1031 = {secede_province = THIS}     
+            2689 = { add_core = MOW add_core = OMS }
+            2700 = { add_core = MOW add_core = OMS }  
+            1026 = { add_core = MOW add_core = OMS }  
+            1029 = { add_core = MOW add_core = OMS } 
+            1031 = { add_core = MOW add_core = OMS }  
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+    Omsk_con_1  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = OMS
+            }
+            NOT = {has_global_flag = OCon_1}
+            has_global_flag = Omsk_Unified
+        }
+        allow = {         
+            war = no           
+            money = 120000  
+        }
+        effect = {
+            money = -120000                
+            set_global_flag= OCon_1
+            1183 = {secede_province = THIS}
+            2610 = {secede_province = THIS}
+            1043 = {secede_province = THIS}
+            1042 = {secede_province = THIS}
+            1034 = {secede_province = THIS}
+            1044 = {secede_province = THIS}   
+            1183 = { add_core = MOW add_core = OMS } 
+            2610 = { add_core = MOW add_core = OMS } 
+            1043 = { add_core = MOW add_core = OMS }  
+            1042 = { add_core = MOW add_core = OMS }    
+            1034 = { add_core = MOW add_core = OMS }
+            1044 = { add_core = MOW add_core = OMS } 
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+unite_omsk = {
+potential = {
+			tag = OMS
+			NOT = { has_global_flag = Omsk_Unified }
+		}
+		allow = {         
+            war = no          
+            OMS = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+            URA = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+            SIB = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+        }
+        effect = {                
+            prestige = 25    
+            OMS = {
+				all_core = { add_core = OMS secede_province = THIS}
+			}
+            URA = {
+				all_core = { add_core = OMS secede_province = THIS}
+			}
+            
+            SIB = {
+				all_core = { add_core = OMS secede_province = THIS}
+			}
+
+            MOW = {
+				all_core = { add_core = OMS }
+			}
+
+            set_global_flag = Omsk_Unified
+}
+}
+	claim_moscow = {
+		potential = {
+			tag = OMS
+			NOT = { has_global_flag = claim_moscow }
+			has_global_flag = Omsk_Unified
+			    }
+		        allow = {         
+            war = no
+            civilized = yes           
+            MOW = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            PRZ = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            STR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }     
+            NBA = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }     
+            ZKY = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }     
+            ZVY = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }    
+            owns = 1025
+            owns = 1037
+            owns = 1001
+            owns = 998
+            owns = 991
+            owns = 992
+            owns = 1000
+            owns = 1014
+            owns = 1015
+            owns = 1016
+            owns = 943
+            owns = 1017
+            owns = 1019
+            owns = 1039
+            owns = 1040
+            owns = 1022
+            owns = 1027
+            owns = 1020
+            owns = 1033
+            owns = 987
+            owns = 990
+            owns = 1028
+            owns = 1030
+            owns = 1034
+            owns = 1035
+            owns = 1043
+            owns = 2689
+            owns = 2700
+            owns = 1026
+            owns = 1029
+            owns = 1031
+            owns = 1183
+            owns = 2610
+            owns = 1043
+            owns = 1042
+            owns = 1034
+            owns = 1044      
+        }
+        effect = {                
+            prestige = 25
+            MOW = {
+				all_core = { add_core = OMS secede_province = THIS }
+			}
+            PRZ = {
+				all_core = { add_core = OMS secede_province = THIS }
+			}
+            STR = {
+				all_core = { add_core = OMS secede_province = THIS }
+			}
+            NBA = {
+				all_core = { add_core = OMS secede_province = THIS }
+			}
+            ZKY = {
+				all_core = { add_core = OMS secede_province = THIS }
+			}
+            ZVY = {
+				all_core = { add_core = OMS secede_province = THIS }
+			}     
+
+	    set_global_flag = claim_moscow
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+	Omsk_Siberia  = {
+        
+        potential = {
+            OR = {                
+                tag = OMS
+            }
+            NOT = {has_global_flag = Omsk_Siberia}
+	    has_global_flag = claim_moscow
+        }
+        allow = {         
+            war = no           
+        }
+        effect = {                
+            badboy = 10          
+            set_global_flag= Omsk_Siberia
+            URA = {
+				all_core = { add_core = OMS }
+			}
+            OMS = {
+				all_core = { add_core = OMS }
+			}
+            SIB = {
+				all_core = { add_core = OMS }
+			}
+            TAR = {
+				all_core = { add_core = OMS }
+			}
+            BRY = {
+				all_core = { add_core = OMS }
+			}
+            KRL = {
+				all_core = { add_core = OMS }
+			}
+            YAK = {
+				all_core = { add_core = OMS }
+			}
+            KAM = {
+				all_core = { add_core = OMS }
+			}
+            CPL = {
+				all_core = { add_core = OMS }
+			}
+            1076 = { add_core = OMS }
+            1075 = { add_core = OMS }
+            1469 = { add_core = OMS }
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+
+	Claim_Central_Asia  = {
+        
+        potential = {
+            OR = {                
+                tag = OMS                
+            }
+            NOT = {has_global_flag = Omsk_Empire}
+            has_global_flag = Omsk_Siberia		
+        }
+        allow = {         
+            war = no           
+            OMS = {
+                OR = {                 
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+            }     
+        }
+        effect = {  
+            badboy = 15                        
+            set_global_flag= Omsk_Empire
+            KHI = {
+				all_core = { add_core = OMS }
+			}
+            KOK = {
+				all_core = { add_core = OMS }
+			}
+            KAZ = {
+				all_core = { add_core = OMS }
+			}
+            AFG = {
+				all_core = { add_core = OMS }
+			}
+            BDK = {
+				all_core = { add_core = OMS }
+			}
+            TNT = {
+				all_core = { add_core = OMS }
+			}
+            MGL = {
+				all_core = { add_core = OMS }
+			}
+	   1594 = { add_core = OMS }
+	   1597 = { add_core = OMS }
+	   1598 = { add_core = OMS }
+	   2607 = { add_core = OMS }
+	   1596 = { add_core = OMS }
+	   1595 = { add_core = OMS }
+	   1600 = { add_core = OMS }
+	   1002 = { add_core = OMS }
+	   1553 = { add_core = OMS }
+	   1552 = { add_core = OMS }
+	   1533 = { add_core = OMS }
+	   1480 = { add_core = OMS }
+	   1479 = { add_core = OMS }
+	   1555 = { add_core = OMS }
+	   1554 = { add_core = OMS }
+	   1085 = { add_core = OMS }
+	   1084 = { add_core = OMS }
+	   2617 = { add_core = OMS }
+	   1083 = { add_core = OMS }
+	   1082 = { add_core = OMS }
+           
+           add_accepted_culture = pashtun
+           add_accepted_culture = kazak
+	   add_accepted_culture = uzbek
+	   add_accepted_culture = mongol
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+	integrate_drevnerusskiy = {
+		
+		potential = {
+			tag = OMS
+			has_global_flag = claim_moscow
+			NOT = { has_global_flag = drevnerusskiy_integration }
+			}
+
+		allow = {
+			war = no
+			1008 = { owned_by = THIS }
+			revolution_n_counterrevolution = 1
+			}
+
+		effect = {
+			add_accepted_culture = russian
+			set_global_flag = drevnerusskiy_integration
+			}
+}
+}
+
+}

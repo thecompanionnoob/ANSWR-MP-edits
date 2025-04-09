@@ -586,4 +586,25 @@ political_decisions = {
 		}
 		ai_will_do = { factor = 1 }
 	}
+
+	integrate_novosibiryaki = {
+		
+		potential = {
+			tag = RUS
+			NOT = { has_global_flag = novosibiryaki_integration }
+			}
+
+		allow = {
+			war = no
+			1064 = { owned_by = THIS }
+			revolution_n_counterrevolution = 1
+			}
+
+		effect = {
+			add_accepted_culture = novosibiryaki
+			set_global_flag = novosibiryaki_integration
+			}
 }
+}
+
+
