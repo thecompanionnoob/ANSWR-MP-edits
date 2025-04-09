@@ -439,6 +439,7 @@ annex_core_country = {
 				}
 			}
 		}
+		ai = yes
 	}
 
 	po_annex = yes
