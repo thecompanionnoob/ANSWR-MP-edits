@@ -44,6 +44,7 @@ take_from_sphere
 negotiated_transfer 
 status_quo 
 gunboat 
+minor_conquest
 conquest 
 civil_war 
 demand_for_ally
@@ -122,6 +123,46 @@ gunboat = {
 	po_gunboat = yes
 	
 	war_name = WAR_GUNBOAT_NAME
+}
+minor_conquest = {
+	sprite_index = 2
+	is_triggered_only = yes
+	months = 12
+	crisis = no
+
+	can_use = {
+		NOT = { 
+			tag = BNK 
+		}
+		NOT = { 
+            AND = {
+                total_pops = 400000 
+                number_of_states = 2
+            }
+		}
+		civilized = yes 
+		NOT = { number_of_states = 4 }
+	}
+
+	badboy_factor = 1
+	prestige_factor = 5
+	peace_cost_factor = 1
+	penalty_factor = 1
+	
+	break_truce_prestige_factor = 5
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
+	truce_months = 60
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+	
+	construction_speed = 0.5
+
+	po_annex = yes
+	
+	war_name = WAR_CONQUEST_NAME
 }
 
 status_quo = {

@@ -340,3 +340,7 @@ AGRESSION_WAR_ALL_CORES_NAME_USA_ENG;$ORDER$British-American War;;;;;;;;;;;;;
 NORMAL_WAR_ALL_CORES_NAME_USA_ENG;$ORDER$British-American War;;;;;;;;;;;;;
 AGRESSION_WAR_ALL_CORES_NAME_ENG_USA;$ORDER$British-American War;;;;;;;;;;;;;
 NORMAL_WAR_ALL_CORES_NAME_ENG_USA;$ORDER$British-American War;;;;;;;;;;;;;
+minor_conquest;Minor Conquest;;;;;;;;;x;;;;
+minor_conquest_desc;Conquer a small nation.;;;;;;;;;x;;;;
+minor_conquest_short;Conquer $RECIPIENT$;;;;;;;;;x;;;;
+minor_conquest_setup;Conquer $RECIPIENT$;;;;;;;;;x;;;;
