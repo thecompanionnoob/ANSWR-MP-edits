@@ -244,6 +244,7 @@ political_decisions = {
                 tag = CHS
                 tag = TYN
                 tag = ANI
+		tag = CLE
             }
             NOT = { exists = ENL }
         }
