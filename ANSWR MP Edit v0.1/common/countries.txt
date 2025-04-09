@@ -2,6 +2,7 @@
 
 # Special countries...
 REB     =     "countries/rebels.txt"
+BNK     =     "countries/Bankers.txt"
 
 ##North America ANSWR
 NEN        ="countries/New England.txt"

@@ -2044,15 +2044,9 @@
 #Ruled by Britain 1836
 #Falkland Islands (300/75 POPS)
 2131 = {
-    soldiers = {
-        culture = platinean
-        religion = protestant
-        size = 20
-    }
-
-    farmers = {
-        culture = platinean
-        religion = protestant
-        size = 30
-    }
+	bankers = {
+		culture = british
+		religion = sunni
+		size = 56000
+	}
 }

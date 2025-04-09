@@ -462,3 +462,10 @@ sanctions = {
 	tax_efficiency = -0.2
 	war_exhaustion = 0.5
 }
+banker = {
+	trigger = {
+		has_country_flag = bankland
+	}
+	prestige = -9999
+	research_points_modifier = -1.5
+}

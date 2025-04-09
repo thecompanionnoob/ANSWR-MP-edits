@@ -1,3 +1,6 @@
+owner = BNK
+controller = BNK
+add_core = BNK
 trade_goods = wool
 life_rating = 20
 terrain = new_world_arctic
