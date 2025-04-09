@@ -1,5 +1,6 @@
-owner = CHA
-controller = CHA
+owner = ALN
+controller = ALN
+add_core = ALN
 add_core = CHA
 trade_goods = fish
 life_rating = 32

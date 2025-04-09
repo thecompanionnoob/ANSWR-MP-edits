@@ -1,5 +1,7 @@
 capital = 1495
 primary_culture = cantan
+culture = lanzu
+culture = yue
 religion = protestant
 government = absolute_monarchy
 plurality = 0.0

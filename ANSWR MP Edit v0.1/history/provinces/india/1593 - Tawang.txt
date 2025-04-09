@@ -1,5 +1,6 @@
-owner = TIB
-controller = TIB
+owner = NEP
+controller = NEP
+add_core = NEP
 add_core = ASM
 add_core = TIB
 add_core = KCH

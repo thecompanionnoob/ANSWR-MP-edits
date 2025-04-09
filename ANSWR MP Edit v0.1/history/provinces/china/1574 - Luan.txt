@@ -1,6 +1,7 @@
-owner = HNN
-controller = HNN
+owner = MCK
+controller = MCK
 add_core = HNN
+add_core = MCK
 trade_goods = cotton
 life_rating = 32
 naval_base = 1

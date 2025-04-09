@@ -1,5 +1,6 @@
-owner = EZO
-controller = EZO
+owner = JIY
+controller = JIY
+add_core = JIY
 add_core = EZO
 trade_goods = coal
 life_rating = 35

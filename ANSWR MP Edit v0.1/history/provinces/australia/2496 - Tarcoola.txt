@@ -1,5 +1,5 @@
-owner = APL
-controller = APL
+owner = RPL
+controller = RPL
 add_core = FRM
 trade_goods = wool
 life_rating = 33

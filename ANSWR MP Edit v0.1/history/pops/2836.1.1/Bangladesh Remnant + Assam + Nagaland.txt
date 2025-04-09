@@ -107,63 +107,33 @@
 #Dibrugarh (194079 POPS)
 1260 = {
     aristocrats = {
-        culture = assamese
+        culture = north_indian
         religion = protestant
-        size = 1100
+        size = 1800
     }
 
     clergymen = {
-        culture = assamese
+        culture = north_indian
         religion = protestant
-        size = 750
+        size = 1200
     }
 
     artisans = {
-        culture = assamese
+        culture = north_indian
         religion = protestant
-        size = 4500
+        size = 7000
     }
 
     soldiers = {
-        culture = assamese
+        culture = north_indian
         religion = protestant
-        size = 4100
+        size = 5200
     }
 
     farmers = {
-        culture = assamese
+        culture = north_indian
         religion = protestant
-        size = 129750
-    }
-
-	aristocrats = {
-        culture = bengali
-        religion = protestant
-        size = 700
-    }
-
-    clergymen = {
-        culture = bengali
-        religion = protestant
-        size = 450
-    }
-
-    artisans = {
-        culture = bengali
-        religion = protestant
-        size = 2500
-    }
-
-    soldiers = {
-        culture = bengali
-        religion = protestant
-        size = 1100
-    }
-
-    farmers = {
-        culture = bengali
-        religion = protestant
-        size = 60425
+        size = 190175
     }
 }
 #Agartala (608000/152000 POPS)

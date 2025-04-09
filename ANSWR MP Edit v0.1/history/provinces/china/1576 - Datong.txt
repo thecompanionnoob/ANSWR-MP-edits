@@ -1,5 +1,6 @@
-owner = HNN
-controller = HNN
+owner = MCK
+controller = MCK
 add_core = HNN
+add_core = MCK
 trade_goods = timber
 life_rating = 32

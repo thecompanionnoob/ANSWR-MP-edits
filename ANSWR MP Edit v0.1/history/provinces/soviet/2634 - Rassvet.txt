@@ -1,6 +1,7 @@
-owner = CPL
-controller = CPL
+owner = MCK
+controller = MCK
 add_core = CPL
+add_core = MCK
 trade_goods = fish
 terrain = montane_tundra
 life_rating = 31

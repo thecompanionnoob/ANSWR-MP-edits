@@ -1,5 +1,6 @@
-owner = NIH
-controller = NIH
+owner = JIY
+controller = JIY
+add_core = JIY
 add_core = NIH
 terrain = ruined_city
 trade_goods = fruit

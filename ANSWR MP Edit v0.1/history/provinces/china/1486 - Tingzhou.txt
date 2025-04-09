@@ -1,5 +1,6 @@
-owner = CHA
-controller = CHA
+owner = GNG
+controller = GNG
+add_core = GNG
 add_core = CHA
 trade_goods = wool
 life_rating = 35
