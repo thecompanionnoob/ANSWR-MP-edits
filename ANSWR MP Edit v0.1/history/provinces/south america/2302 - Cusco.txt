@@ -1,5 +1,6 @@
-owner = BWK
-controller = BWK
+owner = ARE
+controller = ARE
+add_core = ARE
 add_core = BWK
 trade_goods = wool
 life_rating = 37
