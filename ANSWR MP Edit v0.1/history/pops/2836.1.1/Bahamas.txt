@@ -62,30 +62,3 @@
         size = 540
     }
 }
-#Turks & Caicos Islands (3000/750 POPS) #still a British colony
-2220 = {
-    clergymen = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 550
-    }
-
-}

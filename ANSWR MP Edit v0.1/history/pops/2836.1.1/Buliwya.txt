@@ -1,9 +1,9 @@
 #Cusco Region (404000)
 #Ruled by Peru 1836
-#Cusco (228000/57000 POPS)
+#Kusqu (228000/57000 POPS)
 2302 = {
     aristocrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 450
     }
@@ -11,182 +11,111 @@
     slaves = {
         culture = pacinian
         religion = protestant
-        size = 10800
+        size = 16800
     }
 
     bureaucrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 500
     }
 
     officers = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = aimara
+        culture = pacinian
         religion = protestant
-        size = 100
+        size = 500
     }
 
     artisans = {
-        culture = aimara
+        culture = pacinian
         religion = protestant
-        size = 1100
+        size = 3200
     }
 
     soldiers = {
-        culture = aimara
+        culture = pacinian
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = aimara
+        culture = pacinian
         religion = protestant
-        size = 11625
+        size = 55875
     }
 
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 300
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 2100
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 44275
-    }
-
-    slaves = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 6000
-    }
 }
-#Puno (77403 POPS)
+#Punu (77403 POPS)
 2303 = {
     aristocrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 575
     }
 
     clergymen = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
-        size = 150
+        size = 250
     }
 
     artisans = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
-        size = 150
+        size = 3300
     }
 
     soldiers = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 10025
+        size = 2600
     }
 
     slaves = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 2800
     }
 
-    clergymen = {
-        culture = aimara
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = aimara
-        religion = protestant
-        size = 3150
-    }
-
-    soldiers = {
-        culture = aimara
-        religion = protestant
-        size = 2500
-    }
-
     farmers = {
-        culture = aimara
+        culture = pacinian
         religion = protestant
-        size = 58500
+        size = 68500
     }
 }
 
 #Atacama Region (164000) #see Peru.txt for balance of Region
 #Ruled by Buliwya 2836
-#Antofagasta (22498 POPS)
+#Anta-Pakat (22498 POPS)
 2305 = {
     aristocrats = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 50
     }
 
     bureaucrats = {
-        culture = quechua
+        culture = aimara
         religion = protestant
-        size = 5
+        size = 10
     }
 
     officers = {
-        culture = quechua
+        culture = aimara
         religion = protestant
-        size = 5
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 150
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 200
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 75
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 4900
+        size = 50
     }
 
     clergymen = {
         culture = aimara
         religion = protestant
-        size = 50
+        size = 150
     }
 
     artisans = {
@@ -207,42 +136,18 @@
         size = 17225
     }
 }
-#Calama (10721 POPS)
+#Ckara-Ama (10721 POPS)
 2309 = {
     aristocrats = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 175
     }
 
     clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 50
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 2700
-    }
-
-    clergymen = {
         culture = aimara
         religion = protestant
-        size = 50
+        size =50
     }
 
     artisans = {
@@ -254,7 +159,7 @@
     soldiers = {
         culture = aimara
         religion = protestant
-        size = 50
+        size = 150
     }
 
     farmers = {
@@ -264,42 +169,18 @@
     }
 }
 #Ruled by Peru 1836
-#Iquique (20660 POPS)
+#Iki-Iki (20660 POPS)
 2307 = {
     aristocrats = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 375
     }
 
     clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 150
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 200
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 325
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 8650
-    }
-
-    clergymen = {
         culture = aimara
         religion = protestant
-        size = 50
+        size = 450
     }
 
     artisans = {
@@ -311,74 +192,50 @@
     soldiers = {
         culture = aimara
         religion = protestant
-        size = 175
+        size = 1575
     }
 
     farmers = {
         culture = aimara
         religion = protestant
-        size = 9575
+        size = 18575
     }
 }
-#Arica (20000/5000 POPS)
+#Ari-Aka (20000/5000 POPS)
 2308 = {
     aristocrats = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 525
     }
 
     clergymen = {
-        culture = quechua
+        culture = aimara
         religion = protestant
-        size = 200
+        size = 425
     }
 
     artisans = {
-        culture = quechua
-        religion = protestant
-        size = 450
-    }
-
-    soldiers = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 500
     }
 
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 9740
-    }
-
-    clergymen = {
-        culture = aimara
-        religion = protestant
-        size = 125
-    }
-
-    artisans = {
-        culture = aimara
-        religion = protestant
-        size = 400
-    }
-
     soldiers = {
         culture = aimara
         religion = protestant
-        size = 350
+        size = 850
     }
 
     farmers = {
         culture = aimara
         religion = protestant
-        size = 4725
+        size = 13725
     }
 }
 #La Paz Region (784000)
 #Ruled by Bolivia 1836
-#La Paz (198000 POPS)
+#Chuqi Yapu (198000 POPS)
 2310 = {
     aristocrats = {
         culture = aimara
@@ -401,76 +258,28 @@
     clergymen = {
         culture = aimara
         religion = protestant
-        size = 650
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 5825
+        size = 1000
     }
 
     soldiers = {
         culture = aimara
         religion = protestant
-        size = 10000
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 20000
-    }
-
-    clergymen = {
-        culture = aimara
-        religion = protestant
-        size = 300
+        size = 12050
     }
 
     artisans = {
         culture = aimara
         religion = protestant
-        size = 7525
+        size = 13525
     }
 
     farmers = {
         culture = aimara
         religion = protestant
-        size = 122175
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 150
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 2050
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 22775
+        size = 162175
     }
 }
-#Cochabamba (109884 POPS)
+#Quchapampa (109884 POPS)
 2311 = {
     aristocrats = {
         culture = aimara
@@ -481,52 +290,28 @@
     clergymen = {
         culture = aimara
         religion = protestant
-        size = 550
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 1150
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 1100
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 23600
-    }
-
-    clergymen = {
-        culture = aimara
-        religion = protestant
-        size = 300
+        size = 1050
     }
 
     artisans = {
         culture = aimara
         religion = protestant
-        size = 3250
+        size = 4350
     }
 
 	soldiers = {
         culture = aimara
         religion = protestant
-        size = 2100
+        size = 3200
     }
 
     farmers = {
         culture = aimara
         religion = protestant
-        size = 71500
+        size = 94500
     }
 }
-#Oruro (34568 POPS)
+#Uru-Uru (34568 POPS)
 2312 = {
     aristocrats = {
         culture = aimara
@@ -534,51 +319,33 @@
         size = 225
     }
 
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 150
-    }
-
     soldiers = {
         culture = aimara
         religion = protestant
         size = 950
     }
 
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 5525
-    }
-
     clergymen = {
         culture = aimara
         religion = protestant
-        size = 75
+        size = 275
     }
 
     artisans = {
         culture = aimara
         religion = protestant
-        size = 950
+        size = 1950
     }
 
     farmers = {
         culture = aimara
         religion = protestant
-        size = 25575
+        size = 30575
     }
 }
 #Chuquisaca Region (288000)
 #Ruled by Bolivia 1836
-#Chuquisaca (36335 POPS)
+#Chiquichaka (36335 POPS)
 2313 = {
     aristocrats = {
         culture = aimara
@@ -601,13 +368,13 @@
     clergymen = {
         culture = aimara
         religion = protestant
-        size = 175
+        size = 575
     }
 
     artisans = {
         culture = aimara
         religion = protestant
-        size = 50
+        size = 1250
     }
 
     soldiers = {
@@ -619,34 +386,10 @@
     farmers = {
         culture = aimara
         religion = protestant
-        size = 11825
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 125
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 1200
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 19325
+        size = 31825
     }
 }
-#Potosi (56350 POPS)
+#Potoq (56350 POPS)
 2314 = {
     aristocrats = {
         culture = aimara
@@ -657,13 +400,13 @@
     clergymen = {
         culture = aimara
         religion = protestant
-        size = 150
+        size = 350
     }
 
     artisans = {
         culture = aimara
         religion = protestant
-        size = 150
+        size = 1650
     }
 
     soldiers = {
@@ -675,133 +418,79 @@
     farmers = {
         culture = aimara
         religion = protestant
-        size = 37050
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 125
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 1350
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 14525
+        size = 51050
     }
 }
 #Tarija (52000/13000 POPS)
 2315 = {
     aristocrats = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 275
     }
 
     clergymen = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 575
     }
 
     clergymen = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 125
     }
 
     farmers = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 3225
     }
 }
 #Santa Cruz Region (48000)
 #Ruled by Bolivia 1836
-#Santa Cruz (16000/4000 POPS)
+#Orijia (16000/4000 POPS)
 2316 = {
     aristocrats = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 100
-    }
-
-    bureaucrats = {
-        culture = quechua
-        religion = protestant
-        size = 5
-    }
-
-    officers = {
-        culture = quechua
-        religion = protestant
-        size = 10
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 50
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 25
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 735
     }
 
     clergymen = {
         culture = aimara
         religion = protestant
-        size = 25
+        size = 125
     }
 
     artisans = {
@@ -822,30 +511,30 @@
         size = 1775
     }
 }
-#San Ignacio (20000/5000 POPS)
+#Jicnago (20000/5000 POPS)
 2317 = {
     clergymen = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = quechua
+        culture = aimara
         religion = protestant
-        size = 300
+        size = 1000
     }
 
     aristocrats = {
@@ -877,38 +566,8 @@
         religion = protestant
         size = 1400
     }
-
-    aristocrats = {
-        culture = aimara
-        religion = protestant
-        size = 25
-    }
-
-    clergymen = {
-        culture = aimara
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = aimara
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = aimara
-        religion = protestant
-        size = 25
-    }
-
-    farmers = {
-        culture = aimara
-        religion = protestant
-        size = 500
-    }
 }
-#Robore (12000/3000 POPS)
+#Sabatigia (12000/3000 POPS)
 2318 = {
     aristocrats = {
         culture = amazonian
@@ -939,73 +598,79 @@
         religion = protestant
         size = 1300
     }
+	
+	farmers = {
+        culture = aimara
+        religion = protestant
+        size = 1000
+    }
 }
 #Beni Region (116000) #see Brazil.txt for balance of region
 #Ruled by Bolivia 1836
-#Santa Ana (76000/19000 POPS)
+#Santan (76000/19000 POPS)
 2319 = {
     aristocrats = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 275
     }
 
     bureaucrats = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 25
     }
 
     officers = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 2400
     }
 
     clergymen = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 1350
     }
@@ -1040,7 +705,7 @@
         size = 2475
     }
 }
-#Riberalta (12000/3000 POPS)
+#Guarapa (12000/3000 POPS)
 2320 = {
     aristocrats = {
         culture = amazonian
@@ -1071,59 +736,65 @@
         religion = protestant
         size = 1350
     }
+	
+    farmers = {
+        culture = aimara
+        religion = protestant
+        size = 1350
+    }
 }
-#Cobija (28000/7000 POPS)
+#Terraien (28000/7000 POPS)
 2321 = {
     aristocrats = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 375
     }
 
     clergymen = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = quechua
+        culture = aimara
         religion = protestant
         size = 1120
     }

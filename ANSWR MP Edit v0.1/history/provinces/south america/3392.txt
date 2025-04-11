@@ -1,5 +1,6 @@
-owner = HUA
-controller = HUA
+owner = ARE
+controller = ARE
+add_core = ARE
 add_core = HUA	
 trade_goods = fruit
 life_rating = 35

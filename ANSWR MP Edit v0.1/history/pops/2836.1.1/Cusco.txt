@@ -2,15 +2,8 @@
 #41,000 registered slaves in 1821, that means 10250 slave pops.
 #Loreto Region (96000)
 #Ruled by Peru 1836
-#Iquitos (60000/15000 POPS)
+#Xivar-0 (60000/15000 POPS)
 2286 = {
-
-    farmers = {
-        culture = fortaleceirei
-        religion = protestant
-        size = 700
-    }
-
     aristocrats = {
         culture = amazonian
         religion = protestant
@@ -38,32 +31,32 @@
     farmers = {
         culture = amazonian
         religion = protestant
-        size = 1125
+        size = 1825
     }
 }
 #"Ruled" by Ecuador 1836
 #Yurimagues (9462 POPS)
 2287 = {
     aristocrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 25
     }
@@ -77,15 +70,11 @@
 	farmers = { 
 		culture = pacinian
         religion = protestant
-        size = 4000
+        size = 7000
     }
-	farmers = {
-        culture = amazonian
-        religion = protestant
-        size = 3000
-    }
+
 }
-#Yuncos (33962 POPS) - renamed as True Iquitos
+#West Iquitos (33962 POPS) - renamed as True Iquitos
 2288 = {
     aristocrats = {
         culture = amazonian
@@ -104,21 +93,21 @@
         religion = protestant
         size = 2775
     }
-	
-	 aristocrats = {
-        culture = quechua
+
+	aristocrats = {
+        culture = pacinian
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 12775
     }
@@ -156,11 +145,11 @@
     aristocrats = {
         culture = pacinian
         religion = protestant
-        size = 200
+        size = 325
     }
 
     bureaucrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 100
     }
@@ -168,61 +157,31 @@
     clergymen = {
         culture = pacinian
         religion = protestant
-        size = 150
+        size = 275
     }
 
     artisans = {
         culture = pacinian
         religion = protestant
-        size = 300
+        size = 1600
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 525
+        size = 1375
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 4050
-    }
-
-    aristocrats = {
-        culture = quechua
-        religion = protestant
-        size = 125
+        size = 17375
     }
 
     officers = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 100
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 125
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 1300
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 850
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 13325
     }
 }
 
@@ -237,91 +196,37 @@
     clergymen = {
         culture = pacinian
         religion = protestant
-        size = 25
+        size = 225
     }
 
     artisans = {
         culture = pacinian
         religion = protestant
-        size = 100
+        size = 1650
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 1100
+        size = 2300
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 32050
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 1450
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 1100
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 16350
-    }
-
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 1600
+        size = 50000
     }
 
     slaves = {
         culture = pacinian
         religion = protestant
-        size = 800
-    }
-
-    slaves = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 1600
+        size = 2400
     }
 }
 #Moyobamba (38344 POPS)
 2294 = {
     aristocrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 50
     }
@@ -329,49 +234,25 @@
     clergymen = {
         culture = pacinian
         religion = protestant
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = pacinian
         religion = protestant
-        size = 100
+        size = 200
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 100
+        size = 1200
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 3650
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 1100
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 32915
+        size = 36565
     }
 
     slaves = {
@@ -386,63 +267,33 @@
 #Huanuco (66067 POPS)
 2293 = {
     aristocrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
-        size = 75
+        size = 250
     }
 
     clergymen = {
         culture = pacinian
         religion = protestant
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = pacinian
         religion = protestant
-        size = 1100
+        size = 3450
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 100
+        size = 1250
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 69300
-    }
-
-	aristocrats = {
-        culture = quechua
-        religion = protestant
-        size = 175
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 2350
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 1150
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 39400
+        size = 108700
     }
 
     slaves = {
@@ -455,7 +306,7 @@
 #Jauja (33770 POPS)
 2296 = {
     aristocrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 125
     }
@@ -463,25 +314,25 @@
     clergymen = {
         culture = pacinian
         religion = protestant
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = pacinian
         religion = protestant
-        size = 100
+        size = 6750
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 125
+        size = 1250
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 20450
+        size = 68575
     }
 
     slaves = {
@@ -489,59 +340,35 @@
         religion = protestant
         size = 52000
     }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 6650
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 1125
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 48125
-    }
 }
 #Ayacucho (108000/27000 POPS)
 2299 = {
     aristocrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 1075
     }
 
     bureaucrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 475
     }
 
     officers = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 150
     }
 
     clergymen = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 175
     }
 
     artisans = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 200
     }
@@ -555,19 +382,13 @@
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 7825
+        size = 42350
     }
 
     slaves = {
         culture = pacinian
         religion = protestant
         size = 5800
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 34525
     }
 }
 #Lima Region (484000)
@@ -577,11 +398,11 @@
     aristocrats = {
         culture = pacinian
         religion = protestant
-        size = 300
+        size = 2500
     }
 
     bureaucrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 200
     }
@@ -589,101 +410,35 @@
     officers = {
         culture = pacinian
         religion = protestant
-        size = 25
+        size = 250
     }
 
     clergymen = {
         culture = pacinian
         religion = protestant
-        size = 50
+        size = 200
     }
 
     artisans = {
         culture = pacinian
         religion = protestant
-        size = 2000
-    }
-
-    artisans = {
-        culture = pacinian
-        religion = protestant
-        size = 400
+        size = 2400
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 3000
+        size = 7150
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 38800
-    }
-
-    aristocrats = {
-        culture = quechua
-        religion = protestant
-        size = 2200
-    }
-
-    officers = {
-        culture = quechua
-        religion = protestant
-        size = 225
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 150
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 5800
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 4150
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 34950
-    }
-
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 2000
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 1400
+        size = 73750
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = pacinian
         religion = protestant
         size = 1500
     }
@@ -699,25 +454,25 @@
     clergymen = {
         culture = pacinian
         religion = protestant
-        size = 50
+        size = 150
     }
 
     artisans = {
         culture = pacinian
         religion = protestant
-        size = 200
+        size = 700
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 2100
+        size = 2200
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 52250
+        size = 58250
     }
 
     slaves = {
@@ -726,59 +481,11 @@
         size = 3800
     }
 
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 500
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 6000
-    }
-
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 300
-    }
-
 }
 #Huaraz (75371 POPS)
 2298 = {
     aristocrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 625
     }
@@ -786,99 +493,40 @@
     clergymen = {
         culture = pacinian
         religion = protestant
-        size = 50
+        size = 150
     }
 
     artisans = {
         culture = pacinian
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = pacinian
-        religion = protestant
-        size = 1000
-    }
-
-    farmers = {
-        culture = pacinian
-        religion = protestant
-        size = 39250
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 100
-    }
-
-    slaves = {
-        culture = pacinian
-        religion = protestant
-        size = 2800
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 1050
-    }
-
-    soldiers = {
-        culture = quechua
         religion = protestant
         size = 1150
     }
 
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 29900
-    }
-
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
     soldiers = {
-        culture = afro_caribeno
+        culture = pacinian
         religion = protestant
-        size = 100
+        size = 2150
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = pacinian
         religion = protestant
-        size = 11100
+        size = 69150
     }
+
 }
 #Ucayali Region (32000)
 #Ruled by Peru 1836
 #Pucallpa (35000 POPS)
 2300 = {
-    aristocrats = {
-        culture = quechua
-        religion = protestant
-        size = 140
-    }
-
     bureaucrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 250
     }
@@ -889,34 +537,22 @@
         size = 50
     }
 
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 5000
-    }
-
     aristocrats = {
         culture = pacinian
         religion = protestant
-        size = 100
+        size = 200
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 300
+        size = 400
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 28225
+        size = 23225
     }
 }
 #Puerto Maldonado (12000/3000 POPS)
@@ -963,25 +599,25 @@
     clergymen = {
         culture = pacinian
         religion = protestant
-        size = 25
+        size = 125
     }
 
     artisans = {
         culture = pacinian
         religion = protestant
-        size = 8100
+        size = 8800
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 4500
+        size = 4650
     }
 
     slaves = {
         culture = pacinian
         religion = protestant
-        size = 5800
+        size = 115000
     }
 
     farmers = {
@@ -989,51 +625,15 @@
         religion = protestant
         size = 62500
     }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 700
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 150
-    }
-
-    slaves = {
-        culture = aimara
-        religion = protestant
-        size = 54100
-    }
-
-    slaves = {
-        culture = quechua
-        religion = protestant
-        size = 55100
-    }
 }
 #Atacama Region (100000) #see Chile.txt for balance of Region
 #Ruled by Peru 1836
 #Tacna (100000/25000 POPS)
 2578 = {
     aristocrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 550
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 11100
     }
     
     bureaucrats = {
@@ -1051,25 +651,25 @@
     clergymen = {
         culture = pacinian
         religion = protestant
-        size = 50
+        size = 150
     }
 
     artisans = {
         culture = pacinian
         religion = protestant
-        size = 50
+        size = 1150
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 100
+        size = 300
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 1925
+        size = 25825
     }
 
     slaves = {
@@ -1077,37 +677,6 @@
         religion = protestant
         size = 5100
     }
-
-    clergymen = {
-        culture = aimara
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = aimara
-        religion = protestant
-        size = 1100
-    }
-
-    soldiers = {
-        culture = aimara
-        religion = protestant
-        size = 200
-    }
-
-    farmers = {
-        culture = aimara
-        religion = protestant
-        size = 8700
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 4100
-    }
-
 }
 
 #Galapagos Region (300)
@@ -1156,96 +725,37 @@
     clergymen = {
         culture = pacinian
         religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = pacinian
-        religion = protestant
         size = 150
     }
 
-    soldiers = {
-        culture = pacinian
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = pacinian
-        religion = protestant
-        size = 1325
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 100
-    }
-
     artisans = {
-        culture = quechua
-        religion = protestant
-        size = 300
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 600
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 6500
-    }
-
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 500
-    }
-
-    slaves = {
         culture = pacinian
         religion = protestant
-        size = 500
+        size = 450
     }
 
-    slaves = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 500
-    }
-}
-
-3387 = {
-
-    farmers = {
-        culture = fortaleceirei
+    soldiers = {
+        culture = pacinian
         religion = protestant
         size = 700
     }
 
+    farmers = {
+        culture = pacinian
+        religion = protestant
+        size = 7825
+    }
+
+    slaves = {
+        culture = pacinian
+        religion = protestant
+        size = 2000
+    }
+
+}
+
+#PROV3387
+3387 = {
     aristocrats = {
         culture = amazonian
         religion = protestant
@@ -1273,43 +783,44 @@
     farmers = {
         culture = amazonian
         religion = protestant
-        size = 1125
+        size = 1825
     }
 }
 
+#PROV3388
 3388 = {
     aristocrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 14
     }
 
     bureaucrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 1
     }
 
     clergymen = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 10
     }
 
     farmers = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 300
     }
@@ -1332,12 +843,12 @@
         size = 2225
     }
 }
-
+#Quillabamba
 3389 = {
     aristocrats = {
         culture = pacinian
         religion = protestant
-        size = 200
+        size = 325
     }
 
     bureaucrats = {
@@ -1349,19 +860,19 @@
     clergymen = {
         culture = pacinian
         religion = protestant
-        size = 150
+        size = 275
     }
 
     artisans = {
         culture = pacinian
         religion = protestant
-        size = 300
+        size = 600
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 525
+        size = 1375
     }
 
     farmers = {
@@ -1370,43 +881,19 @@
         size = 7850
     }
 
-    aristocrats = {
-        culture = quechua
-        religion = protestant
-        size = 125
-    }
-
     officers = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 100
     }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 125
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 300
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 850
-    }
 }
 
-
+#Churcampa
 3390 = {
     aristocrats = {
         culture = pacinian
         religion = protestant
-        size = 200
+        size = 325
     }
 
     bureaucrats = {
@@ -1418,74 +905,44 @@
     clergymen = {
         culture = pacinian
         religion = protestant
-        size = 150
+        size = 275
     }
 
     artisans = {
         culture = pacinian
         religion = protestant
-        size = 300
+        size = 1600
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 1525
+        size = 2375
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 24050
-    }
-
-    aristocrats = {
-        culture = quechua
-        religion = protestant
-        size = 125
+        size = 26375
     }
 
     officers = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 100
     }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 125
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 1300
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 850
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 2325
-    }
 }
 
-
+#Satipo
 3391 = {
     aristocrats = {
         culture = pacinian
         religion = protestant
-        size = 200
+        size = 375
     }
 
     bureaucrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 100
     }
@@ -1493,73 +950,43 @@
     clergymen = {
         culture = pacinian
         religion = protestant
-        size = 150
+        size = 275
     }
 
     artisans = {
         culture = pacinian
         religion = protestant
-        size = 1300
+        size = 2600
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 1525
+        size = 2375
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 60050
-    }
-
-    aristocrats = {
-        culture = quechua
-        religion = protestant
-        size = 125
+        size = 76375
     }
 
     officers = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 100
     }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 125
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 1300
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 850
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 16325
-    }
 }
-
+#Pariacoto
 3392 = {
     aristocrats = {
         culture = pacinian
         religion = protestant
-        size = 200
+        size = 325
     }
 
     bureaucrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 100
     }
@@ -1567,73 +994,43 @@
     clergymen = {
         culture = pacinian
         religion = protestant
-        size = 150
+        size = 275
     }
 
     artisans = {
         culture = pacinian
         religion = protestant
-        size = 300
+        size = 1600
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 525
+        size = 1375
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 4050
-    }
-
-    aristocrats = {
-        culture = quechua
-        religion = protestant
-        size = 125
+        size = 17375
     }
 
     officers = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 100
     }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 125
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 1300
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 850
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 13325
-    }
 }
-
+#Otzuco
 3393 = {
     aristocrats = {
         culture = pacinian
         religion = protestant
-        size = 200
+        size = 325
     }
 
     bureaucrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 100
     }
@@ -1641,73 +1038,43 @@
     clergymen = {
         culture = pacinian
         religion = protestant
-        size = 150
+        size = 275
     }
 
     artisans = {
         culture = pacinian
         religion = protestant
-        size = 300
+        size = 1600
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 525
+        size = 1375
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 4050
-    }
-
-    aristocrats = {
-        culture = quechua
-        religion = protestant
-        size = 125
+        size = 17375
     }
 
     officers = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 100
     }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 125
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 1300
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 850
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 13325
-    }
 }
-
+#Kashamarka
 3394 = {
     aristocrats = {
         culture = pacinian
         religion = protestant
-        size = 200
+        size = 325
     }
 
     bureaucrats = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 100
     }
@@ -1715,60 +1082,30 @@
     clergymen = {
         culture = pacinian
         religion = protestant
-        size = 150
+        size = 275
     }
 
     artisans = {
         culture = pacinian
         religion = protestant
-        size = 3000
+        size = 4300
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 525
+        size = 2375
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 40500
-    }
-
-    aristocrats = {
-        culture = quechua
-        religion = protestant
-        size = 125
+        size = 73825
     }
 
     officers = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
         size = 100
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 125
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 1300
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 1850
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 33325
     }
 }

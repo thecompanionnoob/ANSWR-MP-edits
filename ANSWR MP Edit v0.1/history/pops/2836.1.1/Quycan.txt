@@ -1,6 +1,6 @@
 #Cundinamarca Region (584000)
 #Ruled by Colombia 1836
-#Bogota (240000/60000 POPS)
+#Bacata (240000/60000 POPS)
 2247 = {
     aristocrats = {
         culture = muisca
@@ -44,37 +44,13 @@
         size = 46875
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 200
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 25
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 6475
-    }
-
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 4250
+        size = 10250
     }
 }
-#Ibaque (88000/22000 POPS)
+#Iantra (88000/22000 POPS)
 2248 = {
     aristocrats = {
         culture = muisca
@@ -106,41 +82,13 @@
         size = 10200
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 10
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 10
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 680
-    }
 
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 250
+        size = 2250
     }
 
-    farmers = {
-        culture = amazonian
-        religion = protestant
-        size = 680
-    }    
 }
 #Tunja (56000/14000 POPS)
 2249 = {
@@ -174,7 +122,7 @@
         size = 5050
     }
 }
-#Manizales (116000/29000 POPS)
+#Por dek Ciole (116000/29000 POPS)
 2250 = {
     aristocrats = {
         culture = muisca
@@ -206,7 +154,7 @@
         size = 12650
     }
 }
-#Cucuta (84000/21000 POPS)
+#Intormonkit (84000/21000 POPS)
 2251 = {
     aristocrats = {
         culture = muisca
@@ -234,7 +182,7 @@
 }
 #Antioquia Region (452000)
 #Ruled by Colombia 1836
-#Medellin (128000/32000 POPS)
+#Crante Estata (128000/32000 POPS)
 2252 = {
     aristocrats = {
         culture = muisca
@@ -272,37 +220,13 @@
         size = 33875
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 400
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 75
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 3375
-    }
-
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 10000
+        size = 12400
     }
 }
-#Quibdo (48000/12000 POPS)
+#Joleni Tener (48000/12000 POPS)
 2253 = {
     aristocrats = {
         culture = muisca
@@ -334,37 +258,13 @@
         size = 7400
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 350
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 75
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 2500
-    }
-
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 5000
+        size = 7700
     }
 }
-#Cartagena de Indias (144000/36000 POPS)
+#Lindre Pordemac(144000/36000 POPS)
 2254 = {
     aristocrats = {
         culture = muisca
@@ -396,61 +296,14 @@
         size = 15575
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 1050
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 200
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 12675
-    }
-
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 5000
+        size = 17000
     }
 
-    clergymen = {
-        culture = amazonian #guajiro
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = amazonian #guajiro
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = amazonian #guajiro
-        religion = protestant
-        size = 25
-    }
-
-    farmers = {
-        culture = amazonian #guajiro
-        religion = protestant
-        size = 850
-    }
 }
-#Barranquilla (132000/33000 POPS)
+#Arrienon Mugri (132000/33000 POPS)
 2255 = {
     aristocrats = {
         culture = muisca
@@ -482,63 +335,16 @@
         size = 41725
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 500
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 1200
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 11800
-    }
-
     slaves = {
         culture = afro_caribeno
         religion = protestant
-        size = 4000
+        size = 17000
     }
 
-    clergymen = {
-        culture = amazonian #guajiro
-        religion = protestant
-        size = 10
-    }
-
-    artisans = {
-        culture = amazonian #guajiro
-        religion = protestant
-        size = 50
-    }
-
-    soldiers = {
-        culture = amazonian #guajiro
-        religion = protestant
-        size = 10
-    }
-
-    farmers = {
-        culture = amazonian #guajiro
-        religion = protestant
-        size = 530
-    }
 }
 #Ruled by Colombia 1836
 #Cauca Region (300000)
-#Cali (92000/23000 POPS)
+#Suttestasta (92000/23000 POPS)
 2256 = {
     aristocrats = {
         culture = muisca
@@ -582,37 +388,13 @@
         size = 8250
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 150
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 1000
-    }
-
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 1750
+        size = 3000
     }
 }
-#Popayan (68000/17000 POPS)
+#Freitra (68000/17000 POPS)
 2257 = {
     aristocrats = {
         culture = muisca
@@ -641,34 +423,11 @@
     farmers = {
         culture = muisca
         religion = protestant
-        size = 5875
+        size = 8875
     }
 
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 300
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 75
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 3550
-    }
 }
-#Buenaventura (60000/15000 POPS)
+#Pordemac dek Atia (60000/15000 POPS)
 2258 = {
     aristocrats = {
         culture = muisca
@@ -700,37 +459,13 @@
         size = 12100
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 75
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 4800
-    }
-
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 4900
+        size = 9000
     }
 }
-#Pasto (80000/20000 POPS)
+#Ferrotra (80000/20000 POPS)
 2259 = {
     aristocrats = {
         culture = muisca
@@ -759,31 +494,7 @@
     farmers = {
         culture = muisca
         religion = protestant
-        size = 6925
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 550
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 125
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 4275
+        size = 11925
     }
 }
 #Rio Negro Region (128000) #see Brazil.txt for balance of region
@@ -856,30 +567,6 @@
         culture = amazonian
         religion = protestant
         size = 1875
-    }
-
-    clergymen = {
-        culture = muisca
-        religion = protestant
-        size = 5
-    }
-
-    artisans = {
-        culture = muisca
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = muisca
-        religion = protestant
-        size = 5
-    }
-
-    farmers = {
-        culture = muisca
-        religion = protestant
-        size = 20
     }
 }
 #Casanare (60000/15000 POPS)
@@ -976,157 +663,98 @@
         size = 1925
     }
 
-    clergymen = {
-        culture = muisca
-        religion = protestant
-        size = 5
-    }
-
-    artisans = {
-        culture = muisca
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = muisca
-        religion = protestant
-        size = 5
-    }
-
-    farmers = {
-        culture = muisca
-        religion = protestant
-        size = 520
-    }
-
-    farmers = {
-        culture = fortaleceirei
-        religion = protestant
-        size = 320
-    }
 }
 #Curacao (12300/3100 POPS)
 2234 = {
 
     aristocrats = {
-        culture = muisca
+        culture = nossogene
         religion = protestant
         size = 100
     }
 
     bureaucrats = {
-        culture = muisca
+        culture = nossogene
         religion = protestant
         size = 60
     }
 
     soldiers = {
-        culture = muisca
+        culture = nossogene
         religion = protestant
         size = 1250
     }
 
     artisans = {
-        culture = muisca
+        culture = nossogene
         religion = protestant
         size = 750
     }
 
     clergymen = {
-        culture = muisca
+        culture = nossogene
         religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = muisca
+        culture = nossogene
         religion = protestant
         size = 8080
     }
 
-    farmers = {
-        culture = fortaleceirei
-        religion = protestant
-        size = 3455
-    }
-
     slaves = {
-        culture = amazonian
+        culture = muisca
         religion = protestant
-        size = 1900
+        size = 10000
     }
 }
 #Manaus (40000/10000 POPS)
 2402 = {
     aristocrats = {
-        culture = muisca
+        culture = nossogene
         religion = protestant
         size = 200
     }
 
     bureaucrats = {
-        culture = muisca
+        culture = nossogene
         religion = protestant
         size = 50
     }
 
     officers = {
-        culture = muisca
+        culture = nossogene
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = muisca
+        culture = nossogene
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = amazonian
+        culture = nossogene
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = muisca
+        culture = nossogene
         religion = protestant
-        size = 50
+        size = 1050
     }
 
     farmers = {
-        culture = muisca
+        culture = nossogene
         religion = protestant
         size = 3455
     }
 
     farmers = {
-        culture = fortaleceirei
-        religion = protestant
-        size = 3455
-    }
-
-    clergymen = {
-        culture = amazonian
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = amazonian
-        religion = protestant
-        size = 300
-    }
-
-    soldiers = {
-        culture = amazonian
-        religion = protestant
-        size = 75
-    }
-
-    farmers = {
-        culture = amazonian
+        culture = muisca
         religion = protestant
         size = 4525
     }
@@ -1153,34 +781,30 @@
     }
 
     clergymen = {
-        culture = muisca
+        culture = amazonian
         religion = protestant
         size = 15
     }
 
     artisans = {
-        culture = muisca
+        culture = amazonian
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = muisca
+        culture = amazonian
         religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = muisca
+        culture = amazonian
         religion = protestant
         size = 1220
     }
 
-    farmers = {
-        culture = fortaleceirei
-        religion = protestant
-        size = 1020
-    }
+
 }
 #Caracas Region (332000)
 #Ruled by Venezuela 1836
@@ -1228,34 +852,10 @@
         size = 23200
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 550
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 550
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 3400
-    }
-
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 5000
+        size = 9500
     }
 }
 #Cumana (24000/6000 POPS)
@@ -1290,34 +890,10 @@
         size = 2575
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 25
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 600
-    }
-
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 500
+        size = 1100
     }
 }
 #San Felipe (44000/11000 POPS)
@@ -1352,34 +928,10 @@
         size = 5560
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 125
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 2425
-    }
-
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 1400
+        size = 3900
     }
 }
 #Guiria (40000/10000 POPS)
@@ -1411,31 +963,7 @@
     farmers = {
         culture = muisca
         religion = protestant
-        size = 3500
-    }
-
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 10
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 750
+        size = 1300
     }
 }
 #Llanos Region (88000)
@@ -1484,34 +1012,10 @@
         size = 1575
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 20
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 10
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 220
-    }
-
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 200
+        size = 1000
     }
 }
 #Calabozo (40000/10000 POPS)
@@ -1546,34 +1050,10 @@
         size = 5225
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 25
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 750
-    }
-
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 300
+        size = 1100
     }
 }
 #Barinas (32000/8000 POPS)
@@ -1608,34 +1088,10 @@
         size = 3250
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 10
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 315
-    }
-
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 100
+        size = 1100
     }
 }
 #Zulia Region (378000)
@@ -1684,59 +1140,12 @@
         size = 22275
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 500
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 8350
-    }
-
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 5000
+        size = 16000
     }
 
-    clergymen = {
-        culture = amazonian #guajiro
-        religion = protestant
-        size = 10
-    }
-
-    artisans = {
-        culture = amazonian #guajiro
-        religion = protestant
-        size = 50
-    }
-
-    soldiers = {
-        culture = amazonian #guajiro
-        religion = protestant
-        size = 10
-    }
-
-    farmers = {
-        culture = amazonian #guajiro
-        religion = protestant
-        size = 1930
-    }
 }
 #Valera (128000/32000 POPS)
 2271 = {
@@ -1770,34 +1179,10 @@
         size = 27725
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 200
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 2700
-    }
-
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 2100
+        size = 5100
     }
 }
 #Coro (56000/14000 POPS)
@@ -1832,34 +1217,10 @@
         size = 16950
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 200
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 9700
-    }
-
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 6100
+        size = 16100
     }
 }
 #Barquisimento (96000/24000 POPS)
@@ -1894,34 +1255,10 @@
         size = 4075
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 200
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 1700
-    }
-
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 750
+        size = 2150
     }
 }
 #Orinoco Region (152000)
@@ -1949,50 +1286,15 @@
     soldiers = {
         culture = muisca
         religion = protestant
-        size = 50
+        size = 350
     }
 
     farmers = {
         culture = muisca
         religion = protestant
-        size = 2475
+        size = 3475
     }
 
-    farmers = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 100
-    }
-
-    aristocrats = {
-        culture = amazonian
-        religion = protestant
-        size = 50
-    }
-
-    clergymen = {
-        culture = amazonian
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = amazonian
-        religion = protestant
-        size = 150
-    }
-
-    soldiers = {
-        culture = amazonian
-        religion = protestant
-        size = 25
-    }
-
-    farmers = {
-        culture = amazonian
-        religion = protestant
-        size = 1700
-    }
 }
 #Curiapo (104000/26000 POPS)
 2276 = {
@@ -2038,34 +1340,10 @@
         size = 9900
     }
 
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 250
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 2625
-    }
-
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 900
+        size = 3500
     }
 }
 #under "rule" of Venezuela 1836
@@ -2098,7 +1376,7 @@
     farmers = {
         culture = muisca
         religion = protestant
-        size = 500
+        size = 1000
     }
 
     aristocrats = {
@@ -2172,7 +1450,7 @@
     farmers = {
         culture = muisca
         religion = protestant
-        size = 20
+        size = 200
     }
 
 }
@@ -2213,69 +1491,42 @@
     farmers = {
         culture = muisca
         religion = protestant
-        size = 3100
+        size = 7100
     }
 
-    clergymen = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 700
-    }
-
-    soldiers = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 150
-    }
-
-    farmers = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 3075
-    }
 }
 #Mahdia (4000/1000 POPS)
 2242 = {
     aristocrats = {
-        culture = amazonian
+        culture = muisca
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = amazonian
+        culture = muisca
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = amazonian
+        culture = muisca
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = amazonian
+        culture = muisca
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = amazonian
-        religion = protestant
-        size = 400
-    }
-    farmers = {
         culture = muisca
         religion = protestant
-        size = 300
+        size = 700
     }
+
 }
 #Essequibo (33000/8250 POPS)
 2243 = {
@@ -2306,32 +1557,9 @@
     farmers = {
         culture = muisca
         religion = protestant
-        size = 1250
+        size = 2450
     }
 
-    clergymen = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 300
-    }
-
-    soldiers = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 75
-    }
-
-    farmers = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 1550
-    }
 }
 #Biloka (4000/1000 POPS)
 1979 = {
@@ -2360,14 +1588,9 @@
     }
 
     farmers = {
-        culture = amazonian
-        religion = protestant
-        size = 900
-    }
-    farmers = {
         culture = muisca
         religion = protestant
-        size = 1100
+        size = 2100
     }
 }
 #Surinam : 56640
@@ -2404,34 +1627,10 @@
         size = 4075
     }
 
-    clergymen = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 1750
-    }
-
-    farmers = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 1200
-    }
-
-    soldiers = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 25
-    }
-
     slaves = {
-        culture = afro_caribbean
+        culture = muisca
         religion = protestant
-        size = 5000
+        size = 9000
     }
     
 }
@@ -2470,7 +1669,7 @@
     farmers = {
         culture = muisca
         religion = protestant
-        size = 1250
+        size = 1850
     }
 
 }
@@ -2508,90 +1707,37 @@
         size = 2080
     }
 
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 150
-    }
-
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 25
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 425
-    }
-
     slaves = {
-        culture = afro_caribeno
+        culture = muisca
         religion = protestant
-        size = 2950
+        size = 8950
     }
 
-    aristocrats = {
-        culture = amazonian
-        religion = protestant
-        size = 2
-    }
-
-    clergymen = {
-        culture = amazonian
-        religion = protestant
-        size = 3
-    }
-
-    artisans = {
-        culture = amazonian
-        religion = protestant
-        size = 10
-    }
-
-    soldiers = {
-        culture = amazonian
-        religion = protestant
-        size = 5
-    }
-
-    farmers = {
-        culture = amazonian
-        religion = protestant
-        size = 230
-    }
 }
 #Maripasoula (3000/750 POPS)
 2246 = {
     aristocrats = {
-        culture = amazonian
+        culture = muisca
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = amazonian
+        culture = muisca
         religion = protestant
         size = 15
     }
 
     artisans = {
-        culture = amazonian
+        culture = muisca
         religion = protestant
-        size = 35
+        size = 350
     }
 
     soldiers = {
-        culture = amazonian
+        culture = muisca
         religion = protestant
-        size = 10
+        size = 300
     }
 
     farmers = {
@@ -2600,9 +1746,26 @@
         size = 580
     }
 
+}
+#Cayman Islands : (1200/300 POPS) #still a antillean Colony
+2218 = {
+    clergymen = {
+        culture = amazonian
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = protestant
+        size = 15
+    }
+
     farmers = {
-        culture = muisca
+        culture = amazonian
         religion = protestant
         size = 280
     }
+
 }
+

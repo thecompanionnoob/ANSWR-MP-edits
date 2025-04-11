@@ -9,13 +9,13 @@
     }
 
     farmers = {
-        culture = aimara
+        culture = pacinian
         religion = protestant
         size = 825
     }
 
     farmers = {
-        culture = platinean
+        culture = pacinian
         religion = protestant
         size = 1125
     }
@@ -36,13 +36,13 @@
     }
 
     farmers = {
-        culture = aimara
+        culture = pacinian
         religion = protestant
         size = 2825
     }
 
     farmers = {
-        culture = platinean
+        culture = pacinian
         religion = protestant
         size = 2775
     }
@@ -65,7 +65,7 @@
     }
 
     farmers = {
-        culture = platinean
+        culture = pacinian
         religion = protestant
         size = 2775
     }
@@ -86,13 +86,13 @@
     }
 
     farmers = {
-        culture = patagonian
+        culture = pacinian
         religion = protestant
         size = 2825
     }
 
     farmers = {
-        culture = platinean
+        culture = pacinian
         religion = protestant
         size = 3075
     }
@@ -112,13 +112,13 @@
     }
 
     farmers = {
-        culture = patagonian
+        culture = pacinian
         religion = protestant
         size = 1825
     }
 
     farmers = {
-        culture = platinean
+        culture = pacinian
         religion = protestant
         size = 2075
     }
@@ -132,38 +132,33 @@
 #Talca (20000/5000 POPS)
 2327 = {
     aristocrats = {
-        culture = platinean
+        culture = pacinian
         religion = protestant
         size = 125
     }
 
     clergymen = {
-        culture = platinean
+        culture = pacinian
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = platinean
+        culture = pacinian
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = platinean
+        culture = pacinian
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = platinean
+        culture = pacinian
         religion = protestant
-        size = 1525
-    }
-    farmers = {
-        culture = patagonian
-        religion = protestant
-        size = 1525
+        size = 3050
     }
 }
 #Bio-Bio Region (232000)
@@ -173,7 +168,7 @@
     aristocrats = {
         culture = platinean
         religion = protestant
-        size = 350
+        size = 650
     }
 
     bureaucrats = {
@@ -191,137 +186,90 @@
     clergymen = {
         culture = platinean
         religion = protestant
-        size = 175
+        size = 325
     }
 
     artisans = {
         culture = platinean
         religion = protestant
-        size = 850
+        size = 3150
     }
 
     soldiers = {
         culture = platinean
         religion = protestant
-        size = 1100
+        size = 1275
     }
 
     farmers = {
         culture = platinean
         religion = protestant
-        size = 3550
+        size = 8025
     }
 
-    aristocrats = {
-        culture = patagonian
-        religion = protestant
-        size = 300
-    }
-
-    clergymen = {
-        culture = patagonian
-        religion = protestant
-        size = 150
-    }
-
-    artisans = {
-        culture = patagonian
-        religion = protestant
-        size = 2300
-    }
-
-    soldiers = {
-        culture = patagonian
-        religion = protestant
-        size = 175
-    }
-
-    farmers = {
-        culture = patagonian
-        religion = protestant
-        size = 4475
-    }
 }
 #Temuco (36000/9000 POPS)
 2329 = {
     aristocrats = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 225
     }
 
     clergymen = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 150
     }
 
     artisans = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = patagonian
-        religion = protestant
-        size = 5525
-    }
-
-    farmers = {
         culture = platinean
         religion = protestant
-        size = 3625
+        size = 9150
     }
 }
 #Cauquenes (68000/17000 POPS)
 2330 = {
     aristocrats = {
-        culture = patagonian
+        culture = pacinian
         religion = protestant
         size = 350
     }
 
     clergymen = {
-        culture = patagonian
+        culture = pacinian
         religion = protestant
         size = 150
     }
 
     artisans = {
-        culture = patagonian
+        culture = pacinian
         religion = protestant
         size = 550
     }
 
     soldiers = {
-        culture = patagonian
+        culture = pacinian
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = patagonian
-        religion = protestant
-        size = 5650
-    }
-
-    farmers = {
-        culture = platinean
-        religion = protestant
-        size = 3050
-    }
-
-    farmers = {
         culture = pacinian
         religion = protestant
-        size = 2650
+        size = 11350
     }
 }
 #Chillan (36000/9000 POPS)
@@ -329,67 +277,31 @@
     aristocrats = {
         culture = pacinian
         religion = protestant
-        size = 175
+        size = 300
     }
 
     clergymen = {
         culture = pacinian
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = pacinian
-        religion = protestant
-        size = 350
-    }
-
-    soldiers = {
-        culture = pacinian
-        religion = protestant
-        size = 75
-    }
-
-    farmers = {
-        culture = platinean
-        religion = protestant
-        size = 1325
-    }
-
-    farmers = {
-        culture = pacinian
-        religion = protestant
-        size = 2525
-    }
-
-    aristocrats = {
-        culture = patagonian
         religion = protestant
         size = 125
     }
 
-    clergymen = {
-        culture = patagonian
+    artisans = {
+        culture = pacinian
         religion = protestant
-        size = 50
+        size = 450
     }
 
-    artisans = {
-        culture = patagonian
+    soldiers = {
+        culture = pacinian
         religion = protestant
         size = 100
     }
 
-    soldiers = {
-        culture = patagonian
-        religion = protestant
-        size = 25
-    }
-
     farmers = {
-        culture = patagonian
+        culture = pacinian
         religion = protestant
-        size = 3800
+        size = 7650
     }
 }
 #Magellanes Region (92000)
@@ -397,106 +309,76 @@
 #Osorno (68000/17000 POPS)
 2332 = {
     aristocrats = {
-        culture = patagonian
-        religion = protestant
-        size = 175
-    }
-
-    bureaucrats = {
-        culture = patagonian
-        religion = protestant
-        size = 15
-    }
-
-    officers = {
-        culture = patagonian
-        religion = protestant
-        size = 10
-    }
-
-    clergymen = {
-        culture = patagonian
-        religion = protestant
-        size = 125
-    }
-
-    artisans = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 250
     }
-
-    soldiers = {
-        culture = patagonian
-        religion = protestant
-        size = 125
-    }
-
-    farmers = {
-        culture = patagonian
-        religion = protestant
-        size = 4800
-    }
-
-    aristocrats = {
+	
+    bureaucrats = {
         culture = platinean
         religion = protestant
-        size = 75
+        size = 15
     }
-
+	
+    officers = {
+        culture = platinean
+        religion = protestant
+        size = 10
+    }
+	
     clergymen = {
-        culture = platinean
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
         culture = platinean
         religion = protestant
         size = 200
     }
 
+    artisans = {
+        culture = platinean
+        religion = protestant
+        size = 450
+    }
+
     soldiers = {
         culture = platinean
         religion = protestant
-        size = 50
+        size = 175
     }
 
     farmers = {
         culture = platinean
         religion = protestant
-        size = 3600
+        size = 8400
     }
 }
 #uncolonized/claimed by Chile 1836
 #Puerto Aisen (12000/3000 POPS)
 2333 = {
     aristocrats = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 2700
     }
@@ -504,31 +386,31 @@
 #Punta Arenas (8000/2000 POPS)
 2334 = {
     aristocrats = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 800
     }
@@ -536,31 +418,31 @@
 #Porvenir (4000/1000 POPS)
 2335 = {
     aristocrats = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 900
     }
@@ -568,38 +450,6 @@
 }
 #Corrientes Region (164000)
 #Under rule of Argentina 1836
-#Porlamar (16000/4000 POPS)
-2357 = {
-    aristocrats = {
-        culture = antillean
-        religion = protestant
-        size = 25
-    }
-
-    clergymen = {
-        culture = antillean
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = antillean
-        religion = protestant
-        size = 2500
-    }
-
-    clergymen = {
-        culture = afro_antillean
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = afro_antillean
-        religion = protestant
-        size = 1825
-    }
-}
 #Santo Tomas (28000/7000 POPS)
 2358 = {
     clergymen = {
@@ -649,12 +499,7 @@
     farmers = {
         culture = platinean
         religion = protestant
-        size = 3200
-    }
-    farmers = {
-        culture = patagonian
-        religion = protestant
-        size = 500
+        size = 3700
     }    
 }
 #Lluvia Ciudad (16000/4000 POPS)
@@ -686,25 +531,13 @@
     soldiers = {
         culture = platinean
         religion = protestant
-        size = 2000
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 500
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 500
+        size = 2500
     }
 
     farmers = {
         culture = platinean
         religion = protestant
-        size = 28825
+        size = 29325
     }
 }
 #Santa Fe Region (72000)
@@ -730,7 +563,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = protestant
         size = 500
     }
@@ -774,7 +607,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = protestant
         size = 1000
     }
@@ -898,7 +731,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = protestant
         size = 800
     }
@@ -1027,7 +860,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = protestant
         size = 500
     }
@@ -1165,7 +998,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = protestant
         size = 200
     }
@@ -1197,7 +1030,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = protestant
         size = 250
     }
@@ -1269,7 +1102,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = protestant
         size = 200
     }
@@ -1378,7 +1211,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = protestant
         size = 3000
     }
@@ -1541,7 +1374,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = protestant
         size = 200
     }
@@ -1599,7 +1432,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = protestant
         size = 100
     }
@@ -1617,7 +1450,6 @@
         religion = protestant
         size = 25
     }
-
 
     soldiers = {
         culture = platinean
@@ -1667,7 +1499,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = protestant
         size = 250
     }
@@ -1693,15 +1525,9 @@
     }
 
     farmers = {
-        culture = patagonian
-        religion = protestant
-        size = 900
-    }  
-
-    farmers = {
         culture = platinean
         religion = protestant
-        size = 1000
+        size = 1900
     }
 }
 #Under the loose rule of Argentina 1836
@@ -1710,69 +1536,52 @@
     clergymen = {
         culture = platinean
         religion = protestant
-        size = 25
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = protestant
         size = 75
     }
 
+    soldiers = {
+        culture = platinean
+        religion = protestant
+        size = 200
+    }
+
     farmers = {
         culture = platinean
         religion = protestant
-        size = 900
+        size = 2800
     }
 
     aristocrats = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 25
     }
 
-    clergymen = {
-        culture = patagonian
-        religion = protestant
-        size = 50
-    }
-
-    soldiers = {
-        culture = patagonian
-        religion = protestant
-        size = 125
-    }
-
-    farmers = {
-        culture = patagonian
-        religion = protestant
-        size = 1800
-    }
 }
 #Rio Negro-La Pampa Region (52000)
 #Under the loose rule of Argentina 1836
 #Viedma (12000/3000 POPS)
 2392 = {
     aristocrats = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 75
     }
 
     soldiers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 175
     }
 
     farmers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 2700
     }
@@ -1780,25 +1589,25 @@
 #Telen (12000/3000 POPS)
 2393 = {
     aristocrats = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 75
     }
 
     soldiers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 175
     }
 
     farmers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 2700
     }
@@ -1808,55 +1617,49 @@
     farmers = {
         culture = platinean
         religion = protestant
-        size = 900
+        size = 2575
     }
 
     aristocrats = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 75
     }
 
     clergymen = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 250
-    }
-
-    farmers = {
-        culture = patagonian
-        religion = protestant
-        size = 1675
     }
 }
 #Curaco (12000/3000 POPS)
 2395 = {
     aristocrats = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 75
     }
 
     soldiers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 175
     }
 
     farmers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 2700
     }
@@ -1866,25 +1669,25 @@
 #Rawson (4000/1000 POPS)
 2396 = {
     aristocrats = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 25
     }
 
     soldiers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 65
     }
 
     farmers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 900
     }
@@ -1892,25 +1695,25 @@
 #Esquel (4000/1000 POPS)
 2397 = {
     aristocrats = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 25
     }
 
     soldiers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 65
     }
 
     farmers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 900
     }
@@ -1918,25 +1721,25 @@
 #Puerto Deseado (4000/1000 POPS)
 2398 = {
     aristocrats = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 25
     }
 
     soldiers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 65
     }
 
     farmers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 900
     }
@@ -1944,25 +1747,25 @@
 #Rio Gallegos (4000/1000 POPS)
 2399 = {
     aristocrats = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 25
     }
 
     soldiers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 65
     }
 
     farmers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 900
     }
@@ -1970,25 +1773,25 @@
 #Rio Grande (4000/1000 POPS)
 2400 = {
     aristocrats = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 25
     }
 
     soldiers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 65
     }
 
     farmers = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 900
     }
@@ -2044,8 +1847,8 @@
 #Ruled by Britain 1836
 #Falkland Islands (300/75 POPS)
 2131 = {
-	bankers = {
-		culture = british
+	aristocrats = {
+		culture = english
 		religion = sunni
 		size = 56000
 	}
