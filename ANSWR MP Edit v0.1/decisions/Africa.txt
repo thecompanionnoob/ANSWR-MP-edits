@@ -514,9 +514,7 @@ political_decisions = {
         potential = {
             OR = {                
                 tag = SAF
-                tag = TSW
-                tag = TRN
-                tag = ZUL               
+                
             }
             NOT = { exists = KON }
 	    NOT = {has_global_flag = Sur}	
@@ -536,7 +534,7 @@ political_decisions = {
                     }
                 }
 	         }
-           TSW = {
+           ZUL = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -562,7 +560,7 @@ political_decisions = {
                     }
                 }
 	         }
-           KBO = {
+           MAT	 = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -575,44 +573,31 @@ political_decisions = {
                     }
                 }
 	        }            
-			ZUL = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	        }        
+		
         }
 		effect = {    
             set_global_flag = Sur           
             add_accepted_culture = zulu
-            add_accepted_culture = kanuri
-            add_accepted_culture = tsakiya
-            add_accepted_culture = fulbe
             add_accepted_culture = boer
+	    add_country_modifier = {
+		name = pretorian_assimilation
+		duration = -1
+			}
             prestige = 15
             change_tag = SAF
             SAF = {
 				all_core = { add_core = SAF secede_province = THIS }
 			}
-            TSW = {
+            ZUL = {
 				all_core = { add_core = SAF secede_province = THIS }
 			}
             TRN = {
 				all_core = { add_core = SAF secede_province = THIS }
 			}
-            KBO = {
+            MAT = {
 				all_core = { add_core = SAF secede_province = THIS }
 			}
-            ZUL = {
-				all_core = { add_core = SAF secede_province = THIS }
-			}
+            
         }
 		ai_will_do = { factor = 1 }
     }
