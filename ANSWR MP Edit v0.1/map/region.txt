@@ -1216,7 +1216,7 @@ SPA_2209 = { 2209 2210 2211 44 2212 } #Cuba
 
 HAI_2213 = { 2213 2214 2215 2216 } #Hispanola
 
-ENG_203 = { 2217 2219 2218 } #Caribbean Islands
+ENG_203 = { 2217 2219 } #Caribbean Islands
 
 ENG_2224 = { 2226 2227 2230 2236 2223 2222 } #West Indies
 

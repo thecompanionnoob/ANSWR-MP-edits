@@ -4,31 +4,31 @@
 #Junin (56000/14000 POPS)
 2349 = {
     aristocrats = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 400
     }
 
     soldiers = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 12550
     }
@@ -36,31 +36,31 @@
 #Azul (12000/3000 POPS)
 2350 = {
     aristocrats = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 250
     }
 
     clergymen = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 175
     }
 
     artisans = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 6700
     }
@@ -68,31 +68,31 @@
 #La Plata (4000/1000 POPS)
 2351 = {
     aristocrats = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 115
     }
 
     clergymen = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 125
     }
 
     artisans = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 750
     }
 
     soldiers = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 2000
     }    
 
     farmers = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 22500
     }
@@ -101,37 +101,37 @@
 2352 = {
     
     bureaucrats = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 500
     }
 
     aristocrats = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 175
     }
 
     artisans = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 400
     }
 
     soldiers = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 3250
     }
 
     farmers = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 23700
     }
@@ -140,31 +140,30 @@
 #Trenque Lanquen (12000/9000 POPS)
 2353 = {
     clergymen = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 125
     }
 
-
     farmers = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 17900
     }
 
     aristocrats = {
-        culture = patagonian
+        culture = platinean
         religion = protestant
         size = 225
     }
     artisans = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 1400
     }
 
     soldiers = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 2000
     }    
@@ -172,31 +171,31 @@
 #Bahia Blanca (24000/6000 POPS)
 2354 = {
     clergymen = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 75
     }
 
     farmers = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 9725
     }
 
     aristocrats = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 250
     }
 
     artisans = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 400
     }
 
     soldiers = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 1000
     }
@@ -206,31 +205,31 @@
 2355 = {
 
     clergymen = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 250
     }
 
     aristocrats = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 250
     }
 
     artisans = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 1400
     }
 
     soldiers = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 20875
     }
@@ -239,25 +238,25 @@
 #Rosario (8000/2000 POPS)
 2363 = {
     aristocrats = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = portunol
+        culture = platinean
         religion = protestant
         size = 500
     }

@@ -3,7 +3,7 @@
 #Quito (160000 POPS)
 2279 = {
     aristocrats = {
-        culture = nikkeijinperu
+        culture = pacinian
         religion = protestant
         size = 550
     }
@@ -15,69 +15,39 @@
     }
 
     officers = {
-        culture = nikkeijinperu
+        culture = pacinian
         religion = protestant
         size = 150
     }
 
     clergymen = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 60
-    }
-
-    artisans = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 300
-    }
-
-    soldiers = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 3700
-    }
-
-    farmers = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 30000
-    }
-
-    clergymen = {
         culture = pacinian
         religion = protestant
-        size = 175
+        size = 235
     }
 
     artisans = {
         culture = pacinian
         religion = protestant
-        size = 1100
+        size = 1400
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 5100
+        size = 8800
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 38725
+        size = 68725
     }
 
     serfs = {
-        culture = quechua
+        culture = pacinian
         religion = protestant
-        size = 40000
-    }
-
-    serfs = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 40000
+        size = 80000
     }
 }
 
@@ -104,61 +74,31 @@
     }
 
     clergymen = {
-        culture = nikkeijinperu
+        culture = pacinian
         religion = protestant
-        size = 175
+        size = 225
     }
 
     artisans = {
-        culture = nikkeijinperu
+        culture = pacinian
         religion = protestant
-        size = 250
-    }
-
-    soldiers = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 2375
+        size = 400
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 78150
-    }
-
-    farmers = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 25150
-    }
-
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 150
+        size = 203100
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 2050
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 99800
+        size = 4425
     }
 
     serfs = {
-        culture = afro_caribeno
+        culture = pacinian
         religion = protestant
         size = 50100
     }
@@ -174,59 +114,29 @@
     clergymen = {
         culture = pacinian
         religion = protestant
-        size = 175
+        size = 250
     }
 
     artisans = {
-        culture = nikkeijinperu
+        culture = pacinian
         religion = protestant
-        size = 350
+        size = 1100
     }
 
     soldiers = {
-        culture = nikkeijinperu
+        culture = pacinian
         religion = protestant
-        size = 75
+        size = 225
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 8150
-    }
-
-    farmers = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 4800
-    }
-
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 750
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 150
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 525
+        size = 13475
     }
 
     serfs = {
-        culture = afro_caribeno
+        culture = pacinian
         religion = protestant
         size = 14000
     }
@@ -240,302 +150,110 @@
     }
 
     clergymen = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 300
-    }
-
-    soldiers = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 1150
-    }
-
-    farmers = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 21000
-    }
-
-    clergymen = {
         culture = pacinian
         religion = protestant
-        size = 100
+        size = 150
     }
 
     artisans = {
         culture = pacinian
         religion = protestant
-        size = 250
+        size = 550
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 2500
+        size = 3650
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 72400
+        size = 93400
     }
 }
 
 #Tena (23000 POPS)
 2284 = {
-    aristocrats = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 10
-    }
-
-    clergymen = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 150
-    }
-
-    soldiers = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 2625
-    }
-
     serfs = {
-        culture = afro_caribeno
+        culture = pacinian
         religion = protestant
         size = 6600
     }
 
-    clergymen = {
-        culture = quechua
+    aristocrats = {
+        culture = pacinian
         religion = protestant
-        size = 25
+        size = 60
+    }
+
+    clergymen = {
+        culture = pacinian
+        religion = protestant
+        size = 175
     }
 
     artisans = {
-        culture = quechua
+        culture = pacinian
+        religion = protestant
+        size = 400
+    }
+
+    soldiers = {
+        culture = pacinian
         religion = protestant
         size = 100
     }
 
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 25
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 5850
-    }
-
-    aristocrats = {
-        culture = pacinian
-        religion = protestant
-        size = 50
-    }
-
-    clergymen = {
-        culture = pacinian
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = pacinian
-        religion = protestant
-        size = 150
-    }
-
-    soldiers = {
-        culture = pacinian
-        religion = protestant
-        size = 25
-    }
-
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 6700
+        size = 15175
     }
 }
 
-#Mendoza-In-Ecuador (14958 POPS)
+#Zamora de Ecuador (14958 POPS)
 3384 = {
-    aristocrats = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 10
-    }
-
-    clergymen = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 150
-    }
-
-    soldiers = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 2625
-    }
-
     serfs = {
-        culture = afro_caribeno
+        culture = pacinian
         religion = protestant
         size = 1600
     }
 
-    clergymen = {
-        culture = quechua
+    aristocrats = {
+        culture = pacinian
         religion = protestant
-        size = 25
+        size = 60
+    }
+
+    clergymen = {
+        culture = pacinian
+        religion = protestant
+        size = 175
     }
 
     artisans = {
-        culture = quechua
+        culture = pacinian
+        religion = protestant
+        size = 400
+    }
+
+    soldiers = {
+        culture = pacinian
         religion = protestant
         size = 100
     }
 
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 25
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 3850
-    }
-
-    aristocrats = {
-        culture = pacinian
-        religion = protestant
-        size = 50
-    }
-
-    clergymen = {
-        culture = pacinian
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = pacinian
-        religion = protestant
-        size = 150
-    }
-
-    soldiers = {
-        culture = pacinian
-        religion = protestant
-        size = 25
-    }
-
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 3700
+        size = 10175
     }
 }
 
 #Peruvian Iquitos (14958 POPS)
 3386 = {
-    aristocrats = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 10
-    }
-
-    clergymen = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 150
-    }
-
-    soldiers = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 2625
-    }
-
-    serfs = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 1600
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 25
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 3850
-    }
-
     aristocrats = {
         culture = amazonian
         religion = protestant
@@ -570,98 +288,38 @@
 #Piura (132740 POPS)
 2291 = {
     aristocrats = {
-        culture = nikkeijinperu
+        culture = pacinian
         religion = protestant
         size = 125
     }
 
     clergymen = {
-        culture = nikkeijinperu
+        culture = pacinian
         religion = protestant
-        size = 550
+        size = 750
     }
 
     artisans = {
         culture = pacinian
         religion = protestant
-        size = 2150
+        size = 2550
     }
 
     soldiers = {
         culture = pacinian
         religion = protestant
-        size = 2100
-    }
-
-	soldiers = {
-        culture = nikkeijinperu
-        religion = protestant
-        size = 4500
+        size = 7300
     }
 
     farmers = {
         culture = pacinian
         religion = protestant
-        size = 21325
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = quechua
-        religion = protestant
-        size = 300
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = protestant
-        size = 600
-    }
-
-    farmers = {
-        culture = quechua
-        religion = protestant
-        size = 26500
-    }
-
-    clergymen = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 500
+        size = 48325
     }
 
     serfs = {
         culture = pacinian
         religion = protestant
-        size = 500
-    }
-
-    serfs = {
-        culture = afro_caribeno
-        religion = protestant
-        size = 50500
+        size = 51000
     }
 }
