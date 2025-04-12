@@ -44,7 +44,35 @@ guiTypes = {
 			{
 				name ="frontend_toptile1"
 				spriteType = "GFX_frontend_toptile"
-				position = { x= -960 y = -601 }
+				position = { x= -1500 y = -601 }
+				Orientation = "CENTER"
+			}
+		iconType =
+			{
+				name ="frontend_toptile2"
+				spriteType = "GFX_frontend_toptile"
+				position = { x= -751 y = -601 }
+				Orientation = "CENTER"
+			}
+		iconType =
+			{
+				name ="frontend_toptile3"
+				spriteType = "GFX_frontend_toptile"
+				position = { x= -2 y = -601 }
+				Orientation = "CENTER"
+			}
+		iconType =
+			{
+				name ="frontend_toptile4"
+				spriteType = "GFX_frontend_toptile"
+				position = { x= 747 y = -601 }
+				Orientation = "CENTER"
+			}
+		iconType =
+			{
+				name ="frontend_toptile5"
+				spriteType = "GFX_frontend_toptile"
+				position = { x= 1496 y = -601 }
 				Orientation = "CENTER"
 			}
 		iconType =
