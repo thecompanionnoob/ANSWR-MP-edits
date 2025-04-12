@@ -1847,7 +1847,7 @@
 #Ruled by Britain 1836
 #Falkland Islands (300/75 POPS)
 2131 = {
-	aristocrats = {
+	bankers = {
 		culture = english
 		religion = sunni
 		size = 56000
