@@ -2,105 +2,80 @@
 #Uncolonized in 1836/Portuguese trade post
 #Bissau (32000/8000 POPS)
 1877 = {
-
-    clergymen = {
-        culture = portuguese
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = portuguese
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = portuguese
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = portuguese
-        religion = protestant
-        size = 100
-    }
-
     aristocrats = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     officers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 375
     }
 
     soldiers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 5300
     }
 
     slaves = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 2000
     }
 
         aristocrats = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 300
     }
 
     officers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 1000
     }
 
     soldiers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 12048
     }

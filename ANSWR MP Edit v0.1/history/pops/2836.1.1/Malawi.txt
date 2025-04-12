@@ -3,139 +3,37 @@
 #Zomba (208000/52000 POPS)
 2066 = {
     aristocrats = {
-        culture = chewa
+        culture = shona
         religion = protestant
         size = 550
     }
 
     clergymen = {
-        culture = chewa
+        culture = shona
         religion = protestant
         size = 300
     }
 
     artisans = {
-        culture = chewa
+        culture = shona
         religion = protestant
         size = 1450
     }
 
     soldiers = {
-        culture = chewa
+        culture = shona
         religion = protestant
         size = 300
     }
 
     farmers = {
-        culture = chewa
+        culture = shona
         religion = protestant
         size = 26400
-    }
-
-    slaves = {
-        culture = chewa
-        religion = protestant
-        size = 3000
-    }
-
-    aristocrats = {
-        culture = lomwe
-        religion = protestant
-        size = 275
-    }
-
-    clergymen = {
-        culture = lomwe
-        religion = protestant
-        size = 150
-    }
-
-    artisans = {
-        culture = lomwe
-        religion = protestant
-        size = 750
-    }
-
-    soldiers = {
-        culture = lomwe
-        religion = protestant
-        size = 150
-    }
-
-    farmers = {
-        culture = lomwe
-        religion = protestant
-        size = 13675
-    }
-
-    aristocrats = {
-        culture = yao
-        religion = protestant
-        size = 125
-    }
-
-    clergymen = {
-        culture = yao
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = yao
-        religion = protestant
-        size = 400
-    }
-
-    soldiers = {
-        culture = yao
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = yao
-        religion = protestant
-        size = 4275
     }
 }
 #Lilongwe (160000/40000 POPS)/dominated by Kazembe
 2067 = {
-    aristocrats = {
-        culture = chewa
-        religion = protestant
-        size = 350
-    }
-
-    clergymen = {
-        culture = chewa
-        religion = protestant
-        size = 200
-    }
-
-    artisans = {
-        culture = chewa
-        religion = protestant
-        size = 950
-    }
-
-    soldiers = {
-        culture = chewa
-        religion = protestant
-        size = 200
-    }
-
-    farmers = {
-        culture = chewa
-        religion = protestant
-        size = 17300
-    }
-
-    slaves = {
-        culture = chewa
-        religion = protestant
-        size = 4000
-    }
-
     aristocrats = {
         culture = lunda
         religion = protestant
@@ -163,7 +61,7 @@
     farmers = {
         culture = lunda
         religion = protestant
-        size = 15125
+        size = 18125
     }
 
 }

@@ -4,121 +4,121 @@
 #Massenya (320000/80000 POPS)
 1818 = {
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 200
     }
 
     bureaucrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     officers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 500
     }
 
     labourers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 10000
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 200
     }
 
     bureaucrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     officers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 500
     }
 
     labourers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 13458
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 500
     }
 
     labourers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 9000
     }
 
     slaves = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 700
     }
@@ -126,91 +126,91 @@
 #Bongor (36000/9000 POPS)
 1820 = {
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 300
     }
 
     bureaucrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 200
     }
 
     artisans = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 1000
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 30000
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 125
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 1000
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 125
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 2000
     }
@@ -220,157 +220,157 @@
 #Abeche (136000/34000 POPS)
 1821 = {
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     bureaucrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 50
     }
 
     officers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 550
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     officers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 550
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 300
     }
 
     bureaucrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 20183
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 300
     }
 
     bureaucrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 7000
     }
 
     slaves = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 300
     }
@@ -380,43 +380,43 @@
 1822 = {
 
     slaves = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 1900
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 150
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     bureaucrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 350
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 7300
     }
@@ -424,104 +424,104 @@
 #Mongo (184000/46000 POPS)
 1823 = {
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 350
     }
 
     artisans = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 5000
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 300
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 7269
     }
 
 
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 300
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     bureaucrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 1500
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 7246
     }
 
     slaves = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 2000
     }

@@ -1227,61 +1227,61 @@
 #Tessalit (16000/4000 POPS)
 1807 = {
     aristocrats = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 2625
     }
 
     aristocrats = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 800
     }
@@ -1289,61 +1289,61 @@
 #Araouane (12000/3000 POPS)
 2609 = {
     aristocrats = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 75
     }
 
     clergymen = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 3500
     }
 
     aristocrats = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 600
     }
