@@ -79,6 +79,56 @@ political_decisions = {
 			add_accepted_culture = cascadian
 			add_accepted_culture = alaskan
 		}
-	} 			
+	} 
+	Push_to_the_Rockies  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = LOS
+            }
+            NOT = {has_global_flag = rockies}
+			
+        }
+        allow = {         
+            war = no           
+            money = 150000
+	    state_n_government = 1
+        }
+        effect = {                
+            set_global_flag= rockies
+            101 = {secede_province = THIS}
+            96 = {secede_province = THIS}
+            95 = {secede_province = THIS}
+            94 = {secede_province = THIS}
+            91 = {secede_province = THIS}
+            113 = {secede_province = THIS}
+            111 = {secede_province = THIS}
+            114 = {secede_province = THIS}
+            92 = {secede_province = THIS}
+            82 = {secede_province = THIS}
+            108 = {secede_province = THIS}
+	    DES = {
+		all_core = {
+			add_core = THIS
+		}
+		}
+            101 = {add_core = LOS}
+            96 = {add_core = LOS}
+            95 = {add_core = LOS}
+            94 = {add_core = LOS}
+            91 = {add_core = LOS}
+            113 = {add_core = LOS}
+            111 = {add_core = LOS}
+            114 = {add_core = LOS}
+            92 = {add_core = LOS}
+            82 = {add_core = LOS}
+            108 = {add_core = LOS}
+            money = -150000
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+			
 }
 			

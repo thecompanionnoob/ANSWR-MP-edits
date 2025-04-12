@@ -1,297 +1,166 @@
 #Damaraland Region (192000)
 #uncolonized in 1836/dominated by the Herero in 1836
-#Windhoek (72000/18000 POPS)
+#Otjomuise (72000/18000 POPS)
 2078 = {
     aristocrats = {
-        culture = herero
-        religion = protestant
-        size = 100
-    }
-
-    clergymen = {
-        culture = herero
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = herero
-        religion = protestant
-        size = 300
-    }
-
-    soldiers = {
-        culture = herero
-        religion = protestant
-        size = 75
-    }
-
-    farmers = {
-        culture = herero
-        religion = protestant
-        size = 5175
-    }
-
-    farmers = {
-        culture = herero
-        religion = protestant
-        size = 300
-    }
-
-    aristocrats = {
         culture = khoisan
         religion = protestant
-        size = 225
+        size = 325
     }
 
     clergymen = {
         culture = khoisan
         religion = protestant
-        size = 125
+        size = 175
     }
 
     artisans = {
         culture = khoisan
         religion = protestant
-        size = 600
+        size = 900
     }
 
     soldiers = {
-        culture = khoisan
-        religion = protestant
-        size = 125
-    }
-
-    farmers = {
-        culture = khoisan
-        religion = protestant
-        size = 10725
-    }
-
-    farmers = {
         culture = khoisan
         religion = protestant
         size = 200
     }
+
+    farmers = {
+        culture = khoisan
+        religion = protestant
+        size = 19225
+    }
 }
-#Swakopmund (52000/13000 POPS)
+#Otjozondjii (52000/13000 POPS)
 2079 = {
     aristocrats = {
-        culture = herero
+        culture = khoisan
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = khoisan
         religion = protestant
         size = 150
     }
 
-    clergymen = {
-        culture = herero
-        religion = protestant
-        size = 100
-    }
-
     artisans = {
-        culture = herero
+        culture = khoisan
         religion = protestant
-        size = 450
+        size = 650
     }
 
     soldiers = {
-        culture = herero
+        culture = khoisan
         religion = protestant
-        size = 100
+        size = 150
     }
 
     farmers = {
-        culture = herero
+        culture = khoisan
         religion = protestant
-        size = 8200
-    }
-
-    aristocrats = {
-        culture = kavango
-        religion = protestant
-        size = 50
-    }
-
-    clergymen = {
-        culture = kavango
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = kavango
-        religion = protestant
-        size = 200
-    }
-
-    soldiers = {
-        culture = kavango
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = kavango
-        religion = protestant
-        size = 3650
+        size = 11850
     }
 }
-#Tsumeb (24000/6000 POPS)
+#Otjivanda (24000/6000 POPS)
 2080 = {
     aristocrats = {
-        culture = kavango
+        culture = khoisan
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = kavango
+        culture = khoisan
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = kavango
+        culture = khoisan
         religion = protestant
         size = 300
     }
 
     soldiers = {
-        culture = kavango
+        culture = khoisan
         religion = protestant
         size = 75
     }
 
     farmers = {
-        culture = kavango
+        culture = khoisan
         religion = protestant
         size = 5475
     }
 }
-#Otjinene (44000/11000 POPS)
+#Epako (44000/11000 POPS)
 2082 = {
     aristocrats = {
-        culture = herero
+        culture = khoisan
+        religion = protestant
+        size = 175
+    }
+
+    clergymen = {
+        culture = khoisan
         religion = protestant
         size = 100
     }
 
-    clergymen = {
-        culture = herero
-        religion = protestant
-        size = 50
-    }
-
     artisans = {
-        culture = herero
+        culture = khoisan
         religion = protestant
-        size = 300
+        size = 550
     }
 
     soldiers = {
-        culture = herero
+        culture = khoisan
         religion = protestant
-        size = 75
+        size = 125
     }
 
     farmers = {
-        culture = herero
+        culture = khoisan
         religion = protestant
-        size = 5475
+        size = 10050
     }
 
-    aristocrats = {
-        culture = kavango
-        religion = protestant
-        size = 75
-    }
-
-    clergymen = {
-        culture = kavango
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = kavango
-        religion = protestant
-        size = 250
-    }
-
-    soldiers = {
-        culture = kavango
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = kavango
-        religion = protestant
-        size = 4575
-    }
 }
 #Kafue Region (16000) #see Zambia.txt for balance of region
 #uncolonized in 1836/dominated by the Lozi in 1836
 #Linyati (16000/4000 POPS)
 2081 = {
     aristocrats = {
-        culture = kavango
+        culture = malagasy
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = kavango
+        culture = malagasy
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = kavango
+        culture = malagasy
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = kavango
+        culture = malagasy
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = kavango
+        culture = malagasy
         religion = protestant
         size = 2700
-    }
-
-    aristocrats = {
-        culture = lunda
-        religion = protestant
-        size = 100
-    }
-
-    clergymen = {
-        culture = lunda
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = lunda
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = lunda
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = lunda
-        religion = protestant
-        size = 900
     }
 }
 #Namaqualand Region (64000) #see South Africa.txt for balance of region
@@ -383,40 +252,11 @@
     farmers = {
         culture = khoisan
         religion = protestant
-        size = 1800
+        size = 3800
     }
 
-    aristocrats = {
-        culture = tswana
-        religion = protestant
-        size = 15
-    }
-
-    clergymen = {
-        culture = tswana
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = tswana
-        religion = protestant
-        size = 50
-    }
-
-    soldiers = {
-        culture = tswana
-        religion = protestant
-        size = 10
-    }
-
-    farmers = {
-        culture = tswana
-        religion = protestant
-        size = 900
-    }
 }
-#Karasburg (20000/5000 POPS)
+#Aixa-aibes (20000/5000 POPS)
 2086 = {
     aristocrats = {
         culture = khoisan
@@ -447,35 +287,4 @@
         religion = protestant
         size = 3650
     }
-
-    aristocrats = {
-        culture = tswana
-        religion = protestant
-        size = 15
-    }
-
-    clergymen = {
-        culture = tswana
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = tswana
-        religion = protestant
-        size = 50
-    }
-
-    soldiers = {
-        culture = tswana
-        religion = protestant
-        size = 10
-    }
-
-    farmers = {
-        culture = tswana
-        religion = protestant
-        size = 900
-    }
-
 }
