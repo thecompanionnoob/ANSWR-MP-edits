@@ -1,65 +1,65 @@
 #Ubangi-Shari Region (228000)
 #uncolonized in 1836
 #Dar Banda Region (128000)
-#uncolonized in 1836/under influence of tuareg
+#uncolonized in 1836/under influence of azande
 #Zemio (44000/11000 POPS)
 1969 = {
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 300
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 75
     }
 
     farmers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 5475
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 75
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 4575
     }
@@ -67,61 +67,61 @@
 #Bangassou (56000/14000 POPS)
 1970 = {
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 900
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 225
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 150
     }
 
     artisans = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 650
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 11875
     }
@@ -130,61 +130,61 @@
 #Ndele (28000/7000 POPS)
 1971 = {
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 900
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 300
     }
 
     soldiers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 75
     }
 
     farmers = {
-        culture = tuareg
+        culture = azande
         religion = protestant
         size = 5475
     }

@@ -45,39 +45,9 @@
     }
 
     slaves = {
-        culture = kilombero
+        culture = swahili
         religion = protestant
         size = 14000
-    }
-
-    aristocrats = {
-        culture = sukuma
-        religion = protestant
-        size = 50
-    }
-
-    clergymen = {
-        culture = sukuma
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = sukuma
-        religion = protestant
-        size = 200
-    }
-
-    soldiers = {
-        culture = sukuma
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = sukuma
-        religion = protestant
-        size = 3650
     }
 }
 #Tanga (88000/22000 POPS)
@@ -113,39 +83,9 @@
     }
 
     slaves = {
-        culture = kilombero
+        culture = swahili
         religion = protestant
         size = 6000
-    }
-
-    aristocrats = {
-        culture = sukuma
-        religion = protestant
-        size = 50
-    }
-
-    clergymen = {
-        culture = sukuma
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = sukuma
-        religion = protestant
-        size = 200
-    }
-
-    soldiers = {
-        culture = sukuma
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = sukuma
-        religion = protestant
-        size = 2650
     }
 }
 #Kilwa (188000/47000 POPS)
@@ -177,41 +117,11 @@
     farmers = {
         culture = swahili
         religion = protestant
-        size = 36750
-    }
-
-    aristocrats = {
-        culture = yao
-        religion = protestant
-        size = 350
-    }
-
-    clergymen = {
-        culture = yao
-        religion = protestant
-        size = 200
-    }
-
-    artisans = {
-        culture = yao
-        religion = protestant
-        size = 950
-    }
-
-    soldiers = {
-        culture = yao
-        religion = protestant
-        size = 200
-    }
-
-    farmers = {
-        culture = yao
-        religion = protestant
-        size = 17300
+        size = 56750
     }
 
     slaves = {
-        culture = yao
+        culture = swahili
         religion = protestant
         size = 10000
     }
@@ -221,22 +131,17 @@
     aristocrats = {
         culture = swahili
         religion = protestant
-        size = 100
-    }
-    aristocrats = {
-        culture = bedouin
-        religion = protestant
-        size = 500
+        size = 600
     }
 
     bureaucrats = {
-        culture = bedouin
+        culture = swahili
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = bedouin
+        culture = swahili
         religion = protestant
         size = 50
     }
@@ -260,7 +165,7 @@
     }
 
     slaves = {
-        culture = yao
+        culture = swahili
         religion = protestant
         size = 4000
     }
@@ -270,859 +175,309 @@
 #Songea (136000/34000 POPS)
 2040 = {
     aristocrats = {
-        culture = yao
+        culture = swahili
         religion = protestant
         size = 375
     }
 
     clergymen = {
-        culture = yao
+        culture = swahili
         religion = protestant
         size = 200
     }
 
     artisans = {
-        culture = yao
+        culture = swahili
         religion = protestant
         size = 800
     }
 
     soldiers = {
-        culture = yao
+        culture = swahili
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = yao
+        culture = swahili
         religion = protestant
-        size = 15425
-    }
-
-    aristocrats = {
-        culture = nyasa
-        religion = protestant
-        size = 225
-    }
-
-    clergymen = {
-        culture = nyasa
-        religion = protestant
-        size = 125
-    }
-
-    artisans = {
-        culture = nyasa
-        religion = protestant
-        size = 600
-    }
-
-    soldiers = {
-        culture = nyasa
-        religion = protestant
-        size = 125
-    }
-
-    farmers = {
-        culture = nyasa
-        religion = protestant
-        size = 10925
+        size = 35425
     }
 
     slaves = {
-        culture = nyasa
+        culture = swahili
         religion = protestant
-        size = 3000
-    }
-
-    slaves = {
-        culture = chewa
-        religion = protestant
-        size = 2000
+        size = 25000
     }
 }
 #Masasi (132000/33000 POPS)
 2041 = {
     aristocrats = {
-        culture = yao
+        culture = swahili
         religion = protestant
         size = 475
     }
 
     clergymen = {
-        culture = yao
+        culture = swahili
         religion = protestant
         size = 250
     }
 
     artisans = {
-        culture = yao
+        culture = swahili
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = yao
+        culture = swahili
         religion = protestant
         size = 250
     }
 
     farmers = {
-        culture = yao
+        culture = swahili
         religion = protestant
-        size = 15125
+        size = 25125
     }
-
-    aristocrats = {
-        culture = makua
-        religion = protestant
-        size = 150
-    }
-
-    clergymen = {
-        culture = makua
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = makua
-        religion = protestant
-        size = 400
-    }
-
-    soldiers = {
-        culture = makua
-        religion = protestant
-        size = 75
-    }
-
-    farmers = {
-        culture = makua
-        religion = protestant
-        size = 7275
-    }
-
+	
     slaves = {
-        culture = makua
+        culture = swahili
         religion = protestant
-        size = 8000
+        size = 11000
     }
 }
 #Iringa (300000/75000 POPS)
 2042 = {
     aristocrats = {
-        culture = unyamwezi
+        culture = swahili
         religion = protestant
         size = 375
     }
 
     clergymen = {
-        culture = unyamwezi
+        culture = swahili
         religion = protestant
         size = 200
     }
 
     artisans = {
-        culture = unyamwezi
+        culture = swahili
         religion = protestant
         size = 800
     }
 
     soldiers = {
-        culture = unyamwezi
+        culture = swahili
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = unyamwezi
+        culture = swahili
         religion = protestant
-        size = 13225
-    }
-
-    aristocrats = {
-        culture = nyasa
-        religion = protestant
-        size = 450
-    }
-
-    clergymen = {
-        culture = nyasa
-        religion = protestant
-        size = 225
-    }
-
-    artisans = {
-        culture = nyasa
-        religion = protestant
-        size = 1150
-    }
-
-    soldiers = {
-        culture = nyasa
-        religion = protestant
-        size = 225
-    }
-
-    farmers = {
-        culture = nyasa
-        religion = protestant
-        size = 20950
+        size = 33225
     }
 
     slaves = {
-        culture = nyasa
+        culture = swahili
         religion = protestant
-        size = 13000
+        size = 63000
     }
 
-    aristocrats = {
-        culture = nyasa
-        religion = protestant
-        size = 100
-    }
-
-    clergymen = {
-        culture = nyasa
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = nyasa
-        religion = protestant
-        size = 200
-    }
-
-    soldiers = {
-        culture = nyasa
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = nyasa
-        religion = protestant
-        size = 3650
-    }
-
-    aristocrats = {
-        culture = yao
-        religion = protestant
-        size = 525
-    }
-
-    clergymen = {
-        culture = yao
-        religion = protestant
-        size = 275
-    }
-
-    artisans = {
-        culture = yao
-        religion = protestant
-        size = 1100
-    }
-
-    soldiers = {
-        culture = yao
-        religion = protestant
-        size = 275
-    }
-
-    farmers = {
-        culture = yao
-        religion = protestant
-        size = 17825
-    }
 }
 #Tanganyikia Region (1276000)
 #uncolonized in 1836/dominated by the Unyamwezi
 #Tabora (260000/65000 POPS)
 2043 = {
     aristocrats = {
-        culture = unyamwezi
+        culture = swahili
         religion = protestant
         size = 1075
     }
 
     clergymen = {
-        culture = unyamwezi
+        culture = swahili
         religion = protestant
         size = 550
     }
 
     artisans = {
-        culture = unyamwezi
+        culture = swahili
         religion = protestant
         size = 2200
     }
 
     soldiers = {
-        culture = unyamwezi
+        culture = swahili
         religion = protestant
         size = 550
     }
 
     farmers = {
-        culture = unyamwezi
+        culture = swahili
         religion = protestant
         size = 37625
     }
 
-    aristocrats = {
-        culture = kilombero
-        religion = protestant
-        size = 150
-    }
-
-    clergymen = {
-        culture = kilombero
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = kilombero
-        religion = protestant
-        size = 350
-    }
-
-    soldiers = {
-        culture = kilombero
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = kilombero
-        religion = protestant
-        size = 6325
-    }
-
     slaves = {
-        culture = kilombero
+        culture = swahili
         religion = protestant
-        size = 7000
+        size = 70000
     }
 
-    aristocrats = {
-        culture = sukuma
-        religion = protestant
-        size = 100
-    }
-
-    clergymen = {
-        culture = sukuma
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = sukuma
-        religion = protestant
-        size = 150
-    }
-
-    soldiers = {
-        culture = sukuma
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = sukuma
-        religion = protestant
-        size = 2700
-    }
-
-    slaves = {
-        culture = sukuma
-        religion = protestant
-        size = 6000
-    }
 }
 #Mwanza (368000/92000 POPS)
 2044 = {
     aristocrats = {
-        culture = luo
-        religion = protestant
-        size = 475
-    }
-
-    clergymen = {
-        culture = luo
-        religion = protestant
-        size = 250
-    }
-
-    artisans = {
-        culture = luo
-        religion = protestant
-        size = 1100
-    }
-
-    soldiers = {
-        culture = luo
-        religion = protestant
-        size = 250
-    }
-
-    farmers = {
-        culture = luo
-        religion = protestant
-        size = 9025
-    }
-
-    aristocrats = {
-        culture = unyamwezi
-        religion = protestant
-        size = 275
-    }
-
-    clergymen = {
-        culture = unyamwezi
-        religion = protestant
-        size = 150
-    }
-
-    artisans = {
-        culture = unyamwezi
-        religion = protestant
-        size = 600
-    }
-
-    soldiers = {
-        culture = unyamwezi
-        religion = protestant
-        size = 150
-    }
-
-    farmers = {
-        culture = unyamwezi
-        religion = protestant
-        size = 3825
-    }
-
-    slaves = {
-        culture = lacustrine_bantu
-        religion = protestant
-        size = 24000
-    }
-
-    aristocrats = {
-        culture = sukuma
+        culture = swahili
         religion = protestant
         size = 925
     }
 
     clergymen = {
-        culture = sukuma
+        culture = swahili
         religion = protestant
         size = 475
     }
 
     artisans = {
-        culture = sukuma
+        culture = swahili
         religion = protestant
         size = 2350
     }
 
     soldiers = {
-        culture = sukuma
+        culture = swahili
         religion = protestant
         size = 475
     }
 
     farmers = {
-        culture = sukuma
+        culture = swahili
         religion = protestant
-        size = 42775
+        size = 82775
     }
 
-    aristocrats = {
-        culture = ruanda
-        religion = protestant
-        size = 10
-    }
-
-    clergymen = {
-        culture = ruanda
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = ruanda
-        religion = protestant
-        size = 50
-    }
-
-    soldiers = {
-        culture = ruanda
-        religion = protestant
-        size = 15
-    }
-
-    farmers = {
-        culture = ruanda
-        religion = protestant
-        size = 900
-    }
-
-    aristocrats = {
-        culture = ruanda
-        religion = protestant
-        size = 50
-    }
-
-    clergymen = {
-        culture = ruanda
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = ruanda
-        religion = protestant
-        size = 150
-    }
-
-    soldiers = {
-        culture = ruanda
-        religion = protestant
-        size = 25
-    }
-
-    farmers = {
-        culture = ruanda
-        religion = protestant
-        size = 2700
-    }
 }
 #Morogoro (232000/58000 POPS)
 2045 = {
-    aristocrats = {
-        culture = unyamwezi
-        religion = protestant
-        size = 675
-    }
-
-    clergymen = {
-        culture = unyamwezi
-        religion = protestant
-        size = 350
-    }
-
-    artisans = {
-        culture = unyamwezi
-        religion = protestant
-        size = 1400
-    }
-
-    soldiers = {
-        culture = unyamwezi
-        religion = protestant
-        size = 350
-    }
-
-    labourers = {
-        culture = unyamwezi
-        religion = protestant
-        size = 20225
-    }
 
     aristocrats = {
         culture = swahili
-        religion = protestant
-        size = 100
-    }
-
-    clergymen = {
-        culture = swahili
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = swahili
-        religion = protestant
-        size = 250
-    }
-
-    soldiers = {
-        culture = swahili
-        religion = protestant
-        size = 75
-    }
-
-    labourers = {
-        culture = swahili
-        religion = protestant
-        size = 3525
-    }
-
-    aristocrats = {
-        culture = kilombero
         religion = protestant
         size = 275
     }
 
     clergymen = {
-        culture = kilombero
+        culture = swahili
         religion = protestant
         size = 150
     }
 
     artisans = {
-        culture = kilombero
+        culture = swahili
         religion = protestant
         size = 700
     }
 
     soldiers = {
-        culture = kilombero
+        culture = swahili
         religion = protestant
-        size = 150
+        size = 4050
     }
 
     labourers = {
-        culture = kilombero
+        culture = swahili
         religion = protestant
-        size = 12825
+        size = 42825
     }
 
     slaves = {
-        culture = kilombero
+        culture = swahili
         religion = protestant
-        size = 14000
+        size = 34000
     }
 
-    aristocrats = {
-        culture = sukuma
-        religion = protestant
-        size = 50
-    }
-
-    clergymen = {
-        culture = sukuma
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = sukuma
-        religion = protestant
-        size = 150
-    }
-
-    soldiers = {
-        culture = sukuma
-        religion = protestant
-        size = 25
-    }
-
-    labourers = {
-        culture = sukuma
-        religion = protestant
-        size = 2700
-    }
 }
 #Ujiji (336000/84000 POPS)
 2046 = {
-    aristocrats = {
-        culture = unyamwezi
-        religion = protestant
-        size = 1075
-    }
-
-    clergymen = {
-        culture = unyamwezi
-        religion = protestant
-        size = 550
-    }
-
-    artisans = {
-        culture = unyamwezi
-        religion = protestant
-        size = 2200
-    }
-
-    soldiers = {
-        culture = unyamwezi
-        religion = protestant
-        size = 550
-    }
-
-    farmers = {
-        culture = unyamwezi
-        religion = protestant
-        size = 31425
-    }
 
     aristocrats = {
-        culture = nyasa
+        culture = swahili
         religion = protestant
         size = 475
     }
 
     clergymen = {
-        culture = nyasa
+        culture = swahili
         religion = protestant
         size = 250
     }
 
     artisans = {
-        culture = nyasa
+        culture = swahili
         religion = protestant
         size = 1250
     }
 
     soldiers = {
-        culture = nyasa
+        culture = swahili
         religion = protestant
         size = 250
     }
 
     farmers = {
-        culture = nyasa
+        culture = swahili
         religion = protestant
-        size = 22775
+        size = 52775
     }
 
     slaves = {
-        culture = nyasa
+        culture = swahili
         religion = protestant
-        size = 12000
+        size = 32000
     }
 
-    aristocrats = {
-        culture = south_forest_bantu
-        religion = protestant
-        size = 50
-    }
-
-    clergymen = {
-        culture = south_forest_bantu
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = south_forest_bantu
-        religion = protestant
-        size = 200
-    }
-
-    soldiers = {
-        culture = south_forest_bantu
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = south_forest_bantu
-        religion = protestant
-        size = 3650
-    }
 }
 #Arusha (80000/20000 POPS)
 2047 = {
-    aristocrats = {
-        culture = sukuma
-        religion = protestant
-        size = 100
-    }
-
-    clergymen = {
-        culture = sukuma
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = sukuma
-        religion = protestant
-        size = 300
-    }
-
-    soldiers = {
-        culture = sukuma
-        religion = protestant
-        size = 75
-    }
-
-    farmers = {
-        culture = sukuma
-        religion = protestant
-        size = 5475
-    }
 
     aristocrats = {
-        culture = maasai
+        culture = swahili
         religion = protestant
         size = 125
     }
 
     clergymen = {
-        culture = maasai
+        culture = swahili
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = maasai
+        culture = swahili
         religion = protestant
         size = 400
     }
 
     soldiers = {
-        culture = maasai
+        culture = swahili
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = maasai
+        culture = swahili
         religion = protestant
-        size = 7275
-    }
-
-    aristocrats = {
-        culture = kilombero
-        religion = protestant
-        size = 100
-    }
-
-    clergymen = {
-        culture = kilombero
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = kilombero
-        religion = protestant
-        size = 300
-    }
-
-    soldiers = {
-        culture = kilombero
-        religion = protestant
-        size = 75
-    }
-
-    farmers = {
-        culture = kilombero
-        religion = protestant
-        size = 5475
+        size = 70275
     }
 
     slaves = {
-        culture = cushitic
+        culture = swahili
         religion = protestant
-        size = 2000
+        size = 125000
     }
 }
 #Zanzibar Region (156000)
@@ -1156,79 +511,13 @@
     farmers = {
         culture = swahili
         religion = protestant
-        size = 7100
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = protestant
-        size = 150
-    }
-
-    bureaucrats = {
-        culture = bedouin
-        religion = protestant
-        size = 75
-    }
-
-    officers = {
-        culture = bedouin
-        religion = protestant
-        size = 75
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = protestant
-        size = 200
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = protestant
-        size = 450
-    }
-
-    aristocrats = {
-        culture = kilombero
-        religion = protestant
-        size = 400
-    }
-
-    clergymen = {
-        culture = kilombero
-        religion = protestant
-        size = 200
-    }
-
-    artisans = {
-        culture = kilombero
-        religion = protestant
-        size = 1050
-    }
-
-    soldiers = {
-        culture = kilombero
-        religion = protestant
-        size = 225
-    }
-
-    farmers = {
-        culture = kilombero
-        religion = protestant
-        size = 19125
+        size = 47100
     }
 
     slaves = {
-        culture = kilombero
+        culture = swahili
         religion = protestant
-        size = 8000
+        size = 45000
     }
 
 }

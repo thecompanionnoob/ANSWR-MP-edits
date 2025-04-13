@@ -3,49 +3,49 @@
 #Nouakchott (92000/23000 POPS)
 1775 = {
     aristocrats = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 450
     }
 
     bureaucrats = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 20
     }
 
     officers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 5
     }
 
     clergymen = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 225
     }
 
     artisans = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 925
     }
 
     soldiers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 250
     }
 
     farmers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 18125
     }
 
     slaves = {
-        culture = bedouin
+        culture = tuareg
         religion = protestant
         size = 3000
     }
@@ -182,43 +182,43 @@
 #Shingit (12000/3000 POPS)
 1779 = {
     aristocrats = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 40
     }
 
     bureaucrats = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 3
     }
 
     officers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 7
     }
 
     clergymen = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 2700
     }
@@ -227,61 +227,61 @@
 #Walata (28000/7000 POPS)
 1781 = {
     aristocrats = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 150
     }
 
     artisans = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 300
     }
 
     soldiers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 5400
     }
 
     aristocrats = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 75
     }
 
     clergymen = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 3675
     }
@@ -291,61 +291,31 @@
 #Bir Maghrein (16000/4000 POPS) #now part of Mauritania
 1782 = {
     aristocrats = {
-        culture = bedouin
-        religion = protestant
-        size = 10
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = protestant
-        size = 15
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = protestant
-        size = 50
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = protestant
-        size = 25
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = protestant
-        size = 900
-    }
-
-    aristocrats = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = gur
+        culture = tuareg
         religion = protestant
         size = 2700
     }

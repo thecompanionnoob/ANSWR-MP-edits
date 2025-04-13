@@ -5,103 +5,103 @@
 #Korgari (464000/116000 POPS)
 1815 = {
     aristocrats = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 1500
     }
 
     bureaucrats = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 600
     }
 
     clergymen = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 800
     }
 
     artisans = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 12000
     }
 
     artisans = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 12000
     }
 
     artisans = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 7000
     }
 
     soldiers = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 9000
     }
 
     farmers = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 88800
     }
 
     artisans = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 4000
     }
 
     soldiers = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 1300
     }
 
     farmers = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 13900
     }
 
     farmers = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 10850
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 150
     }
 
     clergymen = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 12150
     }
@@ -109,127 +109,127 @@
 #Dosso (280000/70000 POPS)
 1810 = {
     aristocrats = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 600
     }
 
     clergymen = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 450
     }
 
     artisans = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 1150
     }
 
     soldiers = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 500
     }
 
     farmers = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 25300
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 4200
     }
 
     soldiers = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 400
     }
 
     farmers = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 12900
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 1600
     }
 
     slaves = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 8800
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 350
     }
 
     clergymen = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 450
     }
 
     soldiers = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 7000
     }
@@ -237,127 +237,127 @@
 #Maradi (280000/70000 POPS)
 1811 = {
     aristocrats = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 100
     }
 
     clergymen = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 100
     }
 
     soldiers = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 100
     }
 
     farmers = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 38800
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 300
     }
 
     clergymen = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 200
     }
 
     artisans = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 400
     }
 
     farmers = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 24000
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 300
     }
 
     clergymen = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 150
     }
 
     artisans = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 800
     }
 
     soldiers = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 150
     }
 
     farmers = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 9600
     }
 
     slaves = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 7000
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 20
     }
 
     clergymen = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 30
     }
 
     farmers = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 7800
     }
@@ -365,67 +365,67 @@
 #Agades (168000/42000 POPS)
 1812 = {
 	aristocrats = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 1000
     }
 
     clergymen = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 100
     }
 
     artisans = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 1000
     }
 
     soldiers = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 6000
     }
 
     farmers = {
-        culture = tuareg
+        culture = tsakiya
         religion = kaura
         size = 41500
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 575
     }
 
     clergymen = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 150
     }
 
     artisans = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 1500
     }
 
     soldiers = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 1150
     }
 
     farmers = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 33625
     }
 
     farmers = {
-        culture = tuareg
+        culture = tsakiya
         religion = protestant
         size = 7750
     }
