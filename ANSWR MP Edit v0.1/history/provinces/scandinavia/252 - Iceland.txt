@@ -1,8 +1,8 @@
-owner = SCO
-controller = SCO
+owner = CLE
+controller = CLE
 add_core = GRN
 add_core = NSO
-add_core = SCO
+add_core = CLE
 trade_goods = fish
 life_rating = 35
 colonial = 2
