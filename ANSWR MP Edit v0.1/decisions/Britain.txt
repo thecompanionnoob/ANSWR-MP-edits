@@ -1,186 +1,5 @@
 ### ENGLAND
 political_decisions = {
-	support_sutton = {
-		picture = anti_stales_league
-		potential = {
-			exists = yes
-			tag = UNS
-			has_country_flag = the_lions_speech
-		}
-		allow = {
-			prestige = 60
-			ideological_thought = 1
-		}
-		effect = {
-			UNS = { country_event = 17301 }
-			clr_country_flag = the_lions_speech
-		}
-		ai_will_do = { factor = 1 } 
-	}
-	anti_stales_league_player = {
-		picture = anti_stales_league
-		potential = {
-			ai = no
-			exists = yes
-			has_global_flag = the_lions_speech
-			capital_scope = { continent = europe }
-			primary_culture = english		
-			NOT = { tag = UNS}
-			NOT = { tag = ASL}	
-		}
-		allow = {
-			prestige = 25
-		}
-		effect = {
-			change_tag = ASL
-			any_country = {
-                limit = {
-                capital_scope = { continent = europe }
-				primary_culture = english
-				NOT = { tag = UNS}
-				NOT = { tag = THIS}
-                }
-                country_event = 17309
-            }
-			all_core = {
-			remove_core = THIS
-			}
-			THIS = { country_event = 17304 }
-		}
-	}
-	anti_stales_league = {
-		picture = anti_stales_league
-		potential = {
-			ai = yes
-			exists = yes
-			has_country_flag = the_lions_speech
-			NOT = { has_global_flag = the_lions_speech }
-			NOT = { has_global_flag = anti_stales_league_formed}
-			capital_scope = { continent = europe }
-			primary_culture = english
-			NOT = { tag = UNS }		
-			NOT = { tag = ASL}		
-		}
-		allow = {
-			prestige = 25
-		}
-		effect = {
-			change_tag = ASL
-			any_country = {
-	                limit = {
-						capital_scope = { continent = europe }
-						primary_culture = english
-						NOT = { tag = UNS}
-						NOT = { tag = THIS}
-	                }
-	                country_event = 17309
-	            }
-	        all_core = {
-	        remove_core = THIS
-	        }
-			THIS = { country_event = 17304 }
-		}
-		ai_will_do = { factor = 1 }  
-	}
-	stales_england_form_asl = {
-		picture = england_form
-		potential = {
-			exists = yes
-			has_global_flag = anti_stales_league_formed
-			tag = UNS
-			NOT = { tag = ENL }
-			NOT = { has_country_flag = england_formed }
-			ENG_277 = { owned_by = UNS }
-			ENG_280 = { owned_by = UNS }
-			ENG_291 = { owned_by = UNS }
-		}
-		allow = {
-			prestige = 50
-		}
-		effect = {
-		UNS = { country_event = 17308 }
-		set_country_flag = england_formed
-		}
-		ai_will_do = { factor = 1 } 
-	}
-	anti_stales_england_form = {
-		picture = england_form
-		potential = {
-			exists = yes
-			has_global_flag = anti_stales_league_formed
-			tag = ASL
-			NOT = { tag = ENL }
-			NOT = { has_country_flag = england_formed }
-			UNS = {
-				is_disarmed = yes
-			}
-		}
-		allow = {
-		}
-		effect = {
-			UNS = { country_event = 17306 }
-			THIS = { country_event = 17307 }
-			set_country_flag = england_formed
-		}
-		ai_will_do = { factor = 1 } 
-	}
-	apologize_english = {
-		potential = {
-			exists = yes
-			tag = UNS
-			has_country_flag = denounced_lions_speech
-			NOT = { has_country_flag = unionist_apology }
-		}
-		allow = {
-			prestige = 50
-			ideological_thought = 1
-		}
-		effect = {
-			prestige = 5
-			relation = {
-	            who = TYN
-	            value = 25
-	        }
-	        relation = {
-	            who = CHS
-	            value = 25
-	        }
-	        relation = {
-	            who = ANI
-	            value = 25
-	        }
-	        set_country_flag = unionist_apology
-		}
-		ai_will_do = { factor = 1 }  
-	}
-	offer_compensation_english = {
-		picture = institute_central_bank
-		potential = {
-			exists = yes
-			tag = UNS
-			has_country_flag = imprisioned_the_lions_speech
-			NOT = { has_country_flag = unionist_apology }
-		}
-		allow = {
-			prestige = 50
-			ideological_thought = 1
-		}
-		effect = {
-			prestige = 5
-			any_country ={
-	            limit = { 
-					exists = yes
-					ai = yes
-					capital_scope = { continent = europe }
-					primary_culure = english
-					NOT = { tag = UNS }
-	            }
-	            country_event = 17302
-	        }
-	        set_country_flag = unionist_apology
-		}
-		ai_will_do = { factor = 1 }  
-	}
 	Dual  = {
         picture = Dual
         potential = {
@@ -244,7 +63,6 @@ political_decisions = {
                 tag = CHS
                 tag = TYN
                 tag = ANI
-		tag = CLE
             }
             NOT = { exists = ENL }
         }
@@ -326,54 +144,14 @@ political_decisions = {
         potential = {
             OR = {                
                 tag = ENL
-                tag = SCO 
-                tag = IRE              
+				tag = CLE          
             }
             NOT = { exists = ENG }
 			
         }
         allow = {         
             war = no          
-            SCO = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	         }
-           ULS = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	         }
-           COC = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	         }
-           LEC = {
+            CLE = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -405,10 +183,7 @@ political_decisions = {
         effect = {                
             prestige = 25
             change_tag = ENG
-            SCO = {
-				all_core = { add_core = ENG secede_province = THIS }
-			}
-            IRE = {
+            CLE = {
 				all_core = { add_core = ENG secede_province = THIS }
 			}
             ENL = {
@@ -421,24 +196,4 @@ political_decisions = {
         }
 		ai_will_do = { factor = 1 }
     }
-	scotland_is_stalish = {
-		potential = {
-			tag = ENL
-			NOT = { has_country_flag = stalish_scots }
-		}
-		
-		allow = {
-			mass_politics = 1
-			NOT = { owns = 269 }
-			SCO = { exists = yes }
-			ruling_party_ideology = fascist
-		}
-		
-		effect = {
-			set_country_flag = stalish_scots
-			SCO = { all_core = { add_core = THIS } }
-			prestige = 20
-			badboy = 10
-		}
-	}
 }
