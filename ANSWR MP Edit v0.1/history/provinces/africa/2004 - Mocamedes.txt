@@ -1,5 +1,6 @@
-owner = SJR
-controller = SJR
+owner = NUH
+controller = NUH
 terrain = plains
 trade_goods = fish
 life_rating = 35
+colonial = 2

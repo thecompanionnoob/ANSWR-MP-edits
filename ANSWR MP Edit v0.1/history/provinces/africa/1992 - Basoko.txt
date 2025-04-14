@@ -2,5 +2,5 @@ owner = NTC
 controller = NTC
 add_core = NTC
 add_core = LOA
-trade_goods = timber
+trade_goods = iron
 life_rating = 32

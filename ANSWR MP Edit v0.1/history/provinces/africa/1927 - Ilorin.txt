@@ -2,5 +2,5 @@ owner = NGR
 controller = NGR
 add_core = NGR
 add_core = OYO
-trade_goods = grain
+trade_goods = iron
 life_rating = 25
