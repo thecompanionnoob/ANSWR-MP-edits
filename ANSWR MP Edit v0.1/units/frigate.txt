@@ -38,7 +38,7 @@ frigate = {
 	hull = 3
 	gun_power = 4
 	fire_range = 0.50
-	evasion = 0.25
+	evasion = 0
 	torpedo_attack = 0
 }
 
