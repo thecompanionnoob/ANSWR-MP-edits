@@ -13,7 +13,7 @@ Omsk_con_8  = {
                 } 
             }
 			
-        }
+        
         allow = {         
             war = no           
             money = 10000
