@@ -300,6 +300,10 @@ political_decisions = {
         allow = {         
             war = no           
             money = 10000
+	    NOT = {
+                1025 = { owned_by = OMS } 
+                1037 = { owned_by = OMS } 
+            }
         }
         effect = {                
             set_global_flag= Con_1
@@ -325,6 +329,12 @@ political_decisions = {
         allow = {         
             war = no           
             money = 20000 
+	    NOT = {
+                1001 = { owned_by = OMS } 
+                998 = { owned_by = OMS } 
+                991 = { owned_by = OMS } 
+                992 = { owned_by = OMS } 
+            }
         }
         effect = {                
             money = -20000
@@ -355,6 +365,13 @@ political_decisions = {
         allow = {         
             war = no           
             money = 40000 
+	    NOT = {
+                1000 = { owned_by = OMS } 
+                1014 = { owned_by = OMS } 
+                1015 = { owned_by = OMS } 
+                1016 = { owned_by = OMS } 
+                943 = { owned_by = OMS } 
+            }
         }
         effect = {  
             money = -40000               
@@ -387,6 +404,12 @@ political_decisions = {
         allow = {         
             war = no           
             money = 50000 
+	    NOT = {
+                1017 = { owned_by = OMS } 
+                1019 = { owned_by = OMS } 
+                1039 = { owned_by = OMS } 
+                1040 = { owned_by = OMS } 
+            }
         }
         effect = {  
             money = -50000              
@@ -415,7 +438,13 @@ political_decisions = {
         }
         allow = {         
             war = no           
-            money = 70000  
+            money = 70000 
+	    NOT = {
+                1022 = { owned_by = OMS } 
+                1027 = { owned_by = OMS } 
+                1020 = { owned_by = OMS } 
+                1033 = { owned_by = OMS } 
+            } 
         }
         effect = {
             money = -70000                 
@@ -445,6 +474,15 @@ political_decisions = {
         allow = {         
             war = no           
             money = 90000  
+	    NOT = {
+                987 = { owned_by = OMS } 
+                990 = { owned_by = OMS } 
+                1028 = { owned_by = OMS } 
+                1030 = { owned_by = OMS } 
+                1034 = { owned_by = OMS } 
+                1035 = { owned_by = OMS }
+                1043 = { owned_by = OMS }
+            }
         }
         effect = {
             money = -90000                 
@@ -480,6 +518,13 @@ political_decisions = {
         allow = {         
             war = no           
             money = 100000  
+	    NOT = {
+                2689 = { owned_by = OMS } 
+                2700 = { owned_by = OMS } 
+                1026 = { owned_by = OMS } 
+                1029 = { owned_by = OMS } 
+                1031 = { owned_by = OMS }  
+            }
         }
         effect = {
             money = -100000                 
@@ -510,7 +555,15 @@ political_decisions = {
         }
         allow = {         
             war = no           
-            money = 120000  
+            money = 120000 
+	    NOT = {
+                1183 = { owned_by = OMS } 
+                2610 = { owned_by = OMS } 
+                1043 = { owned_by = OMS } 
+                1042 = { owned_by = OMS } 
+                1034 = { owned_by = OMS } 
+                1044 = { owned_by = OMS }
+            } 
         }
         effect = {
             money = -120000                
