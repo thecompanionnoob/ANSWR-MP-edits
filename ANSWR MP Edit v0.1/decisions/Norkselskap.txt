@@ -1,0 +1,224 @@
+political_decisions = {
+#Norkselskap Colonisation Descision 1
+	ntc_col_1 = {
+		picture = conquest_of_the_desert
+		potential = {
+            OR = {                
+                tag = NTC
+            }
+            NOT = {has_global_flag = Ncol_1}
+			has_global_flag = Ncon_1
+        }
+		allow = {         
+            war = no           
+            money = 500000
+			1982 = { owned_by = NTC } 
+            2001 = { owned_by = NTC } 
+            1999 = { owned_by = NTC }
+			2003 = { owned_by = NTC }
+			2004 = { owned_by = NTC } 
+        }
+		effect = {
+            money = -500000                
+            set_global_flag= Ncol_1
+            1985 = {secede_province = THIS}
+            2010 = {secede_province = THIS}
+            2009 = {secede_province = THIS}	
+            2002 = {secede_province = THIS}				
+            2005 = {secede_province = THIS}
+            2006 = {secede_province = THIS}
+            2008 = {secede_province = THIS}
+            1985 = { add_core = NTC }
+            2010 = { add_core = NTC }
+            2009 = { add_core = NTC }	
+            2002 = { add_core = NTC }				
+            2005 = { add_core = NTC } 
+            2006 = { add_core = NTC } 
+            2008 = { add_core = NTC }  
+        }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+#Norkselskap Colonisation Descision 2
+	ntc_col_2 = {
+		picture = conquest_of_the_desert
+		potential = {
+            OR = {                
+                tag = NTC
+            }
+            NOT = {has_global_flag = Ncol_2}
+			has_global_flag = Ncon_2
+        }
+		allow = {         
+            war = no           
+            money = 750000
+			state_n_government = 1
+			invention = vaccination
+			POR_1999 = {
+				is_colonial = no
+			}
+			POR_2003 = {
+				is_colonial = no
+			}
+			POR_2006 = {
+				is_colonial = no
+			}
+        }
+		effect = {
+            money = -750000                
+            set_global_flag= Ncol_2
+            1984 = {secede_province = THIS}
+            1994 = {secede_province = THIS}
+            1986 = {secede_province = THIS}	
+            1990 = {secede_province = THIS}				
+            1991 = {secede_province = THIS} 
+			add_accepted_culture = kuba
+        }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+#Norkselskap Colonisation Descision 3
+	ntc_col_3 = {
+		picture = conquest_of_the_desert
+		potential = {
+            OR = {                
+                tag = NTC
+            }
+            NOT = {has_global_flag = Ncol_3}
+			has_global_flag = Ncol_2
+        }
+		allow = {         
+            war = no           
+            money = 1000000
+			nationalism_n_imperialism = 1
+        }
+		effect = {
+            money = -1000000                
+            set_global_flag= Ncol_3
+            1996 = {secede_province = THIS}
+            1997 = {secede_province = THIS}
+            1998 = {secede_province = THIS}	
+            1969 = {secede_province = THIS}	 
+			add_accepted_culture = azande
+        }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+#Norkselskap Colonisation Descision 4
+	ntc_col_4 = {
+		picture = conquest_of_the_desert
+		potential = {
+            OR = {                
+                tag = NTC
+            }
+            NOT = {has_global_flag = Ncol_4}
+			has_global_flag = Ncon_3
+        }
+		allow = {         
+            war = no           
+            money = 1000000
+			nationalism_n_imperialism = 1
+			ENG_2014 = {
+				is_colonial = no
+			}
+        }
+		effect = {
+            money = -1000000                
+            set_global_flag= Ncol_4
+            1987 = {secede_province = THIS}
+            1988 = {secede_province = THIS}
+            1989 = {secede_province = THIS}	
+            2017 = {secede_province = THIS}				 
+        }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+#Norkselskap Conquest Descision 1
+	ntc_con_1 {
+		picture = conquest_of_the_desert
+		potential = {
+            OR = {                
+                tag = NTC
+            }
+            NOT = {has_global_flag = Ncon_1}
+        }
+		allow = {         
+            war = no           
+            money = 50000  
+        }
+		effect = {
+            money = -50000                
+            set_global_flag= Ncon_1
+            1982 = { add_core = NTC } 
+            2001 = { add_core = NTC } 
+            1999 = { add_core = NTC }
+			2003 = { add_core = NTC }
+			2004 = { add_core = NTC } 
+        }
+		ai_will_do = {
+			factor = 0
+		}
+	}
+#Norkselskap Conquest Descision 2
+	ntc_con_2 {
+		picture = conquest_of_the_desert
+		potential = {
+            OR = {                
+                tag = NTC
+            }
+            NOT = {has_global_flag = Ncon_2}
+			has_global_flag = Ncol_1
+        }
+		allow = {         
+            war = no           
+            money = 50000  
+			2011 = { owned_by = NTC } 
+            2007 = { owned_by = NTC } 
+        }
+		effect = {
+            money = -50000                
+            set_global_flag= Ncon_2
+            2011 = { add_core = NTC } 
+            2007 = { add_core = NTC }  
+        }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+#Norkselskap Conquest Descision 3
+	ntc_con_3 {
+		picture = conquest_of_the_desert
+		potential = {
+            OR = {                
+                tag = NTC
+            }
+            NOT = {has_global_flag = Ncon_3}
+			has_global_flag = Ncol_2
+        }
+		allow = {         
+            war = no 
+			nationalism_n_imperialism = 1
+			790 = { owned_by = NTC }
+			2007 = { owned_by = NTC }
+			2012 = { owned_by = NTC }
+			2013 = { owned_by = NTC }
+			2014 = { owned_by = NTC }
+			2015 = { owned_by = NTC }
+        }
+		effect = {                
+            set_global_flag= Ncon_3
+			KZB = {
+				all_core = {
+					remove_core = KZB
+				}
+			}
+        }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

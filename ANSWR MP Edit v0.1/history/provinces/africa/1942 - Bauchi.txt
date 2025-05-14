@@ -1,5 +1,5 @@
 owner = NGR
 controller = NGR
 add_core = NGR
-trade_goods = coal
+trade_goods = fruit
 life_rating = 35

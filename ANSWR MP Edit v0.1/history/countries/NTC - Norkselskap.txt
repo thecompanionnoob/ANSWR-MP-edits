@@ -4,7 +4,7 @@ religion = protestant
 government = democracy
 plurality = 5.0
 nationalvalue = nv_productivity
-literacy = 0.12
+literacy = 0.16
 civilized = yes
 prestige = 5
 
