@@ -272,9 +272,7 @@ Omsk_con_8  = {
 	    NOT = {
                 1183 = { owned_by = MOW } 
                 2610 = { owned_by = MOW } 
-                1043 = { owned_by = MOW } 
                 1042 = { owned_by = MOW } 
-                1034 = { owned_by = MOW } 
                 1044 = { owned_by = MOW }
             } 
         }
@@ -283,15 +281,11 @@ Omsk_con_8  = {
             set_global_flag= OCon_1
             1183 = {secede_province = THIS}
             2610 = {secede_province = THIS}
-            1043 = {secede_province = THIS}
             1042 = {secede_province = THIS}
-            1034 = {secede_province = THIS}
             1044 = {secede_province = THIS}   
             1183 = { add_core = MOW add_core = OMS } 
-            2610 = { add_core = MOW add_core = OMS } 
-            1043 = { add_core = MOW add_core = OMS }  
+            2610 = { add_core = MOW add_core = OMS }   
             1042 = { add_core = MOW add_core = OMS }    
-            1034 = { add_core = MOW add_core = OMS }
             1044 = { add_core = MOW add_core = OMS } 
         }
 		ai_will_do = {
