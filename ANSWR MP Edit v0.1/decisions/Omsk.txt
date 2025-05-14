@@ -7,6 +7,11 @@ Omsk_con_8  = {
             }
             NOT = {has_global_flag = OCon_8}
             has_global_flag = OCon_7	
+	    NOT = {
+                1025 = { owned_by = MOW } 
+                1037 = { owned_by = MOW } 
+                } 
+            }
 			
         }
         allow = {         
@@ -37,6 +42,12 @@ Omsk_con_8  = {
         allow = {         
             war = no           
             money = 20000 
+	    NOT = {
+                1001 = { owned_by = MOW } 
+                998 = { owned_by = MOW } 
+                991 = { owned_by = MOW } 
+                992 = { owned_by = MOW } 
+            }
         }
         effect = {                
             money = -20000
@@ -67,6 +78,13 @@ Omsk_con_8  = {
         allow = {         
             war = no           
             money = 40000 
+	    NOT = {
+                1000 = { owned_by = MOW } 
+                1014 = { owned_by = MOW } 
+                1015 = { owned_by = MOW } 
+                1016 = { owned_by = MOW } 
+                943 = { owned_by = MOW } 
+            }
         }
         effect = {  
             money = -40000               
@@ -99,6 +117,12 @@ Omsk_con_8  = {
         allow = {         
             war = no           
             money = 50000 
+	    NOT = {
+                1017 = { owned_by = MOW } 
+                1019 = { owned_by = MOW } 
+                1039 = { owned_by = MOW } 
+                1040 = { owned_by = MOW } 
+            }
         }
         effect = {  
             money = -50000              
@@ -127,7 +151,13 @@ Omsk_con_8  = {
         }
         allow = {         
             war = no           
-            money = 70000  
+            money = 70000 
+	    NOT = {
+                1022 = { owned_by = MOW } 
+                1027 = { owned_by = MOW } 
+                1020 = { owned_by = MOW } 
+                1033 = { owned_by = MOW } 
+            } 
         }
         effect = {
             money = -70000                 
@@ -156,7 +186,16 @@ Omsk_con_8  = {
         }
         allow = {         
             war = no           
-            money = 90000  
+            money = 90000 
+	    NOT = {
+                987 = { owned_by = MOW } 
+                990 = { owned_by = MOW } 
+                1028 = { owned_by = MOW } 
+                1030 = { owned_by = MOW } 
+                1034 = { owned_by = MOW } 
+                1035 = { owned_by = MOW }
+                1043 = { owned_by = MOW }
+            } 
         }
         effect = {
             money = -90000                 
@@ -191,7 +230,14 @@ Omsk_con_8  = {
         }
         allow = {         
             war = no           
-            money = 100000  
+            money = 100000
+	    NOT = {
+                2689 = { owned_by = MOW } 
+                2700 = { owned_by = MOW } 
+                1026 = { owned_by = MOW } 
+                1029 = { owned_by = MOW } 
+                1031 = { owned_by = MOW } 
+            }  
         }
         effect = {
             money = -100000                 
@@ -222,7 +268,15 @@ Omsk_con_8  = {
         }
         allow = {         
             war = no           
-            money = 120000  
+            money = 120000 
+	    NOT = {
+                1183 = { owned_by = MOW } 
+                2610 = { owned_by = MOW } 
+                1043 = { owned_by = MOW } 
+                1042 = { owned_by = MOW } 
+                1034 = { owned_by = MOW } 
+                1044 = { owned_by = MOW }
+            } 
         }
         effect = {
             money = -120000                
