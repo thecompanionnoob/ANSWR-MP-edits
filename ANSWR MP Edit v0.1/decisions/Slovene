@@ -4,7 +4,7 @@ political_decisions = {
         picture = central_oudrijk
         potential = {               
             tag = AUS
-            NOT = {has_global_flag = Croasia}
+            NOT = {has_global_flag = Slovene}
 		                }	
         
         allow = {         
@@ -29,7 +29,7 @@ political_decisions = {
 
         effect = {                
             prestige = 15    
-            set_global_flag = Croasia		
+            set_global_flag = Slovene		
             CRO = {
 				all_core = { add_core = OUD add_core = AUS}
 			}         
