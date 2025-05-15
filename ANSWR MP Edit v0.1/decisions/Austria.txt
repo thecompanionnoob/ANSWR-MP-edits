@@ -1,14 +1,11 @@
 political_decisions = {
     Acceptar_croasia  = {
         picture = central_oudrijk
-        potential = {
-            OR = {                
-                tag = AUS
-                                
-            }
-            NOT={has_global_flag = Croasia}
-			
-        }
+        potential = {               
+            tag = AUS
+	    NOT={has_global_flag = Croasia}
+		}	
+        
 
         allow = {         
             war = no           
