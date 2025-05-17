@@ -640,7 +640,7 @@ political_decisions = {
 
         effect = {
             
-            }
+            
             enable_canal = 4
             enable_canal = 5
             860 = { any_pop = { literacy = 0.05 } }
