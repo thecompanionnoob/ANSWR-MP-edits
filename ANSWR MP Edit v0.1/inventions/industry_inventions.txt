@@ -1,3 +1,13 @@
+#wine invention
+industrial_fermentation = {
+	limit = { basic_chemistry = 1 }
+	chance = {
+		base = 100
+	}
+	effect = {
+		activate_building = winery 
+	}
+}
 #combustion_engine
 daimlers_automobile = {
 	limit = { combustion_engine = 1 }
