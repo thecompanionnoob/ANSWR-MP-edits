@@ -15,8 +15,8 @@ dreadnought = {
 	
 	#Core Abilities
 	priority = 60
-	max_strength = 100
-	default_organisation = 30
+	max_strength = 125
+	default_organisation = 50
 	maximum_speed = 20
 	weighted_value = 100.0
 
