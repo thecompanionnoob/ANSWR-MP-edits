@@ -2216,7 +2216,7 @@ political_decisions = {
             ZUL = { add_country_modifier = { name = assegai duration = -1 } }
 
             NEJ = {
-                add_country_modifier = { name = wahhabism_in_nejd duration = -1 }
+                
 
                 any_pop = { limit = { is_state_religion = yes }
                     dominant_issue = { factor = 0.60 value = moralism }
