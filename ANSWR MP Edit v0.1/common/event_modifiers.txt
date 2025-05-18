@@ -2671,3 +2671,8 @@ pretorian_assimilation = {
 	icon = 17
 	global_assimilation_rate = .1
 }
+
+capital_supply_depot = {
+	max_attrition = -100
+	icon = 17
+}
