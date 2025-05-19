@@ -191,7 +191,8 @@ Reunite_with_our_Ukrainian_Brothers = {
         potential = {
             OR = {     
                 tag = ZKY           
-                tag = UKR                
+                tag = UKR  
+		tag = BYE
             }
             NOT = { exists = RUT }
         }
