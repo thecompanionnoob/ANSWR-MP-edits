@@ -33,7 +33,7 @@ party = {
 
 party = {
     name = "TUR_liberal"
-    start_date = 1856.1.1
+    start_date = 2856.1.1
     end_date = 3000.1.1
 
     ideology = liberal
@@ -48,7 +48,7 @@ party = {
 
 party = {
     name = "TUR_socialist"
-    start_date = 1874.1.1
+    start_date = 2874.1.1
     end_date = 3000.1.1
 
     ideology = socialist
