@@ -158,7 +158,7 @@ minor_conquest = {
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
 	
-	construction_speed = 0.5
+	construction_speed = 1.4
 
 	po_annex = yes
 	
