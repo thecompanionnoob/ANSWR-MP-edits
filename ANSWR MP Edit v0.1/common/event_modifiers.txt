@@ -2669,7 +2669,7 @@ banker_timer = {
 
 pretorian_assimilation = {
 	icon = 17
-	global_assimilation_rate = .1
+	global_assimilation_rate = 0.1
 }
 
 capital_supply_depot = {
