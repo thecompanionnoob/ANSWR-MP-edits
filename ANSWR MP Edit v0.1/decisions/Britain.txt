@@ -38,10 +38,11 @@ political_decisions = {
                 }
             }
         }
-        effect = {                
+        effect = { 
+            set_country_flag = formed_greater_than_france               
             prestige = 25
             change_tag = ENF
-            ENG = {
+            ENL = {
 				all_core = { add_core = ENF secede_province = THIS}
 			}
             FRE = {

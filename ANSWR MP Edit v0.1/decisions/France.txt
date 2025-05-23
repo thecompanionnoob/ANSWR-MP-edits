@@ -6,6 +6,9 @@ political_decisions = {
 			NOT = {
 				exists = FRE
 			}
+            NOT = { 
+                has_country_flag = formed_greater_than_france
+            }
 		}
 
 		allow = {
@@ -220,7 +223,7 @@ political_decisions = {
             set_country_flag = embraced_unity
         }
     }
-#End of political_decisions brackets    
+
 	Fra_Emp  = {
         picture = war_propaganda_france
         potential = {
@@ -271,7 +274,8 @@ political_decisions = {
                 }
 	        }     
         }
-        effect = {                
+        effect = {
+            set_country_flag = formed_greater_than_france        
             prestige = 10
             change_tag = FRA         
             CAT = {
