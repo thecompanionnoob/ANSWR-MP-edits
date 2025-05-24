@@ -1034,7 +1034,7 @@ steam_turbine_ships = {
 }
 oil_driven_ships = {
 	area = ship_construction
-	year = 2929
+	year = 2913
 	cost = 21600
 	unciv_military = yes
 	navy_base = { maximum_speed = 2 } 
@@ -1712,7 +1712,7 @@ advanced_naval_design = {
 }
 modern_naval_design = {
 	area = naval_engineering
-	year = 2929
+	year = 2913
 	cost = 21600
 	unciv_military = yes
 	navy_base = { build_time = -10 }
@@ -2169,7 +2169,7 @@ naval_directionism = {
 }
 naval_integration = {
 	area = naval_science
-	year = 2929
+	year = 2919
 	cost = 21600
 	unciv_military = yes
 	supply_range = 0.10
@@ -2737,7 +2737,7 @@ naval_nco_training = {
 }
 modern_naval_training = {
 	area = naval_leadership
-	year = 2929
+	year = 2919
 	cost = 21600
 	unciv_military = yes
 	navy_base = {
