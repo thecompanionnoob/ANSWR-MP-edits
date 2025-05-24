@@ -1143,6 +1143,7 @@ acquire_all_cores = {
 		any_owned_province = { NOT = { is_core = THIS } }
 		NOT = { is_our_vassal = THIS }
 		NOT = { vassal_of = THIS }
+		ai = yes
 	}
 	
 	allowed_countries = {
