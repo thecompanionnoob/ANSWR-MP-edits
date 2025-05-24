@@ -263,7 +263,7 @@ electrical_power_generation = {
 }
 hydropower = {
 	area = tech_power
-	year = 2924
+	year = 2914
 	cost = 25600
 
 	mine_rgo_eff = 0.15
@@ -566,7 +566,7 @@ shift_work = {
 }
 automated_assemblyline = {
 	area = mechanization
-	year = 2929
+	year = 2919
 	cost = 25600
 
 	
@@ -595,7 +595,7 @@ automated_assemblyline = {
 }
 optimized_assembly = {
 	area = mechanization
-	year = 2936
+	year = 2926
 	cost = 28000
 
 	
@@ -1026,7 +1026,7 @@ electric_furnace = {
 }
 borosilicate_glass = {
 	area = metallurgy
-	year = 2929
+	year = 2919
 	cost = 25600
 
 	rgo_goods_output = {
@@ -1280,7 +1280,7 @@ integral_rail_system = {
 }
 limited_access_roads = {
 	area = tech_infrastructure
-	year = 2929
+	year = 2919
 	cost = 21600
 
 	max_railroad = 1
@@ -1495,7 +1495,7 @@ electricity = {
 }
 synthetic_polymers = {
 	area = chemistry_and_electricity
-	year = 2929
+	year = 2919
 	cost = 21600
 
 	supply_limit = 0.50
