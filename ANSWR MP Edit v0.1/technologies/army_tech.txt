@@ -267,7 +267,7 @@ infiltration = {
 }
 modern_army_doctrine = {
 	area = army_doctrine
-	year = 2929
+	year = 2919
 	cost = 21600
 	unciv_military = yes
 	
@@ -633,7 +633,7 @@ bolt_action_rifles = {
 }
 modern_divisional_structure = {
 	area = light_armament
-	year = 2929
+	year = 2919
 	cost = 21600
 	unciv_military = yes
 
@@ -976,7 +976,7 @@ indirect_artillery_fire = {
 }
 heavy_armament_dunno = {
 	area = heavy_armament
-	year = 2929
+	year = 2919
 	cost = 21600
 	unciv_military = yes
 	artillery = {
@@ -1722,7 +1722,7 @@ army_nco_training = {
 }
 great_war_experience = {
 	area = army_leadership
-	year = 2929
+	year = 2919
 	cost = 21600
 	unciv_military = yes
 	morale = 0.5
