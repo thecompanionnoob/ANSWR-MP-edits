@@ -585,7 +585,7 @@ dreadnoughts = {
 #	effect = {
 #	}
 #}
-battlecruisers = {
+battlecruiserz = {
 	limit = { steam_turbine_ships = 1 }
 	chance = {
 		base = 5
@@ -598,14 +598,11 @@ battlecruisers = {
 		dreadnought = {
 			hull = 5
 			gun_power = 10
+			maximum_speed = 1
+		}
 		cruiser = {
 			maximum_speed = 1
 		}
-		dreadnought = {
-			maximum_speed = 1
-		}  
-		
-		} 
 	}
 }
 #ocean_going_submarines = {
