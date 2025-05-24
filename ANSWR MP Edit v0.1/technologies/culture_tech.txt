@@ -388,7 +388,7 @@ anti__rationalism = {
 }
 scientific_philosophy = {
 	area = philosophy
-	year = 2921
+	year = 2919
 	cost = 25600
 
 	increase_research = 1.0
@@ -844,7 +844,7 @@ mass_politics = {
 }
 mass_state_media = {
 	area = political_thought
-	year = 2929
+	year = 2925
 	cost = 25600
 
 	max_national_focus = 1.5
