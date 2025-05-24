@@ -1,9 +1,7 @@
 political_decisions = {	
-	
-
-	form_yugoslavia = { ### TODO idk if i should remove this cuz idk how else yugo forms
+	form_yugoslavia = { 
 		potential = {
-			is_culture_group = south_slavic
+			tag = SER
 			NOT = { exists = YUG }
 			NOT = { has_global_flag = yugoslavia_formed }
 		}
@@ -88,3 +86,4 @@ political_decisions = {
 			factor = 1
 		}
     }
+}

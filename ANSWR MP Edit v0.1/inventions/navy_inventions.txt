@@ -600,10 +600,11 @@ battlecruisers = {
 			gun_power = 10
 		cruiser = {
 			maximum_speed = 1
+		}
 		dreadnought = {
 			maximum_speed = 1
 		}  
-		}  
+		
 		} 
 	}
 }
