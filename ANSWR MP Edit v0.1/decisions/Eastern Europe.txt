@@ -282,7 +282,8 @@ Reunite_with_our_Ukrainian_Brothers = {
             ZKY = {
 				all_core = { add_core = RUT secede_province = THIS }
 			}
-            add_accepted_culture = krymskiy
+            add_accepted_culture = ukrainian
+	    add_accepted_culture = krymskiy
             add_accepted_culture = polish
         }
 		ai_will_do = { factor = 1 }
