@@ -585,18 +585,28 @@ dreadnoughts = {
 #	effect = {
 #	}
 #}
-#battlecruisers = {
-#	limit = { steam_turbine_ships = 1 }
-#	chance = {
-#		base = 5
-#		modifier = {
-#			factor = 2
-#			invention = pre_dreadnought
-#		}
-#	}
-#	effect = {
-#	}
-#}
+battlecruisers = {
+	limit = { steam_turbine_ships = 1 }
+	chance = {
+		base = 5
+		modifier = {
+			factor = 2
+			invention = pre_dreadnought
+		}
+	}
+	effect = {
+		dreadnought = {
+			hull = 5
+			gun_power = 10
+		cruiser = {
+			maximum_speed = 1
+		dreadnought = {
+			maximum_speed = 1
+		}  
+		}  
+		} 
+	}
+}
 #ocean_going_submarines = {
 #	limit = { steam_turbine_ships = 1 }
 #	chance = {
@@ -712,8 +722,8 @@ advanced_battleships = {
 			gun_power = 5
 		}
 		dreadnought = {
-			hull = 10
-			gun_power = 10
+			hull = 15
+			gun_power = 15
 		} 
 	}
 }
