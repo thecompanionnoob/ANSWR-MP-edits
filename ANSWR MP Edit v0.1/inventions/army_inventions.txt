@@ -268,15 +268,7 @@ trench_systems = {
 gas_attack_capability = {
 	limit = { military_directionism = 1 }
 	chance = {
-		base = 0
-		modifier = {
-			factor = 2
-			invention = cracking
-		}
-		modifier = {
-			factor = 2
-			invention = carbon_soil_enrichment
-		}		
+		base = 100	
 	}
 	effect = {
 		gas_attack = yes
@@ -285,12 +277,7 @@ gas_attack_capability = {
 gas_defense_capability = {
 	limit = { military_directionism = 1 }
 	chance = {
-		base = 0
-		modifier = {
-			factor = 5
-			war = yes
-			war_countries = { invention = gas_attack_capability }
-		}		
+		base = 100	
 	}
 	effect = {
 		gas_defence = yes
