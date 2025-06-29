@@ -44,7 +44,7 @@ monitor = {
 	hull = 3.5
 	gun_power = 1
 	fire_range = 0.65
-	torpedo_attack = 10
+	torpedo_attack = 0
 	evasion = 0.35
 }
 
