@@ -284,8 +284,6 @@ political_decisions = {
             NET = {
 				all_core = { add_core = FRA secede_province = THIS }
 			}    
-            inherit = CAT 
-            inherit = FRA			
             add_accepted_culture = catalan
             add_accepted_culture = dutch
             add_accepted_culture = flemish
