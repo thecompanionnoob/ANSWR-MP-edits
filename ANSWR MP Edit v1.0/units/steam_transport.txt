@@ -10,17 +10,18 @@ steam_transport = {
 	move_sound = steam_move
 	select_sound = steam_selected
 	floating_flag = yes
+	colonial_points = 2
 
 	#Core Abilities
 	priority = 10
 	max_strength = 100
 	default_organisation = 30
-	maximum_speed = 16
+	maximum_speed = 10
 	weighted_value = 4.0
 	can_build_overseas = yes
 
 	#Building Costs
-	build_time = 45
+	build_time = 150
 	build_cost = {
 		steamer_convoy = 5
 	}
@@ -30,13 +31,13 @@ steam_transport = {
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		steamer_convoy = 0.05
+		steamer_convoy = 0.10
 	}
 	
 	#Naval Abilties
-	hull = 5
-	gun_power = 1
-	fire_range = 0.4
+	hull = 2
+	gun_power = 0
+	fire_range = 0
 	evasion = 0
 }
 
