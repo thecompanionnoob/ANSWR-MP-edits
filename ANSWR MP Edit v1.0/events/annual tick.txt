@@ -1,0 +1,209 @@
+country_event = {
+	id = 69024
+	title = "annual tick"
+	desc = "annual tick"
+	
+	is_triggered_only = yes #first trigger happens by decision
+	
+	option = {
+		name = "yeah"
+		
+		country_event = { id = 69024 days = 365 }
+		any_country = {
+			any_owned = {
+				limit = {
+					state_scope = {
+						## Audax Validator "." Ignore_NEXT
+						NOT = { total_pops = 150000 }
+					}
+				}
+				add_core = SMA
+			}
+		}
+		any_country = {
+			any_owned = {
+				limit = {
+					year = 2860
+					state_scope = {
+						## Audax Validator "." Ignore_NEXT
+						NOT = { total_pops = 200000 }
+					}
+				}
+				add_core = SMA
+			}
+		}
+		any_country = {
+			any_owned = {
+				limit = {
+					year = 2885
+					state_scope = {
+						## Audax Validator "." Ignore_NEXT
+						NOT = { total_pops = 300000 }
+					}
+				}
+				add_core = SMA
+			}
+		}
+		any_country = {
+			any_owned = {
+				limit = {
+					year = 2910
+					state_scope = {
+						## Audax Validator "." Ignore_NEXT
+						NOT = { total_pops = 450000 }
+					}
+				}
+				add_core = SMA
+			}
+		}
+		any_country = {
+			any_owned = {
+				limit = {
+					NOT = { year = 2860 }
+					## Audax Validator "." Ignore_NEXT
+					state_scope = { total_pops = 150000 }
+					is_core = SMA
+				}
+				remove_core = SMA
+			}
+		}
+		any_country = {
+			any_owned = {
+				limit = {
+					NOT = { year = 2885 }
+					## Audax Validator "." Ignore_NEXT
+					state_scope = { total_pops = 200000 }
+					is_core = SMA
+				}
+				remove_core = SMA
+			}
+		}
+		any_country = {
+			any_owned = {
+				limit = {
+					NOT = { year = 2910 }
+					## Audax Validator "." Ignore_NEXT
+					state_scope = { total_pops = 300000 }
+					is_core = SMA
+				}
+				remove_core = SMA
+			}
+		}
+		any_country = {
+			any_owned = {
+				limit = {
+					year = 2910
+					## Audax Validator "." Ignore_NEXT
+					state_scope = { total_pops = 450000 }
+					is_core = SMA
+				}
+				remove_core = SMA
+			}
+		}
+		any_country = {
+			any_owned = {
+				limit = {
+					state_scope = {
+						## Audax Validator "." Ignore_NEXT
+						total_pops = 150000
+						## Audax Validator "." Ignore_NEXT
+						NOT = { total_pops = 300000 }
+					}
+				}
+				add_core = MST
+				remove_core = SMA
+			}
+		}
+		any_country = {
+			any_owned = {
+				limit = {
+					year = 2860
+					state_scope = {
+						## Audax Validator "." Ignore_NEXT
+						total_pops = 200000
+						## Audax Validator "." Ignore_NEXT
+						NOT = { total_pops = 400000 }
+					}
+				}
+				add_core = MST
+				remove_core = SMA
+			}
+		}
+		any_country = {
+			any_owned = {
+				limit = {
+					year = 2885
+					state_scope = {
+						## Audax Validator "." Ignore_NEXT
+						total_pops = 300000
+						## Audax Validator "." Ignore_NEXT
+						NOT = { total_pops = 600000 }
+					}
+				}
+				add_core = MST
+				remove_core = SMA
+			}
+		}
+		any_country = {
+			any_owned = {
+				limit = {
+					year = 2910
+					state_scope = {
+						## Audax Validator "." Ignore_NEXT
+						total_pops = 450000
+						## Audax Validator "." Ignore_NEXT
+						NOT = { total_pops = 900000 }
+					}
+				}
+				add_core = MST
+				remove_core = SMA
+			}
+		}
+		any_country = {
+			any_owned = {
+				limit = {
+					NOT = { year = 2860 }
+					## Audax Validator "." Ignore_NEXT
+					state_scope = { total_pops = 300000 }
+					is_core = MST
+				}
+				remove_core = MST
+			}
+		}
+		any_country = {
+			any_owned = {
+				limit = {
+					NOT = { year = 2885 }
+					## Audax Validator "." Ignore_NEXT
+					state_scope = { total_pops = 400000 }
+					is_core = MST
+				}
+				remove_core = MST
+			}
+		}
+		any_country = {
+			any_owned = {
+				limit = {
+					NOT = { year = 2910 }
+					## Audax Validator "." Ignore_NEXT
+					state_scope = { total_pops = 600000 }
+					is_core = MST
+				}
+				remove_core = MST
+			}
+		}
+		any_country = {
+			any_owned = {
+				limit = {
+					year = 2910
+					## Audax Validator "." Ignore_NEXT
+					state_scope = { total_pops = 900000 }
+					is_core = MST
+				}
+				remove_core = MST
+			}
+		}
+		
+	}
+}
+		
