@@ -398,7 +398,7 @@ modern_battleships = {
 #	}
 #}
 carriers = {
-	limit = { aircraft_carriers = 1 }
+	limit = { mobile_capital_ships = 1 }
 	chance = {
 		base = 0
 		modifier = {
@@ -1004,7 +1004,7 @@ combined_arms_planning = {
 }
 #naval_aviation
 naval_aviation = {
-	limit = { naval_aviation = 1 }
+	limit = { experimental_sonar_applications = 1 }
 	chance = {
 		base = 0
 		modifier = {
