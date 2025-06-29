@@ -716,6 +716,10 @@ BES        = "countries/Union Borgonica.txt"
 ITN        = "countries/North of Italy.txt"
 REA        = "countries/Federacion Austriaca.txt"
 
+
+SMA		= "countries/Small State CB.txt"
+MST		= "countries/Medium State CB.txt"
+
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions
 D01        = "countries/D01.txt"
