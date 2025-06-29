@@ -104,7 +104,7 @@ big_ship_competitor = {
 	effect = {
 		
 		}
-	}
+	
 }
 standard_raider_group_doctrine = {
 	limit = { raider_group_doctrine = 1 }
@@ -201,7 +201,7 @@ defensive_attitude = {
 		}
 	}
 	
-	
+	effect = {
 	}
 }
 #modern_naval_doctrine
