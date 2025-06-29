@@ -442,7 +442,7 @@ torpedo_boats = {
 	}
 	effect = {
 		
-		}
+		
 	}
 }
 #steel_steamers
@@ -897,7 +897,7 @@ armoured_turrets = {
 		commerce_raider = {
 				hull = 0.5
 				}
-		} 
+		
 	}
 }
 #main_armament
@@ -1179,7 +1179,7 @@ advanced_fire_control = {
 	}
 	effect = {
 		
-		}
+		
 	}
 }
 #naval_plans
