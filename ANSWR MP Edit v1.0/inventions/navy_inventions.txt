@@ -104,7 +104,7 @@ submarines = {
 		base = 1
 		modifier = {
 			factor = -10
-			NOT = { year = 1885 }
+			NOT = { year = 2885 }
 		}
 		modifier = {
 			factor = 2
