@@ -856,7 +856,7 @@ armour_piercing_projectiles = {
 				gun_power = 1
 				}
 		}		
-	}
+	
 }
 armour_piercing_exploding_projectiles = {
 	limit = { weapon_platforms = 1 }
