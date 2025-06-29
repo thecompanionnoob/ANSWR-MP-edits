@@ -104,7 +104,7 @@ submarines = {
 		base = 1
 		modifier = {
 			factor = -10
-			NOT = { year = 1885 }
+			NOT = { year = 2885 }
 		}
 		modifier = {
 			factor = 2
@@ -397,23 +397,23 @@ modern_battleships = {
 #	effect = {
 #	}
 #}
-carriers = {
-	limit = { aircraft_carriers = 1 }
-	chance = {
-		base = 0
-		modifier = {
-			factor = -100
-			NOT = { invention = military_aviation }
-		}
-		modifier = {
-			factor = 100
-			modern_naval_doctrine = 1
-		}
-	}
-	effect = {
-		activate_unit = carrier
-	}
-}
+#carriers = {
+#	limit = { aircraft_carriers = 1 }
+#	chance = {
+#		base = 0
+#		modifier = {
+#			factor = -100
+#			NOT = { invention = military_aviation }
+#		}
+#		modifier = {
+#			factor = 100
+#			modern_naval_doctrine = 1
+#		}
+#	}
+#	effect = {
+#		activate_unit = carrier
+#	}
+#}
 #fire_control_systems
 optical_rangefinders = {
 	limit = { fire_control_systems = 1 }
@@ -1003,22 +1003,22 @@ combined_arms_planning = {
 	}
 }
 #naval_aviation
-naval_aviation = {
-	limit = { naval_aviation = 1 }
-	chance = {
-		base = 0
-		modifier = {
-			factor = 10
-			aircraft_carriers = 1
-		}
-	}
-	effect = {
-		carrier = {
-			gun_power = 15
-			fire_range = 0.3
-		}
-	}
-}
+#naval_aviation = {
+#	limit = { naval_aviation = 1 }
+#	chance = {
+#		base = 0
+#		modifier = {
+#			factor = 10
+#			aircraft_carriers = 1
+#		}
+#	}
+#	effect = {
+#		carrier = {
+#			gun_power = 15
+#			fire_range = 0.3
+#		}
+#	}
+#}
 
 #the_command_principle
 societal_status = {
