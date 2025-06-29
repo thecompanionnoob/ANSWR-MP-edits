@@ -2293,3 +2293,517 @@ great_war_penalty_cb = {
 	}
 }
 
+#Acquire Small State
+acquire_small_state = {
+	sprite_index = 6
+	is_triggered_only = yes
+	months = 12
+	construction_speed = 0.5
+	
+	badboy_factor = 0.8
+	prestige_factor = 2
+	peace_cost_factor = 0.003
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 1
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
+	truce_months = 60
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+		NOT = {
+			OR = {
+				has_country_flag = neutral
+				THIS = { has_country_flag = neutral }
+			}
+		}
+		THIS = {
+			OR = {
+				NOT = { has_global_flag = ww1_bookmark }
+				has_global_flag = central_victory
+				has_global_flag = allied_victory
+				ai = no
+			}
+		}
+		THIS = {
+			OR = {
+				NOT = { has_country_flag = chinese }
+				has_global_flag = taiping_has_happened
+			}
+		}
+		THIS = {
+			NOT = { has_country_flag = jan_mayen }
+		}
+		OR = {
+			NOT = { THIS = { has_country_modifier = scripted_truce } }
+			NOT = { has_country_modifier = scripted_truce }
+		}
+		any_owned_province = {
+			not = { is_core = THIS }
+			is_colonial = no
+		}
+		OR = {
+			AND = {
+				civilized = yes
+				THIS = {
+					civilized = yes
+				}
+			}
+			AND = {
+				civilized = yes
+				THIS = {
+					civilized = no
+				}
+			}
+			AND = {
+				tag = JAP
+				has_global_flag = mp_1836_literacy_setup
+				THIS = {
+					civilized = yes
+				}
+			}
+			AND = {
+				civilized = no
+				THIS = {
+					civilized = no
+				}
+			}
+		}
+		NOT = {
+			OR = {
+				tag = JAN
+				tag = GHO
+			}
+		}
+		THIS = {
+			NOT = {
+				OR = {
+					tag = JAN
+					tag = GHO
+				}
+			}
+		}
+		OR = {
+			THIS = { ai = no }
+			THIS = { has_country_flag = sub_saharan_africa }
+			civilized = yes
+			NOT = { has_country_flag = sub_saharan_africa }
+		}
+	}
+	
+	allowed_states = {
+		#####AI Border Gore Prevention#####
+		#Tirol-Steiermark
+		OR = {
+			THIS = { ai = no }
+			THIS = {
+				OR = {
+					owns = 619
+					AND = {
+						owns = 768
+						owns = 769
+					}
+				}
+			}
+			NOT = { any_owned_province = { province_id = 613 } }
+		}
+		#Leon-Castilla
+		OR = {
+			THIS = { ai = no }
+			THIS = {
+				OR = {
+					owns = 476
+					owns = 487
+					owns = 494
+				}
+			}
+			NOT = { any_owned_province = { province_id = 477 } }
+		}
+		#Andalucia
+		OR = {
+			THIS = { ai = no }
+			THIS = {
+				OR = {
+					owns = 486
+					owns = 487
+					owns = 514
+					owns = 517
+					owns = 1687
+				}
+			}
+			NOT = { any_owned_province = { province_id = 509 } }
+		}
+		#Kurdistan
+		OR = {
+			THIS = { ai = no }
+			THIS = {
+				OR = {
+					owns = 1108
+					owns = 1121
+					owns = 1127
+				}
+			}
+			NOT = { any_owned_province = { province_id = 1119 } }
+		}
+		#Khuzestan
+		OR = {
+			THIS = { ai = no }
+			THIS = {
+				OR = {
+					owns = 1119
+					owns = 1127
+					owns = 2638
+				}
+			}
+			NOT = { any_owned_province = { province_id = 1135 } }
+		}
+		##################################
+		is_colonial = no
+		any_owned_province = {
+			is_core = SMA
+		}
+		any_owned_province = {
+			not = {	is_core = THIS }
+			is_colonial = no
+		}
+		not = { any_owned_province = { is_capital = yes } }
+		any_owned_province = {
+			OR = {
+				NOT = { is_core = QNG }
+				owner = { has_global_flag = xinhai_ended }
+			}
+		}
+		OR = {
+			#AI and Player can take a neighboring state
+			any_owned_province = { any_neighbor_province = { owned_by = THIS } }
+			
+			#Player can take a neighboring state neighboring a neighboring state
+			AND = {
+				THIS = { ai = no }
+				any_owned_province = {
+					any_neighbor_province = {
+						NOT = { province_id = 3246 }
+						state_scope = { any_owned_province = { any_neighbor_province = { owned_by = THIS } } }
+					}
+				}
+			}
+			
+			#AI/Player can take a coastal state
+			AND = {
+				any_owned_province = { port = yes }
+				THIS = {
+					num_of_ports = 1
+					OR = {
+						is_greater_power = yes
+						is_secondary_power = yes
+						ai = no
+					}
+				}
+			}
+		}
+	}
+	
+	allowed_states_in_crisis = {
+		any_owned_province = {
+			any_neighbor_province = {
+				owner = { tag = THIS }
+			}
+		}
+	}		
+
+	po_demand_state = yes
+	po_gunboat = yes
+	
+	war_name = WAR_TAKE_NAME
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.25
+		}
+	}
+	
+	on_po_accepted = {
+		THIS = {
+			any_owned = {
+				limit = {
+					province_selector = 1
+				}
+				province_selector = -1
+			}
+		}
+	}
+}
+
+#Acquire Medium State
+acquire_mid_state = {
+	sprite_index = 6
+	is_triggered_only = yes
+	months = 12
+	construction_speed = 0.5
+	
+	badboy_factor = 1.2
+	prestige_factor = 2
+	peace_cost_factor = 0.004
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 1
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
+	truce_months = 60
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+		NOT = {
+			OR = {
+				has_country_flag = neutral
+				THIS = { has_country_flag = neutral }
+			}
+		}
+		THIS = {
+			OR = {
+				NOT = { has_global_flag = ww1_bookmark }
+				has_global_flag = central_victory
+				has_global_flag = allied_victory
+				ai = no
+			}
+		}
+		THIS = {
+			OR = {
+				NOT = { has_country_flag = chinese }
+				has_global_flag = taiping_has_happened
+			}
+		}
+		THIS = {
+			NOT = { has_country_flag = jan_mayen }
+		}
+		OR = {
+			NOT = { THIS = { has_country_modifier = scripted_truce } }
+			NOT = { has_country_modifier = scripted_truce }
+		}
+		any_owned_province = {
+			not = { is_core = THIS }
+			is_colonial = no
+		}
+		OR = {
+			AND = {
+				civilized = yes
+				THIS = {
+					civilized = yes
+				}
+			}
+			AND = {
+				civilized = yes
+				THIS = {
+					civilized = no
+				}
+			}
+			AND = {
+				has_country_flag = sub_saharan_africa
+				THIS = {
+					civilized = yes
+				}
+			}
+			AND = {
+				tag = JAP
+				has_global_flag = mp_1836_literacy_setup
+				THIS = {
+					civilized = yes
+				}
+			}
+			AND = {
+				civilized = no
+				THIS = {
+					civilized = no
+				}
+			}
+		}
+		NOT = {
+			OR = {
+				tag = JAN
+				tag = GHO
+			}
+		}
+		THIS = {
+			NOT = {
+				OR = {
+					tag = JAN
+					tag = GHO
+				}
+			}
+		}
+		OR = {
+			THIS = { ai = no }
+			THIS = { has_country_flag = sub_saharan_africa }
+			civilized = yes
+			NOT = { has_country_flag = sub_saharan_africa }
+		}
+	}
+	
+	allowed_states = {
+		#####AI Border Gore Prevention#####
+		#Tirol-Steiermark
+		OR = {
+			THIS = { ai = no }
+			THIS = {
+				OR = {
+					owns = 619
+					AND = {
+						owns = 768
+						owns = 769
+					}
+				}
+			}
+			NOT = { any_owned_province = { province_id = 613 } }
+		}
+		#Leon-Castilla
+		OR = {
+			THIS = { ai = no }
+			THIS = {
+				OR = {
+					owns = 476
+					owns = 487
+					owns = 494
+				}
+			}
+			NOT = { any_owned_province = { province_id = 477 } }
+		}
+		#Andalucia
+		OR = {
+			THIS = { ai = no }
+			THIS = {
+				OR = {
+					owns = 486
+					owns = 487
+					owns = 514
+					owns = 517
+					owns = 1687
+				}
+			}
+			NOT = { any_owned_province = { province_id = 509 } }
+		}
+		#Kurdistan
+		OR = {
+			THIS = { ai = no }
+			THIS = {
+				OR = {
+					owns = 1108
+					owns = 1121
+					owns = 1127
+				}
+			}
+			NOT = { any_owned_province = { province_id = 1119 } }
+		}
+		#Khuzestan
+		OR = {
+			THIS = { ai = no }
+			THIS = {
+				OR = {
+					owns = 1119
+					owns = 1127
+					owns = 2638
+				}
+			}
+			NOT = { any_owned_province = { province_id = 1135 } }
+		}
+		##################################
+		is_colonial = no
+		OR = {
+			AND = {
+				owner = {
+					NOT = { has_country_flag = sub_saharan_africa }
+				}
+				any_owned_province = {
+					is_core = MST
+				}
+			}
+			AND = {
+				owner = {
+					has_country_flag = sub_saharan_africa
+				}
+				any_owned_province = {
+					is_core = SMA
+				}
+			}
+		}
+		any_owned_province = {
+			not = {	is_core = THIS }
+			is_colonial = no
+		}
+		not = { any_owned_province = { is_capital = yes } }
+		any_owned_province = {
+			OR = {
+				NOT = { is_core = QNG }
+				owner = { has_global_flag = xinhai_ended }
+			}
+		}
+		OR = {
+			#AI and Player can take a neighboring state
+			any_owned_province = { any_neighbor_province = { owned_by = THIS } }
+			
+			#Player can take a neighboring state neighboring a neighboring state
+			AND = {
+				THIS = { ai = no }
+				any_owned_province = {
+					any_neighbor_province = {
+						NOT = { province_id = 3246 }
+						state_scope = { any_owned_province = { any_neighbor_province = { owned_by = THIS } } }
+					}
+				}
+			}
+			
+			#AI/Player can take a coastal state
+			AND = {
+				any_owned_province = { port = yes }
+				THIS = {
+					num_of_ports = 1
+					OR = {
+						is_greater_power = yes
+						is_secondary_power = yes
+						ai = no
+					}
+				}
+			}
+		}
+	}
+	
+	allowed_states_in_crisis = {
+		any_owned_province = {
+			any_neighbor_province = {
+				owner = { tag = THIS }
+			}
+		}
+	}		
+
+	po_demand_state = yes
+	po_gunboat = yes
+	
+	war_name = WAR_TAKE_NAME
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.25
+		}
+	}
+	
+	on_po_accepted = {
+		THIS = {
+			any_owned = {
+				limit = {
+					province_selector = 1
+				}
+				province_selector = -1
+			}
+		}
+	}
+}
